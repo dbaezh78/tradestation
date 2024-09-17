@@ -1,0 +1,82 @@
+Tecnologías TradeStation, Inc.
+
+Acuerdo de suscripción no profesional de la Bolsa de Valores de Nueva York
+TradeStation Technologies, Inc. ("Proveedor") acepta poner a su disposición "Datos de mercado" de conformidad con los términos y condiciones establecidos
+en este Acuerdo de suscriptor no profesional de la Bolsa de Valores de Nueva York (este "Acuerdo"). Al aceptar este Acuerdo (como parte de una solicitud en
+línea o cualquier otro proceso de registro), usted ("Suscriptor") acepta cumplir con dichos términos y condiciones. Usted comprende y acepta que este Acuerdo
+tiene la misma fuerza legal vinculante y efecto de un contrato firmado con tinta y entregado en persona. La Sección 1 establece los términos y condiciones de
+aplicabilidad general. La Sección 2 se aplica en la medida en que el Suscriptor reciba y utilice
+Datos de mercado puestos a disposición de conformidad con este Acuerdo como Suscriptor No Profesional.
+
+SECCIÓN 1: TÉRMINOS Y CONDICIONES DE APLICABILIDAD GENERAL
+1. DEFINICIÓN DE DATOS DE MERCADO ­ Para todos los efectos de este Acuerdo, "Datos de Mercado" significa (a) información de última venta e
+información de cotización relacionada con valores que están admitidos para transacciones en la Bolsa de Valores de Nueva York ("NYSE"), (b) dicha
+información de última venta y cotización de bonos y otras acciones, y dicha información de índice y otra información de mercado, que las bolsas de
+valores nacionales registradas en los Estados Unidos y las asociaciones nacionales de valores (cada una, una "SRO Autorizante") puedan poner a
+disposición y que NYSE pueda designar de vez en cuando como "Datos de Mercado"; y (c) toda la información que se derive de cualquiera de dichos datos.
+información.
+2. NATURALEZA PROPIETARIA DE LOS DATOS : El Suscriptor entiende y reconoce que cada SRO Autorizante y Otro Difusor de Datos tiene un interés
+propietario en los Datos de Mercado que se originan o derivan de él o de sus mercados.
+3. CUMPLIMIENTO ­ El Suscriptor comprende y reconoce que (a) las SRO Autorizantes son terceros beneficiarios en virtud de este Acuerdo y (b) las
+SRO Autorizantes o sus representantes autorizados pueden hacer cumplir este Acuerdo, mediante procedimientos legales o de otro modo, contra el
+Suscriptor o cualquier persona que obtenga Datos de Mercado que se pongan a disposición de conformidad con este Acuerdo, salvo lo previsto en
+este Acuerdo. El Suscriptor deberá pagar los honorarios razonables de los abogados en los que incurra cualquier SRO Autorizante para hacer
+cumplir este Acuerdo contra el Suscriptor.
+4. DATOS NO GARANTIZADOS ­ El Suscriptor entiende que ningún SRO Autorizante, ninguna otra entidad cuya información se pone a disposición a
+través de las instalaciones de los SRO Autorizantes (un "Otro Difusor de Datos") y ningún procesador de información que asista a cualquier SRO
+Autorizante u Otro Difusor de Datos a poner a disposición los Datos de Mercado (colectivamente, las "Partes Difusoras") garantiza la puntualidad,
+secuencia, precisión o integridad de los Datos de Mercado o de otra información o mensajes de mercado difundidos por cualquier Parte Difusora. Ni
+el Suscriptor ni ninguna otra persona responsabilizarán de ninguna manera a ninguna Parte Difusora por (a) cualquier inexactitud, error o demora u
+omisión de (i) dichos datos, información o mensaje o (ii) la transmisión o entrega de dichos datos, información o mensaje, o (b) cualquier pérdida o
+daño que surja de u ocasionado por (i) cualquier inexactitud, error, demora u omisión, (ii) incumplimiento o (iii) interrupción en dichos datos,
+información o mensaje, debido a cualquier acto u omisión negligente de cualquier Parte Difusora, a cualquier "fuerza mayor" (por ejemplo, inundación,
+condiciones climáticas extraordinarias, terremoto u otro acto de Dios, incendio, guerra, insurrección, motín, disputa laboral, accidente, acción del
+gobierno, falla de comunicaciones o energía, mal funcionamiento del equipo o software) o cualquier otra causa fuera del control razonable de
+cualquier Parte Difusora.
+
+5. USO PERMITIDO : El suscriptor no debe proporcionar datos de mercado a ninguna otra persona o entidad. Si el suscriptor recibe datos de mercado de
+otra manera que no sea un suscriptor no profesional, deberá utilizarlos únicamente para su uso individual en su negocio.
+6. INTERRUPCIÓN O MODIFICACIÓN DE LA DIFUSIÓN : El suscriptor comprende y reconoce que, en cualquier momento, las SRO autorizadas pueden
+interrumpir la difusión de cualquier categoría de Datos de mercado, pueden cambiar o eliminar cualquier método de transmisión y pueden cambiar
+las velocidades de transmisión u otras características de la señal. Las SRO autorizadas no serán responsables de ninguna responsabilidad, pérdida
+o daño resultante que pueda surgir de ello.
+
+Tecnologías TradeStation, Inc.
+
+7. DURACIÓN; VIGENCIA : Este Acuerdo permanecerá vigente mientras el Suscriptor tenga la capacidad de recibir Datos de Mercado según lo contemplado en
+este Acuerdo. Además, el Proveedor podrá rescindir este Acuerdo en cualquier momento, ya sea por orden de las SRO Autorizantes o de otra manera. Los
+párrafos 2, 3 y 4, y las dos primeras oraciones del Párrafo 8, seguirán vigentes tras la rescisión de este Acuerdo.
+
+8. MISCELÁNEOS ­ Las leyes del Estado de Nueva York regirán este Acuerdo y se interpretará de conformidad con dichas leyes. Este Acuerdo está sujeto a la
+Ley de Bolsa de Valores de 1934, las normas promulgadas en virtud de dicha ley y los planes de industria conjunta celebrados de conformidad con dicha ley.
+Este escrito contiene el acuerdo completo entre las partes con respecto a su objeto. El suscriptor no puede ceder la totalidad o parte de este Acuerdo a
+ninguna otra persona. La persona que acepta este Acuerdo declara y garantiza que tiene capacidad legal para contratar y, si esa persona acepta este
+Acuerdo en nombre de una empresa unipersonal o una empresa, sociedad u otra organización, declara y garantiza que tiene autoridad real para vincular a
+la organización.
+
+SECCIÓN 2: SUSCRIPTOR NO PROFESIONAL
+9. DEFINICIÓN DE SUSCRIPTOR NO PROFESIONAL : "Suscriptor no profesional" significa cualquier persona física que recibe datos de mercado únicamente
+para su uso personal, no comercial, y que no es un "Profesional de Valores". Un "Profesional de Valores" incluye a una persona que, si trabaja en los Estados
+Unidos, es:
+a. registrado o calificado ante la Comisión de Bolsa y Valores (la "SEC"), la Comisión de Comercio de Futuros de Productos Básicos, cualquier agencia
+de valores estatal, cualquier bolsa o asociación de valores, o cualquier mercado o asociación de contratos de futuros o productos básicos.
+
+b. contratado como "asesor de inversiones" según se define ese término en la Sección 202(a)(11) de la Ley de Asesores de Inversiones de
+1940 (ya sea que esté o no registrado o calificado bajo esa Ley), o
+c. empleado por un banco u otra organización exenta de registro bajo las leyes de valores federales y/o estatales para realizar funciones que requerirían
+que él o ella estuviera registrado o calificado si fuera a realizar dichas funciones para una organización no exenta.
+
+Una persona que trabaja fuera de los Estados Unidos será considerada un "Profesional de Valores" si realiza
+las mismas funciones que alguien que sería considerado un "profesional de valores" en los Estados Unidos.
+El suscriptor no puede recibir datos de mercado como "suscriptor no profesional" a menos que el proveedor que proporciona esos datos al
+suscriptor primero determine que el individuo se encuentra dentro de la definición del párrafo 9 de "suscriptor no profesional".
+Abonado."
+10. RECEPCIÓN PERMITIDA ­ El Suscriptor no puede recibir Datos de Mercado del Proveedor, y el Proveedor no puede proporcionar Datos de Mercado al
+Suscriptor, en una base de "Suscriptor No Profesional" a menos que el Proveedor primero determine adecuadamente que el Suscriptor califica como un
+"Suscriptor No Profesional" según se define en el Párrafo 9 y el Suscriptor de hecho califica como un "Suscriptor No Profesional".
+11. USO PERMITIDO ­ Si el Suscriptor es un Suscriptor No Profesional, recibirá Datos de Mercado únicamente para su uso personal y no comercial.
+
+12. CERTIFICACIÓN
+Al aceptar este Acuerdo, el Suscriptor certifica por la presente que se encuentra dentro de la definición del Párrafo 9 de "Suscriptor no profesional" y que la
+información personal y laboral que ha proporcionado al Proveedor
+es veraz y precisa.

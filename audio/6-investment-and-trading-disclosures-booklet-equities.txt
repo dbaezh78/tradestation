@@ -1,0 +1,1192 @@
+Compañía: TradeStation Securities, Inc.
+Folleto de información sobre inversiones y
+operaciones bursátiles: acciones y opciones
+
+Declaración de divulgación de margen
+
+Declaración de divulgación de las tasas del programa de préstamos con margen
+
+Riesgos relacionados con el uso de órdenes stop durante condiciones de mercado volátiles
+
+Divulgación de órdenes de stop de acciones y órdenes de stop limitadas
+
+Divulgación de riesgos en operaciones intradía
+
+Divulgación de riesgos por horario comercial extendido
+
+Divulgación de acciones de centavo
+
+Divulgación de productos complejos
+
+Características y riesgos de las opciones estandarizadas
+
+Declaración especial para los escritores de opciones no cubiertas
+
+Información importante sobre riesgos con respecto al margen pagado en su totalidad o en exceso
+Transacciones de préstamo de valores
+
+Divulgación de requisitos contra el lavado de dinero
+
+Divulgación del plan de continuidad empresarial
+
+Declaración de divulgación de margen Vi TradeStation
+
+Su empresa de corretaje le proporciona este documento para brindarle algunos datos básicos sobre la compra de valores con margen y para advertirle sobre los riesgos que
+implica la negociación de valores en una cuenta de margen. Antes de negociar acciones en una cuenta de margen, debe revisar cuidadosamente el acuerdo de margen
+proporcionado por su empresa. Consulte con su empresa sobre cualquier pregunta o inquietud que pueda tener con sus cuentas de margen.
+
+Cuando compre valores, puede pagarlos en su totalidad o puede pedir prestado parte del precio de compra a su firma de corretaje. Si decide pedir prestado fondos a su
+firma, abrirá una cuenta de margen con ella. Los valores comprados son la garantía de la firma para el préstamo que le otorga. Si el valor de los valores en su cuenta
+
+disminuye, también lo hace el valor de la garantía que respalda su préstamo y, como resultado, la firma puede tomar medidas, como emitir una llamada de margen y/o vender
+valores en cualquiera de sus cuentas mantenidas con el miembro, para mantener el capital requerido en la cuenta.
+
+Es importante que comprenda plenamente los riesgos que implica la negociación de valores con margen. Estos riesgos incluyen lo siguiente:
+
+« Puede perder más fondos de los que deposita en la cuenta de margen. Una disminución en el valor de los valores que se encuentran
+
+Los préstamos adquiridos con margen pueden requerir que usted proporcione fondos adicionales a la empresa que le ha otorgado el préstamo para evitar la
+venta forzada de dichos valores u otros valores en su(s) cuenta(s).
+
+« La empresa puede obligar a la venta de valores en su(s) cuenta(s). Si el capital en su cuenta cae por debajo del límite de mantenimiento
+requisitos de margen según la ley, o los requisitos de la “casa” más altos de la empresa, la empresa puede vender los valores en cualquier
+
+de sus cuentas en la empresa para cubrir la deficiencia de margen. También será responsable de cualquier déficit en el
+cuenta después de dicha venta.
+
+« La empresa puede vender sus valores sin ponerse en contacto con usted. Algunos inversores creen erróneamente que una empresa debe ponerse en contacto con usted.
+para que un llamado de margen sea válido, y que la empresa no puede liquidar valores en sus cuentas para cumplir con el llamado
+a menos que la empresa se haya puesto en contacto con ellos primero. Este no es el caso. La mayoría de las empresas intentarán notificar a sus clientes
+llamadas de margen, pero no están obligados a hacerlo. Sin embargo, incluso si una empresa se ha puesto en contacto con un cliente y le ha proporcionado una
+fecha específica en la que el cliente puede cumplir con un llamado de margen, la empresa aún puede tomar las medidas necesarias para proteger su
+intereses financieros, incluida la venta inmediata de los valores sin previo aviso al cliente.
+
+« Usted no tiene derecho a elegir qué valores de su(s) cuenta(s) se liquidan o venden para cumplir con un llamado de margen.
+
+Debido a que los valores son garantía del préstamo de margen, la empresa tiene el derecho de decidir qué valor vender.
+para proteger sus intereses.
+
+« La empresa puede aumentar sus requisitos de margen de mantenimiento de la “casa” en cualquier momento y no está obligada a proporcionarle
+notificación escrita previa. Estos cambios en la política de la empresa a menudo entran en vigencia de inmediato y pueden resultar en la emisión de
+una llamada de margen de mantenimiento. Su incumplimiento de la llamada puede provocar que el miembro liquide o venda valores en su cuenta.
+cuenta(s).
+
+No tiene derecho a una prórroga del plazo para una llamada de margen. Si bien los clientes pueden disponer de una prórroga del plazo para cumplir con los requisitos de
+margen en determinadas condiciones, el cliente no tiene derecho a la prórroga.
+
+07-19
+
+Programa de préstamos con margen mu o o
+Declaración de divulgación de tarifas y TradeStation
+en _——
+
+Esta divulgación explica la negociación con crédito de margen y describe nuestros términos y condiciones generales para préstamos de margen.
+
+Se le cobrarán intereses por cualquier crédito que se le extienda con el propósito de comprar, negociar o llevar valores, o
+
+Es posible que simplemente desee pedir prestado dinero en efectivo sobre la garantía de sus valores para un propósito no relacionado con la inversión.
+
+TARIFAS
+
+A menos que se acuerde lo contrario con usted, nuestra tasa de interés de margen aplicable, tal como se publica en nuestro sitio web, se utilizará para
+
+determinar su tasa de interés de margen. Estableceremos la tasa de interés de margen, que se ajustará periódicamente, teniendo en cuenta
+
+en cuenta las tasas de interés del mercado en nuestra industria, y dicha determinación no estará necesariamente vinculada a ninguna tasa de interés o índice
+
+de la industria publicados, aunque dichas tasas e índices pueden considerarse cuando realizamos nuestra determinación. Su estado de cuenta indicará la tasa de
+interés específica aplicada, el saldo deudor diario promedio de su cuenta y el cargo de interés real realizado para el período de cobro, y el período del mes calendario
+al que se aplica la tasa de interés. Las tasas anteriores pueden variar en situaciones individuales, según corresponda, a discreción de TradeStation.
+
+AJUSTE DE TARIFA SIN PREVIO AVISO
+
+Su tasa de interés está sujeta a cambios sin previo aviso de acuerdo con los cambios en la Tasa de Interés de Margen (u otra
+
+tasa acordada) y su saldo deudor diario promedio. Si hay un cambio en la Tasa de Interés Marginal (u otra tasa acordada), la tasa de interés aplicada a su cuenta
+aumentará o disminuirá automáticamente en consecuencia para los períodos posteriores a que se realice dicho cambio. La Tasa de Interés Marginal se evalúa y,
+por lo tanto, puede cambiar periódicamente.
+
+PERIODO DE CARGO
+
+El período por el cual se cobran intereses es, por lo general, cada mes calendario. Si el primer y el último día del mes
+
+Si los días hábiles del mes calendario son ambos días hábiles (no fines de semana ni feriados), el período de cobro será del primero al último día del mes, incluidos
+tanto el primero como el último día. Si el último día del mes calendario no es un día hábil (es un fin de semana o feriado), entonces el período de cobro para ese
+mes calendario finalizará el último día hábil de ese mes calendario, y el día siguiente (sea o no un día hábil) será el primer día del período de cobro para el
+siguiente mes calendario.
+
+CÁLCULO DE CARGOS
+
+Al cierre de cada período de cobro, se calcula un cargo por intereses por cada día del período de cobro (1) sumando sus saldos deudores por cada día calendario del
+período de cobro, (2) dividiendo ese total por la cantidad total de días calendario del período de cobro (por ejemplo, 30, 31 o 28), lo que produce su saldo deudor
+diario promedio para el período de cobro, (3) multiplicando ese resultado por la Tasa de Interés Marginal y (4) luego dividiendo ese resultado por 365.
+
+Luego, este cargo por intereses diario para el período de cobro se totaliza para calcular el interés que debe por el período de cobro. Si ha habido un cambio en la
+Tasa de Interés Marginal (u otra tasa acordada) durante el período de cobro, la tasa cobrada será la tasa vigente al final del período de cobro. El cargo por
+
+intereses para el período de cobro vence y es pagadero al cierre del período de cobro.
+
+El monto exacto adeudado se puede obtener de TradeStation si se comunica con nosotros mediante los métodos de contacto adecuados que se describen
+
+en nuestro sitio web o en el Centro de atención al cliente. Si no paga el cargo por intereses al cierre del período de cobro, se agregará al saldo deudor inicial del
+siguiente período de cobro. Nuestros acuerdos de préstamos con margen con nuestros clientes que utilizan margen se rigen por las leyes del estado de
+
+Florida, donde TradeStation mantiene su sede principal de negocios.
+
+VENTAS EN CORTO
+
+Los valores de mercado de los títulos que usted vende “en corto” se ajustan diariamente para fines de cálculo de intereses mediante un proceso llamado
+“valoración al mercado”. Las “ventas en corto contra la caja” se tratan exactamente de la misma manera que las ventas en corto.
+
+El valor de mercado de todos los valores vendidos en descubierto en su cuenta, incluidos los valores vendidos “en descubierto contra la caja”, se consideran un
+débito a los efectos de calcular los cargos por intereses. El valor de mercado de cierre de los valores que se vendieron en descubierto se determina cada día
+hábil y se suma al saldo deudor neto o se resta del saldo acreedor neto a fin de calcular los cargos por intereses.
+
+Si el valor total de mercado de los valores vendidos en descubierto aumenta, entonces el ajuste del débito al saldo neto aumentará en la misma cantidad para el
+cálculo de los cargos por intereses. Por el contrario, si el valor total de mercado de los valores vendidos en descubierto disminuye, entonces el ajuste del débito
+al saldo neto también disminuirá en una cantidad similar para el cálculo de los cargos por intereses. El valor de mercado de los valores “largos” mantenidos en su
+cuenta contra los cuales se realiza una venta en descubierto no se incluye en el ajuste del débito al saldo neto.
+
+cálculo de los cargos por intereses.
+
+Tenga en cuenta: Los ajustes ascendentes o descendentes de los saldos son solo para cálculos de intereses.
+
+
+Programa de préstamos con margen 1] o o
+Declaración de divulgación de tarifas y TradeStation
+PP e
+
+OPCIONES
+
+Las opciones se pueden negociar en una cuenta de margen y se pueden utilizar para cubrir una posición apalancada. Las opciones no se pueden comprar ni
+
+vender a crédito ni se pueden pedir prestadas para realizar compras. No se puede otorgar crédito sobre las opciones que se poseen. Los emisores de opciones,
+
+a excepción de ciertos emisores de opciones de compra cubiertas y ciertos emisores de opciones de venta garantizadas con efectivo, deben cumplir con los requisitos
+de capital inicial y mantenimiento aplicables que establece TradeStation, sujetos a los requisitos mínimos impuestos por la Junta de la Reserva Federal y por las
+bolsas de valores y opciones y otras organizaciones autorreguladoras. Estos requisitos varían según el interés subyacente y la cantidad de contratos
+
+de opciones vendidos. TradeStation, la Junta de la Reserva Federal, las bolsas de valores y opciones y otras organizaciones autorreguladoras pueden aumentar
+estos requisitos en cualquier momento.
+
+Además, TradeStation puede imponer periódicamente ciertos límites de posición y requisitos adicionales de capital inicial y de mantenimiento sin previo aviso. Si
+no se cumplen estos límites y requisitos adicionales, TradeStation cerrará suficientes contratos de opciones para que la cuenta cumpla con ellos.
+
+Además, la negociación de opciones debe ser aprobada previamente por TradeStation. Las transacciones con opciones implican ciertos riesgos y no son apropiadas
+para todos los inversores.
+
+GRAVÁMENES Y GARANTÍAS ADICIONALES
+
+Todos los valores u otros bienes que se encuentren en cualquiera de sus cuentas con nosotros, así como en las cuentas que pueda tener con nuestras filiales, son
+garantía de los saldos deudores de cualquiera de sus cuentas. Estos débitos crean un gravamen para garantizar el monto que se nos debe.
+
+Nos reservamos el derecho de exigir garantías adicionales en cualquier momento que consideremos necesario para nuestra protección. Estas exigencias de
+mantenimiento pueden satisfacerse mediante la entrega inmediata de garantías adicionales aceptables o efectivo.
+
+De acuerdo con los términos de nuestro Acuerdo de Cuenta de Cliente con usted, si el capital en su(s) cuenta(s) cae por debajo de nuestros requisitos mínimos de
+mantenimiento de margen, los valores en su(s) cuenta(s) pueden venderse para reducir o satisfacer su saldo deudor. Puede comunicarse con nosotros
+
+utilizando los métodos de contacto adecuados que se describen en nuestro sitio web o Centro de Clientes para obtener más información sobre estos requisitos.
+Los requisitos mínimos de mantenimiento, así como los requisitos iniciales, están sujetos a cambios sin previo aviso.
+
+LOS PRODUCTOS DE INVERSIÓN NO ESTÁN ASEGURADOS POR LA FDIC, NO ESTÁN GARANTIZADOS POR EL BANCO Y PUEDEN PERDER VALOR.
+
+Folleto de información sobre inversiones y Y TradeStation
+
+operaciones de TradeStation Securities, Inc. — Acciones y opciones
+
+RIESGOS RELACIONADOS CON EL USO DE ÓRDENES DE STOP DURANTE CONDICIONES DE MERCADO VOLÁTILES
+
+Si bien las órdenes stop pueden ser una herramienta útil para los inversores que no pueden controlar regularmente el precio de sus posiciones, las
+órdenes stop no están exentas de riesgos potenciales. Los clientes deben ser conscientes de los siguientes riesgos inherentes al uso de órdenes stop:
+
+1.
+
+Los precios stop no son precios de ejecución garantizados. Una “orden stop” se convierte en una “orden de mercado” cuando se alcanza el
+“precio stop” y las empresas deben ejecutar una orden de mercado completa y rápidamente al precio de mercado actual. Por lo tanto, el precio
+al que finalmente se ejecuta una orden stop puede ser muy diferente del “precio stop” del inversor.
+
+En consecuencia, si bien un cliente puede recibir una ejecución rápida de una orden de stop que se convierte en una orden de mercado,
+durante condiciones de mercado volátiles la ejecución puede ser a un precio significativamente diferente del precio de stop si el mercado se
+mueve rápidamente.
+
+Las órdenes stop pueden activarse por un cambio de precio dramático y de corta duración. Los clientes deben tener en cuenta que, durante
+períodos de condiciones de mercado volátiles, el precio de una acción puede variar significativamente en un corto período de tiempo y
+desencadenar la ejecución de una orden stop (y la acción puede volver a cotizar más tarde al nivel de precio anterior). Los inversores
+deben comprender que, si su orden stop se activa en estas circunstancias, pueden vender a un precio no deseado, aunque el precio de la
+acción pueda estabilizarse durante el mismo día de negociación.
+
+Colocar un “precio límite” en una orden stop puede ayudar a gestionar algunos de estos riesgos. Una orden stop con un “precio límite” (una
+orden “stop limit”) se convierte en una “orden limitada” cuando la acción alcanza el “precio stop”. Una “orden limitada” es una orden para comprar
+o vender un valor por un monto no inferior a un precio específico (es decir, el “precio límite”). El uso de una orden stop limit en lugar de
+
+una orden stop market le brindará al cliente una certeza adicional con respecto al precio que recibirá por la acción. Sin embargo, el
+
+cliente debe tener en cuenta que debido a que los corredores no pueden vender a un precio inferior (o comprar a un precio superior) que el
+precio límite seleccionado, existe la posibilidad de que la orden no se ejecute en absoluto. Los clientes deben considerar seriamente el uso de
+órdenes stop limit en los casos en que prioricen alcanzar un precio objetivo deseado más que obtener una ejecución inmediata
+(independientemente del precio).
+
+Folleto de información sobre inversiones y
+operaciones de TradeStation Securities, Inc. — Acciones y opciones
+
+DIVULGACIÓN DE ÓRDENES DE STOP DE CAPITAL Y ÓRDENES DE STOP LÍMITE
+
+La regla 5350 de la FINRA (órdenes de stop), que se aplica a las órdenes en acciones de NMS y valores de renta variable OTC, define una “orden de stop”
+
+% TradeStation
+
+como una orden de compra (o venta) que se convierte en una orden de mercado para comprar (o vender) cuando se produce una transacción al precio de stop
+o por encima (por debajo). Una “orden stop limit” es una orden de compra (o venta) que se convierte en una orden de mercado para comprar (o vender) al precio
+límite cuando se produce una transacción al precio de stop o por encima (por debajo). Como resultado, la configuración de activación predeterminada para
+
+las órdenes stop y stop limit colocadas en valores de renta variable en la plataforma de negociación TradeStation es Single Trade Tick (STT), por lo que se
+debe imprimir un tick de transacción dentro de su precio de stop para activar su stop. Por lo tanto, al colocar una orden stop o stop limit en la plataforma de
+
+negociación TradeStation con la configuración de activación predeterminada sin cambios, está colocando una “orden stop” u “orden stop limit” según la
+
+definición de la FINRA.
+
+La plataforma de operaciones TradeStation ofrece la posibilidad de elegir métodos alternativos de activación de órdenes. Al cambiar el tipo de activación de
+
+Tick de operación única (STT) a un método de activación alternativo, ya no está colocando una "orden de stop" o una "orden de stop".
+
+orden limitada” según la definición de FINRA, sino que colocará una orden stop + modificador o una orden stop limit + modificador donde el modificador es el
+
+tipo de activador alternativo. El tipo de activador utilizado para su orden se registra y se muestra en la plataforma para su conveniencia (por ejemplo, en la
+
+columna Opciones avanzadas de la pantalla Trade Manager — Orders). A continuación, se proporciona una descripción de cada tipo de activador disponible:
+
+Tipo de disparador
+
+Descripción
+
+Tick de operación única (STT)
+
+Se debe imprimir un tick comercial dentro de su precio de stop para activar su stop.
+
+Tick de operación única dentro de NBBO (STTN)
+
+Se debe imprimir un tick comercial dentro de la Mejor Oferta o Demanda Nacional dentro de su precio de stop para activar su stop.
+
+Tick de oferta/demanda único (SBA)
+
+Ordenes de compra/cobertura: se debe imprimir un tick de compra dentro de su precio de stop para activar su stop.
+
+Tick de oferta/demanda único (SAB)
+
+Ordenes de compra/cobertura: se debe imprimir un tick de oferta dentro de su precio de stop para activar su stop.
+
+Tick de comercio doble (DTT)
+
+Se deben imprimir dos ticks comerciales consecutivos dentro de su precio de stop para activar su stop.
+
+Tick de operación doble dentro de NBBO (DTTN) Se deben imprimir
+
+os ticks de operación consecutivos dentro de la mejor oferta o demanda nacional dentro de su precio de stop para activar su stop.
+
+Tick de doble oferta/demanda (DBA)
+
+Ordenes de compra/cobertura: se deben imprimir dos ticks de compra consecutivos dentro de su precio de stop para activar su stop.
+
+Doble tick de oferta y demanda (DAB)
+
+Ordenes de compra/cobertura: Se deben imprimir dos ticks de oferta consecutivos dentro de su precio de stop para activar su stop.
+
+Tick de comercio doble (TTT)
+
+Se deben imprimir dos ticks comerciales dentro de su precio de stop para activar su stop.
+
+Tick de comercio doble (TTTN)
+
+Se deben imprimir dos ticks comerciales dentro de la Mejor Oferta o Demanda Nacional dentro de su precio de stop para activar su stop.
+
+Tick de oferta/demanda dos veces (TBA)
+
+Ordenes de compra/cobertura: Se deben imprimir dos ticks de compra dentro de su precio de stop para activar su stop.
+
+Dos veces el precio de compra/venta (TAB)
+
+Ordenes de compra/cobertura: se deben imprimir dos ticks de oferta dentro de su precio de stop para activar su stop.
+
+
+E] . e
+Divulgación de riesgos en operaciones intradía y TradeStation
+
+Debe tener en cuenta los siguientes puntos antes de emprender una estrategia de negociación intradía. A los efectos de este aviso, una “estrategia
+de negociación intradía” significa una estrategia de negociación general caracterizada por la transmisión regular por parte de un cliente de órdenes
+
+intradía para efectuar transacciones de compra y venta del mismo valor o valores.
+
+El day trading puede ser extremadamente riesgoso. El day trading generalmente no es apropiado para alguien con recursos limitados y
+
+experiencia limitada en inversión o trading y baja tolerancia al riesgo. Debe estar preparado para perder todos los fondos que utilice para el day
+trading. En particular, no debe financiar actividades de day trading con ahorros para la jubilación, préstamos estudiantiles, segundas hipotecas, fondos
+de emergencia, fondos reservados para fines como educación o compra de vivienda, o fondos necesarios para cubrir sus gastos de vida. Además,
+cierta evidencia indica que una inversión de menos de $50,000 perjudicará significativamente la capacidad de un day trader para obtener ganancias.
+
+Por supuesto, una inversión de $50,000 o más no garantizará de ninguna manera
+éxito.
+
+Tenga cuidado con las afirmaciones sobre grandes ganancias con el day trading. Debe desconfiar de los anuncios u otras declaraciones que enfatizan
+el potencial de grandes ganancias con el day trading. El day trading también puede generar grandes e inmediatas pérdidas financieras.
+
+El day trading requiere conocimientos de los mercados de valores. El day trading requiere un conocimiento profundo de los mercados de valores
+y de las técnicas y estrategias de negociación. Para intentar obtener beneficios mediante el day trading, debe competir con operadores
+profesionales autorizados empleados por empresas de valores. Debe tener la experiencia adecuada antes de dedicarse al day trading.
+
+El day trading requiere conocimiento de las operaciones de una empresa. Debe estar familiarizado con las prácticas comerciales de una
+
+empresa de valores, incluido el funcionamiento de los sistemas y procedimientos de ejecución de órdenes de la empresa. En determinadas condiciones
+de mercado, puede resultarle difícil o imposible liquidar una posición rápidamente a un precio razonable. Esto puede ocurrir, por ejemplo, cuando
+
+el mercado de una acción cae repentinamente o si la negociación se detiene debido a eventos noticiosos recientes o una actividad comercial inusual.
+Cuanto más volátil sea una acción, mayor será la probabilidad de que surjan problemas al ejecutar una transacción. Además de los riesgos
+
+normales del mercado, es posible que experimente pérdidas debido a fallas del sistema.
+
+El day trading generará comisiones sustanciales, incluso si el costo por operación es bajo. El day trading implica operaciones agresivas y, por lo general,
+pagará comisiones por cada operación. Las comisiones diarias totales que pague por sus operaciones aumentarán sus pérdidas o reducirán
+significativamente sus ganancias. Por ejemplo, suponiendo que una operación cuesta $5 y se realizan un promedio de 30 transacciones cada día de
+negociación, un inversor necesitaría generar una ganancia anual de aproximadamente $38,000 solo para cubrir los gastos de comisión.
+
+La negociación intradía con margen o la venta en corto pueden generar pérdidas que superen su inversión inicial. Cuando realiza operaciones intradía
+con fondos prestados de una empresa o de otra persona, puede perder más que los fondos que puso en riesgo originalmente. Una disminución en
+
+el valor de los valores que se compran puede obligarlo a proporcionar fondos adicionales a la empresa para evitar la venta forzada de esos valores
+
+u otros valores en su cuenta. La venta en corto como parte de su estrategia de negociación intradía también puede generar pérdidas extraordinarias,
+porque es posible que tenga que comprar una acción a un precio muy alto para cubrir una posición corta.
+
+Posibles requisitos de registro. Las personas que brindan asesoramiento en materia de inversiones a terceros o que administran cuentas de valores
+para terceros pueden tener que registrarse como asesores de inversiones conforme a la Ley de Asesores de Inversiones de 1940 o como corredores
+o distribuidores conforme a la Ley de Intercambio de Valores de 1934. Dichas actividades también pueden generar requisitos de registro estatales.
+
+07-19
+
+
+L, o e
+Divulgación de riesgos por horario comercial extendido y TradeStation
+
+Debe considerar cuidadosamente los siguientes riesgos si planea operar con su cuenta de acciones fuera del horario normal de mercado (el horario normal de
+mercado es de 9:30 a. m. a 4:00 p. m., hora del este de EE. UU.). Estos riesgos tienden a ser mayores antes de la apertura del mercado y después del cierre del
+mercado que durante el horario normal de mercado:
+
+RIESGO DE MENOR LIQUIDEZ
+
+La liquidez se refiere a la capacidad de los participantes del mercado para comprar y vender valores. Generalmente, cuantas más órdenes estén disponibles en un
+mercado, mayor será la liquidez. La liquidez es importante porque con mayor liquidez es más fácil para los inversores comprar o vender valores y, como resultado,
+es más probable que paguen o reciban un precio competitivo por los valores comprados o vendidos. Puede haber menor liquidez en las operaciones fuera del
+horario laboral en comparación con las horas normales del mercado. Como resultado, su orden puede ejecutarse solo parcialmente, si es que se ejecuta.
+
+RIESGO DE MAYOR VOLATILIDAD
+
+La volatilidad se refiere a los cambios de precio que experimentan los valores durante su negociación. Por lo general, cuanto mayor es la volatilidad de un
+
+valor, mayores son las oscilaciones de su precio. Puede haber mayor volatilidad en las operaciones fuera del horario laboral que en el horario laboral normal.
+Como resultado, su orden puede ejecutarse solo parcialmente, o no ejecutarse en absoluto, o puede recibir un precio inferior en las operaciones fuera del horario
+laboral que durante el horario laboral normal.
+
+RIESGO DE CAMBIO DE PRECIOS
+
+Los precios de los valores negociados en el horario extendido pueden no reflejar los precios al final del horario regular del mercado o al abrir el día siguiente.
+Como resultado, usted puede recibir un precio en el horario extendido que sea inferior al que recibiría durante el horario regular del mercado.
+
+RIESGO DE MERCADOS NO VINCULADOS
+
+Dependiendo del sistema de negociación en horario extendido o de la hora del día, los precios que se muestran en un sistema de negociación en horario extendido
+en particular pueden no reflejar los precios en otros sistemas de negociación en horario extendido que operen simultáneamente y que negocien con los mismos
+valores. En consecuencia, es posible que reciba un precio en un sistema de negociación en horario extendido que sea inferior al que recibiría en otro sistema de
+
+negociación en horario extendido,
+
+RIESGO DE LOS ANUNCIOS DE NOTICIAS
+
+Normalmente, los emisores hacen anuncios de noticias que pueden afectar el precio de sus valores después del horario regular del mercado.
+
+De manera similar, con frecuencia se anuncia información financiera importante fuera del horario de mercado habitual. En las operaciones fuera del horario
+
+de mercado, estos anuncios pueden ocurrir durante las operaciones y, si se combinan con una menor liquidez o una mayor volatilidad, pueden causar un efecto
+exagerado e insostenible en el precio de un valor.
+
+RIESGO DE PROPAGACIÓN MÁS AMPLIA
+
+El diferencial se refiere a la diferencia de precio entre el precio al que se puede comprar un valor y el precio al que se puede vender. Una menor liquidez y una
+mayor volatilidad en las operaciones fuera de horario pueden dar lugar a diferenciales más amplios de lo normal para un valor en particular.
+
+RIESGO DE FALTA DE CÁLCULO O DIFUSIÓN DEL VALOR DEL ÍNDICE SUBYACENTE
+
+Riesgo de falta de cálculo o divulgación del valor del índice subyacente o del valor indicativo intradía (“IV”). En el caso de determinados productos derivados
+
+de valores, es posible que no se calcule ni se difunda públicamente un valor del índice subyacente actualizado o un IIV durante el horario de negociación extendido.
+Dado que el valor del índice subyacente y el IIV no se calculan ni se divulgan ampliamente durante las sesiones de negociación en horario extendido, un
+
+inversor que no pueda calcular los valores implícitos de determinados productos derivados de valores en esas sesiones puede estar en desventaja frente a los
+profesionales del mercado. Además, los valores subyacentes a los índices o carteras no se negociarán con la misma regularidad con la que lo hacen durante
+
+el horario de negociación habitual o pueden no negociarse en absoluto. Esto puede provocar que los precios durante el horario de negociación extendido no reflejen
+los precios de esos valores cuando se abren para su negociación.
+
+Folleto de información sobre inversiones y Y TradeStation
+
+operaciones de TradeStation Securities, Inc. — Acciones y opciones
+
+DIVULGACIÓN SOBRE ACCIONES DE PENNY
+
+El término “penny stock” se refiere generalmente a valores especulativos de bajo precio (por debajo de los 5 dólares) de empresas muy pequeñas. Si bien
+las penny stocks generalmente cotizan en mercados extrabursátiles, como en el OTC Bulletin Board o en Pink Sheets, también pueden negociarse en bolsas
+de valores, incluidas bolsas de valores extranjeras. Además, las penny stocks incluyen los valores de ciertas empresas privadas sin un mercado de
+negociación activo.
+
+RIESGOS
+
+Invertir en valores de bajo precio es especulativo y conlleva un riesgo considerable. Los valores de bajo precio suelen presentar una alta volatilidad de
+precios y movimientos erráticos del mercado. A menudo, cuando los inversores compran o venden estos valores, afectan significativamente el precio
+cotizado. En algunos casos, la liquidación de una posición en un valor de bajo precio puede no ser posible dentro de un período de tiempo razonable
+y está sujeta a tarifas adicionales.
+
+Puede resultar difícil valorar adecuadamente una inversión en un valor de bajo precio. Es posible que no se disponga de información fiable sobre los
+emisores de valores de bajo precio, sus perspectivas o los riesgos asociados a la inversión en dichos valores. Algunos emisores de valores de bajo precio
+
+no tienen la obligación de proporcionar información a los inversores. Algunos emisores registran valores en la Comisión de Bolsa y Valores (SEC) y pueden
+proporcionar informes periódicos a los inversores. Sin embargo, es posible que a otros no se les exija mantener dicho registro o proporcionar dichos informes.
+Los valores pueden seguir comercializándose si los emisores incumplen su obligación de informar a la SEC u otras agencias reguladoras federales o
+estatales.
+
+La Comisión de Bolsa y Valores (SEC) no ha aprobado ni desaprobado las acciones de centavos. La SEC no se ha pronunciado sobre la imparcialidad, los
+méritos, la precisión o la idoneidad de la información contenida en ningún prospecto ni ninguna otra información proporcionada por un emisor, un corredor o un
+distribuidor de acciones de centavos.
+
+La negociación de valores de bajo precio está sujeta a riesgos significativos, mayores requisitos regulatorios y de supervisión, y tarifas adicionales.
+
+En general, una acción de centavo es un valor que:
++ Tiene un precio inferior a cinco dólares;
++ No se comercializa en una bolsa de valores nacional ni en el NASDAQ;
++ Puede aparecer en las “hojas rosas” o en el tablón de anuncios de medicamentos de venta libre (OTC);
+
+» Es emitido por una empresa que tiene menos de $5 millones en activos tangibles netos y ha estado en el negocio menos de
+tres años, por una empresa que tenga menos de $2 millones en activos tangibles netos y haya estado en el negocio durante al menos
+tres años, o por una empresa que tenga ingresos de $6 millones durante 3 años
+
+TARIFAS DE LIQUIDACIÓN PARA VALORES NO ELEGIBLES PARA DTC
+
+Por diversas razones, ciertos valores de bajo precio no son elegibles para la DTC o se les ha revocado su elegibilidad. Como resultado, la liquidación de estas
+posiciones físicas puede conllevar importantes cargos de transferencia, incluidos cargos por ejecución, cargos por DTC, cargos por depósito, cargos por
+ventanilla de Nueva York y cargos por agente de transferencia. Estos cargos, que pueden variar y ser sustanciales, aumentan el costo de
+
+compensación y ejecución.
+
+Los clientes que comercian con valores que no son elegibles para DTC son responsables de estos cargos, que pueden ser hasta 10 veces el valor de la
+operación. Las órdenes que requieren ejecuciones con múltiples contrapartes darán lugar a tarifas de liquidación por cada transacción por separado.
+TradeStation (“La Empresa”) no aumenta ninguna de estas tarifas antes de que se transfieran a los clientes. Es posible que la Empresa no reciba
+notificación de dichas tarifas hasta varias semanas después de la operación, por lo que los cargos de transferencia pueden no cobrarse inmediatamente a la
+cuenta de un cliente después de una operación con valores que no son elegibles para DTC. TradeStation se reserva el derecho de retener fondos en la
+cuenta de un cliente a la espera de la posible evaluación de las tarifas asociadas con la negociación de valores de bajo precio. Es su responsabilidad
+investigar el estado de elegibilidad de un valor de bajo precio antes de negociarlo.
+
+Se recomienda encarecidamente que se comunique con la empresa específica cuyo capital desea negociar para confirmar su elegibilidad.
+
+¿PUEDO NEGOCIAR VALORES NO ELEGIBLES PARA DTC EN TRADESTATION?
+
+Sí. Sin embargo, tenga en cuenta que la negociación de dichos valores puede dar lugar a comisiones elevadas que superan diez veces el valor de la operación.
+
+Si su orden requiere la intervención de varias partes contrarias para su ejecución, se aplicará a su cuenta un conjunto de comisiones por separado para
+cada una de estas transacciones.
+
+¿TRADESTATION INFORMA A LOS CLIENTES SOBRE LOS VALORES NO ELEGIBLES PARA DTC ANTES DE LA NEGOCIACIÓN?
+
+TradeStation recibe una lista de valores que no son elegibles para DTC; sin embargo, la lista no abarca todo el mercado de valores que no son elegibles para
+
+DTC. Usted, como cliente de TradeStation, debe determinar la elegibilidad de estos valores antes de negociar valores OTC Bulletin Board, Pink Sheet y
+otros valores de bajo precio,
+
+COMPRAS FORZOSAS
+
+Su venta de un valor a bajo precio puede revertirse con una compra forzada ejecutada al precio de mercado actual, lo que genera posibles pérdidas grandes.
+
+Folleto de información sobre inversiones y
+
+1) e o
+operaciones de TradeStation Securities, Inc. — Acciones y opciones y TradeStation
+
+La National Securities Clearing Corporation (NSCC), una subsidiaria de DTC, aplica un “Requisito de lliquidez” a la firma de
+compensación cuando un cliente vende más del 25% del volumen diario promedio de operaciones de un valor durante los
+últimos 20 días hábiles consecutivos. El Requisito de lliquidez es un depósito (“cargo”) que la firma de compensación debe
+realizar en determinadas circunstancias. El monto de este requisito depende del porcentaje del ADV (Valor Diario Promedio)
+representado por las ventas abiertas. El requisito tiene muy poca relación con el valor de la operación y generalmente es al
+menos diez veces el valor de la operación y puede ser tan alto como cien veces el valor de la operación, o incluso más. Este
+requisito se aplica incluso si el cliente posee las acciones e incluso cuando la Firma tiene estas acciones en posición larga en
+
+su cuenta DTC. Si un cliente crea un Cargo de lliquidez de NSCC mayor a $50,000, la operación o las operaciones infractoras
+pueden comprarse en T+1, sin previo aviso al cliente. Si un cliente crea un segundo Cargo llíquido NSCC mayor a $50,000 en un
+periodo de noventa días, además del pago inicial, la cuenta del cliente puede estar sujeta a cierre por noventa días.
+
+Divulgaciones de productos complejos e importantes 7 o e
+Información y TradeStation
+
+Invertir implica riesgos, incluida la posible pérdida de capital. Es importante que comprenda los riesgos que pueden aplicarse a los valores en los que se realizan
+
+las transacciones. Cada valor puede tener sus propios riesgos especiales. Este documento, puesto a su disposición por TradeStation Securities, Inc.
+(TradeStation”), detalla los riesgos de los productos que pueden considerarse complejos. Los productos complejos pueden no ser apropiados para la mayoría de los
+inversores.
+
+Un producto complejo es un título o una estrategia de inversión con características complejas o intrincadas, similares a las de los derivados, que presentan un
+riesgo adicional para los inversores minoristas. La complejidad de estos productos añade una dimensión adicional al proceso de decisión de inversión
+
+más allá de los fundamentos de las fuerzas del mercado y puede dificultar que un inversor minorista comprenda las características esenciales del producto
+
+y sus riesgos.
+
+Características de los productos complejos:
+
++ Cualquier producto con múltiples características que afecten su retorno de inversión de manera diferente en diversos escenarios es
+potencialmente complejo.
+
++ Productos que tienen incorporados componentes o características derivados o complicados.
+
++ Productos con contingencias en ganancias o pérdidas, por ejemplo, aquellos productos que dependen de múltiples mecanismos,
+como la ocurrencia simultánea de varias condiciones en diferentes clases de activos.
+
++ Productos con límites o fórmulas complicadas.
+
++ Productos que tienen una estructura que produce diferentes expectativas de rendimiento según los movimientos de precios
+de otros productos o índices financieros.
+
++ Productos que están ligados al desempeño de los mercados (volatilidad, etc.).
+
++ Los productos que proporcionan exposición inversa o apalancada o productos con retornos apalancados que se restablecen diariamente tienen
+estructuras que pueden conducir a un rendimiento significativamente diferente de las expectativas.
+
++ Productos con múltiples características que pueden afectar el retorno de su inversión de manera diferente en distintos escenarios.
+
++ Productos que prevén diferentes rendimientos establecidos a lo largo de su vida útil.
+
++ Productos que puedan tener un cambio en el rendimiento del activo de referencia con un impacto desproporcionado en
+el reembolso del capital o el pago de la rentabilidad.
+
++ Productos con protección principal condicional o parcial, o que puede ser retirada por el patrocinador del producto.
+ante la ocurrencia de ciertos acontecimientos.
+
++ Productos que representan un interés en, o están garantizados por, un conjunto de cuentas por cobrar u otros activos financieros que son
+continuamente sujeto a prepago.
+
++ Productos que representan propiedad sobre bienes inmuebles.
+
++ Productos que sean considerados deuda y titulos rescatables o convertibles.
+
++ Productos que no se comercializan activamente, que pueden presentar problemas de liquidez y valoración.
+
++ Productos que tienen requisitos complejos de declaración de impuestos. (Consulte a un profesional en materia de impuestos).
+
++ Productos que ofrecen estrategias vinculadas a activos digitales, como ETFs de Bitcoin al contado o futuros de criptomonedas.
+
+Los siguientes son algunos ejemplos de productos complejos que tienen una o más de las características identificadas anteriormente:
+
++ Productos cotizados en bolsa (ETP), incluidas las notas cotizadas en bolsa (ETN) o los fondos cotizados en bolsa
+(ETF), ETN/ETF inversos, direccionales o apalancados, ETF de índice
+
++ Productos titulizados
+
++ Títulos respaldados por activos
+
++ Fideicomisos de inversión inmobiliaria (REIT)
+
++ Fondos de inversión unitarios (UIT)
+
++ Notas/productos estructurados
+
++ Productos de participación directa (DPP)
+
++ Sociedades de adquisición con fines especiales (SPAC)
+
+* Billetes convertibles inversos
+
+Divulgaciones de productos complejos e importantes 7 o e
+Información y TradeStation
+
+gs
+» Acciones ordinarias rescatables
+
+» Valores vinculados a futuros de materias primas
+» Notas con capital protegido
+» Valores convertibles inversos (Reverse Convertibles)
+
+» Garantiías/Derechos
++ Acciones preferentes/convertibles
+
+Esta divulgación no identifica ni divulga todos los productos complejos ni todos los riesgos que conlleva. Al igual que con todas sus inversiones
+comprado o vendido a través de TradeStation, usted debe tomar su propia determinación sobre si una inversión en cualquier activo en particular
+La seguridad es coherente con sus objetivos de inversión, tolerancia al riesgo y situación financiera. TradeStation no
+
+Recomendar o respaldar cualquier inversión poniéndola a disposición de sus clientes. Debe revisar cuidadosamente las divulgaciones de riesgos.
+contenida en los materiales de oferta y prospectos de los valores en los que planea negociar o invertir. Si corresponde, los prospectos
+
+o se proporcionarán prospectos resumidos en una cubierta separada en el momento o antes de la transacción inicial.
+
+Los prospectos y los prospectos resumidos incluyen información específica que incluye, entre otros, los objetivos de inversión,
+
+riesgos, cargos y gastos.
+
+TradeStation monitorea las condiciones del mercado y las cuentas de sus clientes en un intento por gestionar una variedad de riesgos, cumplir con las leyes
+aplicables y preservar su capital. Al hacerlo, TradeStation puede ejercer todos y cada uno de los derechos establecidos en el acuerdo del cliente,
+
+incluidos, entre otros, la restricción de cuentas y la liquidación de posiciones en cuentas, a través de cualquier medio.
+
+disponible, sin previo aviso a sus clientes.
+
+Los datos de rendimiento representan el rendimiento pasado, no son garantía de resultados futuros y pueden no proporcionar una base adecuada para
+evaluar el potencial de rendimiento de un producto en condiciones de mercado o ciclos económicos variables. El rendimiento actual puede ser mayor o
+menor que los datos de rendimiento proporcionados. El rendimiento de la inversión y el valor principal de una inversión
+fluctúan de modo que las acciones de un inversor, al ser rescatadas, pueden valer más o menos que su costo original.
+
+El valor de los productos complejos puede fluctuar de una manera que es difícil de entender en relación con las inversiones tradicionales.
+
+Los productos complejos requieren una comprensión profunda de la economía financiera y la capacidad de aplicar métodos estocásticos sofisticados.
+Técnicas de valoración. Debe considerar cuidadosamente la liquidez, los objetivos de inversión, los riesgos, los cargos y los gastos de un producto.
+Antes de invertir.
+
+Debe comprender las características del producto y cualquier activo de referencia (cuando corresponda), incluido su desempeño histórico y volatilidad y
+correlación con clases de activos específicos; cualquier interrelación entre múltiples activos de referencia; la probabilidad de que el emisor pueda
+solicitar el producto complejo; y el alcance y la limitación de cualquier
+
+Protección principal. Debe tener conocimiento sobre todos estos aspectos, así como sobre cómo se espera que funcione el producto en condiciones
+normales de mercado, los riesgos y los posibles beneficios, los escenarios en los que el producto puede tener un rendimiento deficiente y los costos.
+
+del producto, incluida cualquier estructura de pago fundamental y la naturaleza de la garantía subyacente o un índice de referencia o
+activo.
+
+Debido a la baja liquidez, volatilidad u otras condiciones, algunos valores pueden tener requisitos de margen especiales. Valores que
+
+Los requisitos de margen especiales pueden implicar un requisito más alto que lo normal y pueden no ser aptos para margen. TradeStation puede
+establecer o cambiar los requisitos de margen para cualquier valor en cualquier momento. Puede ver una lista de valores que tienen requisitos de margen
+más altos que lo normal aquí:
+
+https: //clientcenter tradestation.com/support/myaccount/specialMargin/specialmargin.aspx.
+
+PRODUCTOS NEGOCIADOS EN BOLSA (ETP), NOTAS NEGOCIADAS EN BOLSA (ETN) Y FONDOS NEGOCIADOS EN BOLSA
+(ETF)
+
+Los ETP, como los fondos cotizados en bolsa (ETF), siguen el rendimiento de los activos subyacentes (como acciones o
+
+criptomonedas), índices (como el S£P 500) o puntos de referencia (como el precio del oro). Los ETP están sujetos a las fluctuaciones del mercado.
+volatilidad y los riesgos de sus inversiones y/o estrategias subyacentes. Los ETP están sujetos a comisiones de gestión y otras
+
+Gastos que reducen el rendimiento. Los ETP no son fondos mutuos. A diferencia de los fondos mutuos, las acciones de ETP se compran y venden a un precio razonable.
+precio de mercado, que puede ser mayor o menor que el valor del activo neto (NAV) (o valor indicativo en el caso de bonos negociables en bolsa) y
+
+no son canjeables individualmente del fondo.
+
+Cada producto cotizado en bolsa (ETP) tiene sus propios riesgos especiales, estrategias de inversión, tarifas de gestión y gastos,
+
+que se detallan en el prospecto de un ETP u otros materiales de oferta. Antes de tomar una decisión de inversión, los inversores
+
+deben obtener y revisar cuidadosamente los prospectos de los emisores y/o sus agentes externos que distribuyen y ponen a disposición los
+prospectos.
+
+Divulgaciones de productos complejos e importantes 7 o e
+Información y TradeStation
+
+Los índices no están gestionados, no generan gastos ni comisiones de gestión y no se puede invertir en ellos directamente. La rentabilidad de un ETP de índice suele ser diferente
+a la del índice que sigue debido a las comisiones, los gastos y los errores de seguimiento.
+
+Si bien algunos ETP pueden brindar diversificación, otros no. Las estrategias de diversificación no garantizan ganancias ni protegen contra pérdidas en mercados en declive.
+
+Los ETP que apuntan a un universo pequeño de valores, como una región específica o un sector de mercado, generalmente están sujetos a mayores
+volatilidad del mercado y los riesgos específicos asociados con ese sector, región o enfoque.
+
+Los ETF basados en criptomonedas, como los ETF de bitcoin al contado, pueden ser extremadamente volátiles, ¡líquidos y pueden verse afectados significativamente por los
+precios de las criptomonedas subyacentes, los acontecimientos mundiales, las regulaciones gubernamentales y las condiciones económicas, independientemente del
+
+tiempo durante el que se mantengan las acciones. Muchos ETF basados en criptomonedas utilizan el mismo custodio y agente de ejecución principal y están sujetos al riesgo
+de quiebra comercial. Los ETF basados en criptomonedas conllevan muchos de los mismos riesgos subyacentes que poseer criptomonedas, incluidos, entre otros, la
+manipulación, el fraude y la ciberseguridad.
+
+Los ETP de materias primas, incluidos los ETN vinculados a materias primas, son productos complejos que conllevan un alto nivel de riesgo. Pueden ser extremadamente
+volátiles, ilíquidos y pueden verse afectados significativamente por los precios de las materias primas subyacentes, los acontecimientos mundiales, los controles de importación,
+competencia mundial, regulaciones gubernamentales y condiciones económicas, independientemente del tiempo durante el cual se mantengan las acciones.
+
+Los ETP vinculados a futuros de materias primas incluyen riesgos adicionales, como la naturaleza especulativa de las inversiones en futuros y el riesgo de que el precio de un
+ETP vinculado a futuros de materias primas no siga directamente el precio al contado de la materia prima en sí y pueda tener un comportamiento diferente al de este. Los
+ETP vinculados a futuros de materias primas también pueden verse afectados si persiste una condición específica en el mercado de una materia prima determinada, como el
+contango o el retroceso.
+
+El contango se produce cuando el precio del contrato de futuros de una materia prima es superior a su precio al contado. El contango se produce cuando los inversores están
+dispuestos a pagar una prima hoy para estar seguros del precio que obtendrán en el futuro. Cuando los contratos de futuros con fechas de entrega más lejanas son más caros, el
+ETP tendrá que convertir su posición en un contrato más caro (es decir, el contrato que se vende tiene
+
+un precio inferior al precio por el que se lo reemplaza). Si el mercado de un producto básico en particular sufre un contango fuerte y persistente, un ETP de
+productos básicos que compre contratos de futuros sobre ese producto básico puede tener un desempeño peor que el precio al contado del producto básico a
+
+lo largo del tiempo, ya que los contratos de menor valor y a corto plazo se reemplazan constantemente por contratos de mayor valor y a más largo plazo.
+
+La contango es lo opuesto a la contracción. La contango ocurre cuando el precio del contrato de futuros de un producto básico es menor que su precio al contado. Cuando los
+contratos de futuros con fechas de entrega más lejanas son menos costosos, el ETP convertirá su posición en un contrato menos costoso (es decir, el contrato que se vende tiene
+un precio más alto que el contrato por el que se reemplaza). Si la contango persiste en el mercado de un producto básico en particular, un ETP de productos
+
+básicos que compre contratos de futuros sobre ese producto básico puede superar el precio al contado del producto básico a lo largo del tiempo, ya que los contratos de
+
+mayor valor y a corto plazo se reemplazan sistemáticamente por contratos de menor valor y a más largo plazo.
+
+Los ETP complejos, incluidos los ETP de materias primas y los bonos negociados en bolsa (ETN), que ofrecen exposición apalancada o inversa, no se comportan de la forma en
+que la mayoría de los inversores esperan.
+
+Los ETP apalancados ofrecen un multiplicador del rendimiento diario (no del total) de su índice o índice de referencia subyacente. Los ETP inversos buscan ofrecer el
+rendimiento opuesto al rendimiento diario del índice o índice de referencia que siguen. Los ETP apalancados-inversos buscan lograr un rendimiento que sea un múltiplo del
+rendimiento diario inverso del índice o índice de referencia subyacente.
+
+Los ETP apalancados tienen requisitos de margen especiales. Los ETP apalancados y/o inversos logran sus objetivos establecidos mediante el uso de técnicas de inversión
+agresivas, como futuros, contratos a plazo, acuerdos de swap, derivados y opciones, que pueden aumentar la volatilidad del ETP y disminuir el rendimiento. Estos ETP tienen
+requisitos de margen más altos que aumentan en un porcentaje proporcional a su factor de apalancamiento. Todos los ETP apalancados no son elegibles para el uso
+
+del poder adquisitivo de negociación intradía.
+
+Los ETP apalancados e inversos están pensados para no conservarse más de una sesión de negociación. La mayoría de los ETP apalancados e inversos se "reinician" diariamente,
+lo que significa que están diseñados para alcanzar sus objetivos establecidos diariamente y no deben conservarse durante la noche.
+
+Debido a que el factor de apalancamiento se restablece después de cada sesión de negociación, su rendimiento durante períodos más largos puede diferir significativamente
+
+del rendimiento (o el inverso del rendimiento) de su índice o índice de referencia subyacente durante el mismo período. Las desviaciones entre el precio de un ETP y el índice o
+índice de referencia que sigue pueden acumularse rápidamente en mercados altamente volátiles, donde los precios fluctúan drásticamente a lo largo de los días. En
+
+consecuencia, estos ETP pueden experimentar pérdidas incluso en situaciones en las que el índice o índice de referencia subyacente ha tenido el rendimiento esperado.
+
+Los ETN son un tipo distinto de ETP complejo y no son apropiados para la mayoría de los inversores.
+
+Los ETN no son ETF. Los ETN plantean riesgos muy diferentes de los riesgos asociados a los ETF tradicionales que pueden invertir en el mismo índice o punto de referencia. A
+diferencia de los ETF, los ETN no son vehículos de inversión agrupados, no tienen una cartera subyacente de activos y no calculan un NAV. Los ETN conllevan riesgo
+crediticio. Los ETN son deuda no garantizada emitida por una entidad financiera.
+
+Divulgaciones de productos complejos e importantes mu o o
+Información y TradeStation
+
+institución (generalmente un banco) que no proporciona participación de propiedad en ningún activo, de modo que el pago de cualquier rendimiento (al vencimiento o al momento del
+
+reembolso) depende de la capacidad de pago del emisor.
+
+Los ETN pueden estar sujetos a riesgo de rescate o amortización. Algunos ETN pueden ser rescatados o amortizados por el emisor antes de su fecha de vencimiento establecida.
+En caso de rescate anticipado o insolvencia del emisor, el valor de un ETN puede ser inferior al precio de mercado en el momento de la compra o incluso cero, lo que da lugar a una
+
+pérdida parcial o total de la inversión.
+
+Los ETN no son bonos corporativos tradicionales. A diferencia de los bonos corporativos tradicionales que pagan una tasa de interés establecida, la rentabilidad de un ETN se basa en el
+rendimiento de un activo de referencia, que puede ser un Índice, un Índice de referencia, materias primas, divisas, valores de renta fija, futuros o cualquier combinación de dos o más
+
+de estos activos de referencia (menos comisiones). Los ETN están sujetos al riesgo de mercado y de seguimiento. Y aunque muchos ETN se emiten con vencimientos a largo plazo (por
+ejemplo, 20 o 30 años), no están destinados a conservarse hasta el vencimiento. Los inversores generalmente obtienen rentabilidades al negociar el ETN en lugar de mantenerlo
+
+hasta el vencimiento. Los ETN no son apropiados para inversiones a mediano o largo plazo.
+
+Es posible que el precio de mercado de un ETN no coincida con el valor de su activo de referencia subyacente.
+
+Los ETN calculan valores indicativos (a diferencia de un NAV), que se basan en los valores de referencia de los activos subyacentes intradía y de cierre, respectivamente. Cada ETN utiliza
+su propia fórmula para calcular su valor indicativo, que generalmente se describe en el prospecto o suplemento de precios del ETN. El valor indicativo de un ETN es distinto de su
+precio de mercado, que es el precio al que se negocia un ETN en el mercado secundario. El precio de mercado de un ETN puede desviarse, a veces significativamente, de su valor
+
+indicativo. El valor de mercado de un ETN puede verse afectado si se rebaja la calificación crediticia del emisor.
+
+Un ETN puede ser excluido de la lista si su valor indicativo mínimo cae por debajo del valor requerido por la bolsa en la que cotiza.
+Los ETN apalancados y apalancados inversos son particularmente vulnerables a este riesgo. Cuando un ETN deja de cotizar en bolsa, solo puede negociarse en mercados
+
+extrabursátiles (OTC). Los inversores que no salgan del ETN antes de su fecha de exclusión pueden quedarse con una posición que sea difícil y costosa de liquidar.
+
+VALORES RESPALDADOS POR ACTIVOS
+
+Los títulos de deuda que se consideran títulos respaldados por activos representan un interés en o están garantizados por un conjunto de cuentas por cobrar u otros activos financieros
+que están sujetos continuamente a prepago. Entre ellos se incluyen los fideicomisos de inversión inmobiliaria (REIT) y los fideicomisos de inversión en unidades (UIT). El rendimiento
+real de dichos títulos respaldados por activos puede variar según la tasa a la que se prepaguen las cuentas por cobrar u otros activos financieros subyacentes. La información sobre
+los factores que afectan el rendimiento (incluido un rendimiento mínimo estimado, la vida media ponderada y los supuestos de prepago subyacentes al rendimiento) se proporcionará a
+
+pedido por escrito.
+
+DEUDA Y VALORES CON LIQUIDACIÓN
+
+Los valores de deuda y los valores rescatables son cualquier valor, como un bono, un bono municipal, un pagaré, un pagaré o cualquier otro instrumento similar que evidencie
+
+una obligación del emisor (incluido cualquier valor convertible en acciones o un instrumento similar).
+
+valores) y participaciones o intereses fraccionarios en uno o más de los anteriores. Las transacciones en estos valores pueden estar sujetas a riesgos de rescate o amortización. Estos
+valores pueden estar estructurados o tener disposiciones incorporadas. Los valores emitidos con una disposición de rescate incorporada permiten al emisor recomprar o amortizar el
+
+valor hasta una fecha específica. Estos valores pueden ser reembolsados o recomprados en su totalidad o en parte antes del vencimiento y están sujetos a ciertas condiciones.
+
+Las cláusulas de rescate y de compra pueden afectar los rendimientos representados. El rescate anticipado podría afectar los rendimientos de los valores.
+
+Las fechas de vencimiento podrán ser prorrogadas por el emisor de las mismas, con un tipo de interés variable.
+OTROS PRODUCTOS COMPLEJOS
+Esta divulgación no identifica ni divulga todos los productos complejos ni todos los riesgos que conllevan. Otros valores, como productos titulizados, warrants/derechos,
+
+acciones preferentes, productos de participación directa (DPP), valores vinculados a futuros de materias primas y empresas de adquisición con fines especiales (SPAC) pueden
+
+tener características y riesgos únicos y también deben considerarse complejos.
+
+Se proporciona información adicional en el “Folleto de divulgación de inversiones y operaciones: acciones y opciones” de TradeStation,
+que se puede encontrar aquí: https://www tradestation.com/important-information/.
+
+
+Folleto de información sobre inversiones y v TradeStation
+
+operaciones de TradeStation Securities, Inc. — Acciones y opciones
+
+CARACTERÍSTICAS Y RIESGOS DE LAS OPCIONES ESTANDARIZADAS
+
+El trading con opciones no es adecuado para todos los inversores. Haga clic en los enlaces que aparecen a continuación para descargar, leer y comprender
+estos documentos importantes.
+
+Características y riesgos de las opciones estandarizadas
+
+Junio 2024 (PDF, 96 páginas)
+
+Suplemento de junio de 2024
+
+Suplemento de Características y riesgos de las opciones estandarizadas
+
+Para obtener información adicional, visite The Options Clearing Corporation en https://www.theocc.com.
+
+Declaración especial para opciones no cubiertas
+
+Escritores v Tra de Station
+
+Existen riesgos especiales asociados con la suscripción de opciones descubiertas, que expone al inversor a pérdidas potencialmente significativas.
+Por lo tanto, este tipo de estrategia puede no ser adecuada para todos los clientes aprobados para transacciones de opciones.
+
++ La pérdida potencial de la escritura de opciones call descubiertas es ilimitada. El emisor de una opción call descubierta se encuentra en una situación extremadamente riesgosa.
+posición y puede incurrir en grandes pérdidas si el valor del instrumento subyacente aumenta por encima del precio de ejercicio.
+
+* Al igual que con las opciones de compra sin cobertura, el riesgo de las opciones de venta sin cobertura es sustancial. El emisor de una opción de venta sin
+cobertura corre el riesgo de sufrir pérdidas si el valor del instrumento subyacente cae por debajo del precio de ejercicio. Dicha pérdida podría ser sustancial si
+se produce una caida significativa del valor del instrumento subyacente.
+
+* Por lo tanto, la suscripción de opciones al descubierto es adecuada Únicamente para inversores con conocimientos que comprenden los riesgos, tienen la
+capacidad financiera y la voluntad de incurrir en pérdidas potencialmente sustanciales y tienen suficientes activos liquidos para cumplir con los requisitos
+de margen aplicables. En este sentido, si el valor del instrumento subyacente se mueve en contra de la posición de opciones de un emisor al
+descubierto, el corredor del inversor puede solicitar pagos de margen adicionales significativos. Si un inversor no realiza dichos pagos de margen, el corredor
+puede liquidar posiciones de stock de opciones en la cuenta del inversor con poco o ningún aviso previo de acuerdo con el acuerdo de margen del inversor.
+
+* En el caso de la escritura combinada, donde el inversor escribe tanto una opción de venta como una opción de compra sobre el mismo instrumento
+subyacente, el riesgo potencial es ilimitado.
+
+Si un mercado secundario de opciones dejara de estar disponible, los inversores no podrían realizar transacciones de cierre y el emisor de opciones
+seguiría obligado hasta el vencimiento de la cesión.
+
++ El emisor de una opción de estilo americano está sujeto a la asignación de un ejercicio en cualquier momento después de haber emitido la opción hasta que esta
+expire. Por el contrario, el emisor de una opción de estilo europeo está sujeto a la asignación de un ejercicio solo durante el periodo de ejercicio.
+
+NOTA: Se espera que lea Caracteristicas y riesgos de las opciones estandarizadas disponibles en TradeStation Securities. En particular, debe dirigir su atención
+al capítulo titulado Riesgos de comprar y vender opciones. Esta declaración no pretende enumerar todos los riesgos que conlleva la venta de opciones no cubiertas.
+
+Divulgaciones de riesgo importantes con respecto a préstamos totalmente pagados A T . al
+) TradeStation
+
+O transacciones de préstamo de valores con margen excedente
+
+Lea atentamente estas importantes divulgaciones antes de aceptar prestar a TradeStation Securities, Inc. (“Broker-Dealer”) cualquiera de sus
+
+valores totalmente pagados o valores con margen excedente (los “Valores Prestados”) de su cuenta en el Broker-Dealer. Estas divulgaciones deben leerse
+
+junto con el Acuerdo Marco de Préstamo de Valores (según se modifique o complemente de vez en cuando, el “Acuerdo”) que rige cualquier
+
+préstamo de Valores Prestados al Broker-Dealer, y el Acuerdo Marco de Servicios Colaterales entre el Broker-Dealer y JP.
+
+Morgan Chase Bank, National Association (“Banco”), en virtud de la cual se depositará una garantía en efectivo en el Banco en su nombre. Estas
+
+divulgaciones describen caracteristicas importantes y riesgos asociados con la participación en transacciones de préstamo de valores.
+
+1. LAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DEL INVERSOR EN VALORES DE 1970 (“SIPA”) NO PUEDEN
+
+PROTEGERLE CON RESPECTO A LOS VALORES PRESTADOS UNA VEZ QUE DICHOS VALORES SEAN ELIMINADOS
+DE SU CUENTA Y, POR TANTO, LA GARANTÍA EN EFECTIVO ENTREGADA AL BANCO PUEDE
+
+CONSTITUYEN LA ÚNICA FUENTE DE SATISFACCIÓN DE LAS OBLIGACIONES DEL CORREDOR-DIVERSADOR EN EL
+EVENTO EL CORREDOR-DIVERSADOR NO DEVUELVE LOS VALORES PRESTADOS.
+
+Pérdida de los derechos de voto con respecto a los valores prestados. Mientras un préstamo de valores esté pendiente y hasta que
+
+Los valores prestados se acreditan nuevamente a su cuenta al finalizar un préstamo, perderá su derecho a votar.
+Valores prestados. Sin embargo, usted conserva el derecho contractual a la devolución de los Valores prestados y, en consecuencia,
+
+continuar teniendo exposición al mercado con respecto a los Valores Prestados.
+
+Valores prestados/ventas en corto. El uso de valores prestados para facilitar las ventas en corto podría poner en riesgo los precios.
+presión sobre el precio de los Valores Prestados. Usted no tiene obligación de suscribir un préstamo de valores con
+Corredor-Distribuidor y puede optar por no permitir que sus Valores Prestados se utilicen en relación con ventas en corto o cualquier otra
+otro propósito permitido al optar por no participar en el programa (es decir, rescindir el Acuerdo de conformidad con sus
+
+términos, sujetos únicamente a la recuperación de cualquier Valor Prestado pendiente y al cumplimiento de cualquier obligación restante
+
+obligaciones).
+
+Su derecho a rescindir y vender los valores prestados, Usted tiene derecho a:
+
+a. terminar o liquidar un préstamo en cualquier momento y por cualquier motivo optando por no participar en el programa de acuerdo con
+
+los términos del Acuerdo; y
+
+b. vender algunos o todos los Valores Prestados en cualquier momento, incluyendo, sin limitación, antes de recuperarlos
+
+Valores Prestados y/o antes de la devolución de los Valores Prestados a su cuenta.
+
+Compensación del corredor de bolsa con respecto a los valores prestados, El corredor de bolsa recibirá una compensación en
+conexión con el uso de sus Valores Prestados, incluso en relación con el préstamo de sus Valores Prestados a
+
+otras partes para su uso en relación con la liquidación de ventas en corto, o para facilitar la liquidación de ventas en corto por parte del corredor
+de bolsa o sus clientes. El factor clave para determinar el monto de la compensación que recibirá el corredor de bolsa
+
+del uso de sus Valores Prestados es la disponibilidad de los valores para préstamo en el mercado en relación con el
+
+demanda de tomar prestados dichos valores. El corredor de bolsa tiene la oportunidad de ganar más compensación cuando el
+
+los valores se vuelven limitados en oferta en relación con la demanda (es decir, se convierten en valores “difíciles de pedir prestados”).
+
+Su compensación con respecto a los valores prestados, Usted y el corredor de bolsa acordarán la compensación
+compensación que se le pagará en relación con sus transacciones de préstamo de valores. Información sobre la
+
+Los valores prestados estarán disponibles en los estados de cuenta mensuales o comunicándose con el Servicio de atención al cliente de TradeStation.
+
+departamento por teléfono, correo electrónico o chat en línea. Los factores que pueden influir en dicha compensación incluyen:
+
+Divulgaciones de riesgo importantes con respecto a préstamos totalmente pagados A T . al
+) TradeStation
+
+O transacciones de préstamo de valores con margen excedente
+
+mi.
+
+Oferta y demanda. El factor clave para determinar el monto de la compensación que se le pagará en relación con sus
+transacciones de préstamo de valores es la disponibilidad de los valores para préstamo en el mercado en relación con la demanda
+de préstamos de dichos valores. Por lo general, usted tiene la oportunidad de ganar más compensación cuando la oferta de los valores
+
+prestados se vuelve limitada en relación con la demanda (es decir, se convierten en valores “dificiles de tomar prestados”).
+
+Flexibilidad de la tasa de interés. La remuneración que usted recibe (por ejemplo, la tasa de interés) puede cambiar durante el
+transcurso de su préstamo de valores. Dicha remuneración puede basarse (i) en parte en un indice de tasa de interés (como la tasa de
+apertura de los fondos federales o LIBOR) que puede variar con el tiempo, en cuyo caso su remuneración puede cambiar sin previo
+aviso, o (ii) en una tasa fija, a menos que usted acepte una estructura de remuneración alternativa con el corredor de bolsa. El
+
+corredor de bolsa puede cambiar dicha tasa a su discreción mediante notificación a usted.
+
+Estabilidad percibida. El corredor de bolsa puede asignar un valor más alto a los préstamos de valores que considere que tendrán menos
+
+probabilidades de ser recuperados antes de que se complete la estrategia de inversión que esté utilizando él o sus clientes subyacentes.
+
+Monto del préstamo de valores. Es posible que se le pague una compensación mayor si los préstamos de valores se refieren a una
+
+cantidad deseada de valores prestados.
+
+Concentración de la oferta. Es posible que se le pague una mayor compensación si el corredor de bolsa busca reducir su posible
+
+exposición al riesgo de retirada de valores diversificando las fuentes de su oferta de préstamos de valores.
+
+7. Garantia de los valores prestados. De conformidad con el Acuerdo, y para protegerlo en caso de incumplimiento del corredor de bolsa, a
+
+cambio de los valores prestados, el corredor de bolsa depositará, antes del final del dia en la fecha en que se realiza el préstamo, una
+
+garantia en efectivo con un valor de mercado al menos igual al 100 % del valor de mercado de los valores, pero que no supere el 102 % del valor
+
+de mercado de los valores prestados. La garantia en efectivo se depositará en un banco según se define en la Norma 15c3-3(a)(7) de la Ley
+
+de Bolsa (el “Banco”) en una cuenta cuyo titulo refleje la forma en que se conserva su garantia para su beneficio de conformidad con la Norma
+
+15c3-3(b)(3) (iiiX(B) de la Ley de Bolsa y la guia relacionada (la “Cuenta de garantia”). Recibirá documentación que identifique y describa el tipo de
+
+garantia proporcionada (y sustituida, según corresponda) a cambio de los valores prestados. De conformidad con el Acuerdo y la
+
+reglamentación aplicable, el Agente de Bolsa valorará los Valores Prestados a valor de mercado al cierre de las operaciones de cada
+
+dia hábil y, de ser necesario, transferirá (es decir, agregará o deducirá) la garantia a más tardar al cierre de las operaciones del siguiente dia
+
+hábil, de modo que el valor de mercado de la garantia sea igual al 100%, pero no supere el 102%, del valor de mercado de los Valores Prestados.
+
+Si el Agente de Bolsa incumple y el valor de mercado de los Valores Prestados aumenta en valor el dia en que el Agente de Bolsa incumple,
+
+la garantia en efectivo proporcionada por el Agente de Bolsa puede ser insuficiente para garantizar completamente los Valores Prestados.
+
+8. Propósito permitido para tomar prestados los valores prestados, El corredor de bolsa puede tomar prestados los valores prestados para
+cualquier propósito permitido por el Reglamento T, incluido el de satisfacer los requisitos de entrega resultantes de ventas en descubierto,
+cubrir una venta en descubierto o una falta de entrega, satisfacer los requisitos de posesión y control del cliente o para prestar posteriormente los
+valores prestados a otros corredores de bolsa.
+
+9. Determinación de “dificil de tomar prestado”, Los valores prestados pueden ser, o pueden llegar a ser, “dificiles de tomar prestado” debido a ventas
+
+en corto o escasez de oferta de préstamos disponible o eventos corporativos que pueden afectar la liquidez de un valor.
+
+10. Posibles implicaciones fiscales con respecto a los valores prestados. Durante el plazo de cualquier préstamo de valores, usted tiene derecho a recibir
+
+el importe de todos los dividendos y distribuciones realizadas sobre o con respecto a sus valores prestados.
+
+Si bien el corredor de bolsa hará todo lo posible para recuperar los valores prestados antes de la fecha de registro para un pago de dividendos o
+
+distribución, si no tiene éxito en hacerlo, recibirá pagos fabricados (por ejemplo, recibirá
+
+Divulgaciones de riesgo importantes con respecto a préstamos totalmente pagados T . al
+) TradeStation
+
+O transacciones de préstamo de valores con margen excedente
+
+Pagos sustitutos de efectivo) en lugar de recibir dividendos o distribuciones directamente del emisor. Es posible que ciertas distribuciones únicas no
+
+puedan ser replicadas exactamente como un pago fabricado por el corredor de bolsa.
+
+a. Si usted es un contribuyente estadounidense, los pagos en efectivo en lugar de dividendos no recibirán el mismo tratamiento que
+dividendos calificados para efectos fiscales y es probable que se graven a una tasa impositiva más alta en lugar de la
+
+tasa de dividendo calificado preferencial.
+
+b. Es posible que se le solicite al corredor de bolsa que retenga impuestos sobre los pagos en lugar de dividendos y tarifas de préstamos que se le realicen.
+
+a menos que se aplique una excepción.
+
+do Debe consultar a un asesor fiscal sobre las implicaciones fiscales de suscribir un préstamo de valores con
+Agente de bolsa, que incluye, entre otros: el tratamiento de los pagos en efectivo en lugar de operaciones según las leyes fiscales estatales de EE. UU.
+y el Código de Rentas Internas, así como cualquier reglamento tributario extranjero, según corresponda; bajo qué
+
+circunstancias en las que un préstamo de valores podría considerarse una disposición gravable de los Valores Prestados; y
+
+Tratamiento de los intereses recibidos sobre garantias en efectivo,
+
+11. Derechos del corredor de bolsa en caso de incumplimiento. El corredor de bolsa tendrá derecho a liquidar el préstamo de valores si un
+
+El incumplimiento, tal como se define en el Acuerdo, ocurre con respecto a usted. Un incumplimiento incluye, entre otros,
+
+limitado a, si usted:
+
+a. solicitar o consentir, o convertirse en el sujeto de una solicitud para, el nombramiento o la toma de posesión
+
+posesión por un receptor, custodio, fideicomisario o liquidador de sí mismo o de la totalidad o una parte sustancial de su
+
+propiedad;
+b. admitir por escrito su incapacidad o su incapacidad general para pagar sus deudas a medida que dichas deudas vencen;
+do. realizar una cesión general en beneficio de sus acreedores; o
+d. presentar, o han presentado en su contra, una petición bajo el Título 11 del Código de los Estados Unidos, o han presentado en su contra
+
+una solicitud de decreto de protección en virtud de la Sección 5 de la SIPA, a menos que el derecho a liquidar dicha
+La transacción se suspende, evita o limita de otro modo mediante una orden autorizada de conformidad con las disposiciones de la SIPA o
+
+cualquier estatuto administrado por la SEC.
+
+12. Acciones corporativas. Si el emisor de cualquier Título Prestado participa en una recapitalización, fusión, consolidación o
+
+otra acción corporativa, de modo que se intercambie un valor nuevo o diferente por el Valor Prestado, dicho valor nuevo o diferente
+un valor diferente se considerará, a partir de dicho intercambio, como un Valor Prestado en sustitución de
+
+el antiguo título prestado.
+
+13. Acceso a la Garantía. La disponibilidad de la Garantía y su capacidad para ejercer sus derechos con respecto a la Garantía.
+
+La garantía podría verse afectada negativamente por la insolvencia del Banco o por el incumplimiento del Banco con el Marco de Garantía Maestra.
+
+Acuerdo de servicios.
+
+Requisitos contra el blanqueo de dinero LE o o
+Divulgación y TradeStation
+
+La Ley Patriota de los Estados Unidos
+
+La Ley Patriota de los Estados Unidos está diseñada para detectar, disuadir y castigar a los terroristas en los Estados Unidos y en el extranjero.
+
+La Ley impone requisitos contra el lavado de dinero a las empresas de corretaje y las instituciones financieras.
+¿Qué es el lavado de dinero?
+
+Para ayudarlo a comprender estos esfuerzos, queremos brindarle información sobre el lavado de dinero y los pasos que seguimos para implementar
+la Ley Patriota de los Estados Unidos. El lavado de dinero es el proceso de disfrazar dinero obtenido ilegalmente para que parezca que
+proviene de fuentes o actividades legítimas. El lavado de dinero ocurre en relación con una amplia variedad de delitos, incluidas las ventas
+
+ilegales de armas, el tráfico de drogas, el robo, el fraude, el crimen organizado y el terrorismo.
+
+¿Qué tan grande es el problema y por qué es importante?
+
+El uso del sistema financiero estadounidense por parte de delincuentes para facilitar el terrorismo u otros delitos podría contaminar nuestros
+mercados financieros. Según el Departamento de Estado de Estados Unidos, una estimación reciente sitúa el volumen de la actividad de blanqueo
+
+de dinero en todo el mundo en un billón de dólares al año.
+¿Qué debemos hacer para eliminar el lavado de dinero?
+
+En virtud de la Ley USA PATRIOT y otras reglamentaciones aplicables a nosotros, hemos designado a uno o más funcionarios de cumplimiento
+de las normas antilavado de dinero para nuestras unidades de negocio financieras y hemos establecido políticas y procedimientos para
+
+detectar e informar transacciones sospechosas y garantizar el cumplimiento de las leyes. También hemos establecido políticas y procedimientos
+adecuados para detectar e informar transacciones sospechosas y cumplir de otro modo con las leyes aplicables, establecer y llevar a cabo la
+capacitación de los empleados y realizar auditorías independientes para probar la eficacia de nuestras políticas y procedimientos. Como parte de
+nuestros programas, políticas y procedimientos obligatorios, podemos solicitarle que proporcione varios documentos de identificación u
+
+otra información. Hasta que proporcione la información o los documentos que necesitamos, es posible que no podamos abrir una cuenta,
+
+realizar ninguna transacción para usted o proporcionarle otros productos o servicios.
+
+Le agradecemos su paciencia y esperamos que nos apoye en nuestros esfuerzos por negar a los grupos terroristas el acceso al sistema
+financiero de Estados Unidos, así como en nuestros esfuerzos por detectar y tratar de eliminar el uso de nuestros sistemas y servicios para el
+
+lavado de dinero relacionado con otros delitos y para otros usos ¡legales como el fraude y la manipulación del mercado.
+
+TradeStation Securities, Inc. y TradeStation Technologies, Inc. son subsidiarias de propiedad absoluta de TradeStation Group, Inc., ambas
+Operan y brindan productos y servicios bajo la marca y marca registrada TradeStation. Al solicitar o comprar cuentas, suscripciones, productos y
+servicios, es importante que sepa con qué empresa estará tratando. Haga clic aquí para obtener más información importante que explica lo que
+esto significa.
+
+Divulgación del plan de continuidad empresarial VI TradeStation
+
+AAA
+En TradeStation Group, reconocemos que nuestros clientes confían en nuestros sistemas y servicios. De acuerdo con las regulaciones aplicables, TradeStation ha
+desarrollado un Plan de Continuidad Comercial para ayudar a las empresas de TradeStation a operar en respuesta a una emergencia o interrupción comercial significativa.
+Para mantener la seguridad y la eficacia de este plan, no proporcionamos detalles especificos en esta divulgación. Sin embargo, podemos decirle que el plan incluye:
+
++ Una descripción de la copia de seguridad diaria de datos y registros especificos y el mantenimiento de medios de copia de seguridad en un sitio externo seguro.
+ubicación.
+
++ Formas alternativas de comunicación entre nosotros y nuestros clientes, empleados, proveedores y reguladores.
++ Una revisión de los riesgos financieros y operativos.
+* Ubicaciones fisicas alternativas para los empleados y estrategias logísticas y de seguridad.
+
+* Identificación de sistemas críticos de misión.
+
+* Identificación de operaciones críticas y, cuando corresponda, cómo podrian restablecerse dichas operaciones en caso de
+
+de una perturbación.
+
+* Identificación de cómo podemos asegurar el acceso rápido de nuestros clientes a sus fondos y activos en caso de que
+
+determinar que ya no podemos continuar con el negocio.
+
+Respuesta a incidentes de diverso alcance:
+
+Una interrupción comercial incluye cualquier evento, externo o interno, que genere una interrupción operativa extrema del sitio como resultado de la cual TradeStation
+deba alterar los procedimientos de procesamiento diarios normales. El plan de continuidad comercial de TradeStation ha sido diseñado para responder tanto a
+interrupciones en edificios especificos como a interrupciones en toda la ciudad. En estas situaciones, el objetivo del plan es permitir que TradeStation continúe
+haciendo negocios, con una capacidad limitada, y cumpla razonablemente con las obligaciones de los clientes dentro del día hábil.
+
+Interrupciones que provocan la evacuación de un edificio determinado, pero no se producen daños y los sistemas siguen funcionando:
+
+: En caso de que necesitemos evacuar un edificio en particular, el funcionario de mayor rango de la compañía disponible lo hará.
+La decisión de activar el plan de continuidad. Se notificará a todos los empleados que deben salir del edificio según lo aprobado por la empresa.
+
+procedimientos de evacuación.
+
+: Todos los números entrantes serán redirigidos a un centro de datos de respaldo donde se les enviarán mensajes hasta que
+El personal de emergencia predeterminado inicia sesión en las colas telefónicas a través de agentes IP en nuestro sitio alternativo.
+
+En el caso de este tipo de interrupciones en el sitio, los clientes deberían experimentar un tiempo de inactividad mínimo en su capacidad para comunicarse
+con TradeStation.
+
+Interrupciones que provocan la evacuación inmediata de un edificio determinado, se producen daños y los sistemas no funcionan:
+
+* Todos los números entrantes serán redirigidos a un centro de datos de respaldo donde se les enviarán mensajes hasta que
+El personal de emergencia predeterminado se conecta a las colas telefónicas a través de agentes IP en nuestro sitio alternativo. Si el sitio alternativo local
+El sitio se ve afectado por la interrupción, todo el personal crítico será dirigido a otros sitios de recuperación de desastres para reanudar
+
+operaciones.
+
+* Los procedimientos que detallan estas responsabilidades se incluyen en el Plan de Continuidad del Negocio. Común (probable)
+Los ejemplos de cuándo se activarán los procedimientos del sitio de recuperación ante desastres para este tipo de interrupción del sitio incluyen (pero no se limitan a)
+sin limitarse a): (1) actos de la naturaleza: huracanes, inundaciones, incendios, etc.; (2) problemas solares globales: que afectan a los sistemas nacionales y/o
+
+comunicaciones internacionales y redes eléctricas; y (3) actos de terrorismo.
+
+El plan de continuidad comercial de TradeStation está diseñado para que nuestros clientes tengan acceso completo y adecuado a nuestros sistemas y a sus fondos y
+activos de manera oportuna. Sin embargo, en el caso de una interrupción extremadamente significativa, el tiempo de recuperación real depende de la gravedad de la
+interrupción y de cuántas sucursales y personal de TradeStation se vean afectados, la condición de los sistemas financieros y bancarios y una gran cantidad de otros
+
+factores fuera de nuestro control. Incluso los planes bien diseñados pueden no funcionar como se esperaba en determinadas situaciones.
+
+TradeStation Securities, Inc. y TradeStation Technologies, Inc. son subsidiarias de propiedad absoluta de TradeStation Group, Inc.,
+ambas operan y brindan productos y servicios bajo la marca y marca registrada TradeStation. Al solicitar o comprar cuentas,
+suscripciones, productos y servicios, es importante que sepa con qué empresa estará tratando. Haga clic aquí para obtener más
+información importante que explica lo que esto significa.

@@ -1,0 +1,175 @@
+ANEXO UNIFORME PARA SUSCRIPTORES
+ESTE ANEXO UNIFORME PARA SUSCRIPTOR (este "Anexo") se celebra entre el suscriptor que figura a continuación ("Suscriptor" o "usted"), el vendedor que figura a
+continuación ("Vendedor") y cada una de las Bolsas designadas a continuación ("Bolsas"). Al aceptar este Anexo (como parte de una solicitud en línea o cualquier otro proceso
+de registro), usted acepta estar legalmente obligado por los términos de este Anexo. Usted comprende y acepta que este Anexo tiene la misma fuerza y efecto legal vinculante
+que un contrato firmado con tinta y entregado en persona.
+
+Proveedor:
+
+Tecnologías TradeStation, Inc.
+(Parte que entrega datos de mercado al suscriptor)
+
+Abonado:
+(Parte que recibe los datos del mercado)
+
+Bolsas: Bolsa de futuros CFE – CBOE
+
+1. DEFINICIONES
+(a) "Dispositivo" significa cualquier unidad de equipo, fija o portátil, que recibe, accede o muestra Datos del Mercado en forma visible y audible.
+u otra forma comprensible.
+(b) "Evento de fuerza mayor" significa cualquier inundación, condiciones climáticas extraordinarias, terremoto u otro acto de Dios, incendio, guerra, terrorismo, insurrección,
+motín, disputa laboral, accidente, acción del gobierno, fallas de comunicaciones o energía, o fallas de equipo.
+o mal funcionamiento del software.
+(c) "Persona" significa cualquier persona física, empresa unipersonal, corporación, sociedad, compañía de responsabilidad limitada u otra organización. (d) "Datos de
+mercado" significa información y datos relacionados con contratos de futuros y contratos de opciones negociados en las Bolsas, así como datos de índices asociados, que
+incluyen, sin limitación, precios de rango de apertura y cierre, precios altos y bajos, precios de liquidación, precios de oferta y demanda actuales, precios de última
+venta, límites de precios, solicitudes de cotizaciones, datos de volumen de contratos estimados y reales, mensajes de texto relacionados con la actividad del mercado,
+especificaciones de contratos, mensajes rápidos o tardíos y, según lo determine cada una de las Bolsas, puede incluir información sobre transacciones de intercambio
+por físico (EFP) o contra reales (AA). Con respecto a las obligaciones del Suscriptor bajo este Anexo, los Datos de mercado incluyen información, datos y materiales
+que se derivan de lo anterior y que transmiten información al Suscriptor que es sustancialmente equivalente
+
+para comercializar datos.
+
+2. DERECHOS DE PROPIEDAD SOBRE LOS DATOS DEL MERCADO
+(a) El suscriptor reconoce y acepta que cada uno de los Intercambios tiene derechos de propiedad exclusivos y valiosos en y sobre sus
+propios Datos de Mercado, que dichos Datos de Mercado constituyen información confidencial valiosa, secretos comerciales y/o propiedad
+derechos de cada una de las Bolsas, que no sean de dominio público, que dichos Datos de Mercado permanecerán valiosos y confidenciales
+información, secretos comerciales y/o derechos de propiedad de cada una de las Bolsas al menos hasta que las Bolsas coloquen sus
+respectivos Datos de Mercado en el dominio público o autorizar la colocación de sus respectivos Datos de Mercado en el dominio público,
+
+y que, de no ser por este Anexo, el Suscriptor no tendría ningún derecho ni acceso a dichos Datos de Mercado. Independientemente de si un determinado
+La Bolsa ha colocado sus Datos de Mercado en el dominio público o ha autorizado la colocación de sus Datos de Mercado en el dominio público.
+El dominio se determinará de acuerdo con los términos del acuerdo de dicho Exchange con el Proveedor, cuyo acuerdo es
+descrito en la Sección 3(a).
+(b) El suscriptor reconoce y acepta que la divulgación de cualquier dato de mercado o cualquier incumplimiento o amenaza de incumplimiento de cualquier otro
+Los convenios o acuerdos aquí contenidos causarían un daño irreparable a cada una de las Bolsas por las que se invierte dinero.
+daños y perjuicios sería un remedio inadecuado. En consecuencia, el Suscriptor reconoce y acepta además que cada uno de los
+Las bolsas tendrán derecho al cumplimiento específico y a medidas cautelares y otras medidas de reparación equitativas por el incumplimiento o la amenaza de incumplimiento.
+
+incumplimiento de cualquier disposición, requisito o pacto de este Anexo (incluyendo, sin limitación, cualquier divulgación o
+divulgación amenazada de Datos de Mercado) además de, y sin limitarse a, cualquier otro recurso legal o equitativo que
+Puede estar disponible.
+
+3. RECEPCIÓN DE DATOS DE MERCADO POR PARTE DEL SUSCRIPTOR
+(a) El Proveedor y el Suscriptor han celebrado un acuerdo por el cual el Proveedor, entre otras cosas, proporcionará al Suscriptor los Datos de Mercado. El Proveedor ha
+celebrado acuerdos con cada una de las Bolsas por los cuales se le ha otorgado al Proveedor el derecho de recibir los Datos de Mercado y retransmitirlos al Suscriptor.
+Este Anexo al acuerdo entre el Proveedor y el Suscriptor establece los términos y condiciones bajo los cuales el Suscriptor puede recibir y utilizar los Datos de Mercado.
+El Suscriptor reconoce que, a pesar de dicho acuerdo, cada una de las Bolsas puede, a su discreción, dejar de difundir sus propios Datos de Mercado o cambiar o
+eliminar su propio método de transmisión, velocidad o características de señal. Además, el Suscriptor reconoce y acepta que las Bolsas se reservan el derecho de
+desaprobar a cualquier Suscriptor y conservan el derecho de ordenar al Proveedor que cancele la recepción de los Datos de Mercado por parte de cualquier Suscriptor
+por cualquier motivo o sin motivo alguno, en cuyo caso las Bolsas lo notificarán al Proveedor y el Proveedor dejará de proporcionar los Datos de Mercado al Suscriptor
+tan pronto como sea posible.
+
+(b) (1) Salvo lo dispuesto en el apartado (2) a continuación, el Suscriptor utilizará los Datos de mercado únicamente para sus propias actividades comerciales internas y
+únicamente en las oficinas y ubicaciones y en los Dispositivos que el Suscriptor designe por escrito al Proveedor en cada momento. El Suscriptor acepta que no
+comunicará ni proporcionará de otro modo, ni permitirá que se comuniquen o proporcionen de otro modo, los Datos de mercado, en ningún formato, a ninguna otra
+parte ni a ninguna oficina o ubicación que no sea la designada anteriormente, ni permitirá que ninguna otra parte tome, directa o indirectamente, ninguno de los Datos
+de mercado de dichas oficinas o ubicaciones, y adoptará y aplicará cualquier política que sea razonable para evitar que los Datos de mercado se tomen de allí. El
+Suscriptor cumplirá con cualquier otra limitación sobre dicho uso que cualquiera de las Bolsas pueda especificar. El Suscriptor hará todo lo posible para garantizar que
+sus socios, funcionarios, directores, empleados y agentes mantengan el control exclusivo y la posesión física de, y el acceso exclusivo a, los Datos de mercado
+recibidos a través de los Dispositivos en posesión del Suscriptor. (2) No obstante lo dispuesto en el apartado (1) anterior, el Suscriptor podrá, en el curso normal de sus
+negocios, proporcionar ocasionalmente a cada uno de sus clientes, sucursales y corredores de introducción garantizados, en una cantidad restringida a la necesaria
+para permitir al Suscriptor llevar a cabo sus negocios, un número mínimo de segmentos de Datos de Mercado.
+
+Dicha redifusión debe limitarse estrictamente a las comunicaciones telefónicas que no impliquen el uso de sintetizadores de voz computarizados o cualquier otra
+tecnología y debe estar estrictamente relacionada con la actividad comercial del Suscriptor o de cualquiera de dichos destinatarios. El Suscriptor debe informar a dichos
+destinatarios que dichos segmentos son información confidencial y de propiedad exclusiva que no debe divulgarse ni difundirse a otras personas o entidades. El
+Suscriptor acepta hacer todos los esfuerzos razonables para garantizar que dichos destinatarios cumplan con las disposiciones de este Anexo. No obstante lo anterior,
+en el caso de que un Suscriptor sea un periódico que informe, entre otras cosas, sobre bolsas en las que se negocian futuros de materias primas,
+
+se negocian contratos u opciones sobre futuros de materias primas, dicho Suscriptor estará autorizado a publicar, en su periódico publicado el día siguiente a la recepción
+por dicho Suscriptor de los Datos de Mercado, los Datos de Mercado recibidos por el Suscriptor de las Bolsas el día anterior a dicha publicación.
+
+(c) En el caso de que el Proveedor haya acordado permitir al Suscriptor recibir, acceder o mostrar Datos de Mercado a través de otros medios
+que no sea un Dispositivo proporcionado por el Proveedor, como por ejemplo mediante: (i) Internet, cualquier Intranet o cualquier otro tipo de red; (ii) dispositivos portátiles
+Dispositivos (por ejemplo, buscapersonas de bolsillo, asistentes digitales personales, computadoras portátiles, etc.); y (iii) voz sintetizada
+respuestas por teléfono, el Suscriptor hará todo lo posible para garantizar que ningún otro dispositivo, accesorio o aparato esté
+utilizado que pueda permitir que terceros no sujetos a las obligaciones de informes del Suscriptor según la Sección 3(b) anterior accedan a la
+Datos del mercado.
+
+4. INFORMES
+El suscriptor se compromete a proporcionar de inmediato al vendedor cualquier información o informe que pueda ser requerido por cualquiera de las bolsas, según corresponda, y
+que esté razonablemente relacionado con la recepción de los datos de mercado por parte del suscriptor. El suscriptor se compromete además a proporcionar de inmediato al vendedor
+cualquier información o informe adicional que pueda ser requerido por el acuerdo entre el vendedor y el suscriptor mencionado en la Sección 3(a) en relación con la recepción de los
+datos de mercado por parte del suscriptor.
+
+5. DERECHO DE INSPECCIÓN Y AUDITORÍA
+Durante el horario comercial habitual, cualquier persona designada por cualquier Bolsa podrá tener acceso a las oficinas o ubicaciones del Suscriptor para observar el uso que se
+hace de los Datos de Mercado y para examinar e inspeccionar cualquier Dispositivo, accesorio o aparato, así como cualquier libro y registro que el Suscriptor deba mantener de
+conformidad con las Secciones 3(b) y 4 en relación con la recepción y el uso de los Datos de Mercado. El Suscriptor realizará un ajuste rápido (incluido el interés correspondiente a
+una tasa del 1½% mensual), a través del Proveedor,
+compensar a cualquier Bolsa que descubra un uso no informado de los Datos de Mercado por parte del Suscriptor. Además, a elección de dicha Bolsa, el Suscriptor será responsable
+de los costos razonables de cualquier auditoría que revele una discrepancia a favor de dicha Bolsa del cinco por ciento (5%) o más del monto de las tarifas realmente adeudadas a
+dicha Bolsa. El Suscriptor deberá mantener los registros y libros en los que basa sus informes para los Datos de Mercado de CBOE o CFE durante tres (3) años posteriores al período
+al que se refieren los registros.
+El suscriptor deberá conservar los registros y libros en los que basa la presentación de informes para los datos de mercado de ICE US o ICE Europe o los datos de mercado de
+cualquier otra bolsa durante seis (6) años a partir del período al que se refieren los registros y libros. En caso de que el suscriptor no conserve dichos registros y libros según lo
+requerido anteriormente, acepta pagar a cada bolsa la estimación razonable de cualquier discrepancia descubierta en virtud de dicha auditoría.
+
+6. TASAS DE CAMBIO
+El Suscriptor pagará al Proveedor (a menos que el Proveedor haya asumido las obligaciones de pago del Suscriptor en virtud del presente), en nombre y representación de cada uno
+de los Intercambios (según corresponda), por el derecho a recibir Datos de Mercado de acuerdo con la tabla de tarifas vigente en ese momento publicada por
+cada uno de los Exchanges de vez en cuando (incluidos todos los impuestos federales, estatales o locales aplicables). Las tarifas de cada Exchange están sujetas a modificación por
+cada uno de ellos en cualquier momento, sin previo aviso al Suscriptor. Además, el Suscriptor acepta pagar al Proveedor cualquier penalidad que el Proveedor le imponga en nombre
+de cualquier Exchange. Nada de lo aquí dispuesto limitará la obligación de un Proveedor conforme a un acuerdo independiente entre el Proveedor y cualquiera de los Exchanges
+(según corresponda) de pagar las tarifas de Exchange.
+
+7. PACTOS, REPRESENTACIONES Y GARANTÍAS DEL SUSCRIPTOR
+El suscriptor acuerda, declara y garantiza que no se dedica al negocio de distribución de Datos de Mercado y que, según su conocimiento después de una investigación razonable,
+está recibiendo los Datos de Mercado de un Proveedor que está autorizado por las Bolsas para distribuirlos.
+
+Los datos del mercado. El suscriptor acepta que no utilizará ni permitirá que ninguna otra persona utilice los datos del mercado para ningún fin ilegal.
+El Suscriptor acepta que no utilizará los Datos de Mercado de ninguna manera para competir con las Bolsas o el Proveedor, ni utilizará los Datos de Mercado de
+ninguna manera para ayudar o permitir que un tercero compita con las Bolsas o el Proveedor. El Suscriptor acepta que la provisión de Datos de Mercado por parte
+de las Bolsas en virtud del presente está condicionada al estricto cumplimiento por parte del Suscriptor de los términos de este Anexo y que el Proveedor puede,
+con o sin previo aviso y con o sin causa, interrumpir de inmediato dicho servicio siempre que, a su juicio, haya habido algún incumplimiento o violación por parte
+del Suscriptor de las disposiciones del presente, o siempre que cualquiera de las Bolsas le ordene hacerlo.
+
+8. EXENCIÓN DE GARANTÍAS
+EL SUSCRIPTOR ACEPTA QUE NI EL VENDEDOR NI LAS BOLSAS HACEN DECLARACIONES O GARANTÍAS,
+EXPRESA O IMPLÍCITA, CON RESPECTO A LOS DATOS DEL MERCADO, O LA TRANSMISIÓN, OPORTUNIDAD, EXACTITUD O
+INTEGRIDAD DE LOS MISMOS, INCLUYENDO, SIN LIMITACIÓN, CUALQUIER GARANTÍA IMPLÍCITA O CUALQUIER GARANTÍA DE
+COMERCIABILIDAD, CALIDAD O IDONEIDAD PARA UN PROPÓSITO PARTICULAR, Y AQUELLAS QUE SURJAN POR ESTATUTO O DE OTRO MODO
+EN LA LEY O DE CUALQUIER CURSO DE TRATO O USO DEL COMERCIO.
+
+9. LIMITACIONES DE RESPONSABILIDAD Y DAÑOS
+El Suscriptor acepta que: (i) la provisión de Datos de Mercado se realiza con equipos, dispositivos de comunicación y/o líneas arrendadas que no son propiedad ni
+están operadas únicamente por el Proveedor o las Bolsas; (ii) ni el Proveedor ni las Bolsas, ni sus respectivos miembros, directores, funcionarios, empleados o
+agentes, garantizan la secuencia, precisión o integridad de los Datos de Mercado, ni ninguno de ellos será responsable ante el Suscriptor o cualquier otra Persona
+por demoras, inexactitudes, errores u omisiones en los Datos de Mercado, o en la transmisión de los mismos, o por cualquier otro daño que surja en relación con
+la recepción o uso de los Datos de Mercado por parte del Suscriptor, ya sea que resulte o no de negligencia de su parte, un Evento de Fuerza Mayor o cualquier
+otra causa fuera de su control razonable; y (iii) si la exención de responsabilidad y limitación de responsabilidad anteriores se consideran inválidas o ineficaces por
+un tribunal de jurisdicción competente, ni el Proveedor ni las Bolsas, ni sus respectivos miembros, directores, funcionarios, empleados o agentes serán responsables
+por nada de lo anterior más allá del monto real de la pérdida o daño, o la suma de cincuenta dólares ($50.00), lo que sea menor.
+
+10. PLAZO Y TERMINACIÓN
+Sujeto al estricto cumplimiento por parte del Suscriptor de las disposiciones de este Anexo, la provisión de Datos de Mercado por parte de cualquiera de las Bolsas
+de Valores en virtud del presente continuará vigente durante el plazo del acuerdo entre el Suscriptor y el Proveedor y cualquier período de renovación del mismo.
+Además, se entiende que las disposiciones establecidas en los párrafos 2(a) y 2(b) de este Anexo seguirán vigentes.
+la terminación de esta Adenda.
+
+11. INDEMNIZACIÓN
+El Suscriptor indemnizará y mantendrá al Proveedor y a las Bolsas, y a sus respectivos miembros, directores, funcionarios, empleados y agentes a salvo de toda
+responsabilidad por cualquier reclamo que surja de o en conexión con este Anexo, incluyendo, sin limitación, cualquier responsabilidad, pérdida o daño causado
+por cualquier inexactitud u omisión, la falta del Suscriptor de proporcionar o conservar, o la demora del Suscriptor en proporcionar o conservar, cualquier informe o
+registro que el Suscriptor debe conservar en virtud del presente.
+
+12. MISCELÁNEOS
+En caso de incumplimiento por parte del Suscriptor de sus obligaciones en virtud del presente, cada una de las Bolsas será considerada como un tercero
+beneficiario de este Anexo y podrá interponer una acción para hacer cumplir sus términos directamente contra el Suscriptor. Cualquier acción que surja de este
+Anexo entre la CBOE o la CFE y el Suscriptor se regirá e interpretará de conformidad con las leyes internas (y
+
+no la ley de conflictos) del Estado de Illinois. Cualquier acción que surja de este Anexo entre ICE US, ICE Europe o cualquier otro Exchange y el Suscriptor se
+regirá e interpretará de conformidad con las leyes internas (y no la ley de conflictos) del Estado de Nueva York. El Suscriptor no puede ceder la totalidad o parte
+de este Anexo sin el consentimiento previo por escrito de los Exchanges (según corresponda). Ni el Proveedor ni el Suscriptor pueden modificar o enmendar los
+términos de este Anexo. En caso de conflicto entre los términos y condiciones de este Anexo y cualquier otro acuerdo relacionado con la recepción y el uso de
+los Datos de mercado por parte del Suscriptor, incluido, sin limitación, el acuerdo entre el Proveedor y el Suscriptor mencionado en la Sección 3(a), prevalecerán
+los términos y condiciones de este Anexo. Si, por cualquier motivo, una o más disposiciones de este Anexo se consideran inválidas, las demás disposiciones del
+Acuerdo permanecerán en pleno vigor y efecto.
+
+AL ACEPTAR ESTE ANEXO (COMO PARTE DE UNA SOLICITUD EN LÍNEA O CUALQUIER OTRO PROCESO DE REGISTRO), USTED ACEPTA QUE LO
+SIGUIENTE ES VERDADERO: (1) USTED DECLARA QUE TIENE LA AUTORIDAD REAL PARA CELEBRAR ESTE ANEXO EN NOMBRE DEL SUSCRIPTOR;
+(2) USTED HA LEÍDO LOS TÉRMINOS Y CONDICIONES DE ESTE ANEXO; (3) USTED ENTIENDE LOS TÉRMINOS Y CONDICIONES DE ESTE ANEXO; (4)
+USTED ACEPTA CUMPLIR CON TODOS LOS TÉRMINOS
+Y LAS CONDICIONES DE ESTE ANEXO; Y (5) UNA COPIA IMPRESIÓN O ELECTRÓNICA DE ESTE ANEXO CONSTITUIRÁ
+UN “ESCRITO” BAJO CUALQUIER LEY, REGLAMENTO O REGLAMENTO APLICABLE.

@@ -1,0 +1,361 @@
+BOLSA MERCANTIL DE CHICAGO
+ANEXO PARA SUSCRIPTORES
+Lea atentamente este Anexo para suscriptores en su totalidad. Al aceptar este Anexo para suscriptores (como parte de una solicitud en línea o cualquier otro proceso de
+registro), usted acepta estar legalmente obligado por los términos de este Anexo para suscriptores. Usted comprende y acepta que este Anexo para suscriptores tiene la
+misma fuerza y efecto legal vinculante que un contrato firmado con tinta y entregado en persona. A menos que el contexto requiera lo contrario, escriba con mayúscula los
+términos utilizados pero no los que no sean de su agrado.
+no definidos en otra parte de este Anexo del Suscriptor tienen los significados respectivos que se les dan en la Sección 2 de este
+Anexo para suscriptores.
+ESTE
+
+ANEXO PARA SUSCRIPTOR es entre TradeStation Technologies, Inc. (“Distribuidor”) y
+
+(“Suscriptor”) (el “Anexo del Suscriptor”). El Distribuidor y
+Los suscriptores son cada uno una “Parte” y colectivamente las “Partes”.
+
+1. ANTECEDENTES
+(a) El distribuidor ha celebrado un acuerdo con Chicago Mercantile Exchange Inc (o sus sucesores o cesionarios) (“CME”)
+por el cual CME Group ha otorgado al Distribuidor (que puede incluir ciertas otras Afiliadas del Distribuidor autorizadas por
+CME (colectivamente el “Grupo Distribuidor”) el derecho a recibir ciertos datos de mercado y otra información financiera autorizada
+por CME, (la “Información Autorizada de CME”) y retransmitirla al Suscriptor y a ciertas Afiliadas del Suscriptor (según corresponda).
+acordado entre el Distribuidor y el Suscriptor) (el “Grupo del Suscriptor”).
+(b) A su vez, el Distribuidor y el Suscriptor han celebrado un acuerdo, por el cual el Grupo Distribuidor, entre otras cosas,
+Proporcionar al Grupo de Suscriptores Información Autorizada de CME y puede incluir, bajo el mismo acuerdo, otros datos de mercado
+sublicenciados de otros intercambios (el “Acuerdo de Distribución”).
+(c) Este Anexo para Suscriptores es un anexo al Acuerdo de Distribución y establece los términos y condiciones adicionales.
+condiciones bajo las cuales el Grupo de Suscriptores puede recibir y acceder a la Información Autorizada de CME, pero no se aplica a ninguna
+otros datos de mercado que puedan ser sublicenciados al Grupo de Suscriptores, en nombre de cualquier otra bolsa además de CME, bajo las
+Acuerdo de distribución.
+AHORA, POR TANTO, en consideración de los convenios y acuerdos mutuos aquí establecidos, y por otra buena y valiosa contraprestación, cuya recepción y suficiencia
+se reconocen por el presente, las Partes acuerdan lo siguiente.
+
+2. DEFINICIONES
+Las siguientes definiciones se aplican únicamente a los términos establecidos en este Anexo para Suscriptores y no modifican el Acuerdo de Distribución.
+Acuerdo para cualquier otro propósito. Todos los demás términos en mayúscula utilizados en este Anexo para suscriptores tienen el mismo significado que
+definido en el Acuerdo de Distribución, a menos que se indique lo contrario en este documento.
+
+Filial: entidad que controla, es controlada por o está bajo control común con una Parte. Control significa la propiedad o
+control, directa o indirectamente, de al menos el cincuenta por ciento (50%) o más de todas las acciones con derecho a voto (u otros valores o derechos)
+tiene derecho a votar para la elección de directores u otra autoridad rectora.
+Sistema de Comercio Automatizado: cualquier sistema o software operado por el Distribuidor que genera y/o enruta órdenes electrónicamente
+sin ninguna acción humana involucrada, o con sólo una mínima, en la generación, envío y/o verificación de pedidos.
+
+Información de referencia: Información autorizada por CME designada por CME como información de referencia en las Políticas de información.
+CME Group: CME y sus afiliadas.
+Producto de información bajo licencia de CME: ciertos instrumentos específicos de información bajo licencia de CME, agrupados como un producto de datos, como
+se especifica en la Lista de tarifas de productos de información.
+Información Confidencial: toda la información divulgada por las Partes en relación con este Anexo del Suscriptor, que debe considerarse razonablemente confidencial
+debido a su naturaleza y la forma de su divulgación, incluyendo, entre otros, los siguientes datos:
+Información autorizada de CME.
+Día: un día del calendario.
+Dispositivo: cualquier unidad de visualización (fija o portátil) que tenga la capacidad de acceder, recibir, procesar o mostrar la Información Autorizada de CME, ya
+sea en su totalidad o en parte, a través del Servicio. CME se reserva el derecho exclusivo de determinar qué constituye un Dispositivo.
+Grupo Distribuidor: Distribuidor y sus Afiliados.
+Información sobre futuros y opciones sobre futuros: la información autorizada por CME que se origina en mercados contractuales designados (DCM, por sus siglas
+en inglés) según se define en la Ley de Intercambio de Productos Básicos de 1936 (enmendada y actualizada) o cualquier otra legislación equivalente. Dichos DCM
+incluyen, entre otros, los DCM de CME, NYMEX, COMEX, CBOT y DME.
+Políticas de información: las políticas aplicables a la información autorizada de CME según se establecen en el sitio web de CME (actualmente ubicado en
+www.cmegroup.com/informationpolicies) según puedan ser modificados de vez en cuando.
+Tarifa de producto de información: documento emitido por el Distribuidor al Suscriptor, que describe la Información Licenciada de CME licenciada por el Distribuidor
+en nombre de CME y las tarifas correspondientes.
+Controles internos: los sistemas electrónicos (incluidos software y hardware), configuraciones de red, reglas, procedimientos y políticas que, en conjunto y a
+satisfacción de CME: (i) identifican la capacidad de acceder a la Información Autorizada de CME; (ii) permiten el acceso a la Información Autorizada de CME utilizando
+una Unidad de Conteo definida; (iii) previenen cualquier acceso no autorizado a la Información Autorizada de CME; y (iv) conservan registros auditables de lo anterior.
+
+Derechos de Propiedad Intelectual: patentes, marcas comerciales, marcas de servicio, nombres comerciales y de servicios, nombres de dominio, derechos de autor,
+derechos de topografía, derechos de bases de datos, derechos de diseño, secretos comerciales y otros derechos de propiedad intelectual, derechos de propiedad o
+morales, estén o no registrados e incluyendo todas las solicitudes y derechos para solicitar registro, y todos los derechos similares o equivalentes, en cualquier parte
+del mundo.
+Uso no visible por parte de usuarios administrados: un servicio autorizado por CME que facilita el uso no visible de la información autorizada por CME por parte de
+un suscriptor que es una persona física.
+Uso no visible: uso no visible de la Información Autorizada de CME en cualquier sistema, proceso, programa, máquina o cálculo que no sea para mostrar o distribuir
+la Información Autorizada de CME para su visualización. Dicho uso puede incluir, entre otros, el cálculo de pérdidas y ganancias, la valoración de carteras, el
+procesamiento de órdenes, el uso dentro de sistemas de negociación automatizados y el enrutamiento automático de órdenes.
+Persona: significa cualquier persona física, empresa unipersonal, corporación, sociedad, compañía de responsabilidad limitada u otra organización.
+Dato Personal: cualquier información relativa a una persona física identificada o identificable.
+
+
+
+Centro de privacidad: el Centro de privacidad de CME Group Inc. en el sitio web de CME (actualmente ubicado en http://www.cmegroup.com/privacy­policy.html) según
+pueda modificarse de vez en cuando.
+Servicio: cualquier medio proporcionado por, o en nombre de, el Distribuidor o una entidad del Grupo de Distribuidores, a través del cual el Distribuidor Autorizado de CME
+La información se pone a disposición.
+Unidad de recuento: la unidad de medida que se utiliza para la evaluación de tarifas y/o informes. A menos que CME indique lo contrario, el Dispositivo es la Unidad de
+recuento predeterminada con respecto a la Información autorizada de CME. Si un Dispositivo está configurado para acceder a varios Servicios, entonces cada capacidad
+de acceder a un Servicio en ese Dispositivo será una Unidad de recuento; por ejemplo, una computadora portátil que ejecute tres (3) Servicios se contabilizará como tres
+(3) Dispositivos.
+A menos que el contexto requiera lo contrario:
+• las palabras que importan el singular incluirán el plural y viceversa;
+• las palabras que importen cualquier género incluirán los otros géneros y viceversa;
+• las referencias a la palabra “incluir” significarán “incluyendo, sin limitación” o “incluyendo, pero no limitado a”;
+• Los títulos utilizados son sólo para fines de referencia y no afectarán la interpretación de este Anexo para Suscriptores.
+
+3. TÉRMINO DEL ANEXO PARA SUSCRIPTOR
+3.1 Este Anexo para Suscriptores entra en vigencia a partir de la fecha en que la Información Autorizada de CME se puso a disposición por primera vez.
+Distribuidor de una entidad del Grupo de Suscriptores y continuará hasta su terminación de conformidad con las disposiciones del presente documento (el
+“Término del Anexo del Suscriptor”).
+
+4. RECEPCIÓN DE INFORMACIÓN AUTORIZADA POR CME POR PARTE DEL GRUPO DE SUSCRIPTORES
+4.1 Sujeto a los términos y condiciones de este Anexo del Suscriptor, durante el Plazo del Anexo del Suscriptor, el Grupo del Suscriptor
+se le permite acceder a la Información con Licencia de CME a través del Servicio y mostrar dicha Información con Licencia de CME en un Dispositivo
+para sus propias actividades comerciales internas.
+4.2 Todo uso no publicitario de la información autorizada por CME requiere una licencia directa con CME.
+
+5. CONTROLES INTERNOS
+5.1 EL SUSCRIPTOR GARANTIZA (EN SU PROPIO NOMBRE Y EN EL RESTO DEL GRUPO DEL SUSCRIPTOR) TANTO AL DISTRIBUIDOR COMO A
+CME, QUE DURANTE EL PLAZO DEL ADENDO DEL SUSCRIPTOR, EL GRUPO DEL SUSCRIPTOR DEBERÁ TENER EN TODO MOMENTO VIGENTE Y
+MANTENER CONTROLES INTERNOS EFECTIVOS DE ACUERDO CON LAS POLÍTICAS DE INFORMACIÓN DE CME, UTILIZANDO LA UNIDAD DE CME
+CONTARÁ Y MANTENDRÁ EVIDENCIA AUDITABLE DEL FUNCIONAMIENTO DE LOS CONTROLES INTERNOS Y DEL SUSCRIPTOR
+SE FAMILIARIZARÁ EN TODO MOMENTO CON DICHAS POLÍTICAS DE INFORMACIÓN.
+
+6. INFORMACIÓN SOBRE LA LICENCIA DE CME
+6.1 El suscriptor reconoce y acepta en nombre del Grupo del suscriptor que:
+(a) El Grupo de Suscriptores no redistribuirá la Información Autorizada de CME fuera del Grupo de Suscriptores. No obstante lo
+lo anterior, si alguna entidad dentro del Grupo de Suscriptores desea distribuir Información Autorizada de CME fuera del
+Grupo de suscriptores, el suscriptor debe solicitar permiso directamente a CME. Si CME aprueba dicha solicitud (en
+
+
+
+a su entera discreción), entonces cada entidad del Grupo de Suscriptores aplicable, debe estar autorizada bajo un acuerdo de licencia
+separado con CME directamente, para tener el derecho a distribuir la Información Autorizada de CME.
+(b) El Grupo de Suscriptores no deberá tergiversar la Información Autorizada de CME ni desfigurar o eliminar ninguna marca registrada transmitida
+con información autorizada de CME.
+(c) El Grupo de Suscriptores no accederá ni utilizará la Información Autorizada de CME para ningún propósito ilegal y acepta que cada entidad del
+Grupo de Suscriptores solo accederá o utilizará la Información Autorizada de CME de conformidad con las leyes y regulaciones de la
+jurisdicción en la que opera.
+(d) El Grupo Suscriptor no utilizará la Información Autorizada de CME ni ninguna parte de ella en la creación, distribución, liquidación o
+mantenimiento de ningún trabajo derivado (incluidos, entre otros, productos financieros, índices, cotizaciones, precios al contado, curvas,
+superficies, contratos por diferencia (CFD) y otros productos apalancados, futuros, opciones sobre futuros, valores de cartera optimizados
+indicativos (IOPV), valor del activo neto (NAV) o cifras de referencia analíticas o valores calculados a partir de la Información Autorizada de
+CME para fines de administración de fondos y servicios de gestión de cartera, servicios de gestión de riesgos o servicios de valoración
+basados en la Información) a menos que el Grupo Suscriptor esté autorizado para hacerlo por CME.
+
+(e) CME y sus licenciantes son titulares de todos los derechos, títulos e intereses en y sobre la Información Licenciada de CME y los Derechos de
+Propiedad Intelectual en la Información Licenciada de CME, y en el formato en el que CME transmite la Información Licenciada de CME. A
+excepción de la licencia limitada expresamente otorgada en el presente, todos los derechos no expresamente licenciados en virtud de este
+Anexo para Suscriptores están expresamente reservados para CME y sus licenciantes, y la propiedad y los Derechos de Propiedad Intelectual
+de las entidades del Grupo CME y otros licenciantes de CME no se transfieren, asignan ni afectan de ninguna manera por este Anexo para
+Suscriptores. El Suscriptor se compromete a que el Grupo de Suscriptores no realice minería de textos y datos, tal como se definen esos
+términos en la Directiva 2017/790 de la UE. El Suscriptor reconoce en nombre del Grupo de Suscriptores que la reserva de derechos por
+parte de CME y sus licenciantes en este Anexo para Suscriptores es apropiada.
+(f) Consiente el uso de los Datos Personales por parte de CME Group según se describe en el Centro de Privacidad, y declara y garantiza a CME
+Group que cada entidad del Grupo Suscriptor ha obtenido consentimientos válidos de aquellas personas a las que se refieren los Datos
+Personales o ha cumplido con una base legal aplicable, de conformidad con todas las leyes aplicables, a fin de garantizar que CME Group
+pueda procesar los Datos Personales, según lo previsto en este Anexo para Suscriptores y de conformidad con las leyes aplicables. El
+Suscriptor se asegurará de que cualquier transferencia de Datos Personales de cualquier entidad del Grupo Suscriptor a CME Group, a
+países distintos de aquellos en los que la persona proporcionó sus Datos Personales, satisfaga todas las leyes aplicables.
+
+(g) Si CME permite que el Grupo de Suscriptores redistribuya Información Autorizada de CME, de conformidad con la sección 6.1 (a) anterior, el
+Grupo de Suscriptores no distribuirá, ni permitirá la distribución, de Información Autorizada de CME a ninguna entidad ubicada en cualquier
+país sujeto a sanciones integrales por parte de la Oficina de Control de Activos Extranjeros y/o identificado en la Lista de Nacionales
+Especialmente Designados y Personas Bloqueadas del Departamento del Tesoro de los EE. UU.
+(h) El grupo de suscriptores no podrá utilizar la información de referencia salvo para su visualización en uno o más dispositivos.
+(i)
+
+Si el Suscriptor tiene licencia para la No Visualización de Información Autorizada de CME por parte de Usuarios Administrados (que para
+evitar dudas no incluirá la Información de Referencia), entonces el Suscriptor no utilizará la Información Autorizada de CME para ningún propósito.
+
+
+
+otro propósito (incluida la visualización de la Información Licenciada de CME en un Dispositivo y/o la creación de trabajos derivados), sin una licencia separada
+con CME o el Distribuidor.
+6.2 El suscriptor acepta la responsabilidad del cumplimiento por parte de los grupos de suscriptores de los términos de este anexo para suscriptores y
+hacer que el mismo cumpla con los términos del Anexo del Suscriptor.
+
+7. OBLIGACIONES DE INFORMACIÓN DEL SUSCRIPTOR
+7.1 El Grupo Suscriptor mantendrá libros y registros completos y precisos, relacionados con todas las Unidades de Conteo que tenían la capacidad
+para acceder a la Información Autorizada de CME (“Registros”), y conservar dichos Registros, durante el período más reciente de cinco (5) años.
+7.2 PARA EVITAR DUDAS, LA UNIDAD DE CONTEO PREDETERMINADA PARA FUTUROS Y OPCIONES EN LA INFORMACIÓN DE FUTUROS
+SIEMPRE ES EL DISPOSITIVO (A MENOS QUE CME INDIQUE LO CONTRARIO).
+
+7.3 Además de cualquier otra Unidad de Conteo que el Suscriptor esté obligado a informar al Distribuidor y (a menos que el Suscriptor haya acordado lo contrario directamente
+con CME), el Suscriptor está obligado a informar al Distribuidor (o directamente a CME si se lo solicita) en una fecha acordada entre el Suscriptor y el Distribuidor (o entre
+el Suscriptor y CME, según corresponda), el número máximo de Dispositivos dentro del Grupo del Suscriptor, que tienen la capacidad de acceder a la Información
+Autorizada de CME, cada mes, a través de cada Servicio que cubra cada Producto de Información Autorizado de CME. Por ejemplo, cuando la Información Autorizada de
+CME constituye Información sobre Futuros y Opciones sobre Futuros, si el Suscriptor tiene diez (10) Dispositivos que están habilitados para acceder al DCM de CBOT y
+cinco (5) de esos Dispositivos también están habilitados para acceder al DCM de NYMEX, entonces el Suscriptor debe informar diez (10) Dispositivos para CBOT y cinco
+(5) Dispositivos para NYMEX.
+
+Cuando el Dispositivo es la Unidad de recuento predeterminada para la Información autorizada de CME, se aplican las siguientes reglas:
+(a) El Grupo de Suscriptores debe informar la cantidad total de Servicios por Dispositivo único que esté autorizado por los Controles Internos para acceder a la
+Información Autorizada de CME, independientemente de si dicho Dispositivo realmente accedió a la Información Autorizada de CME. Por ejemplo, una
+computadora portátil que ejecute tres (3) Servicios se informará como tres (3) Dispositivos.
+(b) El Grupo de Suscriptores tiene estrictamente prohibido utilizar cualquier sistema de registro “basado en el uso” como medio para contar y
+Dispositivos de informe.
+(c) En los casos en que se utiliza el mismo Dispositivo tanto para visualización como para Uso sin visualización, el informe del Suscriptor sobre dicho Dispositivo al
+Distribuidor según los términos de este Anexo para Suscriptores no exime al Suscriptor de su obligación de obtener una licencia con CME directamente para el
+Uso sin visualización (a menos que el Suscriptor tenga una licencia directa con el Distribuidor para Uso sin visualización de Usuario Administrado) y cualquier
+obligación de informe adicional en virtud de la misma para la actividad de Uso sin visualización.
+
+(d) En relación con los casos en los que se habilite un ID de acceso para acceder simultáneamente a la Información con Licencia de CME a
+través de múltiples Dispositivos, el Suscriptor debe informar la cantidad total de Dispositivos en los que se ha habilitado cada ID de
+acceso para acceder a la Información con Licencia de CME, por Servicio. Para ver ejemplos, consulte las guías de Unidad de recuento
+disponibles en el Centro de educación sobre políticas de datos de mercado de CME https://www.cmegroup.com/market­data/license­
+data/market­data­ policy­education­center.html.
+(e) El Grupo de Suscriptores tiene estrictamente prohibido combinar Unidades de Dispositivo de Conteo entre Servicios o usuarios únicos, sin
+el permiso expreso por escrito de CME.
+
+
+
+7.4 El Suscriptor será responsable ante CME y el Distribuidor por cualquier Unidad de Conteo no declarada identificada como que tiene la capacidad de acceder
+Información autorizada de CME.
+
+8. AUDITORÍAS
+8.1 No obstante lo dispuesto en el Contrato de Distribución, durante el Plazo de la Adenda del Suscriptor y por un período de
+
+No menos de veinticuatro (24) meses después, el Suscriptor debe presentar, cuando se le solicite, los Registros y libros y registros completos y precisos
+relacionados con los Controles Internos, correspondientes al período de cinco (5) años más reciente. El Distribuidor o CME o sus representantes
+autorizados (el “Auditor”), pueden inspeccionar el equipo, el software y los Registros para verificar el cumplimiento de este Anexo del Suscriptor.
+
+8.2 Las auditorías podrán ser realizadas por el Auditor, en cualquier ubicación del Grupo del Suscriptor, durante el horario comercial, durante el horario de atención al público del Suscriptor.
+
+Adenda Plazo y hasta veinticuatro (24) meses siguientes a la terminación:
+(a) una vez cada doce (12) meses con un aviso de no menos de treinta (30) días; y
+(b) sin previo aviso y más de una vez en cualquier período de doce (12) meses, si el Distribuidor o CME, razonablemente
+sospecha de un incumplimiento sustancial del Anexo para suscriptores por parte de cualquier entidad del Grupo de suscriptores. Toda la información observada
+Durante una auditoría se tratarán de acuerdo con las disposiciones de confidencialidad del presente documento y se utilizarán únicamente para verificar
+cumplimiento del Anexo del Suscriptor. CME o el Distribuidor o cualquiera de sus agentes, cumplirán con
+Normas y regulaciones de seguridad y protección razonables del suscriptor en todo momento cuando se encuentre en el sitio de un grupo de suscriptores.
+Ubicación durante toda la auditoría.
+8.3 El Suscriptor debe pagar cualquier tarifa pendiente revelada por una auditoría a CME y al Distribuidor, dentro de los treinta (30) Días posteriores a la recepción de una
+factura de CME o del Distribuidor y estará sujeto a un interés del 1,5 % mensual o el máximo permitido, el que sea menor.
+por ley.
+8.4 Si el Auditor identifica una falta de registros o una falla en los Controles Internos de tal manera que la cantidad de acceso no declarado a la Información Autorizada de CME
+durante el período de auditoría y los honorarios aplicables no se pueden establecer con una certeza razonable o no se pueden acordar entre las Partes, CME o el
+Distribuidor pueden designar un auditor profesional independiente para determinar los honorarios adeudados al Distribuidor o a CME a cargo y costo exclusivo del
+Suscriptor. El Distribuidor o CME y el Suscriptor aceptarán la determinación del auditor profesional independiente designado.
+
+8.5 Si una auditoría revela un pago insuficiente, el Suscriptor deberá asumir los costos y gastos razonables de la auditoría.
+
+9. TERMINACIÓN
+9.1 Cualquiera de las Partes podrá rescindir este Anexo del Suscriptor, o cualquier licencia individualmente:
+(a) Mediante aviso escrito con treinta (30) días de anticipación; o
+
+(b) Con efecto inmediato mediante notificación escrita si:
+(i) La otra Parte entra en liquidación obligatoria o voluntaria, tiene un síndico designado, presenta una
+solicitar su liquidación (o tiene una petición de este tipo presentada por un acreedor)
+(ii) La otra Parte comete un incumplimiento material e irremediable de cualquier término de este Anexo del Suscriptor, que
+incluye, pero no se limita a, las siguientes infracciones por parte del Suscriptor: tergiversación de la Licencia de CME
+Información; falta de uso de controles internos efectivos; falta de prevención, identificación o finalización del uso no autorizado,
+distribución o redistribución de información autorizada de CME; o
+
+
+
+(iii) La otra Parte no subsana un incumplimiento sustancial dentro de los treinta (30) Días siguientes a la notificación escrita para hacerlo.
+9.2 Este Anexo del Suscriptor o cualquier licencia individualmente terminará automáticamente, con efecto inmediato, si el Distribuidor
+los derechos para sublicenciar la Información Licenciada de CME se revocan parcial o totalmente.
+9.3 Este Anexo del Suscriptor terminará automáticamente si el Acuerdo de Distribución en sí mismo expira o se termina por
+cualquier razón
+
+10. TARIFAS
+10.1 El Suscriptor pagará al Distribuidor por el derecho a recibir la Información Autorizada de CME, de acuerdo con el Acuerdo de Distribución.
+Términos y condiciones del acuerdo.
+10.2 En ocasiones, se le puede solicitar al Suscriptor que pague directamente a CME por el acceso y uso de la Información Licenciada de CME.
+En tales circunstancias, cualquier tarifa pagada a CME deberá estar cubierta por un acuerdo escrito separado.
+entre CME y el Suscriptor, pero solo cubrirá la recepción de la Información Licenciada de CME identificada en ese acuerdo separado.
+acuerdo y no cualquier otro dato de mercado recibido por el Grupo Suscriptor de conformidad con los términos de la Distribución
+Acuerdo.
+
+11. PACTOS, REPRESENTACIONES Y GARANTÍAS DEL SUSCRIPTOR
+11.1
+
+El Suscriptor, por sí mismo y en nombre del resto del Grupo del Suscriptor, acuerda, declara y garantiza que:
+(a) El Grupo de Suscriptores no se dedica (a menos que CME lo apruebe por escrito) al negocio de distribución de CME
+Información Autorizada y que, según su conocimiento después de una investigación razonable, está recibiendo la Información Autorizada de CME.
+Información del Distribuidor autorizado por CME para distribuir la Información Licenciada de CME.
+(b) El Grupo de Suscriptores no utilizará ni permitirá que ninguna otra persona utilice la Información Autorizada de CME para ningún propósito ilegal.
+y que cada entidad del Grupo de Suscriptores solo accederá o utilizará la Información Autorizada de CME, de conformidad con
+las leyes y reglamentos de la jurisdicción en la que operan.
+
+12. CME GROUP COMO TERCERO BENEFICIARIO
+12.1 El Distribuidor y el Suscriptor reconocen y aceptan que CME Group (solamente) son terceros beneficiarios de este
+Adenda del Suscriptor, y tienen derecho a todos los derechos y beneficios aquí establecidos, y pueden hacer cumplir las disposiciones de esta Adenda del
+Suscriptor directamente contra el Distribuidor y el Grupo del Suscriptor, como si fueran parte del mismo.
+
+13. LIMITACIONES DE RESPONSABILIDAD Y DAÑOS
+13.1 SUSCRIPTOR (EN NOMBRE Y POR PARTE DEL GRUPO DEL SUSCRIPTOR) Y DISTRIBUIDOR (EN NOMBRE Y POR PARTE DEL DISTRIBUIDOR)
+GRUPO) ACUERDA:
+(a) QUE EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, NINGUNA ENTIDAD DEL GRUPO CME, NI NINGUNA DE SUS RESPECTIVAS
+LOS FUNCIONARIOS, DIRECTORES, MIEMBROS, EMPLEADOS, AGENTES, CONSULTORES O LICENCIATARIOS SERÁN RESPONSABLES DE: (A)
+CUALQUIER DEMORA, INEXACTITUD, ERROR, OMISIÓN O INTERRUPCIÓN DE CUALQUIER TIPO EN RELACIÓN CON EL CME
+INFORMACIÓN CON LICENCIA O POR CUALQUIER PÉRDIDA O DAÑO RESULTANTE; O (B) PÉRDIDA O DAÑO QUE SURJA DE
+ACCESO NO AUTORIZADO O USO INDEBIDO DE LA INFORMACIÓN LICENCIADA POR CME.
+
+
+
+(b) SALVO LO EXPRESAMENTE ESTABLECIDO EN ESTA SECCIÓN, NINGUNA ENTIDAD DE CME GROUP NI NINGÚN LICENCIANTE DE CME GROUP,
+CUALQUIER REPRESENTACIÓN O GARANTÍA Y CADA UNO POR EL PRESENTE RENUNCIA Y NO TENDRÁ NINGUNA RESPONSABILIDAD POR TODAS
+OTRAS REPRESENTACIONES Y GARANTÍAS, EXPRESAS O IMPLÍCITAS, INCLUYENDO, SIN LIMITACIÓN, LAS
+COMERCIABILIDAD, CALIDAD DE LA INFORMACIÓN LICENCIADA POR CME O SU IDONEIDAD PARA UN PROPÓSITO PARTICULAR,
+SERVICIO ININTERRUMPIDO O SERVICIO SIN ERRORES, O LA SECUENCIA, OPORTUNIDAD, PRECISIÓN O
+INTEGRIDAD DE LA INFORMACIÓN AUTORIZADA POR CME. LA INFORMACIÓN AUTORIZADA POR CME SE PROPORCIONA EN UNA "FORMA
+ES” BASICO POR CUENTA Y RIESGO EXCLUSIVO DEL GRUPO DE SUSCRIPTORES
+
+(c) QUE EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, EN NINGUNA CIRCUNSTANCIA NINGUNA ENTIDAD DEL GRUPO CME O
+CUALQUIERA DE SUS RESPECTIVOS FUNCIONARIOS, DIRECTORES, MIEMBROS, EMPLEADOS, AGENTES, CONSULTORES O LICENCIATARIOS
+SER RESPONSABLE EN VIRTUD DEL PRESENTE DOCUMENTO ANTE CUALQUIER ENTIDAD DEL GRUPO DISTRIBUIDOR O DEL GRUPO DE SUSCRIPTOR O ANTE OTROS DIRECTA O
+
+HACER USO INDIRECTO DE LA INFORMACIÓN CON LICENCIA DE CME, POR CUALQUIER PÉRDIDA DE BENEFICIOS, INDIRECTA, INCIDENTAL,
+DAÑOS ESPECIALES, EJEMPLARES O CONSECUENTES QUE SURJAN DE ESTE ACUERDO, INCLUSO SI CUALQUIER
+LA ENTIDAD DEL GRUPO DISTRIBUIDOR O DEL GRUPO SUSCRIPTOR HA SIDO ADVERTIDA DE LA POSIBILIDAD DE ELLO E INCLUSO
+SI SE DEBE A ERROR, OMISIÓN O NEGLIGENCIA DE CME.
+(d) SI LA EXENCIÓN DE RESPONSABILIDAD Y LA LIMITACIÓN DE RESPONSABILIDAD ANTERIORES SE CONSIDERARAN INVÁLIDAS O INEFICACES POR
+ANTE UN TRIBUNAL DE JURISDICCIÓN COMPETENTE, NI CME GROUP, NI SUS RESPECTIVOS MIEMBROS, DIRECTORES,
+LOS FUNCIONARIOS, EMPLEADOS O AGENTES SERÁN RESPONSABLES DE CUALQUIERA DE LOS ANTERIORES MÁS ALLÁ DEL MONTO REAL
+DE PÉRDIDA O DAÑO, O LA SUMA DE CINCUENTA DÓLARES ($50.00), LO QUE SEA MENOR.
+
+14. CONFIDENCIALIDAD
+14.1 La Información Confidencial será mantenida en confidencialidad por la parte receptora y no será divulgada sin el consentimiento de la parte divulgadora a ningún tercero,
+excepto a cualquier entidad de CME Group, licenciantes de CME Group y cualquier entidad de Distribuidor o Grupo Suscriptor, y cada uno de sus respectivos agentes,
+consultores y asesores externos, siempre que estén sujetos a disposiciones de confidencialidad sustancialmente similares a las establecidas en este Anexo para
+Suscriptores.
+14.2 La Información Confidencial no incluye Información que:
+
+(a) en el momento de la divulgación ya esté disponible públicamente;
+(b) ya es conocida por la parte receptora antes de su divulgación por la parte divulgadora;
+(c) después de que la divulgación se haga pública sin culpa de la parte receptora;
+(d) llegue a ser legítimamente conocida por cualquiera de las Partes sin restricción alguna a partir de otra fuente;
+(e) es desarrollada independientemente por la parte receptora sin utilizar la Información Confidencial de la parte reveladora;
+o
+
+(f) se requiere divulgar por orden de autoridades legales o regulatorias, o se solicita por acción de agencia de una autoridad regulatoria con jurisdicción sobre la parte
+receptora, siempre que la parte receptora proporcione un aviso razonable a la parte divulgadora de dicha divulgación requerida y coopere razonablemente con
+la parte divulgadora para prevenir o limitar dicha divulgación.
+
+15. MODIFICACIÓN
+
+
+
+15.1 Sin perjuicio de cualquier disposición en contrario en el presente documento, el Distribuidor y CME podrán modificar y enmendar este Anexo para suscriptores
+en cualquier momento, y el Suscriptor acepta que el Grupo de suscriptores quedará obligado por dichos términos al recibir la notificación correspondiente. El
+Suscriptor podrá rescindir el Anexo para suscriptores con diez (10) días de anticipación mediante notificación electrónica o escrita luego de dicha modificación
+o enmienda. Al continuar accediendo o utilizando la Información autorizada de CME después de que el Distribuidor o CME hayan notificado al Suscriptor la
+modificación, el Suscriptor indica en nombre del Grupo de suscriptores que el Grupo de suscriptores acepta quedar obligado por el Anexo para suscriptores
+modificado.
+
+16. MISCELÁNEOS
+16.1 Si alguna parte, término o disposición de este Anexo del Suscriptor se considera ilegal, inválida o inaplicable, la validez o
+La aplicabilidad del resto del Anexo del Suscriptor no se verá afectada.
+16.2 El incumplimiento por parte de cualquiera de las Partes (incluido CME Group) de ejercer cualquier derecho o recurso en virtud de este Anexo del Suscriptor o en
+La ley no impedirá cualquier ejercicio ulterior de ese derecho o recurso.
+16.3 En caso de conflicto entre los términos y condiciones de este Anexo para suscriptores y cualquier otro acuerdo relacionado con la recepción y el uso por parte
+del suscriptor de la información autorizada de CME, incluido, entre otros, el Acuerdo de distribución, prevalecerán los términos y condiciones de este Anexo
+para suscriptores. No obstante lo anterior, CME puede modificar sus políticas de información en cualquier momento mediante un aviso por escrito con al
+menos treinta (30) días de anticipación al Distribuidor y al Grupo de suscriptores para cumplir con dichas modificaciones.
+
+16.4 En caso de terminación del Anexo para suscriptores, el Grupo de suscriptores deberá interrumpir el uso de la Información autorizada de CME y eliminar toda la
+Información autorizada de CME recibida en virtud de este Anexo para suscriptores, incluida, entre otras, cualquier Información autorizada de CME almacenada.
+No obstante lo anterior, el Grupo de suscriptores podrá conservar la Información autorizada de CME con el único fin de cumplir con las obligaciones
+regulatorias del Grupo de suscriptores y solo durante el tiempo que sea necesario para cumplir con dichos requisitos, y no deberá utilizar la Información
+autorizada de CME para ningún otro fin durante este período.
+
+17. SUPERVIVENCIA
+17.1 Las Definiciones, Sección 12 (CME Group como Beneficiario de Terceros), Sección 13 (Limitación de Responsabilidad y Daños), Sección 17 (Supervivencia),
+Sección 18 (Ley Aplicable y Jurisdicción), aquellas secciones relacionadas con los Derechos de Propiedad Intelectual de CME en la Información Licenciada
+de CME y, Secciones que por su naturaleza, deberían razonablemente sobrevivir, y cualquier modificación a las disposiciones de las mencionadas
+anteriormente, sobrevivirán a cualquier terminación o vencimiento de este Anexo del Suscriptor.
+
+18. LEY APLICABLE Y JURISDICCIÓN
+18.1 Este Anexo para suscriptores se regirá por las leyes internas del estado de Illinois y las leyes federales de los Estados Unidos, sin tener en cuenta los principios
+de conflicto de leyes. Las partes aceptan y se someten a la jurisdicción y competencia exclusivas de los tribunales estatales ubicados en el condado de Cook,
+Illinois, y del Tribunal de Distrito de los Estados Unidos para el Distrito Norte de Illinois.

@@ -1,0 +1,466 @@
+Tecnologías TradeStation, Inc.
+Acuerdo de suscripción
+
+Lea atentamente este documento. Este es un acuerdo legal (“Acuerdo”) entre usted y TradeStation Technologies, Inc.
+(“Licenciante”) que cubre los términos y condiciones de su derecho y licencia de uso permitidos, y sus promesas y obligaciones
+con respecto a su uso de (“Suscripción”):
+(A) uno o más software o aplicaciones electrónicas, programas, interfaces y otras herramientas funcionales (para gráficos,
+investigación, análisis, simulación de operaciones, visualización y procesamiento de información, etc.) de propiedad o marca
+TradeStation® (incluidos los de marca blanca bajo una licencia del Licenciante o una filial del Licenciante de un tercero; un
+“Licenciante de terceros”) , ya sean descargables, basados en la web, en un teléfono móvil o mediante una aplicación móvil, y
+ya sea basados en servidor, en la nube o en un entorno virtual (el “Software”);
+
+junto con
+(B) intercambio de mercado y otros datos de mercado o financieros, noticias e información comercial (“Datos”) puestos a
+disposición por el Licenciante o sus proveedores de datos, que incluyen acciones, opciones, futuros y otros valores, bolsas de
+materias primas o derivados (“Bolsas”), y otros proveedores de Datos (colectivamente, incluyendo las Bolsas, e incluyendo al
+Licenciante con respecto a cualquiera de sus propios Datos, los “Proveedores de Datos”), y distribuidos, redistribuidos o puestos
+a su disposición de otro modo a través del Software.
+Su suscripción puede ser únicamente una suscripción de gráficos, investigación y análisis, o una utilizada junto con una cuenta
+de corretaje en línea ofrecida por un afiliado del Licenciante (un "Afiliado de corretaje"), y cada uno de dichos Afiliados de
+corretaje está autorizado a ofrecerle la Suscripción y este Acuerdo cuando solicite una cuenta con dicho Afiliado de corretaje.
+
+Al aceptar este Acuerdo (como parte de una solicitud en línea o cualquier otro proceso de registro), usted acepta estar legalmente
+obligado por los términos de este Acuerdo. Usted comprende y acepta que este Acuerdo tiene la misma fuerza y efecto legal
+vinculante que un contrato firmado con tinta y entregado en persona. Además, usted reconoce y acepta que lo anterior se aplica
+por igual a cualquier licencia u otro acuerdo de Terceros Licenciantes o Proveedores de Datos que deba reconocer o aceptar
+cuando inicie sesión en el Software.
+
+ESTE ACUERDO NO CUBRE NI SE RELACIONA CON LA APERTURA DE UNA CORREDURÍA
+CUENTA O SERVICIOS DE CORRETAJE O TRANSACCIONES DE CUALQUIER TIPO. TODOS LOS ASUNTOS RELACIONADOS
+CON LOS SERVICIOS Y TRANSACCIONES DE CORRETAJE ESTÁN CUBIERTOS POR ACUERDOS ENTRE USTED Y LA
+EMPRESA AFILIADA DE CORRETAJE CON LA QUE HA FIRMADO O DE OTRO MODO ACEPTADO UNA CUENTA DE CLIENTE
+SEPARADA.
+
+1. CONCESIÓN DE LICENCIA.
+(a) El Licenciante le otorga una licencia no exclusiva para utilizar el Software y los Datos incluidos en la Suscripción en una
+única terminal informática (en cualquier momento). Si el Software o los Datos se utilizan en una red, cada individuo que acceda
+al Software o los Datos a través de la red debe tener una licencia de Software y Datos independiente para ese individuo o
+suscrita por él (es decir, debe haber una licencia de Software y Datos independiente para ese individuo).
+
+Tecnologías TradeStation, Inc.
+Acuerdo de suscripción
+
+Suscripción habilitada por persona). El Licenciante podrá cancelar su Suscripción inmediatamente, con o sin previo aviso,
+si usted no realiza algún pago requerido o viola alguna disposición de este Acuerdo o de cualquier otro acuerdo que tenga
+con el Licenciante, o cualquiera de los Afiliados de Corretaje (u otro afiliado del Licenciante), o cualquiera de los
+Proveedores de Datos, incluyendo cualquier Bolsa. El Licenciante también tiene el derecho de cancelar su Suscripción
+en cualquier momento, por cualquier razón legal o sin razón declarada, con o sin previo aviso, en la máxima medida
+permitida por las leyes aplicables. Este Acuerdo y la licencia y los derechos otorgados no pueden ser transferidos,
+asignados, arrendados, alquilados, sublicenciados o transferidos de otra manera por usted. En ningún caso usted podrá
+utilizar el Software o los Datos para, o en conexión con, ningún propósito ilegal.
+
+(b) Suponiendo que usted cumple con todas las reglas y regulaciones de “profesionales” y “no profesionales” (como se explica más adelante en este
+Acuerdo), también se le otorga una licencia no exclusiva e intransferible para usar reproducciones precisas de capturas de pantalla estáticas de gráficos
+que muestra el Software en relación con su negocio, únicamente con fines ilustrativos o informativos, y solo si su negocio está relacionado con el análisis
+de inversiones (como un sitio web de análisis de inversiones, un boletín o libro financiero, etc.). Para utilizar este derecho, no puede afirmar ni dar a
+entender de ninguna manera que el Licenciante lo respalda a usted, a su empresa o a cualquiera de sus productos o servicios, que el uso de cualquier
+producto o servicio de un Afiliado de corretaje garantizará ganancias, mayores ganancias o minimización de pérdidas, o que el Licenciante o los Afiliados
+de corretaje recomiendan algún enfoque, sistema, estrategia o tipo de cuenta de negociación en particular. Además, cada captura de pantalla reproducida
+debe mostrarse bajo un título destacado que diga “TradeStation Technologies, Inc. Todos los derechos reservados”. La captura de pantalla no puede
+modificarse ni presentarse de manera que induzca o pueda inducir al espectador a creer que el software tiene capacidades que no tiene. El licenciante
+puede rescindir esta licencia en cualquier momento y por cualquier motivo, previa notificación de dicha rescisión. EN NINGÚN CASO SE PUEDE
+DIFUSIONAR NINGÚN DATO PARA USO EXTERNO.
+
+(c) Obtendrá una contraseña de suscripción que le permitirá utilizar el software y los datos (su “contraseña”). Usted acepta
+mantener la confidencialidad de su contraseña y no revelarla a nadie más, publicarla ni permitir que nadie más la utilice.
+Usted reconoce y acepta que, además de proporcionar su contraseña única, el licenciante puede implementar medidas
+técnicas que permitan a los afiliados de corretaje verificar su cumplimiento de los términos de este acuerdo, así como la
+autenticación de que usted es el usuario, como la autenticación multifactor o 2FA, que puede, a discreción del licenciante,
+ser una función opcional que puede seleccionar o ser necesaria para cada inicio de sesión o en algún otro momento
+determinado.
+2. PROPIEDAD Y DERECHOS DE AUTOR
+El Software ha sido desarrollado por o para el Licenciante o, si está utilizando el Software de un Licenciante de terceros,
+por o para dicho Licenciante de terceros. Los Datos han sido recopilados, formateados y suministrados por el Licenciante
+(o sus afiliados) y/o los Proveedores de datos, y se le ofrecen de conformidad con las licencias o sublicencias otorgadas
+por el Licenciante o los Proveedores de datos. El Software y los Datos fueron desarrollados, compilados, preparados,
+revisados, seleccionados y organizados por el Licenciante (o Licenciantes de terceros, cuando corresponda) y los
+Proveedores de datos mediante la aplicación de métodos y estándares de
+
+Tecnologías TradeStation, Inc.
+Acuerdo de suscripción
+El Software y los Datos, desarrollados y aplicados mediante la inversión de tiempo, esfuerzo y dinero sustanciales, constituyen
+propiedad industrial y secretos comerciales confidenciales y valiosos, y están protegidos por las leyes de derechos de autor
+de los Estados Unidos y las disposiciones de tratados internacionales, así como otras leyes y tratados de propiedad intelectual.
+Todos los títulos y derechos de autor en y para el Software y los Datos y cualquier material impreso adjunto son propiedad
+del Licenciante o, según corresponda, de Licenciantes de terceros o los Proveedores de datos (o sus proveedores). Usted
+acepta no duplicar, reproducir, publicar, retransmitir o redistribuir el Software o los Datos, excepto que se permita
+específicamente de otra manera en este Acuerdo. No puede ofrecer o transmitir directa o indirectamente todo o parte del
+Software o los Datos a terceros, ya sea por suscripción, licencia, venta o de otra manera. No puede modificar, traducir, aplicar
+ingeniería inversa, descompilar o desensamblar el Software o los Datos.
+
+3. PAGO
+(a) Las tarifas, los cargos y los términos de pago (en conjunto, las “Tarifas”), si los hubiera, para el Software y/o los Datos se
+le informarán en el proceso de solicitud de su Suscripción (incluido el proceso de solicitud de una cuenta con una Afiliada de
+Corretaje en la que se incluye este Acuerdo), o en el sitio web de una empresa de TradeStation, o como parte de su proceso
+de inicio de sesión, o según se publique de otro modo en el Software o en el centro de atención al cliente de una empresa de
+TradeStation. Las Tarifas pueden cambiar en cualquier momento y de vez en cuando, y se publicarán en el sitio web de una
+empresa de TradeStation, o en el centro de atención al cliente de una empresa de TradeStation, o como notificaciones en el
+Software, o por correo electrónico u otros medios electrónicos, o cualquier otro método adecuado. Su uso del Software o los
+Datos después de cualquier cambio en las Tarifas constituye su aceptación incondicional e irrevocable de dichos cambios.
+
+(b) Usted acepta pagar en su fecha de vencimiento todas las Tarifas correspondientes a su Suscripción. Si su Suscripción se
+utiliza en relación con los servicios de un Afiliado de Corretaje, dicho Afiliado de Corretaje está autorizado a ofrecerle la
+Suscripción y este Acuerdo, y usted autoriza por la presente a dicho Afiliado de Corretaje a debitar de cualquier cuenta que
+usted tenga con dicho Afiliado de Corretaje el monto total de todas las Tarifas (si se cobran), antes del período o períodos a
+los que se refiere el uso que usted hace de su Suscripción. Dicho Afiliado de Corretaje, a su discreción, no podrá cobrarle
+ningún monto por separado por el uso que usted haga de su Suscripción.
+Para evitar dudas, cualquier tarifa o cargo que un Afiliado de corretaje debite a su cuenta de corretaje que se relacione con
+su nivel de actividad o financiamiento de la cuenta no debe interpretarse como, y no es, independientemente de cómo se
+denomine, Tarifas por esta Suscripción, sino que es más bien una tarifa por inactividad o baja actividad que dicho Afiliado de
+corretaje le cobra de manera incidental a los productos o servicios que dicho Afiliado de corretaje le proporciona.
+
+(c) Si usted debe pagar alguna Tarifa por separado por esta Suscripción, independientemente de quién se la cobre, no se le
+exigirá que se le haga ningún reembolso ni reembolso prorrateado. Sus Tarifas corresponden al acceso permitido al Software
+y a los Datos, y no cambian, no se reducen ni se prorratean en función de su inicio de sesión real o del uso que haga del
+Software o de los Datos, incluso si rara vez o nunca los usa, y sus promesas y obligaciones en virtud de este Acuerdo son las
+mismas independientemente de que se le cobren Tarifas o no.
+Además, todos y cada uno de los impuestos de venta o uso aplicables, así como todas las tarifas y cargos de cambio aplicables (a menos que
+
+
+Tecnologías TradeStation, Inc.
+Acuerdo de suscripción
+incluido expresamente en su Suscripción sin cargo adicional), será su responsabilidad y deberá pagarlo en su totalidad y en
+tiempo y forma, generalmente antes de la prestación de los servicios.
+(d) Si paga al Licenciante por su Suscripción con tarjeta de crédito, por la presente autoriza al Licenciante o a su filial a utilizar
+la información de la tarjeta de crédito que usted le proporcionó al Licenciante o a su filial con el fin de cumplir con sus
+obligaciones de pago en virtud de este Acuerdo. Además, declara y garantiza que (i) la información de la tarjeta de crédito que
+proporcionó (número de tarjeta, fecha de vencimiento y nombre del titular de la tarjeta) es precisa y válida en todos los
+aspectos y está legalmente autorizada para su uso, y que está proporcionando la información de su tarjeta de crédito al
+Licenciante con la plena intención y la expectativa de que se carguen en su tarjeta de crédito todos los Cargos; y que (ii) dicha
+tarjeta de crédito le pertenece o ha sido autorizada para su uso por el titular válido de la tarjeta. Al vencimiento de su tarjeta
+de crédito, deberá notificar al Licenciante la nueva fecha de vencimiento de la tarjeta de crédito y toda otra información nueva
+relevante relacionada con la nueva tarjeta de crédito. Consulte la Declaración de privacidad publicada mediante un enlace
+desde los sitios web de la empresa TradeStation, que usted reconoce haber leído y comprendido.
+
+(e) Los pagos que no se reciban en sus fechas de vencimiento, independientemente de la causa (a menos que la causa sea
+únicamente culpa del Licenciante o una de sus filiales), estarán sujetos a un cargo por pago atrasado igual al monto del cargo
+por pago atrasado vigente en ese momento del Licenciante, que no excederá la tasa más alta permitida por la ley aplicable.
+Los pagos devueltos al Licenciante por falta de fondos también generarán un cargo por servicio equivalente al cargo máximo
+permitido por cheque devuelto según la ley de Florida. A partir de entonces, se le cobrarán intereses a la tasa de interés legal
+máxima sobre cualquier saldo impago.
+4. CONDICIÓN PROFESIONAL/NO PROFESIONAL.
+Con respecto a los productos o servicios que involucran la recepción de información del mercado financiero, si usted afirma
+que es un Suscriptor No Profesional o un “No Profesional”, usted declara y garantiza que cumple con todos los requisitos de
+Exchange para calificar como Suscriptor No Profesional, y que las siguientes declaraciones son y seguirán siendo verdaderas
+mientras reciba acceso a la información o los servicios de conformidad con los términos y condiciones de este Acuerdo:
+
+(a) Usted celebra este Acuerdo a título individual y no en nombre de una empresa, corporación, sociedad, fideicomiso o
+asociación.
+(b) Usted deberá utilizar la información y los servicios únicamente en relación con sus propias actividades de inversión
+personales e individuales y no en relación con ninguna actividad comercial o empresarial.
+(c) No deberá proporcionar la información o los servicios recibidos a ninguna otra persona.
+(d) Usted no es un corredor de bolsa de valores, asesor de inversiones, comerciante de comisiones de futuros, corredor de
+introducción de materias primas o asesor de comercio de materias primas, representante registrado, asociado o empleado de
+ninguno de los anteriores, miembro de una bolsa o asociación de valores o mercado de contratos de futuros, o propietario,
+socio o persona asociada de ninguno de los anteriores.
+
+
+Tecnologías TradeStation, Inc.
+Acuerdo de suscripción
+
+(e) No es empleado de un banco o una compañía de seguros o una filial de cualquiera de ellos, ni de ninguna otra organización
+que realice funciones comerciales relacionadas con la inversión o actividad comercial de valores o futuros de materias primas.
+
+Si alguna de las afirmaciones anteriores no es cierta para usted o su situación, entonces su estado es Profesional o “Pro” y debe
+registrarse para su Suscripción como tal. Usted reconoce y acepta que si su estado con respecto a cualquiera de las afirmaciones
+anteriores se ve afectado o cambia de alguna manera, deberá notificar inmediatamente al Licenciante por escrito sobre dicho
+cambio de estado o posición. Además de otros recursos disponibles para el Licenciante y los Proveedores de Datos (incluidos
+los Intercambios), usted será responsable ante el Licenciante y los Proveedores de Datos (incluidos los Intercambios) por la
+diferencia entre las tarifas y los costos pagados por usted y las tarifas y los costos aplicables a los Suscriptores Profesionales
+por el mismo tipo de información y servicios que usted recibió indebidamente como Suscriptor No Profesional, más las sanciones
+gubernamentales y de Intercambio aplicables, más los intereses calculados a una tasa del 1,5% mensual (o, si es menor, la tasa
+más alta permitida por la ley aplicable), y usted autoriza irrevocablemente al Licenciante a cargar en su tarjeta de crédito y en
+cualquier Afiliado de Corretaje con el que tenga una cuenta en relación con la cual se le permita usar su Suscripción para debitar
+su cuenta de corretaje, todos y cada uno de dichos montos. Usted comprende y acepta que toda la información biográfica y de
+registro que proporcione al Licenciante o sus afiliados en relación con este tema puede ser examinada por las Bolsas
+correspondientes, y que el Licenciante, los Afiliados de Corretaje y los Proveedores de Datos pueden, y probablemente
+realizarán, búsquedas e investigaciones para verificar la veracidad y precisión de cualquier información que usted proporcione y
+las declaraciones que haga en relación con un reclamo suyo de estado "no profesional".
+
+5. PROBLEMAS Y MODIFICACIONES DEL SOFTWARE.
+Si alguno de los Proveedores de Datos que proporcionan Datos deja de proporcionarlos de una manera que sea compatible con
+el Software o cualquier software o hardware de equipo de recepción/transmisión, el Licenciante puede rescindir la inclusión y
+entrega en la Suscripción de la cantidad de Datos que se vean afectados, sin previo aviso, sin incurrir en ninguna responsabilidad
+hacia usted y sin ningún cambio en ninguna de sus obligaciones de pago u otras. Además, el Software (que, entre otras cosas,
+determina la funcionalidad y la apariencia de la mayoría, si no todas, las características de la Suscripción) puede modificarse o
+reemplazarse de vez en cuando, en su totalidad o en parte, sin previo aviso y sin incurrir en ninguna responsabilidad hacia
+usted, y sin ningún cambio en ninguna de sus obligaciones de pago u otras.
+
+6. SIN GARANTÍAS.
+EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, EL LICENCIANTE, TODOS LOS LICENCIANTES DE TERCEROS, TODOS LOS AFILIADOS
+DE CORRETAJE, TODOS LOS PROVEEDORES DE DATOS Y TODOS SUS RESPECTIVOS PROVEEDORES Y AFILIADOS, NIEGAN TODAS
+LAS GARANTÍAS, YA SEAN EXPRESAS O IMPLÍCITAS, INCLUYENDO, PERO NO LIMITÁNDOSE A, LAS GARANTÍAS DE COMERCIABILIDAD
+E IDONEIDAD PARA UN USO O PROPÓSITO PARTICULAR.
+
+Tecnologías TradeStation, Inc.
+Acuerdo de suscripción
+
+7. NO HAY RESPONSABILIDAD POR DAÑOS CONSECUENTES, INCIDENTALES O INDIRECTOS; RESPONSABILIDAD TOTAL LÍMITE.
+
+(a) EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEY, EN NINGÚN CASO EL LICENCIANTE, CUALQUIER LICENCIANTE DE TERCEROS,
+CUALQUIER AFILIADO DE CORRETAJE, CUALQUIER PROVEEDOR DE DATOS O CUALQUIERA DE SUS RESPECTIVOS PROVEEDORES Y
+AFILIADOS SERÁN RESPONSABLES POR CUALQUIER DAÑO ESPECIAL, INCIDENTAL, INDIRECTO O CONSECUENTE DE CUALQUIER
+TIPO (INCLUIDOS, SIN LIMITACIÓN, DAÑOS POR PÉRDIDA DE BENEFICIOS, PÉRDIDA DE INFORMACIÓN COMERCIAL, PÉRDIDA DE
+ACTIVIDADES COMERCIALES ...
+INTERRUPCIÓN U OTRA PÉRDIDA PECUNIARIA) QUE SURJA DEL USO O LA INCAPACIDAD DE USAR EL SOFTWARE O LOS DATOS, O
+CUALQUIER ERROR EN EL SOFTWARE O LOS DATOS, INCLUSO SI ALGUNO DE ELLOS HA SIDO ADVERTIDO DE LA POSIBILIDAD DE DICHOS
+DAÑOS.
+(b) TODOS LOS PRODUCTOS Y SERVICIOS DE SOFTWARE Y DATOS CONTIENEN ALGUNOS ERRORES E INEXACTITUDES, INCLUYENDO EL
+SOFTWARE Y LOS DATOS. USTED ENTIENDE ESTO Y ASUME TOTALMENTE TODOS LOS RIESGOS Y CONSECUENCIAS RELACIONADOS CON
+ERRORES DE SOFTWARE E INEXACTITUDES O INCOMPLETITUD DE LOS DATOS. USTED RECONOCE Y ACEPTA QUE AUNQUE A LOS
+PROVEEDORES DE DATOS, TERCEROS LICENCIANTES Y AFILIADOS DE CORRETAJE SE LES OTORGAN DERECHOS Y PROTECCIONES EN
+VIRTUD DE ESTE ACUERDO, NINGUNO DE ELLOS ES PARTE DE ESTE ACUERDO Y NO SE ESTÁN CREANDO DERECHOS A SU FAVOR QUE
+USTED PUEDA HACER CUMPLIR CONTRA CUALQUIERA DE ELLOS (INCLUYENDO, PERO SIN LIMITARSE A, CUALQUIER CAMBIO).
+
+(c) SI ALGUNA DE LAS EXENCIONES DE RESPONSABILIDAD EN ESTE ACUERDO ES DECLARADA INVÁLIDA POR ALGUNA RAZÓN POR
+UN TRIBUNAL DE JURISDICCIÓN COMPETENTE, USTED ACEPTA QUE LA RESPONSABILIDAD COLECTIVA MÁXIMA DEL LICENCIANTE Y
+TODAS LAS PERSONAS CONECTADAS (COMO SE DEFINE DICHO TÉRMINO EN EL PÁRRAFO SIGUIENTE) HACIA USTED EN RELACIÓN
+CON CUALQUIER RECLAMO QUE PUEDA TENER DE CUALQUIER MANERA RELACIONADO CON SU SUSCRIPCIÓN, EL SOFTWARE O LOS
+DATOS, O EL USO, CONDICIÓN, FUNCIONAMIENTO, EFECTIVIDAD O CALIDAD DE LOS MISMOS, YA SEA CON BASE EN UN CONTRATO,
+AGRAVIO, EQUIDAD O EN OTROS MOTIVOS O TEORÍAS, E INDEPENDIENTEMENTE DE LAS CIRCUNSTANCIAS, NO EXCEDERÁ EL MAYOR
+DE (i) EL MONTO TOTAL DE LAS TARIFAS (EXCLUYENDO EL CAMBIO TARIFAS Y CUALQUIER OTRA TARIFA DE “TRANSFERENCIA” O DE
+REEMBOLSO DE COSTOS), SI LAS HUBIERE, REALMENTE PAGADAS POR USTED AL LICENCIANTE POR LA SUSCRIPCIÓN DURANTE
+LOS ÚLTIMOS TRES (3) MESES AL MOMENTO EN QUE SURJA LA RESPONSABILIDAD, Y (ii) US $300.
+
+(d) Además, usted acepta expresamente que cada Afiliado de Corretaje, cada otro afiliado del Licenciante, cada uno de los Proveedores de Datos
+(incluido cada uno de los Intercambios) y cada Licenciante de Terceros (colectivamente,
+“Personas Conectadas”), si usted presenta cualquier reclamo de cualquier tipo o naturaleza contra cualquiera de dichas Personas Conectadas
+Las personas relacionadas de cualquier manera con esta Suscripción, el Software, los Datos o su uso de cualquiera de los anteriores, son terceros
+beneficiarios expresos de las disposiciones de esta sección a los efectos de
+
+Tecnologías TradeStation, Inc.
+Acuerdo de suscripción
+afirmando en su contra, y cada uno de ellos puede afirmar en su contra, dichas disposiciones para fines de preclusión o cualquier
+otra defensa afirmativa o equitativa.
+8. SIN GARANTÍA SOBRE EL SOFTWARE O LOS DATOS; OTROS TÉRMINOS RESPECTO A LOS DATOS.
+(a) TODO EL SOFTWARE Y TODOS LOS DATOS SE PROPORCIONAN “TAL CUAL”. LOS DATOS SE DERIVAN DE FUENTES
+QUE EL LICENCIATARIO Y LOS PROVEEDORES DE DATOS CONSIDERAN GENERALMENTE CONFIABLES, PERO NI EL
+LICENCIATARIO NI LOS PROVEEDORES DE DATOS O SUS RESPECTIVOS PROVEEDORES O AFILIADOS GARANTIZAN LA
+EXACTITUD O INTEGRIDAD DE LOS DATOS, Y POR LA PRESENTE LE INFORMAMOS QUE OCASIONALMENTE SE
+PRODUCEN INTERRUPCIONES, INEXACTITUDES, ERRORES Y OMISIONES. NI EL LICENCIATARIO NI LOS PROVEEDORES
+DE DATOS O SUS RESPECTIVOS PROVEEDORES O AFILIADOS
+CUALQUIERA DE SUS RESPECTIVOS PROVEEDORES O AFILIADOS TENDRÁN NINGUNA RESPONSABILIDAD POR CUALQUIER
+INTERRUPCIÓN, INEXACTITUD, ERROR U OMISIÓN, SIN IMPORTAR LA CAUSA, O CUALQUIER PÉRDIDA EN LA QUE USTED INCURRA
+COMO RESULTADO DE ELLO.
+
+(b) El uso de sistemas de consulta automatizados para acceder a los Datos está estrictamente prohibido. Cualquier uso de dichos
+sistemas dará lugar a la terminación inmediata del acceso.
+(c) Además, usted comprende y acepta que su derecho a recibir la totalidad o una parte de los Datos está sujeto a rescisión en la
+medida en que los acuerdos del Licenciante con cualquiera de los Proveedores de Datos finalicen por cualquier motivo, o cualquier
+Proveedor de Datos se niegue o no pueda, por cualquier motivo, continuar suministrando Datos al Licenciante (en su totalidad o en
+parte). Si eso ocurre, puede ocurrir sin previo aviso y en ningún caso resultará en responsabilidad alguna para el Licenciante o
+cualquiera de los Proveedores de Datos o cualquiera de sus respectivas filiales, ni cambiará ninguna de sus obligaciones de pago.
+
+(d) En la medida que corresponda, usted acepta presentar una solicitud y recibir la aprobación por escrito o celebrar un acuerdo
+apropiado con cada Exchange, en la medida que lo exijan las normas, regulaciones o políticas de dicho Exchange, para recibir los
+Datos de ese Exchange. También acepta cumplir con todas las condiciones, restricciones y limitaciones aplicables, y pagar las
+tarifas y cargos correspondientes impuestos por dicho Exchange. Estas obligaciones pueden aplicarse, en general, en su totalidad
+o en parte, como mínimo, a los Suscriptores Profesionales que reciben datos del mercado financiero del Exchange. Si algún
+Exchange, por cualquier motivo, termina el suministro de Datos al Licenciante o a los Proveedores de Datos, su recepción de Datos
+puede interrumpirse con o sin previo aviso, y usted acepta que, en tal caso, ni el Licenciante ni los Proveedores de Datos o sus
+proveedores, ni ninguna otra Persona Conectada, tendrán responsabilidad alguna ante usted.
+
+(e) Además, usted acepta expresamente que cada una de las Personas Conectadas, si usted presenta cualquier reclamo de
+cualquier tipo o naturaleza contra cualquiera de dichas Personas Conectadas de cualquier manera relacionada con esta Suscripción,
+el Software, los Datos o su uso de cualquiera de los anteriores, son terceros beneficiarios expresos de las disposiciones de esta
+sección con el propósito de hacer valer en su contra, y cada una de ellas puede hacer valer en su contra dichas disposiciones para
+fines de impedimento legal o cualquier otra defensa afirmativa o equitativa.
+
+Tecnologías TradeStation, Inc.
+Acuerdo de suscripción
+9. UTILIZAR EL SOFTWARE PARA TOMAR DECISIONES DE INVERSIÓN Y COMERCIO O PARA INICIAR OPERACIONES.
+
+(a) Todo el software, incluido el Software, contiene errores, y todas las bases de datos y servicios de mercados financieros y
+similares, incluidos los Datos, contienen imprecisiones y errores y están incompletos en ciertos aspectos. Se le recomienda
+encarecidamente que verifique los precios y toda la información relevante antes de realizar cualquier operación o inversión.
+
+(b) ENTRE EL LICENCIATARIO Y LAS PERSONAS CONECTADAS, POR UN LADO, Y USTED
+POR OTRO, USTED ÚNICAMENTE ASUME TOTALMENTE EL RIESGO DE QUE SE PRODUZCAN ERRORES O INEXACTITUDES EN
+
+EL SOFTWARE Y/O LOS DATOS PUEDEN HACER QUE USTED LLEGUE A CONCLUSIONES QUE
+Podrías
+NO SE HABRÍA LLEGADO O NO SE HABRÍA LLEGADO SI NO HUBIERA SIDO PRESENTE DICHOS ERRORES Y/O INEXACTITUDES.
+ADEMÁS, ENTRE EL LICENCIATARIO Y LAS PERSONAS CONECTADAS POR UN LADO, Y USTED POR EL OTRO, ÚNICAMENTE USTED
+ASUME TOTALMENTE EL RIESGO DE QUE LOS ERRORES DEL SOFTWARE PUEDAN CAUSAR FALLAS EN LA TRANSMISIÓN DE
+INFORMACIÓN.
+A TRAVÉS DE INTERNET U OTROS CANALES, O INEXACTITUDES EN LA INFORMACIÓN QUE SE TRANSMITE DE ESA MANERA,
+INCLUYENDO, ENTRE OTRAS, LAS TRANSMISIONES DE ÓRDENES PARA REALIZAR O EJECUTAR OPERACIONES O CONFIRMAR O
+CANCELAR TRANSACCIONES. USTED ACEPTA QUE, EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEY, NI EL LICENCIATARIO NI
+NINGUNA DE LAS PERSONAS CONECTADAS O NINGUNO DE SUS RESPECTIVOS AFILIADOS TENDRÁN NINGUNA RESPONSABILIDAD
+
+NO SERÁ RESPONSABLE POR CUALQUIER CONSECUENCIA DE DICHOS ERRORES, INEXACTITUDES O FALLAS.
+
+(c) Además, usted acepta expresamente que cada una de las Personas Conectadas, si usted presenta cualquier reclamo de
+cualquier tipo o naturaleza contra cualquiera de dichas Personas Conectadas de cualquier manera relacionada con esta Suscripción,
+el Software, los Datos o su uso de cualquiera de los anteriores, son terceros beneficiarios expresos de las disposiciones de esta
+sección con el propósito de hacer valer en su contra, y cada una de ellas puede hacer valer en su contra dichas disposiciones para
+fines de impedimento legal o cualquier otra defensa afirmativa o equitativa.
+10. INDEMNIZACIÓN.
+Usted deberá indemnizar y eximir de responsabilidad al Licenciante y a cada uno de sus afiliados, incluida la Correduría.
+Afiliados, y cada uno de sus respectivos directores, funcionarios, empleados y afiliados, de y contra cualquier reclamo, daños,
+pérdidas, responsabilidad, costo y/o gasto (incluyendo, pero no limitado a, honorarios y costos razonables de abogados, antes y
+en cualquier juicio u otro procedimiento, en todos los niveles del tribunal, y ya sea que se instituya o no una demanda) que surjan
+directa o indirectamente de o sean causados por o se relacionen con: (a) cualquier uso por su parte de cualquiera de los Software
+y/o cualquiera de los Datos; (b) cualquier incumplimiento o violación por su parte de cualquier término o disposición de este
+Acuerdo o cualquier otro acuerdo que haya realizado en relación con su registro para la Suscripción; (c) su afirmación de un
+reclamo contra el Licenciante, cualquiera de los Conectados
+Personas, o cualquiera de sus respectivos empleados, agentes o afiliados, que afirmen que alguno de ellos es
+
+Tecnologías TradeStation, Inc.
+Acuerdo de suscripción
+(d) cualquier violación de cualquier tipo por usted, o en su nombre, de los derechos legales o contractuales de cualquier
+tercero (incluidas cada una de las Personas Conectadas y sus respectivas afiliadas), incluyendo, pero no limitado a, la violación
+de cualquier patente, derecho de autor, marca registrada, marca de servicio, secreto comercial u otros derechos de propiedad
+intelectual de dicha persona; y/o (e) cualquier información falsa o engañosa proporcionada por usted al Licenciante, a
+cualquiera de las Personas Conectadas (incluidos los Intercambios), o a cualquiera de sus respectivos proveedores o afiliados.
+
+11. SOPORTE DE PRODUCTO; OTROS PRODUCTOS Y SERVICIOS; ACTUALIZACIONES.
+(a) Las Tarifas y cualquier otra contraprestación que usted pague por la Suscripción se relacionan únicamente con la recepción
+del Software y los Datos (tal como se incluyen en el momento de su Suscripción o como características, funciones o servicios
+adicionales que usted seleccione), y no con ningún otro producto o servicio, incluidas las actualizaciones o el soporte técnico
+que el Licenciante o un afiliado ofrezca o pueda ofrecer de vez en cuando. Todos los servicios de soporte, incluido el soporte
+técnico y otros servicios y beneficios que puedan estar disponibles de vez en cuando por el Licenciante o un afiliado, y los
+términos y condiciones bajo los cuales se ponen a disposición (incluidos los precios), pueden ser modificados en cualquier
+momento y de vez en cuando por el Licenciante o su afiliado con o sin previo aviso. El Licenciante no está obligado a
+proporcionar correcciones de errores o actualizaciones, y si usted no está o no queda satisfecho con la Suscripción por falta
+de actualizaciones o correcciones de errores, o por otras razones, su único recurso y solución es cancelar la Suscripción.
+Usted declara y reconoce que tiene muchas otras opciones satisfactorias si decide cancelar y llevar su negocio a otra parte. Si
+el Licenciante proporciona una versión o compilación mejorada, es posible que se le solicite que acepte dicha actualización y
+no se le permita el acceso a ninguna versión o compilación anterior, incluida la que esté utilizando en el momento de la
+actualización, y las actualizaciones pueden realizarse sin problemas (es decir, de forma automática) cuando inicie sesión y no
+sean evidentes para usted, y con o sin previo aviso. El Licenciante y sus afiliados pueden decidir, a su exclusivo criterio, no
+proporcionar ningún soporte técnico o de otro tipo con respecto a cualquier versión o compilación anterior tan pronto como se
+haya reemplazado.
+
+(b) Si recibe o acepta servicios de consultoría o soporte técnico de EasyLanguage por parte del Licenciante o sus afiliados, o
+servicios similares de cualquier tipo, usted podrá tener que pagar una tarifa aparte (“Servicios de soporte de EasyLanguage”).
+Si se tiene que pagar una tarifa, se lo comentaremos con usted por adelantado.
+Ni el Licenciante ni sus afiliados, en el desempeño de los Servicios de Soporte de EasyLanguage, proporcionan u ofrecen
+estrategias comerciales o sistemas de ningún tipo. El único propósito de los Servicios de Soporte de EasyLanguage es
+ayudarlo en su uso de EasyLanguage para expresar y formular estrategias o sistemas que esté desarrollando o haya
+desarrollado. Solo usted asume el riesgo de que las sugerencias técnicas que se le brinden reflejen con precisión sus
+estrategias o sistemas y su intención, antes de usarlas. El Licenciante y sus afiliados brindan los Servicios de Soporte de
+EasyLanguage solo con la condición de que usted acepte y asuma completamente estas premisas y riesgos, y por la presente
+reconoce y acepta que los acepta y asume.
+
+
+Tecnologías TradeStation, Inc.
+Acuerdo de suscripción
+12. TERCEROS BENEFICIARIOS.
+Cada afiliado del Licenciante (incluido cada uno de los Afiliados de corretaje), es un tercero beneficiario previsto de este
+Acuerdo, y puede hacer cumplir todos los derechos y obligaciones, y afirmar todas las defensas, a su favor contenidas
+en este Acuerdo, y cada Afiliado de corretaje, en cualquier procedimiento de resolución de disputas (incluidos litigios
+civiles, arbitraje, reparaciones o cualquier otro foro de disputa alternativo) con usted o cualquier persona que actúe por
+o a través de usted, puede afirmar cualquiera o todas las exenciones de responsabilidad, suposiciones de riesgo y otras
+disposiciones de este Acuerdo (a menos que esté expresamente prohibido por las leyes, reglas o regulaciones aplicables).
+Ni esta designación expresa de beneficiario ni ninguna otra disposición de este Acuerdo crean a su favor ningún derecho
+o recurso expreso o implícito, de ningún tipo o naturaleza, contra ningún Afiliado de Corretaje u otro afiliado del
+Licenciante bajo este Acuerdo o de otra manera.
+13. FUERZA MAYOR.
+El cumplimiento por parte del Licenciante, cualquier Licenciante de terceros y cada uno de los Proveedores de datos
+de, bajo o con respecto a este Acuerdo, incluida la entrega de disponibilidad y uso del Software y los Datos de
+conformidad con su Suscripción, será excusado (sin crear responsabilidad de ningún tipo para el Licenciante, cualquier
+Licenciante de terceros o cualquier Proveedor de datos) en el caso y en la medida en que cualquier error de software o
+virus, falla de cualquier proveedor de servicios de Internet, error del operador, falla de cualquier equipo electrónico o
+mecánico, hardware, sistema de comunicación u otro sistema, o cualquier componente del mismo, problemas telefónicos
+u otros problemas de interconexión, acceso no autorizado, robo, violación de seguridad, restricción gubernamental,
+regulación cambiaria o del mercado, suspensión de operaciones, guerra, terrorismo, ciberterrorismo, huelga u otra
+disputa laboral, desorden civil, incendio, tornado, tormenta de viento, terremoto, falla de energía, explosión o cualquier
+otra falla de terceros, o cualquier otro acto, evento o circunstancia fuera del control razonable del Licenciante o dicho
+Proveedor de datos (según corresponda), haga que dicho cumplimiento, en su totalidad o en parte, sea imposible o
+difícil de lograr.
+14. DIVISIBILIDAD.
+Si alguna disposición de este Acuerdo se considera inválida, nula o inaplicable por razón de cualquier ley, norma, orden
+administrativa o decisión judicial, dicha determinación no afectará la validez de las disposiciones restantes de este
+Acuerdo.
+15. RENUNCIA.
+Salvo que se permita específicamente en este Acuerdo, ninguna disposición de este Acuerdo puede ser, o considerarse,
+renunciada, alterada, modificada o enmendada a menos que se acuerde por escrito y firmado por un funcionario
+autorizado del Licenciante (Vicepresidente o superior).
+
+Tecnologías TradeStation, Inc.
+Acuerdo de suscripción
+16. COMPRENSIÓN TOTAL; CESIÓN.
+Este Acuerdo contiene el entendimiento completo entre usted y el Licenciante en relación con el objeto de este Acuerdo, y
+reemplaza todos los acuerdos o entendimientos anteriores o contemporáneos, orales o escritos. No podrá ceder ninguno de sus
+derechos ni delegar ninguna de sus obligaciones en virtud del presente sin obtener primero el consentimiento previo por escrito
+del Licenciante.
+17. ELECCIÓN DE LEY Y JURISDICCIÓN.
+Este Acuerdo se considerará celebrado en el Estado de Florida, Estados Unidos de América, y se interpretará, y los derechos y
+obligaciones de las partes se determinarán, de conformidad con las leyes del Estado de Florida. La jurisdicción para cualquier
+disputa que involucre o esté relacionada con su Suscripción será la única competente para resolver en el Condado de Miami­
+Dade, Florida, o en el Condado de Broward, Florida, excepto si el Licenciante renuncia a ello por escrito a su exclusivo y
+absoluto criterio, y excepto que cualquier disputa entre usted y cualquier Proveedor y/o Intercambio de Datos (que no incluye al
+Licenciante) será la única competente para resolver en el condado donde se encuentre la oficina ejecutiva principal de dicho
+Proveedor o Intercambio de Datos. Por la presente, usted acepta irrevocablemente la jurisdicción personal en el Estado de
+Florida y declara que los condados de Miami­Dade y Broward en Florida no son lugares o foros inconvenientes para usted.
+
+18. INFORMACIÓN ADICIONAL IMPORTANTE Y DESCARGOS DE RESPONSABILIDAD
+(a) La inversión y el comercio implican riesgos, incluida la posible pérdida de capital y otras pérdidas. El Software y los Datos
+están diseñados, proporcionados y/o presentados principalmente para proporcionar una herramienta de formación para la
+comprensión y el análisis de los mercados financieros. Se le otorgan bajo licencia con el entendimiento de que ni el Licenciante
+ni ningún Licenciante de terceros, ni los Proveedores de datos, se dedican a brindar asesoramiento profesional sobre inversiones,
+comercio u otro tipo de asesoramiento. Si se requiere asesoramiento profesional sobre inversiones, comercio u otro tipo de
+asesoramiento, se deben buscar los servicios de un profesional competente y autorizado. Ningún empleado, agente o
+representante del Licenciante, ningún Licenciante de terceros, ningún Proveedor de datos o ninguno de sus respectivos afiliados
+está autorizado a brindar asesoramiento de ningún tipo, y dicho asesoramiento, si se brinda, viola las políticas del Licenciante
+(o de dicho Licenciante de terceros) y de dichos Proveedores de datos, no está autorizado y no se puede confiar en él.
+
+(b) El uso de cualquier sistema o estrategia de negociación, incluido cualquier sistema o estrategia incluido como muestra en el
+Software o en cualquiera de los Datos, o que se haya desarrollado o utilizado con ellos, no garantiza ni puede garantizar que
+usted obtenga ganancias, aumente las ganancias o minimice las pérdidas. Las herramientas, estrategias o sistemas populares
+o de otro tipo incluidos en el Software están destinados únicamente a servir como ejemplos de ideas técnicas que se pueden
+incorporar a una estrategia o sistema de negociación diseñado personalmente. No se recomienda ninguno. Debe utilizar su
+propio criterio o consultar a un profesional para obtener asesoramiento sobre estos asuntos.
+(c) Los resultados de las operaciones basadas en estrategias o sistemas de operaciones hipotéticos o probados históricamente
+no necesariamente se comparan con los resultados de las operaciones reales. Ningún registro de operaciones hipotético o
+histórico puede dar cuenta del nivel de riesgo presente en las operaciones reales. Numerosos factores relacionados con las
+condiciones del mercado, la existencia o inexistencia de eventos o circunstancias específicos, el error humano,
+
+
+Tecnologías TradeStation, Inc.
+Acuerdo de suscripción
+La reacción humana/emocional a las pérdidas durante las operaciones reales, las limitaciones inherentes de ciertos modelos hipotéticos o
+probados históricamente, en particular los que no operan en el nivel de “tick” (en contraposición a apertura, máximo, mínimo y cierre), el volumen
+de operaciones y las diferencias de liquidez entre los modelos hipotéticos y las operaciones reales, y otras diferencias de oferta/demanda que
+pueden no ser abordadas por los modelos hipotéticos, y otras condiciones y circunstancias, pueden explicar estas diferencias. No hay garantía
+de que sus resultados de operaciones hipotéticos, incluso si se prueban con datos históricos, produzcan resultados de operaciones reales
+comparables. De hecho, con frecuencia hay marcadas diferencias entre los resultados de rendimiento hipotéticos o probados históricamente y
+los resultados reales obtenidos posteriormente por cualquier sistema o estrategia de operaciones en particular. Las posibles razones para esto
+incluyen la probabilidad de que ninguna estrategia o sistema de operaciones pueda, incluso con operaciones automatizadas, ejecutarse con
+precisión como se diseñó.
+
+(d) Debe tener en cuenta que cierta “jerga” comercial de uso común, incluidos términos comerciales como, por ejemplo, una posición de “riesgo
+limitado”, no debe tomarse de manera literal. Por ejemplo, las denominadas posiciones de “riesgo limitado” en ciertas operaciones con opciones
+en realidad no están limitadas como se podría esperar. Nuevamente, con respecto a asuntos como estos, se debe consultar a un profesional
+autorizado.
+(e) TradeStation es una “plataforma abierta”. Esto significa que las empresas independientes y los individuos que no son afiliados del Licenciante
+pueden ofrecer herramientas o estrategias comerciales (que de ninguna manera forman parte del Software) que sean compatibles con
+TradeStation. El Licenciante no realiza ninguna investigación ni revisión de la eficacia o el valor de dichas herramientas o estrategias, y no
+recomienda, respalda, aprueba ni desaprueba ninguna de ellas. También existen individuos y empresas independientes y no afiliados que ofrecen
+servicios de programación, consultoría y relacionados de EasyLanguage (que de ninguna manera forman parte de los Servicios de soporte de
+EasyLanguage que pueden proporcionar el Licenciante o sus afiliados). Nuevamente, el Licenciante no realiza ninguna investigación ni revisión
+de la eficacia o el valor de dichos servicios, y no recomienda, respalda, aprueba ni desaprueba ninguno de ellos.
+
+(f) Además, usted acepta expresamente que cada una de las Personas Conectadas (para evitar dudas, las empresas e individuos independientes
+descritos en la subsección (e) anterior no son Personas Conectadas), si usted presenta cualquier reclamo de cualquier tipo o naturaleza contra
+cualquiera de dichas Personas Conectadas de cualquier manera relacionada con esta Suscripción, el Software, los Datos o su uso de cualquiera
+de los anteriores, son terceros beneficiarios expresos de las disposiciones de esta sección con el propósito de hacer valer en su contra, y cada
+uno de ellos puede hacer valer en su contra dichas disposiciones para fines de impedimento legal o cualquier otra defensa afirmativa o equitativa.
+
+19. Marcas comerciales
+ActivityBar®, EasyLanguage®, OptionStation®, PaintBar, PositionGraphs®, ProbabilityMap®, RadarScreen®, ShowMe, TradeStation®, Test
+Before You Trade® y TradingApp® son marcas comerciales o marcas de servicio registradas o no registradas del Licenciante o de una de sus
+filiales. En ciertos casos, los registros correspondientes pueden estar pendientes. El Software y los Datos y sus descripciones también contienen
+otras marcas comerciales del Licenciante o de sus filiales, así como marcas comerciales registradas y no registradas.
+
+
+
+Tecnologías TradeStation, Inc.
+Acuerdo de suscripción
+marcas de servicio de los proveedores de datos u otras personas vinculadas, y marcas comerciales, marcas de servicio y nombres
+comerciales de otras empresas. No tiene derecho a utilizar ninguna de dichas marcas comerciales, marcas de servicio o nombres
+comerciales en ningún contexto sin el consentimiento previo y expreso por escrito del propietario o propietarios de dichas marcas
+comerciales, marcas de servicio y nombres comerciales.
+

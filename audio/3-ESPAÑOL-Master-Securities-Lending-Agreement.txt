@@ -1,0 +1,860 @@
+Acuerdo marco de préstamo de valores
+
+Este Acuerdo Marco de Préstamo de Valores (“Acuerdo”) se celebra entre TradeStation Securities, Inc. (“TradeStation”), usted, como cliente de TradeStation (“Contraparte”) y Stable Custody Group II LLC, que actúa como su agente de garantía (“Agente de garantía”).
+
+ESTE ACUERDO NO DEBE SER ACEPTO POR LA CONTRAPARTE HASTA DESPUÉS DE: (1) QUE LA CONTRAPARTE HAYA LEÍDO Y ENTENDIDO COMPLETAMENTE EL DOCUMENTO SEPARADO TITULADO DIVULGACIONES IMPORTANTES DE RIESGO CON RESPECTO A LAS TRANSACCIONES DE PRÉSTAMO DE VALORES TOTALMENTE PAGADAS O CON EXCESO DE MARGEN, QUE DESCRIBE MUCHOS OTROS RIESGOS Y CARACTERÍSTICAS DEL PROGRAMA; Y (2) LA CONTRAPARTE HA DETERMINADO QUE LA PARTICIPACIÓN EN EL PROGRAMA DE PRÉSTAMO DE VALORES TOTALMENTE PAGADOS DE TRADESTATION ES APROPIADA PARA LA CONTRAPARTE DESPUÉS DE CONSIDERAR LA SITUACIÓN Y NECESIDADES FINANCIERAS DE LA CONTRAPARTE, SU ESTATUS FISCAL, SUS OBJETIVOS DE INVERSIÓN, SU HORIZONTE TEMPORAL DE INVERSIÓN, SUS NECESIDADES DE LIQUIDEZ, SU TOLERANCIA AL RIESGO Y CUALQUIER OTRA INFORMACIÓN RELEVANTE. AL CELEBRAR ESTE ACUERDO, LA CONTRAPARTE RECONOCE QUE SE HAN CUMPLIDO AMBAS CONDICIONES.
+
+LA CONTRAPARTE PUEDE ELEGIR NO PERMITIR QUE SE UTILICEN VALORES TOTALMENTE PAGADOS Y CON MARGEN EXCESO EN RELACIÓN CON VENTAS EN CORTO, PUEDE RESCINDIR EL PRÉSTAMO, DE CONFORMIDAD CON LA SECCIÓN 7, O RESCINDIR ESTE ACUERDO, DE CONFORMIDAD CON LA SECCIÓN 25.1, COMUNICÁNDOSE CON EL DEPARTAMENTO DE SERVICIOS AL CLIENTE DE TRADESTATION AL (954) 652-7000.
+
+1. Aplicabilidad.
+
+De vez en cuando, TradeStation y la Contraparte pueden celebrar transacciones en las que una parte (“Prestatario”) tomará prestados de la otra parte (“Prestamista”) ciertos Valores (según se define en el presente) a cambio de una transferencia de Garantía (según se define en el presente). Cada una de esas transacciones se denominará en el presente “Préstamo” y, a menos que se acuerde lo contrario por escrito, se regirá por este Acuerdo, incluidos los términos o condiciones complementarios contenidos en un Anexo o Programa adjunto y en cualquier otro anexo identificado en el presente o en el mismo según corresponda en virtud del presente. Los términos en mayúsculas que no se definan de otro modo en el presente tendrán los significados que se proporcionan en la Sección 26.
+
+2. Préstamos de valores
+
+2.1. Sujeto a los términos y condiciones de este Acuerdo, el Prestatario o el Prestamista podrán, en cualquier momento, intentar iniciar una transacción en la que el Prestatario tomará prestados Valores del Prestamista. El Prestatario y el Prestamista acordarán los términos de cada Préstamo (los cuales podrán modificarse durante el Préstamo), incluido el emisor de los Valores, el monto de los Valores que se prestarán, la base de la compensación, el monto de la Garantía que transferirá el Prestatario y cualquier término adicional.Dicho acuerdo deberá ser confirmado (a) mediante un anexo y un recibo que incluya los Valores Prestados proporcionados por el Prestatario al Prestamista de conformidad con la Sección 3.1, (b) mediante cualquier sistema que compare Préstamos y en el que el Prestatario y el Prestamista sean participantes, o (c) de cualquier otra manera que puedan acordar por escrito el Prestatario y el Prestamista. Dicha confirmación (la “Confirmación”), junto con el Acuerdo, constituirá evidencia concluyente de los términos acordados entre el Prestatario y el Prestamista con respecto al Préstamo al que se refiere la Confirmación, a menos que se presente una objeción específica con respecto a la Confirmación inmediatamente después de recibirla. En caso de cualquier inconsistencia entre los términos de dicha Confirmación y este Acuerdo, este Acuerdo prevalecerá a menos que cada parte del Préstamo haya ejecutado dicha Confirmación
+
+2.2. Sin perjuicio de cualquier otra disposición de este Acuerdo con respecto al momento en que comienza un Préstamo, a menos que se acuerde lo contrario, un Préstamo en virtud del presente no se producirá hasta que los Valores Prestados y la Garantía correspondiente se hayan transferido de conformidad con la Sección 16.
+
+
+3. Transferencia de Valores Prestados
+3.1. A menos que se acuerde lo contrario, el Prestatario deberá proporcionar al Prestamista, por cada Préstamo en el que el Prestamista sea un Cliente, con un anexo y recibo que incluya los Valores Prestados. Dicho anexo y recibo pueden consistir en (a) un anexo proporcionado al Prestatario por el Prestamista y firmado y devuelto por Prestatario cuando reciba los Valores Prestados, (b) en el caso de Valores transferidos a través de una Organización de Compensación que proporcione a los transferentes un aviso que evidencie dicha transferencia, dicho aviso, o (c) una confirmación u otro documento proporcionado al Prestamista por el Prestatario.
+3.2. Sin perjuicio de cualquier otra disposición de este Acuerdo, el Prestatario y el Prestamista acuerdan que pretenden que los Préstamos en virtud del presente sean préstamos de Valores. Sin embargo, si un Préstamo se considera un préstamo de dinero del Prestatario al Prestamista, entonces el Prestatario tendrá, y se considerará que el Prestamista ha otorgado, un derecho de garantía sobre los Valores Prestados y el producto de los mismos.
+
+4. Colateral.
+4.1. A menos que se acuerde lo contrario, el Prestatario deberá, antes o simultáneamente con la transferencia del Prestado Los valores al Prestatario, pero en ningún caso después del cierre de las operaciones del día de dicha transferencia, transferir al Prestamista una Garantía con un Valor de Mercado al menos igual al 100% del Valor de Mercado de los valores, pero que no supere el 102% del Valor de Mercado de los Valores Prestados. Para proteger al Prestamista, en caso de incumplimiento del Prestatario, la Garantía consistirá en efectivo que se deposita en un banco según se define en la Norma 15c3-3(a)(7) de la Ley de Intercambio (el “Banco”) en una cuenta titulada para reflejar la forma en que se mantiene la Garantía del Prestamista para el beneficio del Prestamista de conformidad con la Norma 15c3-3(b)(3) de la Ley de Intercambio (la “Cuenta de Garantía”). La Garantía se transferirá cada día hábil desde TradeStation a la Cuenta de Garantía para el beneficio del Prestamista de conformidad con los procedimientos internos de TradeStation diseñados para respaldar el movimiento, la validación y el monitoreo de las transferencias de garantía en efectivo.
+4.2. Se considerará que el Prestatario ha transferido la Garantía al Prestador al transferir la Garantía a la Cuenta de Garantía de la manera descrita en el presente. La transferencia de la Garantía se realizará cada día hábil a más tardar al final del día hábil y se calculará en función del precio de cierre publicado la noche anterior para cada Título Prestado. La Garantía transferida por el Prestatario al Prestador, según lo ajustado de conformidad con la Sección 10, será garantía de las obligaciones del Prestatario con respecto a dicho Préstamo y de cualquier otra obligación del Prestatario con el Prestador en virtud del presente. El Prestatario por el presente otorga, cede y promete al Agente de Garantías en beneficio del Prestador un derecho de garantía de primera prioridad continua y un derecho de retención sobre la Garantía, que se vinculará al momento de la transferencia de los Títulos Prestados por el Prestador al Prestatario y que cesará al momento de la transferencia de los Títulos Prestados por el Prestatario al Prestador. Además de los derechos otorgados al Agente de Garantía en beneficio del Prestamista, el Agente de Garantía en nombre del Prestamista tendrá todos los derechos y recursos de una parte garantizada en virtud del UCC. El Prestamista entiende y acepta que la Garantía transferida al Banco en beneficio del Prestamista se depositará en una o más cuentas que también contengan garantías pignoradas para préstamos de valores realizados entre TradeStation y otros prestamistas de valores a TradeStation y que la Garantía en dicha cuenta se asigna al Prestamista de acuerdo con los cálculos contenidos en la Sección 10 de este Acuerdo. El Prestatario iniciará un Préstamo transfiriendo Valores Prestados del Prestamista de conformidad con la Regla 15c3-3(b) (3) de la Ley de Intercambio, por lo que no hará que los Valores Prestados estén sujetos a los requisitos generales de posesión o control de la Regla 15c3-3(b) de la Ley de Intercambio.
+4.3. Salvo que se disponga lo contrario en el presente, tras la transferencia al Prestador de los Valores Prestados el día en que se termina un Préstamo de conformidad con la Sección 7, el Prestador estará obligado a transferir, y por el presente autoriza al Prestatario a efectuar la transferencia de, la Garantía (según se ajuste de conformidad con la Sección 10) al Prestatario en dicho día o, si dicho día no es un día en el que se pueda efectuar una transferencia de dicha Garantía de conformidad con la Sección 16, el día siguiente en el que se pueda efectuar dicha transferencia.
+4.4. si el Prestatario transfiere la Garantía al Prestamista, según lo dispuesto en la Sección 4.1, y el Prestamista no transfiere los Valores Prestados al Prestatario, el Prestatario tendrá el derecho absoluto a la devolución de la Garantía; y si el Prestamista transfiere los Valores Prestados al Prestatario y el Prestatario no transfiere la Garantía al Prestamista según lo dispuesto en la Sección 4.1, el Prestamista tendrá el derecho absoluto a la devolución de los Valores Prestados.
+5. Designación del Agente de Garantía
+5.1. El Prestamista designa al Agente de Garantía, incluida cualquiera de sus filiales, para que actúe en nombre y en beneficio del Prestamista con respecto a la Garantía pignorada por el Prestatario de conformidad con los Protocolos del Agente de Garantía (“Protocolos del Agente de Garantía”), una copia de los cuales se adjunta a este Acuerdo como Apéndice I. El Agente de Garantía acepta por el presente dicho nombramiento en nombre y en beneficio del Prestamista. TradeStation acepta pagar al Agente de Garantía una tarifa por sus servicios en nombre del Prestamista.Las partes acuerdan los Protocolos del Agente Colateral, que se incorporan por la presente como parte de este Acuerdo.
+
+5.2. El Prestamista designa y ordena al Agente de Garantías que designe al Banco como banco depositario de las Garantías de conformidad con los términos del Acuerdo de Control de Cuentas de Depósito, con fecha del 21 de abril de 2021, entre TradeStation, el Agente de Garantías y el Banco (según se modifique, complemente o modifique de vez en cuando, el "Acuerdo de Control"). Al firmar este Acuerdo, el Prestamista ordena al Agente de Garantías que acepte en su nombre y en el del Prestamista todas las disposiciones del Acuerdo de Control, del cual se le proporcionará una copia si lo solicita.
+5.3. De conformidad con los Protocolos del Agente Colateral, no se le imputará al Agente Colateral el conocimiento de ningún Incumplimiento a menos que tenga conocimiento real de dicho Incumplimiento; siempre que se considere que el Agente Colateral tiene conocimiento real de un Acto de Insolvencia con respecto al Prestatario de conformidad con la Sección 13.5 de este Acuerdo tras la presentación pública de cualquier caso, procedimiento, petición o decreto contra el Prestatario de conformidad con el Capítulo 7 o el Capítulo 11 del Código de Quiebras, de conformidad con la Ley de Protección del Inversionista en Valores de 1970 o de conformidad con la Autoridad de Liquidación Ordenada de conformidad con el Título II de la Ley de Reforma de Wall Street y Protección del Consumidor Dodd-Frank.
+
+5.4. TradeStation se reserva el derecho de cambiar de Banco mediante notificación con no menos de noventa (90) días de antelación al Agente de Garantía. En tal caso, el Prestamista instruye al Agente de Garantía a aprobar al sucesor del Banco y a celebrar uno o más acuerdos de control entre TradeStation, el Agente de Garantía y el sucesor del Banco para establecer el “control” del Agente de Garantía (en el sentido del UCC) sobre las cuentas aplicables a fin de perfeccionar el derecho de garantía del Agente de Garantía sobre la Garantía en beneficio del Prestamista
+
+6. Ingresos por Préstamo.
+6.1. A menos que se acuerde lo contrario, el Prestatario acepta pagar al Prestamista una parte del reembolso obtenido sobre los valores prestados (“Intereses”), calculados diariamente como se describe en el Anexo de Base de Compensación por Préstamo, que puede ser modificado de vez en cuando por el Prestatario. Los intereses, si los hubiera, sobre las Garantías no monetarias se pagarán según lo acordado entre el Prestatario y el Prestamista
+
+6.2. A menos que se acuerde lo contrario, los Ingresos pagaderos en virtud del presente Contrato deberán pagarse dentro de los quince (15) Días Hábiles siguientes al último Día Hábil del mes calendario en el que se haya incurrido en dichos Intereses.
+
+7. Terminación del Préstamo.
+7.1. (a) A menos que se acuerde lo contrario, tanto el Prestatario como el Prestamista podrán rescindir un Préstamo en una fecha de rescisión establecida mediante notificación entregada a la otra parte antes del Cierre de Operaciones en un Día Hábil. A menos que el Prestatario y el Prestamista acuerden una fecha anterior, la fecha de rescisión establecida mediante una notificación de rescisión será una fecha no anterior a la fecha de liquidación estándar que se aplicaría a una compra o venta de los Valores Prestados en el mercado principal de dichos Valores Prestados (en el caso de una notificación entregada por el Prestamista) o la Garantía no monetaria que respalda el Préstamo en el mercado principal de dicha Garantía no monetaria (en el caso de una notificación entregada por el Prestatario) celebrada al momento de dicha notificación.
+
+(b) El Prestatario puede rescindir un Préstamo en cualquier Día Hábil, con efecto a partir de dicho Día Hábil, transfiriendo los Valores Prestados al Prestamista en dicho Día Hábil.
+
+(c) La ejecución por parte del Prestatario de una orden de venta de los Valores Prestados por parte del Prestamista constituirá una notificación de terminación por parte del Prestamista al Prestatario. La fecha de terminación establecida por dicha venta deLos Valores Prestados serán la fecha de liquidación de dicha venta de los Valores Prestados o cualquier fecha anterior en la que se considere que el Prestatario ha transferido los Valores Prestados al Prestamista conforme al párrafo (b) de esta Sección.
+
+7.2. A menos que se acuerde lo contrario, el Prestatario deberá, en o antes de la Hora Límite en la fecha de terminación de un Préstamo, transferir los Valores Prestados al Prestador; sin embargo, al momento de dicha transferencia por parte del Prestatario, la Garantía para dicho Préstamo (según se ajuste de conformidad con la Sección 10) se transferirá al Prestatario de conformidad con la Sección 4.3
+
+8. Derechos respecto de los valores prestados y las garantías.
+
+8.1. Salvo lo establecido en las Secciones 9.1 y 9.2 y lo acordado de otra manera entre el Prestatario y el Prestador, hasta que se requiera que los Valores Prestados sean devueltos al Prestador tras la terminación de un Préstamo en virtud del presente, el Prestatario tendrá todos los derechos de propiedad de los Valores Prestados, incluido el derecho a transferir los Valores Prestados a otros. El Prestador por el presente renuncia al derecho a votar, o a proporcionar cualquier consentimiento o a tomar cualquier acción similar con respecto a los Valores Prestados en caso de que la fecha de registro o la fecha límite para dicha votación, consentimiento u otra acción caiga durante el plazo del Préstamo.
+
+9. Distribuciones.
+
+9.1. El Prestamista tendrá derecho a recibir todas las Distribuciones realizadas sobre o con respecto a los Valores Prestados que no reciba de otra manera, en la medida máxima en que tendría derecho a recibirlas si los Valores Prestados no se hubieran prestado al Prestatario.
+9.2. Cualquier Distribución en efectivo realizada sobre o con respecto a los Valores Prestados, que el Prestador tiene derecho a recibir de conformidad con la Sección 9.1, se pagará mediante la transferencia de efectivo al Prestador por parte del Prestatario, en la fecha en que se pague dicha Distribución, por un monto igual a dicha Distribución en efectivo, siempre que el Prestador no se encuentre en Incumplimiento al momento de dicho pago. Las Distribuciones no monetarias que el Prestador tiene derecho a recibir de conformidad con la Sección 9.1 se agregarán a los Valores Prestados en la fecha de distribución y se considerarán como tales para todos los fines, excepto que si el Préstamo ha terminado, el Prestatario deberá transferirlas de inmediato al Prestador.**
+9.3. El Prestatario tendrá derecho a recibir todas las Distribuciones realizadas sobre o con respecto a la Garantía no monetaria que no reciba de otra manera, en la medida máxima en que tendría derecho a ello si la Garantía no se hubiera transferido al Prestamista.**
+9.4. Cualquier Distribución en efectivo realizada sobre o con respecto a dicha Garantía, a la que el Prestatario tenga derecho. Las Distribuciones que el Prestatario reciba de conformidad con la Sección 9.3 se pagarán mediante la transferencia de efectivo al Prestatario por parte del Prestamista, en la fecha en que se pague dicha Distribución, por un monto igual a dicha Distribución en efectivo, siempre que el Prestatario no se encuentre en Incumplimiento al momento de dicho pago. Las Distribuciones no monetarias que el Prestatario tiene derecho a recibir de conformidad con la Sección 9.3 se agregarán a la Garantía en la fecha de distribución y se considerarán como tales para todos los fines, excepto que si cada Préstamo garantizado por dicha Garantía ha terminado, el Prestamista deberá transferirlo de inmediato al Prestatario.**
+9.5. A menos que se acuerde lo contrario:**
+a) Si (i) se requiere que el Prestatario realice un pago (un "Pago del Prestatario") con respecto a Distribuciones en efectivo sobre Valores Prestados según las Secciones 9.1 y 9.2 ("Distribuciones de Valores"), o (ii) El Prestamista debe realizar un pago (un "Pago al Prestamista") con respecto a las Distribuciones en efectivo sobre la Garantía conforme a las Secciones 9.3 y 9.4 ("Distribuciones de la Garantía"), y (iii) el Prestatario o el Prestamista, según sea el caso ("Pagador"), estará obligado por ley a cobrar cualquier retención o impuesto, derecho, tasa, gravamen o cargo que se deba deducir o retener de dicho Pago al Prestatario o Pago al Prestamista ("Impuesto"), luego el Pagador deberá (sujeto a las subsecciones (b) y (c) a continuación), pagar los montos adicionales que sean necesarios para que el monto neto del Pago al Prestatario o el Pago al Prestamista recibido por el Prestamista o el Prestatario, según sea el caso ("Beneficiario"), después del pago de dicho Impuesto sea igual al monto de la Distribución de Valores o la Distribución de la Garantía que se habría recibido si dicha Distribución de Valores o la Distribución de la Garantía se hubiera pagado directamente al Beneficiario.**
+
+(b) No se pagarán montos adicionales a un Beneficiario según la subsección (a) anterior en la medida en que se hubiera impuesto un Impuesto sobre una Distribución de Valores o una Distribución Colateral pagada directamente al Beneficiario
+(c)	No  se  pagarán  montos  adicionales  a  un  Beneficiario  según  la  subsección  (a)  anterior  en  la  medida  en  que  dicho Beneficiario  tenga  derecho  a  una  exención  o  reducción  en  la  tasa  del  Impuesto  sobre  un  Pago  al  Prestatario  o  un  Pago  al  Prestamista  sujeto  a  la  provisión  de  un  certificado  u  otra  documentación,  pero  no  haya  proporcionado  oportunamente  dicho  certificado  u  otra  documentación.Cada  una  de  las  partes  de  un  Préstamo  se  considerará  declarando  que,  a  partir  del  inicio  de  dicho  Préstamo,  no  se  impondrá  ningún  Impuesto  sobre  ninguna  Distribución  en  efectivo  que  se  le  pague  con  respecto  a  (i)  Valores  Prestados  sujetos  a  un  Préstamo  en  el  que  actúe  como  Prestamista  o  (ii)  Garantía  de  cualquier  Préstamo  en  el  que  actúe  como  Prestatario,  a  menos  que  dicha  parte  haya  dado  aviso  en  contrario  a  la  otra  parte  (dicho  aviso  deberá  especificar  la  tasa  a  la  que  se  impondría  dicho  Impuesto).  Cada  parte  de  un  Préstamo  acuerda  notificar  a  la  otra  de  cualquier  cambio  que  ocurra  durante  el  plazo  de  dicho  Préstamo  en  la  tasa  de  cualquier  Impuesto  que  se  impondría  sobre  dichas  Distribuciones  en  efectivo  que  se  le  paguen.
+9.6.  En  la  medida  en  que,  de  conformidad  con  las  disposiciones  de  las  Secciones  9.1  a  9.5,  (a)  una  transferencia  de  efectivo  u  otra  propiedad  por  parte  del  Prestatario  daría  lugar  a  un  Exceso  de  Margen  o  (b)  una  transferencia  de  efectivo  u  otra  propiedad  por  parte  del  Prestamista  daría  lugar  a  un  Déficit  de  Margen,  el  Prestatario  o  el  Prestamista  (según  sea  el  caso)  no  estarán  obligados  a  realizar  dicha  transferencia  de  efectivo  u  otra  propiedad  de  conformidad  con  dichas  Secciones,  pero  en  lugar  de  dicha  transferencia  acreditarán  inmediatamente  los  montos  que  habrían  sido  transferibles  de  conformidad  con  dichas  Secciones  a  la  cuenta  del  Prestamista  o  del  Prestatario  (según  sea  el  caso).
+10.	Valor  de  mercado.
+10.1.  Si  el  Prestamista  es  un  Cliente,  el  Prestatario  deberá  valorar  diariamente  al  valor  de  mercado  cualquier  Préstamo  en  virtud  del  presente  y  en  el  caso  de  que  al  Cierre  de  Operaciones  en  cualquier  Día  Hábil  el  Valor  de  Mercado  de  la  Garantía  para  cualquier  Préstamo  al  Prestatario  sea  inferior  al  100%  del  Valor  de  Mercado  de  todos  los  Valores  Prestados  pendientes  sujetos  a  dicho  Préstamo,  el  Prestatario  deberá  transferir  la  Garantía  adicional  a  más  tardar  al  Cierre  de  Operaciones  del  siguiente  Día  Hábil  de  modo  que  el  Valor  de  Mercado  de  dicha  Garantía  adicional,  cuando  se  sume  al  Valor  de  Mercado  de  la  otra  Garantía  para  dicho  Préstamo,  sea  igual  al  100%  del  Valor  de  Mercado  de  los  Valores  Prestados.  Según  lo  acordado  entre  el  Prestatario  y  el  Prestamista  o  si  el  Prestatario  determina  a  su  discreción  que  las  leyes  aplicables  o  la  costumbre  del  mercado  así  lo  exigen,  el  Prestatario  puede  depositar  una  garantía  adicional  mayor  al  100%  del  Valor  de  Mercado  de  los  Valores  Prestados  sin  exceder  el  102%  del  Valor  de  Mercado  de  los  Valores  Prestados.  Diariamente,  el  Prestatario  o  su  agente  deberá  proporcionar  o  poner  a  disposición  del  Agente  de  Garantía  información  de  valor  de  mercado  con  respecto  al  Prestamista  que  identifique  el  monto  de  Garantía  que  el  Prestatario  promete  al  Prestamista  para  los  Préstamos  aquí  establecidos.
+El  Agente  de  Garantía  puede  confiar  y  estar  completamente  protegido  al  confiar  en  dicha  información  de  valor  de  mercado  proporcionada  por  TradeStation  que  el  Agente  de  Garantía  cree  razonablemente  que  es  genuina.
+El  Agente  de  Garantía  no  tendrá  obligación  de  determinar  o  verificar  si  dicha  Garantía  es  igual  o  superior  al  100  por  ciento  del  Valor  de  Mercado  de  todos  los  Valores  Prestados  pendientes  sujetos  a  los  Préstamos  en  virtud  del  presente.
+10.2.  Además  de  los  derechos  del  Prestamista  conforme  a  la  Sección  10.1,  si  en  cualquier  momento  el  Valor  de  Mercado  total  de  todas  las  Garantías  de  los  Préstamos  del  Prestamista  fuera  menor  que  el  Porcentaje  de  Margen  del  Valor  de  Mercado  de  todos  los  Valores  Prestados  pendientes  sujetos  a  dichos  Préstamos  (un  “Déficit  de  Margen”),  el  Prestatario  deberá  transferir  Garantías  adicionales  a  más  tardar  al  Cierre  de  Operaciones  del  siguiente  Día  Hábil  de  modo  que  el  Valor  de  Mercado  de  dichas  Garantías  adicionales,  cuando  se  sumen  al  Valor  de  Mercado  de  todas  las  demás  Garantías  de  dichos  Préstamos,  sea  igual  o  superior  al  Porcentaje  de  Margen  del  Valor  de  Mercado  de  los  Valores  Prestados.
+10.3.  Sujeto  a  las  obligaciones  del  Prestatario  según  la  Sección  10.1,  si  en  cualquier  momento  el  Valor  de  Mercado  de  todos La  garantía  para  los  préstamos  al  prestatario  deberá  ser  mayor  que  el  porcentaje  de  margen  del  valor  de  mercado  de  todos  los  valores  prestados  pendientes  sujetos  a  dichos  préstamos  (un  "exceso  de  margen").  El  prestamista  por  la  presente autoriza al Prestatario a transferir al Prestatario la cantidad de la Garantía seleccionada por el Prestatario siempre que el Valor de Mercado de la Garantía para dichos Préstamos, después de la deducción de dichas cantidades, seaen ningún caso será inferior al Porcentaje de Margen del Valor de Mercado de los Valores Prestados.
+10.4. El Prestatario y el Prestamista podrán acordar, con respecto a uno o más Préstamos en virtud del presente, marcar los valores a mercado de conformidad con las Secciones 10.2 y 10.3 mediante la valoración por separado de los Valores Prestados y la Garantía otorgada con respecto a los mismos, Préstamo por Préstamo
+10.5. El Prestatario y el Prestamista podrán acordar, con respecto a cualquiera o todos los Préstamos en virtud del presente, que los respectivos derechos del Prestamista y del Prestatario en virtud de las Secciones 10.2 y 10.3 podrán ejercerse únicamente cuando un Exceso de Margen o un Déficit de Margen exceda un monto en dólares específico o un porcentaje específico del Valor de Mercado de los Valores Prestados en virtud de dichos Préstamos (cuyo monto o porcentaje deberá ser acordado por el Prestatario y el Prestamista antes de celebrar dichos Préstamos).
+
+11. Representaciones.
+Las partes de este Acuerdo por la presente hacen las siguientes declaraciones y garantías, que continuarán durante el plazo de cualquier Préstamo en virtud del presente:
+
+11.1. Cada parte del presente documento declara y garantiza que (a) tiene el poder para ejecutar y entregar este Acuerdo, para celebrar los Préstamos contemplados en el presente y cumplir con sus obligaciones en virtud del mismo, (b) ha tomado todas las medidas necesarias para autorizar dicha ejecución, entrega y cumplimiento, y (c) este Acuerdo constituye una obligación legal, válida y vinculante exigible en su contra de conformidad con sus términos.
+11.2. El Prestatario y el Prestamista declaran y garantizan que no han recurrido al otro para obtener asesoramiento fiscal o contable en relación con este Acuerdo y que han tomado su propia determinación en cuanto al tratamiento fiscal y contable de cualquier Préstamo y de cualquier dividendo, remuneración u otros fondos recibidos en virtud del presente.
+11.3. Tanto el Prestatario como el Prestamista declaran y garantizan que actúan por cuenta propia a menos que especifiquen expresamente lo contrario por escrito y que cumplen con la Sección 12.1(b).
+11.4. El Prestamista declara que no es una filial de la empresa que emitió el Préstamo.Valores.
+11.5. El prestatario declara y garantiza que tiene, o tendrá en el momento de la transferencia de cualquier garantía, el derecho a otorgar un interés de garantía de primera prioridad sobre la misma sujeto a los términos y condiciones del presente
+11.6. (a) El prestatario declara y garantiza que él (o la persona a quien le vuelve a prestar el Prestado)
+Valores) está tomando prestados o tomará prestados Valores Prestados que son Valores de Capital con el propósito de realizar la entrega de dichos Valores Prestados en el caso de ventas en corto, imposibilidad de recibir los valores que se requiere entregar, o según lo permita de otra manera el Reglamento T vigente en ese momento
+
+(b) El Prestatario y el Prestamista podrán acordar, según lo dispuesto en la Sección 25.2, que no se considerará que el Prestatario ha hecho la declaración o garantía en la subsección (a) con respecto a ningún Préstamo.
+
+Al celebrar dicho acuerdo, se considerará que el Prestamista ha declarado y garantizado al Prestatario (cuya declaración y garantía se considerarán repetidas cada día durante el plazo del Préstamo) que el Prestamista es (i) un “prestatario exento” dentro del significado del Reglamento T o (ii) un miembro de una bolsa de valores nacional o un corredor o distribuidor registrado en la Comisión de Bolsa y Valores de los Estados Unidos que está celebrando dicho Préstamo para financiar sus actividades como creador de mercado o suscriptor.
+
+11.7. El Prestamista declara y garantiza que tiene, o tendrá en el momento de la transferencia, cualquier Activo Prestado.
+
+Valores, el derecho a transferir los Valores Prestados sujeto a los términos y condiciones del presente.
+
+12. Pactos.
+12.1. El Prestatario y el Prestamista acuerdan (a) ser responsables como principal con respecto a sus obligaciones en virtud del presente o (b) ejecutar y cumplir íntegramente con las disposiciones del Anexo I (cuyos términos y condiciones se incorporan al presente y forman parte del mismo).
+
+Todos los préstamos aquí establecidos pueden, a opción de la parte que no incumplió (cuya opción se considerará ejercida inmediatamente después de que ocurra un acto de insolvencia), ser rescindidos inmediatamente después de que ocurra uno o más de los siguientes eventos (individualmente, un "Incumplimiento"):
+
+13.1. si los Valores Prestados no se transfieren al Prestamista al finalizar el Préstamo según lo exige la Sección 7;
+13.2. si el Prestamista interfiere con la devolución de cualquier Garantía al Prestatario al finalizar el Préstamo como requerido por la Sección 7;
+
+13.3. si el Prestatario no transfiere la Garantía según lo requerido por la Sección 10;
+13.4. si el Prestatario (a) no transfiere al Prestamista los montos correspondientes a las Distribuciones que se requieren transferido por la Sección 9, (b) deberá haber sido notificado de tal incumplimiento por el Prestamista antes del Cierre deNegocios en cualquier día, y (c) no habrá subsanado dicha falla antes de la Hora de Cierre del día siguiente al Cierre de Negocios en el que se pueda efectuar una transferencia de efectivo de conformidad con Artículo 16;
+13.5. si se produce un acto de insolvencia con respecto al prestatario o al prestamista
+13.6. si cualquier representación hecha por el Prestatario o el Prestamista con respecto a este Acuerdo o cualquier Préstamo o Los préstamos aquí estipulados sean incorrectos o falsos en cualquier aspecto material durante el plazo de cualquier Préstamo aquí estipulado;
+13.7. si el Prestatario o el Prestamista notifica al otro su incapacidad o su intención de no cumplir con sus obligaciones en virtud del presente o de otra manera desestima, rechaza o repudia cualquiera de sus obligaciones en virtud del presente; o
+13.8. si el Prestatario o el Prestamista (a) no cumple con alguna obligación material bajo este Acuerdo, no específicamente establecido en las cláusulas 13.1 a 13.7 anteriores, incluyendo, entre otros, el pago de los Ingresos según lo requerido por la Sección 6 y el pago de los impuestos de transferencia según lo requerido por la Sección 15, (b) habrá sido notificado de dicho incumplimiento por la otra parte antes del Cierre de Operaciones de cualquier día, y (c) no habrá subsanado dicho incumplimiento antes de la Hora de Cierre del día siguiente a dicho Cierre de Operaciones en el que se puede efectuar una transferencia de efectivo de conformidad con la Sección 16.
+
+La parte que no incumpla deberá (excepto en caso de que se produzca un acto de insolvencia) notificar lo antes posible a la parte que incumpla el ejercicio de su opción de rescindir todos los préstamos en virtud del presente de conformidad con esta Sección 13. Si el Prestamista es la parte que no incumple, dicha notificación deberá (excepto en caso de que se produzca un acto de insolvencia) ser realizada por el Agente de garantías después de recibir la notificación del Prestamista al Agente de garantías de conformidad con la Sección 14.1. En caso de que se produzca un acto de insolvencia con respecto al Prestatario, dicha notificación y la rescisión de todos los préstamos en virtud del presente se considerarán realizadas tras la presentación pública de cualquier caso, procedimiento, petición o decreto contra la parte incumplidora de conformidad con el Capítulo 7 o el Capítulo 11 del Código de Quiebras, de conformidad con la Ley de Protección del Inversor en Valores de 1970 o de conformidad con la Autoridad de Liquidación Ordenada de conformidad con el Título II de la Ley de Reforma de Wall Street y Protección del Consumidor Dodd-Frank.
+
+14. Remedios.
+
+14.1. (a) En el caso de que el Prestamista decida ejercer sus derechos bajo esta Sección, el Prestamista deberá:
+Comuníquese con el agente colateral al: 800-433-1918 o envíe un correo electrónico a RTIDOps@rnt.com. El Agente de Garantía y el Banco se reservan el derecho de exigir al Prestamista que presente cualquier información, identificación, certificación o cualquier otra documentación que el Agente de Garantía o el Banco consideren razonablemente necesaria para establecer el derecho del Prestamista a los fondos antes de desembolsarle fondos. El Agente de Garantía puede confiar en dicha información y estar completamente protegido al confiar en ella.
+
+instrucciones  del  Prestamista  que  considere  razonablemente  genuinas,  y  no  tendrá  obligación  de  determinar  o  verificar  la  ocurrencia  o  continuación  de  un  Incumplimiento.  Al  tener  conocimiento  de  la  ocurrencia  de  un  Acto  de  Insolvencia  con  respecto  al  Prestatario  de  conformidad  con  la  Sección  5.3,  el  Agente  de  Garantías,  en  nombre  del  Prestamista,  comenzará  inmediatamente  a  ejercer  los  recursos  del  Prestamista  según  lo  establecido  en  esta  Sección  14.1.
+(b)  En  caso  de  producirse  un  Incumplimiento  según  la  Sección  13  que  faculte  al  Prestamista  a  rescindir  todos  los  Préstamos  en  virtud  del  presente,  el  Prestamista  tendrá  derecho,  además  de  cualquier  otro  recurso  previsto  en  el  presente  (que,  en  caso  de  producirse  un  Acto  de  Insolvencia,  puede  ejercerse  tras  la  terminación  de  cualquier  suspensión  aplicable),  (i)  a  comprar  una  cantidad  similar  de  Valores  Prestados  ("Valores  de  Reemplazo")  en  el  mercado  principal  para  dichos  Valores  Prestados  de  una  manera  comercialmente  razonable,  (ii)  a  instruir  al  Agente  de  Garantía  para  que  ordene  al  Banco  que  remita  al  Agente  de  Garantía  para  el  beneficio  del  Prestamista  la  Garantía  por  la  cantidad  que  el  Agente  de  Garantía  indique,  dicha  Garantía  será  remitida  por  el  Agente  de  Garantía  al  Prestamista  de  conformidad  con  las  instrucciones  del  Prestamista  al  Agente  de  Garantía  y  (iii)  a  aplicar  y  compensar  la  Garantía  y  cualquier  producto  de  la  misma  (incluidos  los  montos  extraídos  en  virtud  de  una  carta  de  crédito  que  respalde  cualquier  Préstamo)  recibidos  del  Agente  de  Garantía  contra  el  pago  del  precio  de  compra  de  dichos  Valores  de  Reemplazo  y  cualquier  monto  adeudado  al  Prestamista  en  virtud  de  las  Secciones  6,  9,  15  y  17.  El  Agente  de  Garantía  podrá  confiar,  y  estar  plenamente  protegido  al  confiar,  en  cualquier  notificación  recibida  del  Prestamista  que  considere  razonablemente  genuina  en  relación  con  un  Incumplimiento  con  respecto  al  Prestatario  y  la  instrucción  del  Prestamista  al  Agente  de  Garantía  para  que  haga  que  la  Garantía  sea  remitida  desde  el  Banco  al  Agente  de  
+Garantía  para  el  beneficio  del  Prestamista.  En  caso  de  que  el  Prestamista  ejerza  tales  derechos,  la  obligación  del  Prestatario  de  devolver  una  cantidad  similar  de  los  Valores  Prestados  terminará.
+El  Prestamista  podrá  aplicar  de  manera  similar  la  Garantía  y  cualquier  producto  de  la  misma  a  cualquier  otra  obligación  del  Prestatario  en  virtud  de  este  Acuerdo,  incluidas  las  obligaciones  del  Prestatario  con  respecto  a  las  Distribuciones  pagadas  al  Prestatario  (y  no  remitidas  al  Prestamista)  con  respecto  a  los  Valores  Prestados.  En  el  caso  de  que  (A)  el  precio  de  compra  de  los  Valores  de  Reemplazo  (más  todos  los  demás  montos,  si  los  hubiera,  adeudados  al  Prestamista  en  virtud  del  
+presente)  exceda  (B)  el  monto  de  la  Garantía,  el  Prestatario  será  responsable  ante  el  Prestamista  por  el  monto  de  dicho  excedente  junto  con  los  intereses  correspondientes  a  una  tasa  igual  a  (1)  en  el  caso  de  compras  de  Valores  Extranjeros,  ESTR,  (2)  en  el  caso  de  compras  de  cualquier  otro  Valor  (u  otros  montos,  si  los  hubiera,  adeudados  al  Prestamista  en  virtud  del  presente),  la  Tasa  de  Fondos  Federales  o  (3)  cualquier  otra  tasa  que  pueda  especificarse  en  el  Anexo  B,  en  cada  caso  según  dicha  tasa  fluctúe  de  un  día  para  el  otro,  desde  la  fecha  de  dicha  compra  hasta  la  fecha  de  pago  de  dicho  excedente.  Como  garantía  de  la  obligación  del  Prestatario  de  pagar  dicho  excedente,  el  Prestador  tendrá,  y  el  
+Prestatario  otorga  por  la  presente,  un  derecho  de  garantía  sobre  cualquier  propiedad  del  Prestatario  que  en  ese  momento  esté  en  poder  del  Prestador  o  en  su  nombre  y  un  derecho  de  compensación  con  respecto  a  dicha  propiedad  y  cualquier  otro  monto  pagadero  por  el  Prestador  al  Prestatario.  El  precio  de  compra  de  los  Valores  de  Reemplazo  adquiridos  conforme  a  esta  Sección  14.1  incluirá,  y  el  producto  de  cualquier  venta  de  Garantía  se  determinará  después  de  la  deducción  
+de,  los  honorarios  y  comisiones  del  corredor  y  todos  los  demás  costos,  honorarios  y  gastos  razonables  relacionados  con  dicha  compra  o  venta  (según  corresponda).
+En  caso  de  que  el  Prestamista  ejerza  sus  derechos  en  virtud  de  esta  Sección  14.1,  el  Prestamista  podrá  optar,  a  su  exclusivo  criterio,  en  lugar  de  comprar  la  totalidad  o  una  parte  de  los  Valores  de  Reemplazo  o  vender  la  totalidad  o  una  
+parte  de  la  Garantía,  por  considerarse  que  ha  realizado,  respectivamente,  dicha  compra  de  Valores  de  Reemplazo  o  venta  de  la  Garantía  por  un  monto  igual  al  precio  correspondiente  a  la  fecha  de  dicho  ejercicio  obtenido  de  una  fuente  generalmente  reconocida  o  la  última  cotización  de  oferta  de  dicha  fuente  al  Cierre  de  Operaciones  más  reciente.  Sujeto  a  la  Sección  19,  una  vez  satisfechas  todas  las  obligaciones  en  virtud  del  presente,  cualquier  Garantía  restante  se  devolverá  al  Prestatario.
+14.2.  En  caso  de  producirse  un  incumplimiento  según  la  Sección  13  que  dé  derecho  al  Prestatario  a  rescindir  todos  los  Préstamos
+En  virtud  del  presente,  el  Prestatario  tendrá  derecho,  además  de  cualquier  otro  recurso  previsto  en  el  presente  (que,  en  caso  de  producirse  un  acto  de  insolvencia,  podrá  ejercerse  tras  la  terminación  de  cualquier  suspensión  aplicable),  (a)  a  comprar  una  
+cantidad  similar  de  Garantía  (“Garantía  de  reemplazo”)  en  el  mercado  principal  para  dicha  Garantía  de  una  manera  
+comercialmente  razonable,  (b)  a  vender  una  cantidad  similar  de  los  Valores  prestados  en  el  mercado  principal  para  dichos  Valores  prestados  de  una  manera  comercialmente  razonable  y  (c)  a  aplicar  y  compensar  los  Valores  prestados  y  cualquier  producto  de  los  mismos.
+
+
+contra (i) el pago del precio de compra de dicha Garantía de Reemplazo, (ii) la obligación del Prestador de devolver cualquier 
+efectivo u otra Garantía, y (iii) cualquier monto adeudado al Prestatario según las Secciones 6, 9 y 17. En tal caso, el Prestatario puede 
+tratar los Valores Prestados como propios y la obligación del Prestador de devolver un monto similar de la Garantía terminará; siempre 
+que, sin embargo, el Prestador devuelva inmediatamente cualquier carta de crédito que respalde cualquier Préstamo tras el ejercicio o supuesto 
+ejercicio por parte del Prestatario de sus derechos de terminación según la Sección 13. El Prestatario puede aplicar de manera similar 
+los Valores Prestados y cualquier producto de los mismos a cualquier otra obligación del Prestador según este Acuerdo, incluidas las 
+obligaciones del Prestamista con respecto a las Distribuciones pagadas al Prestamista (y no remitidas al Prestatario) con respecto a la 
+Garantía. En el caso de que (i) el precio de venta recibido de dichos Valores Prestados sea menor que (ii) el precio de compra de la 
+Garantía de Reemplazo (más el monto de cualquier efectivo u otra Garantía no reemplazada por el Prestatario y todos los demás montos, si 
+los hubiera, adeudados al Prestatario en virtud del presente), el Prestamista será responsable ante el Prestatario por el monto de dicha 
+deficiencia, junto con los intereses sobre dichos montos a una tasa igual a (A) en el caso de la Garantía consistente en Valores Extranjeros, 
+ESTR, (B) en el caso de la Garantía consistente en otros Valores (u otros montos adeudados, si los hubiera, al Prestatario en virtud del 
+presente), la Tasa de Fondos Federales o (C) cualquier otra tasa que pueda especificarse en el Anexo B, en cada caso según fluctúe dicha 
+tasa de un día para el otro, desde la fecha de dicha venta hasta la fecha de pago de dicha deficiencia. Como garantía de la obligación del 
+Prestador de pagar dicha deficiencia, el Prestatario tendrá, y el Prestador por la presente otorga, un derecho de garantía sobre cualquier 
+propiedad del Prestador que en ese momento esté en poder del Prestatario o en su nombre y un derecho de compensación con respecto 
+a dicha propiedad y cualquier otro monto pagadero por el Prestatario al Prestador. El precio de compra de cualquier Garantía de Reemplazo 
+adquirida de conformidad con esta Sección incluirá, y el producto de cualquier venta de Valores Prestados se determinará después de la 
+deducción de, los honorarios y comisiones del corredor y todos los demás costos, honorarios y gastos razonables relacionados con dicha 
+compra o venta (según corresponda). En caso de que el Prestatario ejerza sus derechos en virtud de esta Sección 14.2, el Prestatario 
+podrá optar, a su exclusivo criterio, en lugar de comprar la totalidad o una parte de la Garantía de Reemplazo o vender la totalidad o una 
+parte de los Valores Prestados, por considerarse que ha realizado, respectivamente, dicha compra de la Garantía de Reemplazo o la 
+venta de los Valores Prestados por un importe igual al precio correspondiente a la fecha de dicho ejercicio obtenido de una fuente 
+generalmente reconocida o la última cotización de oferta de dicha fuente al Cierre de Operaciones más reciente. Sujeto a la Sección 
+19, una vez satisfechas todas las obligaciones del Prestador en virtud del presente, los Valores Prestados restantes (o el producto en 
+efectivo restante de los mismos) se devolverán al Prestador.
+
+
+14.3. A menos que se acuerde lo contrario, el Prestatario y el Prestamista reconocen y aceptan que (a) el Prestado
+Los valores y cualquier garantía consistente en valores son de un tipo negociado en un mercado reconocido, (b) en ausencia de una fuente 
+generalmente reconocida para precios o cotizaciones de oferta y demanda para cualquier valor, la parte que no incumple puede 
+establecer la fuente correspondiente a su exclusivo criterio, y (c) todos los precios y cotizaciones de oferta y demanda se incrementarán para 
+incluir el interés acumulado en la medida en que no esté ya incluido en los mismos (excepto en la medida en que sea contrario a la práctica 
+del mercado con respecto a los valores relevantes).
+
+14.4. Además de sus derechos en virtud del presente, la parte que no incumpla tendrá todos los derechos que de otro modo le correspondan.
+Además de cualquier otro recurso al que una parte no incumplidora pueda tener derecho en virtud del Acuerdo, la parte incumplidora será 
+responsable, con respecto a un Préstamo individual o con respecto a una clase de Préstamos, ante la parte no incumplidora por (a) el monto 
+de todos los gastos legales o de otro tipo razonables incurridos por la parte no incumplidora en relación con o como resultado de un 
+Incumplimiento, (b) daños por un monto igual al costo (incluidos todos los pagos, gastos y comisiones) de celebrar transacciones de 
+reemplazo y celebrar o terminar transacciones de cobertura en relación con o como resultado de un Incumplimiento, y (c) cualquier otra 
+pérdida, daño, costo o gasto que surja o resulte directamente de la ocurrencia de un Incumplimiento con respecto a un Préstamo.
+
+15. Impuestos de Transferencia.
+Todos los impuestos de transferencia con respecto a la transferencia de los Valores Prestados por parte del Prestamista al Prestatario y por parte 
+del Prestatario al Prestamista al finalizar el Préstamo y con respecto a la transferencia de la Garantía por parte del Prestatario al Prestamista y por 
+parte del Prestamista al Prestatario al finalizar el Préstamo o de conformidad con la Sección 4.5 o la Sección 10 deberán ser pagados por 
+el Prestatario.
+
+16. Transferencias.
+16.1. Todas las transferencias, ya sea por parte del Prestatario o del Prestamista, de Valores Prestados o Garantías que consistan en “activos 
+financieros” (dentro del significado del UCC) en virtud del presente Acuerdo se realizarán (a) en el caso de valores certificados, la 
+entrega física de certificados que representen dichos valores junto con poderes de transferencia de acciones y bonos debidamente 
+ejecutados, según sea el caso, con firmas garantizadas por un banco o una firma miembro de la Bolsa de Valores de Nueva York, Inc., 
+(b) el registro de un valor no certificado a nombre del cesionario por parte del emisor de dicho valor no certificado, (c) la acreditación por 
+una Organización de Compensación de dichos activos financieros en la “cuenta de valores” del cesionario (dentro del significado del 
+UCC) mantenida con dicha Organización de Compensación, (d) otros medios que se especifiquen en este Acuerdo, incluidos, entre otros, 
+los medios especificados en las Secciones 3.2(c) y 7.1(b), o (e) otros medios que el Prestatario y el Prestamista puedan acordar
+
+16.2. Todas las transferencias de efectivo en virtud del presente documento se realizarán mediante (a) transferencia bancaria en efectivo inmediatamente disponible y de libre acceso.
+fondos transferibles, (b) acreditando la cuenta del Prestamista llevada por el Prestatario o (c) cualquier otro medio que el Prestatario y el 
+Prestamista puedan acordar.
+
+16.3. Todas las transferencias de cartas de crédito del Prestatario al Prestamista se realizarán mediante entrega física a
+Prestamista de una carta de crédito irrevocable emitida por un “banco” según se define en la Sección 3(a)(6)(A)(C) de la Ley de 
+Intercambio de Valores. Las transferencias de cartas de crédito del Prestamista al Prestatario se realizarán haciendo que dichas cartas de 
+crédito se devuelvan o haciendo que el monto de dichas cartas de crédito se reduzca al monto requerido después de dicha transferencia
+
+16.4. Una transferencia de Valores, efectivo o cartas de crédito puede efectuarse bajo esta Sección 16 cualquier día excepto (a) un día en el que el 
+cesionario esté cerrado para negocios en su lugar principal de negocios o (b) un día en el que una Organización de Compensación o 
+sistema de transferencias bancarias esté cerrado, si las instalaciones de dicha Organización de Compensación o sistema de transferencias 
+bancarias son necesarias para efectuar dicha transferencia
+
+16.5. Para evitar dudas, el Prestatario y el Prestamista acuerdan y reconocen que el término
+“valores”, tal como se utiliza en el presente documento (excepto en esta Sección 16), incluirá cualquier “derecho de garantía” con 
+respecto a dichos valores (dentro del significado del UCC). En cada transferencia de “activos financieros” (dentro del significado del 
+UCC) en virtud del presente documento, el cedente deberá tomar todas las medidas necesarias (a) para efectuar una entrega al 
+cesionario conforme a la Sección 8-301 del UCC, o para causar la creación de un derecho de garantía a favor del cesionario conforme a 
+la Sección 8-501 del UCC, (b) para permitir que el cesionario obtenga “control” (dentro del significado de la Sección 8-106 del UCC), y 
+(c) para proporcionar al cesionario derechos comparables conforme a cualquier ley o regulación extranjera aplicable.
+
+17. Moneda contractual.
+
+17.1. El Prestatario y el Prestamista acuerdan que (a) cualquier pago con respecto a una Distribución según la Sección 9 se realizará en la moneda 
+en la que se realizó la Distribución subyacente de efectivo, (b) cualquier devolución de efectivo se realizará en la moneda en la que se 
+realizó la transferencia subyacente de efectivo, y (c) cualquier otro pago de efectivo en relación con un Préstamo según este Acuerdo se 
+realizará en la moneda acordada por el Prestatario y el Prestamista en relación con dicho Préstamo (la moneda establecida según la 
+cláusula (a), (b) o (c) se denomina en adelante la “Moneda Contractual”).
+
+No obstante lo anterior, el beneficiario de dicho pago podrá, a su elección, aceptar la oferta en cualquier otra moneda; siempre que, sin 
+embargo, en la medida permitida por la ley aplicable, la obligación del pagador de realizar dicho pago se cumplirá únicamente en la 
+medida del monto de Moneda Contractual que dicho beneficiario pueda, de conformidad con los procedimientos bancarios normales,
+
+compra con esa otra moneda (después de la deducción de cualquier prima y costos de cambio) el día bancario siguiente a la recepción de esa 
+moneda.
+
+17.2. Si por cualquier motivo el importe en la Moneda Contractual recibido de conformidad con la Sección 17.1, incluidos los importes recibidos después 
+de la conversión de cualquier recuperación en virtud de cualquier sentencia u orden expresada en una moneda distinta a la Moneda 
+Contractual, es inferior al importe en la Moneda Contractual adeudado con respecto a este Acuerdo, la parte obligada a realizar el pago (a menos 
+que se haya producido un Incumplimiento y dicha parte sea la parte que no incumplió) pagará inmediatamente, como obligación separada 
+e independiente y en la medida permitida por la ley aplicable, el importe adicional en la Moneda Contractual que sea necesario para compensar 
+el déficit.
+
+17.3. Si por cualquier motivo el importe en la Moneda Contractual recibido según la Sección 17.1 excede el importe en la Moneda Contractual adeudado 
+con respecto a este Acuerdo, entonces la parte que reciba el pago (a menos que se haya producido un Incumplimiento y dicha parte sea la 
+parte que no incumplió) reembolsará de inmediato el importe de dicho exceso.
+
+
+El Prestamista deberá notificar al Prestatario por escrito, si alguno de los Valores transferidos al Prestatario en virtud del presente Acuerdo para cualquier 
+Préstamo se ha obtenido o se obtendrá, directa o indirectamente, de o utilizando los activos de cualquier Plan, al momento de la ejecución de este Acuerdo 
+o al inicio de dicho Préstamo según la Sección 2.1. Si el Prestamista notifica al Prestatario, entonces el Prestatario y el Prestamista llevarán a cabo el Préstamo 
+de conformidad con los términos y condiciones de la Exención de Transacción Prohibida 81-6 del Departamento de Trabajo (46 Fed. Reg. 7527, 23 de enero de 
+1981; con sus modificaciones, 52 Fed. Reg.
+18754, 19 de mayo de 1987), o cualquier sucesor del mismo (a menos que el Prestatario y el Prestamista hayan acordado antes de celebrar un Préstamo que dicho 
+Préstamo se llevará a cabo en base a otra exención, o sin basarse en ninguna exención,
+de las disposiciones sobre transacciones prohibidas de la Sección 406 de la Ley de Seguridad de Ingresos de Jubilación de Empleados de 1974, con sus 
+modificaciones, y la Sección 4975 del Código de Rentas Internas de 1986, con sus modificaciones). Sin limitar lo anterior y sin perjuicio de cualquier otra disposición 
+de este Acuerdo, si el Préstamo se realizará de conformidad con la Exención de Transacción Prohibida 81-6, entonces:
+
+
+18.1. El prestatario declara y garantiza al prestamista que es (a) un banco sujeto a las leyes federales o estatales
+supervisión, (b) un corredor de bolsa registrado bajo la Ley de Bolsa o (c) exento de registro bajo la Sección 15(a)(1) de la Ley de Bolsa como 
+corredor de valores gubernamentales.
+
+18.2. El Prestatario declara y garantiza que, durante el plazo de cualquier Préstamo en virtud del presente, ni el Prestatario ni ninguna de sus filiales 
+tienen autoridad discrecional o control con respecto a la inversión de los activos del Plan involucrados en el Préstamo ni brindan 
+asesoramiento en materia de inversiones (dentro del significado de la Sección 2510.3-21(c) del Título 29 del CFR) con respecto a los activos 
+del Plan involucrados en el Préstamo. El Prestamista acepta que, antes o al comienzo de cualquier Préstamo en virtud del presente, le 
+comunicará al Prestatario información sobre el Plan suficiente para identificar al Prestatario a cualquier persona o personas que 
+tengan autoridad discrecional o control con respecto a la inversión de los activos del Plan involucrados en el Préstamo o que brinden 
+asesoramiento en materia de inversiones (según se define en la oración anterior) con respecto a los activos del Plan involucrados en el 
+Préstamo. En caso de que el Prestamista no comunique ni mantenga actualizada dicha información durante el plazo de cualquier 
+Préstamo, se considerará que el Prestamista, y no el Prestatario, ha hecho la declaración y garantía en la primera oración de esta 
+Sección 18.2.
+
+
+18.3. El prestatario deberá valorar diariamente al mercado cada Préstamo en virtud del presente de conformidad con la Sección 10.1, tal como se requiere si
+El prestamista es un cliente.
+
+18.4. El prestatario y el prestamista acuerdan que:
+(a) el término “Garantía” significará efectivo; antes de realizar cualquier Préstamo en virtud del presente, el Prestatario deberá proporcionar 
+al Prestamista (i) el estado de cuenta auditado más reciente disponible de la condición financiera del Prestatario y (ii) el estado de cuenta 
+no auditado más reciente disponible de la condición financiera del Prestatario (si es más reciente que el estado de cuenta auditado más reciente), 
+y cada Préstamo realizado en virtud del presente se considerará una declaración del Prestatario de que no ha habido ningún cambio 
+adverso material en
+
+
+La  situación  financiera  del  prestatario  posterior  a  la  fecha  de  los  últimos  estados  financieros  o  información  proporcionada  de  conformidad  con  el  presente;
+(b)	el  Prestamista  podrá  rescindir  el  Préstamo  en  cualquier  momento,  en  cuyo  caso  el  Prestatario  deberá  entregar  el
+Valores  prestados  al  Prestamista  dentro  del  menor  de  (i)  el  período  de  entrega  habitual  para  dichos  Valores  prestados
+Valores,  (ii)  cinco  Días  Hábiles,  y  (iii)  el  tiempo  negociado  para  dicha  entrega  entre  el  Prestatario  y  el  Prestamista;  siempre  que,  sin  embargo,  el  Prestatario  y  el  Prestamista  puedan  acordar  un  período  más  largo  solo  si  lo  permite  la  Exención  de  Transacción  Prohibida  81­6;  y
+(c)	la  Garantía  transferida  será  únicamente  garantía  de  las  obligaciones  del  Prestatario  con  el  Plan  con  respecto  a  los  Préstamos,  y  no  será  garantía  de  ninguna  obligación  del  Prestatario  con  ningún  agente  o  afiliado  del  Plan.
+19.  Acuerdo  Único.
+El  Prestatario  y  el  Prestamista  reconocen  que,  y  han  celebrado  este  Acuerdo  en  base  al  hecho  de  que,  todos  los  Préstamos  aquí  establecidos  constituyen  una  única  relación  comercial  y  contractual  y  se  han  celebrado  en  consideración  mutua.  En  consecuencia,  el  Prestatario  y  
+el  Prestamista  acuerdan  por  el  presente  que  los  pagos,  entregas  y  otras  transferencias  realizadas  por  cualquiera  de  ellos  con  respecto  a  cualquier  Préstamo  se  considerarán  realizados  en  consideración  de  los  pagos,  entregas  y  otras  transferencias  con  respecto  a  cualquier  otro  Préstamo  aquí  establecido,  y  las  obligaciones  de  realizar  dichos  pagos,  entregas  y  otras  transferencias  pueden  aplicarse  entre  sí  y  compensarse.  Además,  el  Prestatario  y  el  Prestamista  reconocen  que,  y  han  celebrado  este  Acuerdo  en  base  al  hecho  de  que,  todos  
+los  Préstamos  aquí  establecidos  se  han  celebrado  en  consideración  mutua.  En  consecuencia,  el  Prestatario  y  el  Prestamista  acuerdan  por  el  
+presente  que  (a)  cada  uno  cumplirá  con  todas  sus  obligaciones  con  respecto  a  cada  Préstamo  en  virtud  del  presente,  y  que  un  incumplimiento  en  el  cumplimiento  de  dicha  obligación  por  parte  del  Prestatario  o  del  Prestamista  (la  "Parte  Incumplidora")  en  cualquier  Préstamo  en  virtud  del  presente  constituirá  un  incumplimiento  por  parte  de  la  Parte  Incumplidora  de  todos  dichos  Préstamos  en  virtud  del  presente,  y  (b)  la  parte  no  incumplidora  tendrá  derecho  a  compensar  reclamos  y  aplicar  la  propiedad  que  posee  con  respecto  a  cualquier  Préstamo  en  virtud  del  presente  contra  las  obligaciones  que  se  le  adeudan  con  respecto  a  cualquier  otro  Préstamo  con  la  Parte  Incumplidora.
+20.	LEY  APLICABLE.
+ESTE  ACUERDO  SE  REGIRÁ  E  INTERPRETARÁ  DE  CONFORMIDAD  CON  LAS  LEYES  DEL  ESTADO  DE  NUEVA  YORK  SIN  DAR  EFECTO  A  LOS  PRINCIPIOS  DE  CONFLICTO  DE  LEYES  DEL  MISMO.
+21.	Renuncia.
+El  hecho  de  que  una  de  las  partes  de  este  Acuerdo  no  insista  en  el  estricto  cumplimiento  de  cualquiera  de  sus  términos  en  cualquier  ocasión  no  se  considerará  una  renuncia  ni  privará  a  esa  parte  del  derecho  a  insistir  en  el  estricto  cumplimiento  de  ese  término  o  de  cualquier  otro  término  de  este  Acuerdo  en  el  futuro.  Todas  las  renuncias  en  relación  con  un  Incumplimiento  deben  hacerse  por  escrito.
+22.	Supervivencia  de  los  remedios.
+Todos  los  recursos  aquí  establecidos  y  todas  las  obligaciones  con  respecto  a  cualquier  Préstamo  sobrevivirán  a  la  terminación  del  Préstamo  relevante,  la  devolución  de  los  Valores  Prestados  o  la  Garantía  y  la  terminación  de  este  Acuerdo.
+23.	Avisos  y  otras  comunicaciones.
+TradeStation  Securities,  Inc.  o  el  Agente  de  Garantía  pueden  enviar  todos  y  cada  uno  de  los  avisos,  declaraciones,  demandas  u  otras  comunicaciones  en  virtud  del  presente  documento  a  la  Contraparte  por  teléfono,  correo  postal,  fax,  correo  electrónico,  mensaje  electrónico,  mensajero  telegráfico  o  de  otro  
+modo  a  los  números  de  teléfono  y  fax  proporcionados  por  la  Contraparte  y  mantenidos  por  TradeStation  Securities,  Inc.  o  el  Agente  de  Garantía,  según  corresponda,  en  sus  libros  y  registros  para  dicha  parte.  La  Contraparte  puede  enviar  todos  y  cada  uno  de  los  avisos,  declaraciones,  demandas  u  otras  comunicaciones  en  virtud  del  presente  documento  a  TradeStation  Securities,  Inc.  por  escrito  de  forma  electrónica  a  través  del  centro  de  mensajes  
+electrónicos  seguro  mantenido  por  TradeStation  Securities,  Inc.  para  la  cuenta  de  la  Contraparte.  La  Contraparte  puede  enviar  todos  y  cada  uno  de  los  avisos,  declaraciones,  demandas  u  otras  comunicaciones  en  virtud  del  presente  documento  al  Agente  de  Garantía  por  escrito  a  1411  Broadway,  piso  28,  Nueva  
+York,  NY  10018­3450,  Attn:  COO.  Cualquier  aviso,  declaración,  demanda  u  otra  comunicación  en  virtud  del  presente  documento  puede  enviarse  por  escrito  a  TradeStation  Securities,  Inc.,  a  través  del  centro  de  mensajes  electrónicos  seguro  mantenido  por  TradeStation  Securities,  Inc.  para  la  cuenta  de  la  Contraparte.
+Machine Translated by Google
+Acuerdo  marco  de  préstamo  de  valores
+La  comunicación  en  virtud  del  presente  documento  se  considerará  efectiva  el  día  y  la  hora  en  que  se  reciba  o,  si  no  se  recibe,  el  día  y  la  hora  en  que  se  intentó  de  buena  fe  su  entrega;  siempre  que,  sin  embargo,  cualquier  notificación  de  
+una  parte  a  la  otra  parte  por  teléfono  se  considere  efectiva  solo  si  (a)  dicha  notificación  es  seguida  por  una  confirmación  escrita  de  la  misma  y  (b)  al  menos  uno  de  los  otros  medios  de  proporcionar  notificación  que  se  enumeran  específicamente  anteriormente  se  ha  intentado  previamente  de  buena  fe  por  la  parte  notificante.
+24.	ARBITRAJE  OBLIGATORIO
+LAS  PARTES  ACUERDAN  POR  EL  PRESENTE  QUE  CUALQUIER  DISPUTA,  CONTROVERSIA  O  RECLAMO  ENTRE  LAS  PARTES  QUE  
+SURJA  DE  ESTE  ACUERDO  O  CUALQUIER  PRÉSTAMO  EN  VIRTUD  DEL  MISMO  ESTARÁ  SUJETO  A  LA  DISPOSICIÓN  DE  ARBITRAJE  OBLIGATORIO  CONTENIDA  EN  CUALQUIER  CUENTA  DE  CLIENTE  O  ACUERDO  SIMILAR  CELEBRADO  ENTRE  DICHAS  PARTES.
+25.	Varios.
+25.1.  Salvo  que  las  partes  acuerden  lo  contrario  o  que  se  disponga  lo  contrario  en  el  presente,  este  
+Acuerdo  reemplaza  a  cualquier  otro  acuerdo  entre  las  partes  en  relación  con  préstamos  de  Valores  entre  el  Prestatario  y  el  Prestamista.  Salvo  de  conformidad  con  la  Sección  4.4  de  los  Protocolos  del  
+Agente  Colateral,  el  presente  Acuerdo  no  podrá  ser  cedido  por  el  Prestatario,  el  Prestamista  o  el  Agente  Colateral  sin  el  consentimiento  previo  por  escrito  de  las  otras  partes  y  cualquier  intento  de  cesión  sin  dicho  consentimiento  será  nulo  y  sin  valor.  Cualquier  intento  de  cesión  que  afecte  negativamente  el  derecho  de  garantía  otorgado  de  conformidad  con  este  Acuerdo  y  perfeccionado  por  el  Acuerdo  de  Control  será  igualmente  nulo  y  sin  valor.  Sujeto  a  lo  anterior,  este  Acuerdo  será  vinculante  y  redundará  en  beneficio  del  Prestatario,  el  Prestamista  y  el  Agente  Colateral  y  sus  respectivos  herederos,  
+representantes,  sucesores  y  cesionarios.  El  presente  Acuerdo  podrá  ser  rescindido  por  el  Prestatario  o  el  Prestamista  mediante  notificación  a  la  otra  parte,  sujeto  únicamente  al  cumplimiento  de  cualquier  
+obligación  pendiente  en  ese  momento.  TradeStation  podrá  modificar  este  Acuerdo  de  acuerdo  con  las  disposiciones  de  enmienda  y  modificación  establecidas  en  la  Sección  32  del  Acuerdo  de  Cuenta  de  Cliente  para  Acciones  de  TradeStation  Securities,  Inc.  (según  se  modifiquen  o  modifiquen  dichas  disposiciones  de  vez  en  cuando),  siempre  que  dicha  acción  no  afecte  negativamente  el  derecho  de  garantía  otorgado  de  conformidad  con  este  Acuerdo  y  perfeccionado  por  el  Acuerdo  de  Control.  
+Las  partes  reconocen  y  acuerdan  que,  en  relación  con  este  Acuerdo  y  cada  Préstamo  en  virtud  del  mismo,  el  tiempo  es  esencial.  Cada  disposición  y  acuerdo  del  presente  se  considerará  separado  e  
+independiente  de  cualquier  otra  disposición  del  presente  y  será  exigible  a  pesar  de  la  inaplicabilidad  de  cualquier  
+25.2.  Cualquier  acuerdo  entre  el  Prestatario  y  el  Prestamista  de  conformidad  con  la  Sección  11.5(b)  o  la  Sección  26.42  se  realizará  (a)  por  escrito,  (b)  oralmente,  si  se  confirma  rápidamente  por  escrito  o  a  través  de  cualquier  sistema  
+que  compare  Préstamos  y  en  el  que  el  Prestatario  y  el  Prestamista  sean  participantes,  o  (c)  de  cualquier  otra  manera  que  puedan  acordar  por  escrito  el  Prestatario  y  el  Prestamista.
+26.  Definiciones.
+A  los  efectos  del  presente  documento:
+26.1.  “Acto  de  Insolvencia”  significará,  con  respecto  a  cualquier  parte,  (a)  el  inicio  por  dicha  parte  como  deudor  de  cualquier  caso  o  procedimiento  bajo  cualquier  ley  de  quiebra,  insolvencia,  reorganización,  liquidación,  
+moratoria,  disolución,  morosidad  o  similar,  o  la  búsqueda  por  parte  de  dicha  parte  del  nombramiento  o  
+elección  de  un  receptor,  curador,  fideicomisario,  custodio  o  funcionario  similar  para  dicha  parte  o  cualquier  parte  sustancial  de  su  propiedad,  o  la  convocatoria  de  cualquier  reunión  de  acreedores  con  el  propósito  de  iniciar  dicho  caso  o  procedimiento  o  buscar  dicho  nombramiento  o  elección,  (b)  el  inicio  de  dicho  caso  o  procedimiento  contra  dicha  parte,  u  otra  persona  que  busque  dicho  nombramiento  o  elección,  o  la  presentación  contra  una  parte  de  una  solicitud  de  decreto  de  protección  bajo  las  disposiciones  de  la  Ley  de  Protección  del  Inversionista  en  Valores  de  1970,  que  (i)  sea  consentida  o  no  impugnada  oportunamente  por  dicha  parte,  (ii)  resulte  en  la  entrada  de  una  orden  de  alivio,  dicho  nombramiento  o  elección,  la  emisión  de  dicho  decreto  de  protección  o  la  entrada  de  una  orden  que  
+tenga  un  efecto  similar,  o  (iii)  no  se  desestima  dentro  de  los  15  días,  (c)  la  realización  por  dicha  parte  de  una  cesió
+
+
+beneficio de los acreedores, o (d) la admisión por escrito por dicha parte de su incapacidad para pagar sus deudas a 
+medida que vencen.
+26.2. “Banco” tendrá el significado asignado en la Sección 4.1.
+26.3. “Código de Quiebras” tendrá el significado asignado en la Sección 27.1.
+26.4. “Prestatario” tendrá el significado asignado en la Sección 1.
+26.5. “Pago al prestatario” tendrá el significado asignado en la Sección 9.5(a)
+26.6. “Corredor-Distribuidor” significará cualquier persona que sea corredor (incluido un corredor de valores municipales),
+26.12. “Cuenta colateral” tendrá el significado asignado en la Sección 4.1.
+26.16. “Confirmación” tendrá el significado asignado en la Sección 2.1.
+26.13. “Agente de Garantía” tendrá el significado asignado en el primer párrafo de este Acuerdo.
+comerciante, corredor de valores municipales, corredor de valores gubernamentales o agente de valores gubernamentales 
+según se define en la Ley de Bolsa, independientemente de si las actividades de dicha persona se llevan a cabo en los 
+Estados Unidos o de otra manera requieren que dicha persona se registre ante la Comisión de Bolsa y Valores de 
+los Estados Unidos u otro organismo regulador.
+26.7. “Día Hábil” significará, con respecto a cualquier Préstamo en virtud del presente, un día en el que se realizan operaciones comerciales regulares.
+se produzca en el mercado principal de los Valores Prestados sujetos a dicho Préstamo, siempre que, sin embargo, para 
+los fines de determinar el Valor de Mercado de cualquier Valor en virtud del presente, dicho término significará un día 
+en el que se produzcan transacciones regulares en el mercado principal de los Valores cuyo valor se está determinando. 
+No obstante lo anterior, (a) para los fines de la Sección 10, “Día Hábil” significará cualquier día en el que se produzcan 
+transacciones regulares en el mercado principal de cualquier Valor Prestado o de cualquier Garantía que consista en 
+Valores bajo cualquier Préstamo pendiente en virtud del presente y “siguiente Día Hábil” significará el día siguiente en el que 
+se pueda efectuar una transferencia de Garantía de conformidad con la Sección 16, y (b) en ningún caso un sábado o 
+domingo se considerará un Día Hábil.
+
+26.8. “Organización de Compensación” significará (a) La Compañía Fiduciaria Depositaria, o, si así lo acuerda
+
+Prestatario y Prestamista, cualquier otro “intermediario de valores” (en el sentido del UCC) en el que el Prestatario (o 
+el agente del Prestatario) y el Prestamista (o el agente del Prestamista) mantengan cuentas, o (b) un Banco de la Reserva 
+Federal, en la medida en que mantenga un sistema de registro contable.
+26.9. “Cierre de operaciones” significará las 4:00 p. m. (hora de la ciudad de Nueva York).
+26.10. “Cierre de negociación” significará, con respecto a cualquier Valor, el final de la sesión de negociación principal establecida 
+por el mercado principal para dicho Valor en un Día hábil, a menos que se acuerde lo contrario.
+
+26.11. “Garantía” significará, ya sea que se posea actualmente o se adquiera en el futuro y en la medida que lo permita la ley 
+aplicable, (a) cualquier propiedad que el Prestatario y el Prestamista acuerden antes del Préstamo que será una 
+garantía aceptable y que se transfiera al Prestamista de conformidad con las Secciones 4 o 10 (incluida como garantía, a 
+los efectos de la definición, cualquier carta de crédito mutuamente aceptable para el Prestamista y el Prestatario), 
+(b) todas las cuentas en las que se deposite dicha propiedad y todos los valores y similares en los que se invierta o 
+reinvierta cualquier garantía en efectivo, y (c) cualquier producto de cualquiera de los anteriores; siempre que, sin embargo, 
+si el Prestamista es un Cliente, “Garantía” se limite a efectivo.
+
+26.12. “Cuenta colateral” tendrá el significado asignado en la Sección 4.1.
+26.13. “Agente de Garantía” tendrá el significado asignado en el primer párrafo de este Acuerdo.
+26.14. “Protocolos de Agentes Colaterales” tendrá el significado asignado en la Sección 5.1.
+26.15. “Distribuciones colaterales” tendrá el significado asignado en la Sección 9.5(a).
+26.16. “Confirmación” tendrá el significado asignado en la Sección 2.1.
+26.17. “Moneda Contractual” tendrá el significado asignado en la Sección 17.1.
+26.18. “Acuerdo de Control” tendrá el significado asignado en la Sección 5.2.
+26.19. “Cliente” significará cualquier persona que sea cliente del Prestatario según la Regla 15c3-3 bajo la
+Ley de Intercambio o cualquier regulación comparable del Secretario del Tesoro según la Sección 15C de la Ley de 
+Intercambio (en la medida en que el Prestatario esté sujeto a dicha Regla o regulación comparable).
+26.20. “Hora límite” significará la hora en un Día hábil en la que el Prestatario o el Prestamista deben realizar una transferencia de 
+efectivo, valores u otra propiedad entre sí, según lo acordado por el Prestatario y el Prestamista en el Anexo B, o según 
+lo especificado en las políticas y procedimientos descritos en el sitio web de TradeStation o según lo acordado de 
+otra manera oralmente o por escrito o, en ausencia de dicho acuerdo, según lo que se determine de acuerdo con la 
+práctica del mercado.
+26.21. “Incumplimiento” tendrá el significado asignado en la Sección 13.
+26.22. “Parte incumplidora” tendrá el significado asignado en la Sección 19.
+26.23. “Distribución” significará, con respecto a cualquier Valor en cualquier momento, cualquier distribución realizada sobre o con respecto a dicho Valor, incluyendo, pero no limitado a: (a) efectivo y todos los demás bienes, (b) dividendos en acciones, 
+(c) Valores recibidos como resultado de divisiones de dicho Valor y distribuciones con respecto a los mismos, (d) 
+pagos de intereses, (e) todos los derechos para comprar Valores adicionales, y (f) cualquier efectivo u otra contraprestación 
+pagada o proporcionada por el emisor de dicho Valor a cambio de cualquier voto, consentimiento o la realización de 
+cualquier acción similar con respecto a dicho Valor (independientemente de si la fecha de registro de dicho voto, 
+consentimiento u otra acción cae durante el plazo del Préstamo). En el caso de que el tenedor de un Valor tenga 
+derecho a elegir el tipo de distribución a recibir entre dos o más alternativas, dicha elección será realizada por el Prestamista, 
+en el caso de una Distribución con respecto a los Valores Prestados, y por el Prestatario, en el caso de una Distribución con 
+respecto a la Garantía.
+26.24. “ESTR” significará para cualquier fecha una tasa anual igual a la Tasa de Corto Plazo del Euro para dicha fecha publicada por el 
+Banco Central Europeo (o cualquier administrador sucesor de la Tasa de Corto Plazo del Euro) en el sitio web del 
+Banco Central Europeo, actualmente en http://www.ecb.europa.eu, o cualquier fuente sucesora de la Tasa de Corto Plazo del 
+Euro.
+26.25. “Valor de capital” significará cualquier valor (según se define en la Ley de Bolsa) que no sea un “valor no patrimonial”, según se 
+define en el Reglamento T.
+26.26. “Ley de Intercambio” significará la Ley de Intercambio de Valores de 1934, con sus modificaciones.
+
+26.27. “Fecha Límite de Prórroga” significará, con respecto a una carta de crédito, la Hora Límite del Día Hábil anterior al día en que 
+vence la carta de crédito.
+26.28. “FDIA” tendrá el significado asignado en la Sección 27.4.
+26.29. “FDICIA” tendrá el significado asignado en la Sección 27.5.
+26.30. “Tasa de Fondos Federales” significa la tasa de interés (expresada como tasa anual), según se publica en el Comunicado 
+Estadístico de la Reserva Federal H.15 (519) o cualquier publicación que la sustituya, cobrada por fondos federales (dólares 
+en fondos inmediatamente disponibles tomados en préstamo por bancos a un día sin garantía) en ese día o, si ese 
+día no es un día bancario en la Ciudad de Nueva York, en el día bancario anterior.
+26.31. “Valores extranjeros” significará, a menos que se acuerde lo contrario, Valores que se compensan y liquidan principalmente 
+fuera de los Estados Unidos.
+26.32. “Valores gubernamentales” significará valores gubernamentales según se definen en la Sección 3(a)(42)(A) (C) de la Ley de Bolsa.
+26.33. “Prestamista” tendrá el significado asignado en la Sección 1.
+26.34. “Pago al prestamista” tendrá el significado asignado en la Sección 9.5(a).
+26.35. “Préstamo” tendrá el significado asignado en la Sección 1.
+26.36. “Tarifa de préstamo” tendrá el significado asignado en la Sección 6.1.
+26.37. “Valor Prestado” significará cualquier Valor transferido en un Préstamo en virtud del presente hasta que dicho Valor (o un Valor idéntico) 
+sea transferido nuevamente al Prestador en virtud del presente, excepto que, si cualquier Valor nuevo o diferente se intercambia 
+por cualquier Valor Prestado mediante recapitalización, fusión, consolidación u otra acción corporativa, dicho Valor nuevo o diferente, 
+a partir de dicho intercambio, se considerará que se convierte en un Valor Prestado en sustitución del Valor Prestado anterior 
+por el que se realizó dicho intercambio. A los efectos de la devolución de Valores Prestados por parte del Prestatario o la 
+compra o venta de Valores de conformidad con la Sección 14, dicho término incluirá Valores del mismo emisor, clase y cantidad que 
+los Valores Prestados, según se ajuste de conformidad con la oración anterior.
+26.38. “Déficit de margen” tendrá el significado asignado en la Sección 10.2.
+26.39. “Exceso de margen” tendrá el significado asignado en la Sección 10.3.
+26.40. “Fecha límite de notificación de margen” significará el momento acordado por el Prestatario y el Prestamista en el acuerdo pertinente.
+Confirmación, Anexo B adjunto o de otro modo como la fecha límite para dar aviso que requiere el cumplimiento en el mismo día de 
+las obligaciones de valoración a mercado según lo dispuesto en la Sección 10 del presente (o, en ausencia de dicho acuerdo, la 
+fecha límite para tales fines establecida de conformidad con la práctica del mercado).
+26.41. “Porcentaje de margen” significará, con respecto a cualquier Préstamo a cualquier fecha, un porcentaje acordado por el Prestatario y el 
+Prestamista, que no será inferior al 100%, a menos que (a) el Prestatario y el Prestamista acuerden lo contrario, según lo dispuesto 
+en la Sección 25.2 o el Prestatario, a su discreción, determine que las leyes aplicables o la costumbre del mercado requieren un 
+porcentaje superior al 100%, y (b) el Prestamista no sea un Cliente. No obstante lo dispuesto en la oración anterior, en el caso de 
+que el escrito u otra confirmación que evidencie el acuerdo descrito en la cláusula (a) no establezca dicho porcentaje con respecto a 
+dicho Préstamo, el Porcentaje de margen no será un porcentaje inferior al porcentaje obtenido al dividir (i) el Valor de mercado 
+de la Garantía que el Prestatario debe transferir al Prestamista con respecto a dicho Préstamo al comienzo del Préstamo por (ii) el 
+Valor de mercado de los Valores prestados que el Prestamista debe transferir al Prestatario al comienzo del Préstamo.
+26.42. “Valor de mercado” tendrá el significado acordado por escrito entre el Prestatario y el Prestamista.
+No obstante lo dispuesto en la oración anterior, en caso de que el significado de Valor de Mercado no se haya establecido en el 
+Anexo II o en cualquier otro escrito, tal como se describe en la oración anterior, el Valor de Mercado será determinado 
+razonablemente por TradeStation de conformidad con sus prácticas estándar para la valoración de valores. Las determinaciones 
+de Valor de Mercado previstas en el Anexo II o en cualquier otro escrito descrito en las primeras oraciones de esta Sección 26.42 se 
+aplicarán para todos los efectos de este Acuerdo, excepto para los efectos de la Sección 14.
+26.43. “Beneficiario” tendrá el significado asignado en la Sección 9.5(a).
+26.44. “Pagador” tendrá el significado asignado en la Sección 9.5(a).
+
+26.45. “Plan” significará: (a) cualquier “plan de beneficios para empleados” según se define en la Sección 3(3) de la Ley de Seguridad de 
+Ingresos de Jubilación de Empleados de 1974 que está sujeta a la Parte 4 del Subtítulo B del Título I de dicha Ley; (b) cualquier 
+“plan” según se define en la Sección 4975(e)(1) del Código de Rentas Internas de 1986; o (c) cualquier entidad cuyos activos se 
+consideren activos de cualquier “plan de beneficios para empleados” o “plan” de acuerdo con la reglamentación de activos del 
+plan del Departamento de Trabajo, 29 CFR Sección 2510.3-
+26.38. “Déficit de margen” tendrá el significado asignado en la Sección 10.2.
+26.39. “Exceso de margen” tendrá el significado asignado en la Sección 10.3.
+101.
+26.46. “Reglamento T” significará el Reglamento T de la Junta de Gobernadores del Sistema de la Reserva Federal, según esté vigente en ese momento.
+
+26.47. “Retransferencia” significará, con respecto a cualquier Garantía, pignorar, volver a pignorar, hipotecar,
+rehipotecar, prestar, volver a prestar, vender o de otro modo transferir dicha Garantía, o volver a registrar dicha Garantía 
+evidenciada por certificados físicos a cualquier nombre que no sea el del Prestatario.
+
+26.48. “Valores” significará valores o, si así lo acuerdan el Prestatario y el Prestamista por escrito, otros activos.
+26.49. “Distribuciones de valores” tendrá el significado asignado en la Sección 9.5(a).
+26.50. “Impuesto” tendrá el significado asignado en la Sección 9.5(a).
+26.51. “UCC” significará el Código Comercial Uniforme de Nueva York.
+27.Intención
+27.1. Las partes reconocen que cada Préstamo en virtud del presente es un “contrato de valores”, tal como se define dicho término en la Sección 
+741 y se utiliza en las Secciones 362(b)(6), 546(e) y 555 del Título 11 del Código de los Estados Unidos (con sus modificaciones, 
+el “Código de Quiebras”), con sus modificaciones, y la Sección 78eee(b)(2)(B) de la Ley de Protección de Inversionistas en 
+Valores de 1970.
+27.2. Se entiende que toda transferencia de fondos, valores y otros bienes en virtud de este El presente Acuerdo y cada Préstamo en virtud del mismo constituyen un “pago de liquidación”, un “pago de margen” o una “transferencia”, 
+según se utilizan dichos términos en las Secciones 362(b) (6) y 546(e) del Código de Quiebras.
+
+27.3. Se entiende que los derechos otorgados al Prestatario y al Prestamista en virtud del presente en caso de Incumplimiento por parte del
+28.2. EL PRESTAMISTA RECONOCE QUE, EN RELACIÓN CON LOS PRÉSTAMOS DEL GOBIERNO
+VALORES Y SEGÚN LO PERMITA LA LEY APLICABLE, ALGUNOS VALORES PROPORCIONADOS POR EL PRESTATARIO COMO 
+GARANTÍA BAJO ESTE ACUERDO PUEDEN NO ESTAR GARANTIZADOS POR LOS ESTADOS UNIDOS.
+26.49. “Distribuciones de valores” tendrá el significado asignado en la Sección 9.5(a).
+otros constituyen un “derecho contractual” para provocar la aceleración, terminación y/o liquidación de un contrato de valores y el 
+derecho a compensar y/o compensar deudas y reclamaciones mutuas en relación con un contrato de valores y mejoras crediticias 
+relacionadas, según se utilizan dichos términos en las Secciones 555 y 362(b)(6) del Código de Quiebras.
+
+27.4. Las partes acuerdan y reconocen que si una de las partes de un Préstamo es una “institución depositaria asegurada”, tal como se define 
+dicho término en la Ley Federal de Seguro de Depósitos, con sus modificaciones (“FDIA”), entonces cada Préstamo en virtud del 
+presente es un “contrato de valores” y un “contrato financiero calificado”, tal como se definen dichos términos en la FDIA y en 
+cualquier norma, orden o declaración de política en virtud de la misma (excepto en la medida en que el tipo de activos sujetos al 
+Préstamo haga que dichas definiciones no sean aplicables).
+
+27.5. Se entiende que este Acuerdo constituye un “contrato de compensación” según se define y está sujeto al Título IV de la Ley de Mejora 
+de la Corporación Federal de Seguro de Depósitos de 1991 (“FDICIA”) y cada obligación de pago en virtud de cualquier Préstamo 
+en virtud del presente constituirá un “derecho de pago contractual cubierto” u “obligación de pago contractual cubierta”, 
+respectivamente, según se define y está sujeto a la FDICIA (excepto en la medida en que una o ambas partes de un Préstamo no 
+sean una “institución financiera” según se define ese término en la FDICIA).
+
+27.6. Salvo en la medida en que lo exija la ley o la reglamentación aplicable o se acuerde de otro modo, el Prestatario y el Prestamista acuerdan 
+que los Préstamos aquí otorgados no serán en ningún caso “contratos de intercambio” a los efectos de las reglas de ninguna bolsa de 
+valores y que los Préstamos aquí otorgados no se regirán por las reglas de compra o similares de ninguna de dichas bolsas, 
+asociaciones nacionales de valores registradas u otras organizaciones autorreguladoras.
+
+28. DIVULGACIÓN RELACIONADA CON CIERTAS PROTECCIONES FEDERALES.
+28.1. SIN RENUNCIAR A NINGÚN DERECHO OTORGADO AL PRESTAMISTA EN VIRTUD DEL PRESENTE, SE ENTIENDE
+Y ACORDARON QUE LAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DEL INVERSIONISTA EN VALORES DE 1970 PUEDEN NO 
+PROTEGER AL PRESTAMISTA CON RESPECTO A LOS VALORES PRESTADOS EN VIRTUD DEL PRESENTE Y QUE, 
+POR LO TANTO, LA GARANTÍA EN EFECTIVO ENTREGADA A LA CUENTA DE GARANTÍA PARA BENEFICIO DEL 
+PRESTAMISTA PUEDE CONSTITUIR LA ÚNICA FUENTE DE SATISFACCIÓN DE LAS OBLIGACIONES DEL PRESTATARIO EN 
+CASO DE QUE ESTE NO DEVUELVA LOS VALORES PRESTADOS.
+
+28.2. EL PRESTAMISTA RECONOCE QUE, EN RELACIÓN CON LOS PRÉSTAMOS DEL GOBIERNO
+VALORES Y SEGÚN LO PERMITA LA LEY APLICABLE, ALGUNOS VALORES PROPORCIONADOS POR EL PRESTATARIO COMO 
+GARANTÍA BAJO ESTE ACUERDO PUEDEN NO ESTAR GARANTIZADOS POR LOS ESTADOS UNIDOS.
+
+29. OTRAS INFORMACIONES IMPORTANTES
+29.1. AL ACEPTAR ESTE ACUERDO, LA CONTRAPARTE ACEPTA Y RECONOCE QUE HA LEÍDO Y ENTIENDE COMPLETAMENTE EL DOCUMENTO SEPARADO TITULADO INFORMACIÓN 
+IMPORTANTE SOBRE RIESGOS CON RESPECTO AL PRÉSTAMO DE VALORES TOTALMENTE PAGADO O CON MARGEN EXCESO, 
+QUE DESCRIBE MUCHOS OTROS RIESGOS Y CARACTERÍSTICAS DEL PROGRAMA, INCLUYENDO, PERO SIN LIMITARSE A, LA 
+POSIBLE FALTA DE PROTECCIÓN DE SIPC, LA PÉRDIDA DE DERECHOS DE VOTO, LA CAPACIDAD DE TRADESTATION DE USAR LOS 
+VALORES DEL PRÉSTAMO PARA PRÉSTAMOS ADICIONALES Y LA CAPACIDAD DE TRADESTATION DE GANAR UN MARGEN Y/U OTRAS 
+GANANCIAS, LA FALTA DE GARANTÍA DE RECIBIR LAS MEJORES TASAS, LOS RIESGOS ASOCIADOS CON CADA TIPO DE GARANTÍA, 
+QUE LOS VALORES PUEDEN SER "DIFÍCILES DE TOMAR PRESTADOS" DEBIDO A LA VENTA EN CORTO O PUEDE SER 
+UTILIZADO PARA SATISFACER LOS REQUISITOS DE ENTREGA RESULTANTES DE VENTAS EN CORTO, POSIBLES CONSECUENCIAS 
+FISCALES ADVERSAS, INCLUYENDO PAGOS CONSIDERADOS EN EFECTIVO EN LUGAR DE DIVIDENDOS PAGADOS SOBRE VALORES 
+MIENTRAS ESTÁN EN PRÉSTAMO, EL DERECHO DE TRADESTATION A LIQUIDAR LA TRANSACCIÓN DEBIDO A UNA 
+CONDICIÓN DEL TIPO ESPECIFICADO EN LA REGLA 4314(B) DE FINRA, Y LOS FACTORES QUE DETERMINAN LA CANTIDAD DE 
+COMPENSACIÓN RECIBIDA POR TRADESTATION O PAGADA AL CLIENTE EN RELACIÓN CON EL USO DE LOS VALORES TOMADOS 
+PRESTADOS DEL CLIENTE, FALTA DE INTERÉS SOBRE LA GARANTÍA EN EFECTIVO, ENTRE OTRAS COSAS.
+
+AL ACEPTAR ESTE ACUERDO, LA CONTRAPARTE AFIRMA QUE HA DETERMINADO QUE LA PARTICIPACIÓN EN EL PROGRAMA 
+DE PRÉSTAMO DE VALORES TOTALMENTE PAGADO DE TRADESTATION ES APROPIADA PARA LA CONTRAPARTE Y QUE AL 
+TOMAR TAL DETERMINACIÓN, LA CONTRAPARTE HA CONSIDERADO LA SITUACIÓN Y NECESIDADES FINANCIERAS DE LA 
+CONTRAPARTE, SU ESTADO FISCAL, SUS OBJETIVOS DE INVERSIÓN, SU HORIZONTE TEMPORAL DE INVERSIÓN, SUS 
+NECESIDADES DE LIQUIDEZ, SU TOLERANCIA AL RIESGO Y CUALQUIER OTRA INFORMACIÓN RELEVANTE. 
+LA CONTRAPARTE ENTIENDE QUE TRADESTATION NO BRINDA ASESORAMIENTO SOBRE INVERSIONES NI HACE 
+RECOMENDACIONES CON RESPECTO A LA COMPRA Y VENTA DE VALORES Y QUE TRADESTATION NO HA TOMADO NINGUNA 
+DETERMINACIÓN EN CUANTO A LA IDONEIDAD DEL PROGRAMA PARA LA CONTRAPARTE.
+
+LA CONTRAPARTE DEBE DISCUTIR CON SUS ASESORES DE INVERSIÓN Y/O IMPUESTOS SI LA PARTICIPACIÓN EN EL 
+PROGRAMA DE PRÉSTAMO DE VALORES TOTALMENTE PAGADOS ES APROPIADA PARA LA CONTRAPARTE
+
+29.2. EL PRESTAMISTA RECONOCE QUE HA RECIBIDO UNA COPIA DE LOS PROTOCOLOS DEL AGENTE COLATERAL Y QUE LOS ENTIENDE.
+
+Tabla de Bases de Compensación por Préstamo
+La compensación a la Contraparte se realizará en forma de efectivo, que se acumulará diariamente y se acreditará 
+mensualmente. El ingreso se calcula como el 30 % de los ingresos netos obtenidos y recibidos por TradeStation por el 
+préstamo de las acciones de la Contraparte. El 70 % restante de los ingresos netos obtenidos y recibidos por TradeStation por 
+el préstamo de las acciones se quedará con TradeStation como compensación. TradeStation podrá cambiar los porcentajes a 
+su exclusivo criterio. A menos que se acuerde lo contrario, cualquier ingreso pagadero en virtud del presente deberá pagarse 
+dentro de los 15 días posteriores al último día hábil del mes calendario en el que se incurrió en dicha tarifa. Para 
+obtener más información, la Contraparte debe comunicarse con el Servicio de atención al cliente de TradeStation al (954) 652-7000.
+
+Anexo  I
+No  aplica  la  Parte  que  actúa  como  agente.
+Anexo  II
+No  se  aplicará  el  valor  de  mercado.
+Anexo  III  Término
+Préstamos
+Este  Anexo  establece  los  términos  y  condiciones  adicionales  que  rigen  los  Préstamos  denominados  “Préstamos  a  Plazo”  en  los  que  el  Prestador  presta  al  Prestatario  una  cantidad  específica  de  Valores  Prestados  (“Monto  del  Préstamo  a  Plazo”)  a  cambio  de  una  prenda  de  efectivo  en  Garantía  por  parte  del  Prestatario  a  cambio  de  una  Tarifa  por  Garantía  en  Efectivo  acordada  hasta  una  fecha  de  
+terminación  programada  (“Fecha  de  Terminación”).  A  menos  que  se  defina  lo  contrario,  los  términos  en  mayúscula  utilizados  pero  no  definidos  
+en  este  Anexo  tendrán  los  significados  asignados  en  el  Contrato  de  Préstamo  de  Valores  del  cual  forma  parte  (dicho  contrato,  junto  con  este  Anexo  y  cualquier  otro  anexo,  cronograma  o  anexo,  se  denominará  el  “Contrato”).
+1.	Los  términos  de  este  Anexo  se  aplicarán  a  los  Préstamos  de  Valores  de  Capital  únicamente  si  se  designan  como  
+Préstamos  a  Plazo  en  una  Confirmación  al  respecto  proporcionada  de  conformidad  con  el  Acuerdo  y  firmada  por  cada  una  de  las  partes  de  dicho  Préstamo,  en  un  anexo  al  Acuerdo  o  en  este  Anexo.  Todos  los  Préstamos  de  Valores  que  no  sean  Valores  de  Capital  serán  “Préstamos  a  Plazo”  sujetos  a  este  Anexo,  a  menos  que  se  acuerde  lo  contrario  en  una  Confirmación  u  otro  documento  escrito.
+2.	La  Confirmación  de  un  Préstamo  a  Plazo  deberá  establecer,  además  de  cualquier  término  que  deba  establecerse  en  la  misma  según  el  Acuerdo,  el  Monto  del  Préstamo  a  Plazo,  la  tasa  de  interés  y  la  Fecha  de  Terminación.
+El  Prestamista  y  el  Prestatario  acuerdan  que,  salvo  lo  dispuesto  específicamente  en  este  Anexo,  cada  Préstamo  a  Plazo  estará  sujeto  a  todos  los  términos  y  condiciones  del  Acuerdo,  incluidas,  entre  otras,  todas  las  disposiciones  relativas  a  
+los  respectivos  derechos  de  las  partes  para  rescindir  un  Préstamo.
+3.	En  caso  de  que  el  Prestatario  o  el  Prestamista  ejerzan  su  derecho  en  virtud  del  Acuerdo  de  rescindir  un  Préstamo  a  Plazo  en  una  fecha  (la  “Fecha  de  Rescisión  Anticipada”)  anterior  a  la  Fecha  de  Rescisión,  el  Prestamista  y  el  Prestatario,  a  
+menos  que  se  acuerde  lo  contrario,  harán  todo  lo  posible  para  negociar  de  buena  fe  un  nuevo  Préstamo  a  Plazo  (el  “Préstamo  de  Reemplazo”)  de  Valores  comparables  u  otros,  que  deberán  ser  acordados  mutuamente  por  el  Prestatario  y  el  Prestamista,  con  un  Valor  de  Mercado  igual  al  Valor  de  Mercado  del  Monto  del  Préstamo  a  Plazo  bajo  el  Préstamo  a  Plazo  rescindido  (el  “Préstamo  Rescindido”)  a  partir  de  la  Fecha  de  Rescisión  Anticipada.  Dicho  acuerdo,  de  conformidad  con  la  Sección  2  de  este  Anexo,  se  confirmará  en  una  nueva  Confirmación  al  comienzo  del  Préstamo  de  Reemplazo  y  será  
+ejecutado  por  cada  una  de  las  partes.  Cada  Préstamo  de  Reemplazo  estará  sujeto  a  los  mismos  términos  que  el  
+Préstamo  Rescindido  correspondiente,  salvo  con  respecto  a  la  fecha  de  comienzo  y  la  identidad  de  los  Valores  
+Prestados.  El  Préstamo  de  Reemplazo  comenzará  en  la  fecha  en  que  el  Prestatario  y  el  Prestador
+El  prestamista  acuerda  qué  Valores  serán  objeto  del  Préstamo  de  Reemplazo  y  se  programarán  para  finalizar  en  la  Fecha  de  Terminación  programada  del  Préstamo  Terminado.
+4.	El  Prestatario  y  el  Prestamista  acuerdan  que,  salvo  lo  dispuesto  en  la  Sección  5  de  este  Anexo,  si  celebran  un  Préstamo  de  Reemplazo,  la  Garantía  para  el  Préstamo  Terminado  relacionado  no  necesita  ser  devuelta  al  Prestatario  y  en  su  lugar  servirá  como  Garantía  para  dicho  Préstamo  de  Reemplazo.
+5.	Si  el  Prestatario  y  el  Prestamista  no  pueden  negociar  y  celebrar  un  Préstamo  de  Reemplazo  por  una  parte  o  la  totalidad  del  Monto  del  Préstamo  a  Plazo  en  o  antes  de  la  Fecha  de  Terminación  Anticipada,  (a)  la  parte  que  solicita  la  terminación  del  Préstamo  Terminado  deberá  pagar  a  la  otra  parte  una  Tarifa  de  Ruptura  calculada  de  conformidad  
+con  la  Sección  6  de  este  Anexo  con  respecto  a  esa  parte  del  Monto  del  Préstamo  a  Plazo  para  el  cual  no  se  celebra  un  Préstamo  de  Reemplazo,  y  (b)  tras  la  transferencia  por  parte  del  Prestatario  al  Prestamista  de  los  Valores  Prestados  sujetos  al  Préstamo  Terminado,  el  Prestamista  transferirá  al  Prestatario  la  Garantía  para  el  Préstamo  Terminado  de  conformidad  con  y  en  la  medida  requerida  por  el  Acuerdo,  siempre  que  no  haya  ocurrido  ningún  Incumplimiento  con  respecto  al  Prestatario.
+
+
+A los efectos de este Anexo, el término “Comisión por Ruptura” significará una comisión acordada por el 
+Prestatario y el Prestamista en la Confirmación o de otra manera oralmente o por escrito. En ausencia de 
+dicho acuerdo, el término “Comisión por Ruptura” significará, con respecto a los Préstamos de Títulos 
+Gubernamentales, una comisión igual a la suma de (a) el costo para la parte que no rescinde 
+(incluidos todos los honorarios, gastos y comisiones) de celebrar transacciones de reemplazo y celebrar 
+o terminar transacciones de cobertura en relación con o como resultado de la terminación del Préstamo 
+Rescindido, y (b) cualquier otra pérdida, daño, costo o gasto que surja directamente o resulte de la 
+terminación del Préstamo Rescindido en que incurra la parte que no rescinda (excepto las pérdidas 
+consecuentes o los costos por lucro cesante u oportunidades perdidas), según lo determine la 
+parte que no rescinda de una manera comercialmente razonable, y (c) cualquier otro monto adeudado y 
+pagadero por la parte que rescinde a la parte que no rescinde en virtud del Acuerdo en la Fecha de Rescisión Antic
+
+APÉNDICE I: PROTOCOLOS DEL AGENTE COLATERAL DEL PROGRAMA DE PRÉSTAMOS TOTALMENTE PAGADOS
+
+Estos Protocolos de Agentes Colaterales (estos “Protocolos”) se mencionan y se incorporan en la Sección 5.1 del Acuerdo Marco de 
+Préstamo de Valores de TradeStation (el “Acuerdo”). Los términos en mayúsculas utilizados en este documento y que no se definan 
+de otro modo en este documento tendrán los significados que se les asignan en el Acuerdo.
+1. PODERES DEL AGENTE COLATERAL
+1.1 Poderes del agente colateral
+
+El Agente Colateral está autorizado y facultado irrevocablemente para celebrar y cumplir con sus obligaciones y proteger, 
+perfeccionar, ejercer y hacer cumplir sus intereses, derechos, poderes y recursos bajo el Acuerdo y el Acuerdo de Control (el 
+Acuerdo y el Acuerdo de Control, colectivamente, los "Acuerdos FPL") y la ley aplicable y en equidad y para actuar como se 
+establece en esta Sección 1 y Sección 2 de estos Protocolos o como se solicite en cualquier instrucción legal que se le dé de 
+vez en cuando con respecto a cualquier asunto por parte del Prestamista, siempre que dichas instrucciones sean 
+consistentes con los Acuerdos FPL.
+
+1.2 Derechos y poderes ejercidos en beneficio único y exclusivo del prestamista
+
+El Agente de Garantía acepta que sus derechos y poderes con respecto a la Garantía aquí establecida se ejercen única y 
+exclusivamente en beneficio del Prestamista. El Agente de Garantía aceptará, mantendrá, administrará y hará cumplir el 
+derecho de garantía sobre la Garantía en cualquier momento que se le transfiera o entregue y todos los demás intereses, 
+derechos, poderes y recursos en cualquier momento otorgados al Agente de Garantía o exigibles por este única y 
+exclusivamente en beneficio del Prestamista, y distribuirá o hará que se distribuyan todos los ingresos que reciba en la 
+realización de los mismos o de su ejecución única y exclusivamente de conformidad con las disposiciones de estos Protocolos 
+y los Acuerdos FPL.
+2. OBLIGACIONES DEL AGENTE COLATERAL
+2.1 Compromisos del agente de garantía
+
+a) El Agente de Garantía actuará como agente de garantía para el beneficio único y exclusivo del Prestamista 
+de acuerdo con el interés respectivo del Prestamista en la Garantía según lo establecido en los 
+archivos o informes proporcionados o puestos a disposición del Agente de Garantía diariamente y a 
+pedido suyo (el “Interés Respectivo”)
+
+b) El Agente Colateral deberá, en beneficio del Prestamista, cumplir con las obligaciones del Agente 
+Colateral bajo estos Protocolos y los Acuerdos FPL, y proteger, ejercer y hacer cumplir los gravámenes 
+a favor del Agente Colateral creados bajo el Acuerdo y todos los intereses, derechos, poderes y 
+recursos otorgados o disponibles al Agente Colateral bajo, de conformidad con o en conexión con los 
+Acuerdos FPL.
+
+c) Sin perjuicio de cualquier disposición en contrario contenida en estos Protocolos o en los 
+Acuerdos FPL, el Agente de Garantía no iniciará ningún ejercicio de recursos ni tomará ninguna acción o 
+procedimiento contra ninguna de las Garantías (excepto las acciones necesarias para probar, 
+proteger o preservar los gravámenes que garantizan las obligaciones de TradeStation en virtud del Acuerdo) 
+a menos y hasta que tenga conocimiento real de que se ha producido un Incumplimiento.
+
+Se considerará que el Agente de Garantía tiene conocimiento real de que se ha producido un Incumplimiento (i) al 
+recibir la notificación del Prestamista o de TradeStation de que se ha producido un Incumplimiento, o (ii) con respecto 
+a un Acto de Insolvencia de TradeStation, al momento de la presentación pública de cualquier caso, 
+procedimiento, petición o decreto contra TradeStation bajo el Capítulo 7 o el Capítulo 11 del Código de Quiebras, 
+bajo la Ley de Protección del Inversor en Valores de 1970 o bajo la Autoridad de Liquidación Ordenada bajo el Título 
+II de la Ley de Reforma de Wall Street y Protección al Consumidor Dodd-Frank.
+
+(d) Al recibir dicha notificación o notificación presunta, el Agente de Garantía deberá, a pedido y bajo la dirección 
+(o bajo la dirección presunta) del Prestamista, instruir al Banco sobre la disposición de la Garantía y 
+aplicar los ingresos de la Garantía según lo dispuesto en el presente. Agente de Garantía remitirá al Prestamista, o hará que el Banco remita al Prestamista, los ingresos de la Garantía entregable 
+al Prestamista de conformidad con la Sección 2.2 de estos Protocolos según las instrucciones del Prestamista.
+
+2.2 Aplicación de los ingresos
+El Agente de Garantía aplicará o dirigirá la aplicación de los ingresos de cualquier cobro, venta, ejecución hipotecaria u otra 
+realización sobre cualquier Garantía en el siguiente orden de aplicación:
+
+En primer lugar, al pago total de todos los montos pagaderos al Prestamista de conformidad con el Acuerdo 
+(cuyos montos se basarán en (i) la información más reciente sobre el monto de Garantía que debe ser comprometida al Prestamista recibida por el Agente de Garantía de TradeStation y (ii) otros 
+montos adeudados al Prestamista según el Acuerdo según lo determine de manera definitiva el síndico o receptor 
+designado en relación con una insolvencia de TradeStation o el tribunal que preside el caso de quiebra de 
+TradeStation);
+
+En segundo lugar, al Banco por los honorarios del Banco y los honorarios legales, costos y gastos razonables u 
+otras obligaciones de cualquier tipo en que incurra en la medida en que tenga derecho a los mismos en virtud del 
+Acuerdo de Control;
+
+En tercer lugar, al Agente Colateral por concepto de los honorarios del Agente Colateral y cualquier honorario, 
+costo y gasto legal razonable u otras obligaciones de cualquier tipo en las que incurra el Agente Colateral en la 
+medida en que tenga derecho a los mismos en virtud del Acuerdo y estos Protocolos; y
+
+Finalmente, a TradeStation cualquier excedente restante después del pago total en efectivo de los montos 
+descritos en las cláusulas anteriores, a sus sucesores o cesionarios, o según lo disponga un tribunal de 
+jurisdicción competente
+
+2.3 Modificación de los acuerdos FPL
+
+El Agente Colateral no aceptará ni consentirá ninguna enmienda de un Acuerdo FPL sin el consentimiento del Prestamista (cuyo 
+consentimiento puede tomar la forma de consentimiento negativo), excepto que no se requerirá el consentimiento del Prestamista para 
+ninguna enmienda que tenga el efecto únicamente de:
+
+a-añadiendo o manteniendo garantías;
+b-preservar, perfeccionar o establecer la prioridad de los intereses de seguridad a favor del Prestamista sobre la 
+Garantía o los derechos del Agente de la Garantía sobre la misma; o 
+c-corregir cualquier ambigüedad, omisión, defecto o inconsistencia; siempre que dicha enmienda no afecte 
+negativamente ningún interés de seguridad en la Garantía que asegure las obligaciones de TradeStation con 
+el Prestamista bajo los Acuerdos FPL o el perfeccionamiento de los mismos o los derechos del Prestamista.
+
+3-INMUNIDADES DEL AGENTE COLATERAL
+
+3.1 No hay obligación implícita
+
+El Agente de Garantía no tendrá deberes fiduciarios ni responsabilidades u obligaciones distintas de las expresamente asumidas por 
+él en los Acuerdos FPL y estos Protocolos. No se interpretarán en este Acuerdo ni existirán de otro modo deberes o 
+responsabilidades implícitos en nombre del Agente de Garantía.
+
+El Agente Colateral no estará obligado a realizar ninguna acción que sea contraria a la ley aplicable o a cualquier disposición de los 
+Acuerdos FPL y estos Protocolos.
+
+3.2. Solicitud de Instrucciones
+
+a-El Agente Colateral puede en cualquier momento solicitar instrucciones confirmatorias por escrito del Prestamista 
+o solicitar una orden de un tribunal de jurisdicción competente en cuanto a cualquier acción que se le 
+pueda solicitar o requerir que tome, o que pueda proponerse tomar, en el cumplimiento de cualquiera de sus 
+obligaciones bajo los Acuerdos FPL o estos Protocolos y puede suspender el cumplimiento de tales 
+obligaciones según lo determine apropiado hasta que reciba dichas instrucciones u orden
+
+(b) Ninguna instrucción o dirección dada al Agente Colateral por el Prestamista que, a exclusivo criterio del Agente Colateral, 
+imponga, pretenda imponer o pueda razonablemente esperarse que imponga al Agente Colateral cualquier 
+obligación o responsabilidad no establecida o que surja de los Acuerdos FPL o estos Protocolos será vinculante 
+para el Agente Colateral a menos que el Agente Colateral elija, a su exclusivo criterio, aceptar dicha dirección.
+
+3.3 Limitación de responsabilidad.
+
+El Agente Colateral no será responsable de ninguna acción tomada u omitida por él en virtud de estos Protocolos, excepto por su 
+propia negligencia, mala fe, desconsideración imprudente o mala conducta intencional.
+
+3.4 Documentos en forma satisfactoria
+
+El Agente Colateral tendrá derecho a exigir que todos los contratos, certificados, opiniones, instrumentos y demás documentos que en 
+cualquier momento se le presenten, incluidos aquellos expresamente previstos en los Contratos FPL, le sean entregados en una forma 
+y con disposiciones sustantivas que le resulten razonablemente satisfactorias.
+
+3.5 Confianza.
+El Agente de Garantía puede solicitar y confiar en, y estará protegido al confiar en, cualquier orden judicial o sentencia en la que 
+se base de buena fe sin que se le exija determinar la autenticidad de la misma o la exactitud de cualquier hecho establecido en la 
+misma o la idoneidad o validez de su notificación. El Agente de Garantía puede actuar confiando en cualquier instrumento que cumpla 
+con las disposiciones de los Acuerdos de FPL o cualquier firma que crea razonablemente que es genuina y puede asumir que 
+cualquier persona que pretenda dar aviso, recibo o consejo o hacer cualquier declaración o ejecutar cualquier documento en 
+relación con las disposiciones del presente ha sido debidamente autorizada para hacerlo
+
+3.6 Eventos de Incumplimiento.
+
+a-El Agente Colateral acepta monitorear un Acto de Insolvencia con respecto a TradeStation y deberá declarar que 
+dicho Acto de Insolvencia ha ocurrido tras la presentación pública de cualquier caso, procedimiento, petición o 
+decreto contra TradeStation bajo el Capítulo 7 o el Capítulo 11 del Código de Quiebras, bajo la Ley de Protección del 
+Inversionista en Valores de 1970 o bajo la Autoridad de Liquidación Ordenada bajo el Título II de la Ley de 
+Reforma de Wall Street y Protección al Consumidor Dodd-Frank.
+
+b-Aparte de la obligación de supervisar un acto de insolvencia por parte de TradeStation, tal como se describe en el 
+párrafo (a), el Agente de garantía no estará obligado a investigar la ocurrencia o ausencia de cualquier 
+Incumplimiento y no se verá afectado por ni se le exigirá que actúe en función de cualquier notificación o 
+conocimiento sobre la ocurrencia de cualquier Incumplimiento a menos y hasta que reciba de 
+TradeStation o del Prestamista una notificación que indique que se ha producido un Incumplimiento y que continúa, 
+o reciba instrucciones del Prestamista de conformidad con la Sección 14.1 del Acuerdo. El Agente de garantía 
+puede confiar, y estar completamente protegido al confiar en, cualquier notificación de ese tipo que crea 
+razonablemente que es genuina y no tendrá obligación de verificar la ocurrencia o continuación de un Incumplimiento.
+
+3.7 Acciones del Agente Colateral
+En cuanto a cualquier asunto no expresamente previsto en los Acuerdos FPL, el Agente de Garantía puede actuar o abstenerse de 
+actuar según lo indique el Prestamista y estará completamente protegido si lo hace, y cualquier acción tomada, sufrida u omitida de 
+conformidad con esta Sección 3.7 de estos Protocolos será vinculante para el Prestamista.
+
+3.8. Garantía o indemnización a favor del agente colateral
+
+El Agente de Garantía no estará obligado a adelantar o gastar fondos ni a incurrir de otro modo en ninguna responsabilidad financiera en el desempeño de sus funciones o el ejercicio de sus poderes o derechos en virtud del presente, incluyendo, sin limitación, la presentación de documentos u otras comparecencias en nombre del Prestamista o de otro modo en cualquier procedimiento de insolvencia, a menos que se le haya proporcionado una garantía o indemnización razonablemente satisfactoria para él contra cualquier y toda responsabilidad o gasto en que pueda incurrir por el hecho de adoptar o continuar adoptando dicha acción.
+
+3.9 Derechos del agente de garantía
+Si cualquier desacuerdo entre las partes de los Acuerdos FPL da como resultado reclamos o demandas conflictivas en relación con 
+la Garantía y si los términos de los Acuerdos FPL y estos Protocolos no ordenan de manera inequívoca y específica la acción que el 
+Agente de Garantía debe tomar o no tomar en relación con ello bajo las circunstancias existentes en ese momento, o si el Agente 
+de Garantía tiene dudas sobre qué acción debe tomar o no tomar bajo los Acuerdos FPL o estos Protocolos, tendrá derecho a 
+abstenerse de tomar cualquier acción y no incurrirá en responsabilidad por hacerlo, hasta que se indique lo contrario por escrito 
+mediante una solicitud firmada conjuntamente por las partes con derecho a dar dicha instrucción o por orden de un tribunal de 
+jurisdicción competente, acompañada de todas las garantías o indemnizaciones razonablemente solicitadas por el Agente de 
+Garantía contra cualquier responsabilidad o gasto en que pueda incurrir al actuar de acuerdo con dicha instrucción.
+
+3.10 Limitaciones del deber del agente de garantía con respecto a la garantía
+(a) Más allá del ejercicio de un cuidado razonable en la custodia de la Garantía en su posesión (si la hubiera), el Agente de Garantía no tendrá obligación alguna con respecto a ninguna Garantía en su posesión o en posesión de 
+cualquier agente o depositario o cualquier ingreso sobre la misma o en cuanto a la preservación de derechos 
+contra partes anteriores o cualquier otro derecho relacionado con la misma y el Agente de Garantía no será 
+responsable de presentar ninguna declaración de financiamiento o continuación o registrar ningún documento o 
+instrumento en ninguna oficina pública en ningún momento o momentos o de otra manera perfeccionar 
+o mantener la perfección de cualquier gravamen sobre la Garantía. Se considerará que el Agente de Garantía ha 
+ejercido un cuidado razonable en la custodia de la Garantía en su posesión (si la hubiera) si se le otorga a la 
+Garantía un tratamiento con sustancialmente el mismo grado de cuidado que le otorga a su propia propiedad, y 
+el Agente de Garantía no será responsable de ninguna pérdida o disminución en el valor de ninguna Garantía por 
+razón del acto u omisión de cualquier transportista, agencia de transporte u otro agente o depositario seleccionado 
+por el Agente de Garantía de buena fe.
+
+b-El Agente de Garantía no será responsable de la existencia o suficiencia de ninguna de las Garantías ni de 
+la validez, perfección, prioridad o exigibilidad del interés de seguridad en ninguna de las Garantías, ya sea 
+afectado por el imperio de la ley o por razón de cualquier acto u omisión de su parte en virtud del presente, 
+de la validez del título de TradeStation sobre la Garantía, de asegurar la Garantía o del pago de impuestos, cargos, 
+evaluaciones o gravámenes sobre la Garantía o de otro modo en cuanto al mantenimiento de la Garantía.
+4. RENUNCIA Y REMOCIÓN DEL AGENTE COLATERAL
+4.1-Renuncia o remoción del agente colateral
+
+Sujeto al nombramiento de un Agente Colateral sucesor según lo dispuesto en la Sección 4.2 de estos Protocolos (“Agente Colateral 
+Sucesor”), y la aceptación de dicho nombramiento por parte del Agente Colateral Sucesor:
+
+a-El Agente de Garantía puede renunciar en cualquier momento notificando su renuncia con no menos de noventa 
+(90) días de anticipación a TradeStation y al Prestamista; y
+
+(b) TradeStation podrá eliminar al Agente de Garantía en cualquier momento si no cumple con sus obligaciones 
+conforme a los Acuerdos FPL y estos Protocolos; y
+
+C)TradeStation notificará al prestamista sobre el agente colateral sucesor dentro de un tiempo razonable luego del cambio efectivo.
+
+
+4.2  Designación  de  agente  colateral  sucesor
+En  caso  de  renuncia  o  destitución  del  Agente  de  Garantía,  el  Agente  de  Garantía  Sucesor  podrá  designar  un  Agente  de  Garantía  Sucesor  (a  expensas  de  TradeStation)  o  TradeStation,  o  el  Agente  de  Garantía  podrá  solicitar  a  un  tribunal  de  jurisdicción  competente  el  nombramiento  de  un  Agente  de  Garantía  Sucesor,  que  deberá  ser  una  empresa  organizada  y  que  haga  negocios  conforme  a  las  leyes  de  los  Estados  Unidos  de  América  o  cualquier  estado  o  territorio  de  los  mismos  o  del  Distrito  de  Columbia  que  tenga  experiencia  actuando  como  agente  de  garantía  para  un  programa  de  préstamo  de  valores  totalmente  pagado.  El  Agente  de  Garantía  cumplirá  con  sus  obligaciones  en  virtud  del  presente  hasta  que  un  Agente  de  Garantía  Sucesor  que  cumpla  con  los  requisitos  de  esta  Sección  4.2  de  estos  Protocolos  haya  aceptado  su  designación  como  Agente  de  Garantía  y  se  hayan  cumplido  las  disposiciones  de  esta  Sección  4.2  de  estos  Protocolos.
+4.3  Sucesión
+Cuando  la  persona  designada  como  Agente  Colateral  Sucesor  acepte  dicha  designación:
+(a)	dicha  persona  sucederá  y  quedará  investida  de  todos  los  derechos,  poderes,  privilegios  y  deberes  del  Agente  Colateral  predecesor,  y  el  Agente  Colateral  predecesor  quedará  liberado  de  sus  deberes  y  obligaciones  en  virtud  del  presente;  y
+(b)	el  Agente  Colateral  predecesor  transferirá  rápidamente  (a  expensas  de  TradeStation)  todos  los  gravámenes  y  Garantías  en  su  posesión  o  control  a  la  posesión  o  control  del  Agente  Colateral  Sucesor  y  el  Agente  Colateral  y  TradeStation  ejecutarán  cada  uno  instrumentos  y  asignaciones  según  sea  necesario  o  deseable  o  
+razonablemente  solicitado  por  el  Agente  Colateral  Sucesor  para  transferir  al  Agente  Colateral  Sucesor  todos  los  gravámenes,  intereses,  derechos,  poderes  y  recursos  del  Agente  Colateral  predecesor  con  respecto  a  los  Acuerdos  FPL  y  la  Garantía.
+Posteriormente,  el  Agente  Colateral  predecesor  seguirá  teniendo  derecho  a  hacer  cumplir  las  inmunidades  que  se  le  otorgan  en  la  Sección  3  de  estos  Protocolos.
+4.4	Fusión,  Conversión  o  Consolidación  del  Agente  Colateral
+Cualquier  persona  en  la  que  el  Agente  Colateral  pueda  fusionarse  o  convertirse  o  con  la  que  pueda  consolidarse,  o  cualquier  persona  que  resulte  de  cualquier  fusión,  conversión  o  consolidación  de  la  que  el  Agente  Colateral  sea  parte,  o  cualquier  persona  que  suceda  en  el  negocio  del  Agente  Colateral  será  el  sucesor  del  Agente  Colateral  de  conformidad  con  la  Sección  4.3  de  estos  Protocolos,  
+sin  la  ejecución  o  presentación  de  ningún  documento  ante  ninguna  de  las  partes  del  presente  o  cualquier  acto  adicional  por  parte  de  ninguna  de  las  partes  del  presente  (excepto  cuando  la  ley  requiera  un  instrumento  de  transferencia  o  cesión  para  efectuar  
+dicha  sucesión),  si  (a)  dicha  persona  satisface  los  requisitos  de  elegibilidad  establecidos  en  la  Sección  4.2  de  estos  
+Protocolos  y  (b)  antes  de  dicha  fusión,  conversión  o  consolidación,  el  Agente  Colateral  ha  notificado  a  TradeStation  y  al  Prestamista  al  respecto  por  escrito.
+4.5	Evento  u  Ocurrencia  de  Quiebra  o  Insolvencia  del  Agente  de  Garantía
+En  el  caso  de  que  el  Agente  Colateral  se  vuelva  insolvente  según  lo  declarado  de  conformidad  con  la  presentación  pública  de  cualquier  caso,  procedimiento,  petición  o  decreto  contra  el  Agente  Colateral  bajo  el  Capítulo  7  o  el  Capítulo  11  del  Código  de  
+Quiebras,  o  cualquier  otra  ley  o  regulación  aplicable  de  los  EE.  UU.,  TradeStation  puede:  (a)  designar  un  Agente  Colateral  Sucesor  (a  expensas  de  TradeStation)  sujeto  al  consentimiento  del  Prestamista  (cuyo  consentimiento  puede  tomar  la  forma  de  
+consentimiento  negativo);  (b)  solicitar  a  un  tribunal  de  jurisdicción  competente  el  nombramiento  de  un  Agente  Colateral  Sucesor  
+sujeto  a  los  términos  y  calificaciones  establecidos  en  la  Sección  4.2  de  estos  Protocolos,  o  (c)  rescindir  los  Acuerdos  FPL  y  devolver  los  Valores  Prestados  al  Prestamista.
+El  Agente  de  Garantía  acepta,  mantiene,  administra  y  hace  cumplir  en  todo  momento  el  derecho  de  garantía  sobre  la  
+Garantía,  la  Garantía  y  cualquier  cuenta  en  la  que  se  encuentre  la  Garantía,  única  y  exclusivamente  como  agente  de  garantía  en  beneficio  del  Prestamista.  En  caso  de  insolvencia  o  quiebra  del  Agente  de  Garantía,  la  Garantía  no  se  considerará  propiedad  del  Agente  de  Garantía  o  de  su  patrimonio,  y  el  Agente  de  Garantía  o  su  patrimonio  no  tendrán  ningún  derecho  ni  ningún  otro  interés  en  la  Garantía  o  en  cualquier  cuenta  en  la  que  se  encuentre  la  Garantía.
+
+
+5. PROTOCOLOS DE AGENTES COLATERALES DIVERSOS
+
+5.1 Sucesores y cesionarios
+Salvo lo dispuesto en la Sección 4.1 y la Sección 4.4 de estos Protocolos, el Agente de Garantía no podrá, en su 
+carácter de tal, delegar ninguna de sus obligaciones ni ceder ninguno de sus derechos en virtud del presente, y 
+cualquier intento de delegación o cesión de dichas obligaciones o derechos será nulo; no obstante, las filiales del 
+Agente de Garantía podrán realizar servicios administrativos de conformidad con el Acuerdo y estos Protocolos en 
+nombre del Agente de Garantía. Todas las obligaciones del Agente de Garantía en virtud del presente documento redundarán 
+en beneficio único y exclusivo del Prestamista y serán exigibles por este.
+
+5.2 Retraso y renuncia
+Ningún incumplimiento del ejercicio, ninguna forma de proceder con respecto al ejercicio, ni ninguna demora en el ejercicio 
+de cualquier derecho, poder o recurso que surja de estos Protocolos o del Acuerdo afectará a dicho derecho, poder o recurso 
+ni funcionará como una renuncia al mismo. Ningún ejercicio único o parcial de dicho derecho, poder o recurso impedirá 
+cualquier otro ejercicio futuro del mismo o el ejercicio de cualquier otro derecho, poder o recurso. Los recursos aquí 
+establecidos son acumulativos y no excluyen ningún recurso previsto por la ley.
+5.3 Compensación; Gastos
+TradeStation se compromete a pagar, inmediatamente después de la demanda:
+(a) la compensación al Agente de Garantía que TradeStation y el Agente de Garantía puedan acordar por 
+escrito de vez en cuando; 
+
+b-todos los costos y gastos de bolsillo razonables incurridos por el Agente de Garantía y sus agentes 
+para crear, perfeccionar, preservar, liberar o hacer cumplir el interés de seguridad del Agente de Garantía 
+en la Garantía, incluidas las tarifas de presentación y registro, los gastos e impuestos, los impuestos de 
+timbre o documentales y las tarifas de búsqueda; y
+
+c-después de la ocurrencia de cualquier Incumplimiento con respecto a TradeStation, todos los costos y 
+gastos de bolsillo (sobre una base de transferencia sin margen) incurridos por el Agente de 
+Garantía en relación con la preservación, cobro, ejecución hipotecaria o ejecución de la Garantía o cualquier 
+interés, derecho, poder o recurso del Agente de Garantía o en relación con el cobro o ejecución de 
+cualquiera de las obligaciones de TradeStation con el Prestamista bajo los Acuerdos FPL o la 
+prueba, protección, administración o resolución de cualquier reclamo basado en dichas obligaciones en 
+cualquier procedimiento de insolvencia o liquidación, incluidos los honorarios y desembolsos razonables 
+de abogados, contadores, auditores, consultores, tasadores y otros profesionales contratados por el 
+Agente de Garantía.
+
+
+Los acuerdos de esta Sección 5.3 de estos Protocolos sobrevivirán al pago de todas las obligaciones de TradeStation 
+con el Prestamista y a la remoción o renuncia del Agente de Garantía.
+
+5.4-Enmienda
+
+Estos Protocolos sólo pueden ser modificados (a) por TradeStation enviando al Prestamista y al Agente de Garantía una 
+notificación escrita de dicha modificación, siempre que dicha acción no afecte negativamente (i) el interés de seguridad 
+perfeccionado de primera prioridad otorgado de conformidad con el Acuerdo y el Acuerdo de Control o (ii) los deberes del 
+Agente de Garantía hacia el Prestamista de conformidad con estos Protocolos o (b) con el consentimiento por escrito de 
+todas las partes del Acuerdo.
+
+5.5 Ley aplicable
+
+Estos Protocolos se regirán e interpretarán de conformidad con las leyes del Estado de Nueva York.
+
