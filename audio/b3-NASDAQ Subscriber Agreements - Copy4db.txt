@@ -1,0 +1,1303 @@
+Acuerdos de suscripción al NASDAQ:
+1. ACUERDO DE SUSCRIPCIÓN AL PLAN UTP
+Necesario para recibir datos de nivel 1 y nivel 2 del NASDAQ en tiempo real.
+
+2. Acuerdo de suscriptor global del NASDAQ necesario para recibir
+datos del NASDAQ de nivel 2 en tiempo real.
+
+ACUERDO DE SUSCRIPCIÓN AL PLAN UTP
+Lea atentamente este acuerdo en su totalidad. Al aceptar este Acuerdo (como parte de una solicitud en línea o cualquier otro proceso de registro), usted acepta estar legalmente
+obligado por los términos de este Acuerdo. Usted comprende y acepta que este Acuerdo tiene la misma fuerza y efecto legal vinculante que un contrato firmado con tinta y
+entregado en persona. A menos que el contexto requiera lo contrario, los términos en mayúscula utilizados pero no definidos en otra parte de este Acuerdo tienen los significados
+respectivos que se les otorgan en la Sección 16 de este Acuerdo.
+
+Nasdaq Stock Market LLC, como Administrador del Plan UTP (“Administrador del Plan UTP”), requiere que todos los Suscriptores de la información aquí descrita firmen el
+Acuerdo de Suscriptor del Plan UTP (“Acuerdo”), o su equivalente, para recibir la Información.
+INSTRUCCIONES PARA EL SUSCRIPTOR: Complete una de las dos secciones siguientes.
+Abonado
+Nombre de la empresa:
+
+EMPRESA SUSCRIPTORA con Suscriptores Profesionales
+
+(Nombre impreso de la empresa suscriptora)
+
+Fecha:
+SUSCRIPTOR INDIVIDUAL
+
+Suscriptor PROFESIONAL o
+Nombre de
+Suscriptor NO PROFESIONAL
+
+Abonado:
+(Nombre impreso del suscriptor)
+
+(Seleccione únicamente si califica según la definición de la Sección 16).
+
+Fecha:
+
+INSTRUCCIONES PARA EL VENDEDOR: Complete a continuación.
+SOLO PARA USO DEL VENDEDOR (Solo para uso del proveedor/proveedor de datos)
+
+Proveedor:
+
+
+(Nombre impreso de la empresa proveedora)
+
+TÉRMINOS Y CONDICIONES
+El Proveedor y sus agentes no podrán modificar ni renunciar a ningún término de este Acuerdo. Cualquier intento de modificar este Acuerdo, excepto por parte de
+Nasdaq, será nulo.
+1. USO DE LOS DATOS. El Suscriptor no podrá vender, arrendar, proporcionar o de otro modo permitir o proporcionar acceso a la Información a ningún otro
+Persona o cualquier otra oficina o lugar. El suscriptor no participará en la operación de ningún negocio ilegal, ni permitirá que nadie lo haga.
+De lo contrario, no podrá utilizar la Información, o cualquier parte de ella, para ningún propósito ilegal o violar cualquier norma de Nasdaq o de la Bolsa de Valores.
+Norma de la Comisión de Bolsa y Valores (“SEC”) u otra ley, norma o reglamento aplicable. El suscriptor no puede presentar la Información proporcionada de ninguna manera.
+
+formato injusto, engañoso o discriminatorio. El suscriptor deberá tomar precauciones de seguridad razonables para evitar el acceso no autorizado.
+Personas que tengan acceso a la Información.
+a. SUSCRIPTOR NO PROFESIONAL — Para los Suscriptores No Profesionales, la Información está licenciada únicamente para
+uso personal. Al manifestar al Proveedor que el Suscriptor es un Suscriptor No Profesional, o al continuar
+recibir la Información a una tarifa de Suscriptor No Profesional, el Suscriptor afirma al Proveedor y a Nasdaq que
+El suscriptor cumple con la definición de suscriptor no profesional establecida en la Sección 16 de este Acuerdo. Un suscriptor no profesional
+El suscriptor profesional deberá cumplir con prontitud con cualquier solicitud razonable de Nasdaq para obtener información sobre
+la recepción, procesamiento, exhibición y redistribución de la Información por parte del Suscriptor No Profesional.
+b. SUSCRIPTOR PROFESIONAL — Para los Suscriptores Profesionales, la Información está licenciada para el negocio interno.
+uso y/o uso personal del Suscriptor Profesional. Los Suscriptores Profesionales podrán, de forma no continua,
+Proporcionar cantidades limitadas de la Información a los clientes en anuncios escritos, correspondencia u otros
+literatura o durante conversaciones telefónicas de voz que no impliquen voz computarizada, información automatizada
+sistemas de consulta o tecnologías similares. A petición, los Suscriptores Profesionales pondrán sus instalaciones a disposición de
+Nasdaq para la inspección física del Servicio del Proveedor y del uso de la Información por parte del Suscriptor Profesional
+(incluida la revisión de cualquier registro relacionado con el uso o acceso a la Información y el número y las ubicaciones de todos
+dispositivos que reciben Información), todo ello en momentos razonables, con un aviso razonable, para garantizar el cumplimiento de esta
+Acuerdo.
+2. DATOS PROPIETARIOS. Nasdaq otorga al Suscriptor una licencia no exclusiva e intransferible durante la vigencia del Acuerdo.
+recibir y utilizar la Información que le transmita el Proveedor y, posteriormente, utilizar dicha Información según lo permita la
+términos de este Acuerdo y/o los Requisitos del Plan UTP. El Suscriptor reconoce y acepta que Nasdaq tiene derechos de propiedad
+derechos sobre la Información que se origina o deriva de los mercados regulados u operados por Nasdaq, y la compilación u otra
+derechos a la información obtenida de otras fuentes. El suscriptor reconoce y acepta además que la información de terceros de Nasdaq
+Los proveedores de información tienen derechos de propiedad exclusivos sobre su respectiva Información. En caso de apropiación indebida o
+uso indebido por parte del Suscriptor o cualquier persona que acceda a la Información a través del Suscriptor, Nasdaq o su información de terceros
+Los proveedores tendrán derecho a obtener medidas cautelares para sus respectivos materiales. El suscriptor atribuirá la fuente como
+apropiado bajo todas las circunstancias.
+3. PAGO. El suscriptor asumirá la responsabilidad total y completa del pago de cualquier impuesto, cargo o tasa.
+impuestos al Suscriptor o al Nasdaq (excepto los impuestos federales, estatales o locales sobre la renta, si los hubiera, impuestos al Nasdaq) por cualquier entidad extranjera o
+
+organismos gubernamentales nacionales, estatales, provinciales o locales, o subdivisiones de los mismos, y cualquier sanción o interés relacionado
+a la provisión de la Información al Suscriptor. Los intereses se devengarán desde la fecha de la factura hasta el momento en que se
+Se han pagado los importes adeudados. En la medida en que lo permita la ley aplicable, el Suscriptor reconoce y acepta que
+
+
+
+La terminación del Servicio del Proveedor por falta de pago no se considerará una limitación indebida del acceso.
+por Nasdaq. Para los suscriptores profesionales, si algún pago se debe realizar directamente a Nasdaq según este Acuerdo, el pago debe realizarse en su totalidad.
+Nasdaq en fondos inmediatamente disponibles, en dólares estadounidenses mediante cheque a nombre de Nasdaq, mediante transferencia electrónica de fondos a una institución de
+
+La elección de Nasdaq, dentro de los quince (15) días a partir de la fecha de una factura, de si se hace o no uso o acceso a la
+Información.
+4. SISTEMA. El suscriptor reconoce que Nasdaq, a su exclusivo criterio, puede realizar modificaciones periódicas a su sistema.
+o la Información. Dichas modificaciones pueden requerir que se realicen cambios correspondientes en el Servicio del Proveedor. Los cambios o la
+Si el Proveedor o el Suscriptor no realizan cambios oportunos, esto puede interrumpir o afectar el acceso o uso de la Información por parte del Suscriptor.
+Nasdaq no será responsable de tales efectos. Nasdaq no respalda ni aprueba ningún equipo, Proveedor o producto del Proveedor.
+Servicio.
+5. RECURSO EXCLUSIVO. Nasdaq se esforzará por ofrecer la Información con la mayor rapidez y precisión que sea razonablemente posible.
+En el caso de que la Información no esté disponible como resultado del incumplimiento por parte de Nasdaq de sus obligaciones bajo este Acuerdo,
+Nasdaq se esforzará por corregir cualquier falla de este tipo. Si la información no está disponible, se retrasa, se interrumpe, está incompleta, no se actualiza
+no es preciso o se ve afectado materialmente de otro modo durante un período continuo de cuatro (4) horas o más durante el tiempo que Nasdaq
+transmite regularmente la Información debido a una falla de Nasdaq (excepto por una razón permitida en este Acuerdo o en las Condiciones de Nasdaq)
+acuerdo con el Proveedor), el recurso exclusivo del Suscriptor o de cualquier otra Persona contra Nasdaq será:
+a. Si el Suscriptor o cualquier otra Persona continúa recibiendo la Información o cualquier otro dato y/o información ofrecida
+por Nasdaq, un crédito mensual prorrateado de cualquier dinero adeudado por la Información afectada directamente a Nasdaq desde
+Suscriptor o, en su caso, de dicha otra Persona, por el período en cuestión; o
+b. Si el Suscriptor o cualquier otra Persona ya no recibe la Información o cualquier otro dato y/o información
+ofrecido por Nasdaq, un reembolso mensual prorrateado de cualquier dinero adeudado por la información afectada directamente a Nasdaq
+del Suscriptor o, en su caso, de dicha otra Persona, por el período en cuestión.
+Dicho crédito o reembolso, si corresponde, se solicitará por escrito a Nasdaq con todos los detalles pertinentes. Más allá de las garantías establecidas en esta
+sección, no existen otras garantías de ningún tipo: expresas, implícitas, estatutarias (incluidas, entre otras, las de puntualidad, veracidad, secuencia, integridad,
+precisión y ausencia de interrupciones), garantías implícitas que surjan del uso comercial, el curso de las transacciones, el curso del desempeño o las garantías
+implícitas de comerciabilidad o idoneidad para un uso o uso particular.
+
+objetivo.
+6. LIMITACIÓN DE RESPONSABILIDAD.
+a. Salvo que se establezca lo contrario en el presente documento, Nasdaq no será responsable ante el Suscriptor, su Proveedor o cualquier otra Persona
+por pérdidas o daños indirectos, especiales, punitivos, consecuentes o incidentales (incluidos, entre otros, los daños comerciales).
+pérdidas, pérdida de beneficios previstos, pérdida por motivo de cierre de operaciones o aumento de gastos de operación, costo de cobertura u otra
+pérdida o daño indirecto) de cualquier naturaleza que surja de cualquier causa, incluso si Nasdaq ha
+sido advertido de la posibilidad de tales daños.
+b. Nasdaq no será responsable ante el Suscriptor ni ante ninguna otra Persona por cualquier falta de disponibilidad, interrupción, demora,
+incompletitud o inexactitud de la Información que dure menos de cuatro (4) horas continuas durante el tiempo que
+Nasdaq transmite regularmente la Información o si la Información se ve afectada materialmente por menos de cuatro (4)
+horas continuas durante el tiempo en que Nasdaq transmite regularmente la Información.
+c. Si Nasdaq es, por cualquier motivo, considerado responsable ante el Suscriptor o ante cualquier otra Persona, ya sea por agravio o por contrato,
+La responsabilidad de Nasdaq dentro de un año a partir del Acuerdo (un año a partir de la fecha efectiva del Acuerdo) es
+
+
+limitado a un monto de los daños del Suscriptor que realmente incurra el Suscriptor con confianza razonable (combinado con el total de todos
+los reclamos o pérdidas del Proveedor del Suscriptor y cualquier otra Persona que reclame a través de, en nombre de o como perjudicada por
+el Suscriptor) y cuyo monto no exceda el menor de:
+i. Para el Suscriptor o cualquier otra persona que continúe recibiendo la Información o cualquier otro dato y/o Información ofrecida por
+Nasdaq, un crédito mensual prorrateado de cualquier monto adeudado directamente a Nasdaq por el Suscriptor o, si corresponde,
+por cualquier otra Persona, por la Información en cuestión durante el período en cuestión, o si el Suscriptor o cualquier otra Persona
+ya no recibe la Información o cualquier otro dato y/o información ofrecida por Nasdaq, un reembolso de cualquier monto adeudado
+directamente a Nasdaq por el Suscriptor o, si corresponde, por cualquier otra Persona, por la Información en cuestión durante el
+período en cuestión; o
+ii. $500.
+d. Esta sección no eximirá a Nasdaq, al Suscriptor ni a ninguna otra Persona de la responsabilidad por los daños que resulten de
+su propia negligencia grave o mala conducta dolosa o por reclamos por lesiones personales o muerte por negligencia.
+e. El suscriptor y Nasdaq entienden y aceptan que los términos de esta sección reflejan una asignación razonable de riesgo.
+y limitación de responsabilidad.
+7. EXENCIÓN DE GARANTÍAS. Nasdaq y sus proveedores de información externos no otorgan garantías de ningún tipo, ya sean expresas, implícitas o estatutarias
+(incluidas, entre otras, las garantías de puntualidad, veracidad, secuencia, integridad, precisión y ausencia de interrupciones), garantías implícitas derivadas de
+los usos comerciales, el curso de las transacciones, el curso del desempeño o las garantías implícitas de comerciabilidad o idoneidad para un uso o propósito
+particular o de no infracción.
+8. LIMITACIÓN DE RESPONSABILIDAD DE LOS PROVEEDORES DE INFORMACIÓN DE TERCEROS. Los proveedores de información de terceros de Nasdaq no
+tendrán responsabilidad por daños y perjuicios por la exactitud o por demoras u omisiones en la Información proporcionada por ellos, ya sea directa o indirecta,
+lucro cesante, daños especiales o consecuentes del Suscriptor o cualquier otra Persona que busque reparación a través del Suscriptor, incluso si los
+proveedores de información de terceros han sido informados de la posibilidad de tales daños. En ningún caso la responsabilidad de los proveedores de
+información de terceros o sus afiliados ante el Suscriptor o cualquier otra Persona que busque reparación a través del Suscriptor de conformidad con cualquier
+causa de acción, ya sea por contrato, agravio o de otro tipo, excederá la tarifa pagada por el Suscriptor o cualquier otra Persona que busque reparación a través
+del Suscriptor, según corresponda.
+9. RECLAMOS Y PÉRDIDAS. El Suscriptor indemnizará a Nasdaq y mantendrá indemne a Nasdaq y a sus empleados, funcionarios, directores y otros agentes por
+todos y cada uno de los Reclamos o Pérdidas impuestas, incurridas por o alegadas como resultado de o relacionadas con: (a) cualquier incumplimiento por
+parte del Suscriptor de los términos y condiciones del presente; (b) cualquier acción de terceros relacionada con la recepción y uso de la Información por parte
+del Suscriptor, ya sea autorizada o no autorizada según el Acuerdo. Cada parte garantiza y declara y mantendrá indemne y eximirá de responsabilidad (y en
+todos los casos, Nasdaq tendrá permitido defender y resolver únicamente) a otra parte (incluido Nasdaq) y sus funcionarios, directores, empleados y otros
+agentes, contra cualquier Reclamo o Pérdida que surja de, involucre o esté relacionada con un reclamo de infracción u otra violación de un derecho de
+propiedad intelectual por parte de la parte indemnizadora, sus acciones u omisiones, equipo u otra propiedad. Este derecho está condicionado a que la parte
+indemnizada dé aviso escrito inmediato a la parte indemnizadora (sin perjuicio de la defensa) de los Reclamos o Pérdidas y brinde cooperación en la defensa
+de los Reclamos o Pérdidas (sin renuncia al privilegio abogado­cliente, producto del trabajo u otro privilegio legal, o divulgación de información que legalmente
+se requiere que se mantenga confidencial).
+
+10. DATOS PERSONALES. El Suscriptor reconoce que Nasdaq, en el curso de la prestación de servicios al Suscriptor, puede procesar Datos Personales (según se
+define en el Acuerdo de Proveedor de The Nasdaq Stock Market LLC para Servicios de Plan UTP (“Acuerdo de Proveedor”)) en la prestación de servicios o en
+apoyo de sus derechos (incluidos, entre otros, sus derechos de auditoría y revisión de uso) según el Acuerdo de Proveedor. El Suscriptor proporcionará al
+Proveedor o su designado dichos Datos Personales (incluida, entre otros, información sobre el Suscriptor o, para Suscriptores que sean empresas, información
+sobre usuarios individuales de la Información) como se define en el Acuerdo de Proveedor.
+
+Nasdaq lo solicite razonablemente para poner la Información a disposición del Suscriptor, realizar los servicios de Nasdaq según el Acuerdo del Proveedor y/o hacer cumplir los
+derechos de Nasdaq (incluidos, entre otros, sus derechos de auditoría y revisión de uso) según el Acuerdo del Proveedor.
+Acuerdo, y el Proveedor deberá proporcionar dicha información a Nasdaq o su designado. Las disposiciones para el procesamiento de dichos datos se establecen en el Acuerdo
+del Proveedor. Con respecto a las personas cuyos Datos Personales sean procesados por Nasdaq y/o sus proveedores de servicios, la Política de Privacidad actual publicada
+públicamente identificada en el sitio web de UTP Plan ubicado en www.utpplan.com, o su sitio web sucesor, se aplicará a dicho procesamiento. En la medida en que el Suscriptor
+sea una entidad legal establecida en el Espacio Económico Europeo (“EEE”), las transferencias de Datos Personales a un Proveedor (o su designado) fuera del EEE en relación
+con este Acuerdo se regirán por el Anexo de Procesamiento de Datos del Acuerdo del Proveedor, que se incorpora aquí por referencia mutatis mutandis, siendo el exportador de
+datos personales el Suscriptor y el importador de datos personales el Proveedor. Las transferencias de datos personales del Proveedor a Nasdaq se regirán por las disposiciones
+pertinentes del Acuerdo del Proveedor.
+
+11. TERMINACIÓN. El suscriptor reconoce que Nasdaq, cuando así lo requiera en cumplimiento de obligaciones legales, podrá:
+notificación al Proveedor que limita o termina unilateralmente el derecho de cualquiera o todas las Personas a recibir o usar la Información y que el Proveedor
+cumplirá inmediatamente con dicho aviso y terminará o limitará el suministro de la Información y confirmará dicha notificación.
+cumplimiento mediante notificación a Nasdaq. Cualquier Persona afectada tendrá a su disposición las protecciones procesales previstas por la
+la Ley y las normas aplicables en virtud de ella. Además de las terminaciones permitidas en virtud del acuerdo del Proveedor, este Acuerdo
+El Suscriptor podrá rescindir el contrato con treinta (30) días de antelación mediante notificación por escrito al Proveedor y Nasdaq con treinta (30) días de antelación mediante notificación por escrito.
+
+Notificación al vendedor o al suscriptor. Nasdaq también puede modificar cualquier término de este Acuerdo mediante notificación por escrito con noventa (90) días de anticipación.
+ya sea al Proveedor o al Suscriptor, y cualquier uso posterior a dicha fecha se considerará como aceptación de los nuevos términos. En caso de que el Suscriptor
+incumplimiento, descubrimiento de la falsedad de cualquier declaración del Suscriptor, o cuando lo ordene la SEC en su autoridad regulatoria,
+Nasdaq puede rescindir este Acuerdo con no menos de tres (3) días de aviso por escrito al Suscriptor proporcionado por Nasdaq
+o Vendedor.
+12. MODIFICACIONES/ACUERDO. Salvo que se disponga lo contrario en el presente, ninguna disposición de este Acuerdo podrá ser modificada, enmendada o modificada.
+o renunciado. No se producirá ningún incumplimiento por parte de Nasdaq o del Suscriptor en el ejercicio, ninguna demora en el ejercicio y ningún curso de negociación con
+respecto a cualquier derecho, poder o privilegio bajo este Acuerdo operará como una renuncia al mismo, ni ninguna renuncia única o parcial
+el ejercicio de cualquiera de dichos derechos, poderes o privilegios impedirá cualquier otro o posterior ejercicio de los mismos o el ejercicio de cualquier otro derecho,
+poder o privilegio bajo este Acuerdo. Si alguna de las disposiciones de este Acuerdo o su aplicación a cualquier individuo,
+entidad o circunstancia se considera inválida o inaplicable, el resto de este Acuerdo o la aplicación de dichos términos o
+disposiciones a personas, entidades o circunstancias distintas de aquellas respecto de las cuales se consideran inválidas o inaplicables,
+no se verán afectados por ello y cada uno de dichos términos y disposiciones de este Acuerdo serán válidos y exigibles en la máxima medida posible.
+permitido por la ley. En caso de conflicto entre los términos de este Acuerdo y los del Acuerdo del Proveedor, los términos
+Las presentes Condiciones de Acuerdo prevalecerán entre Nasdaq y el Suscriptor.
+13. REQUISITOS DE LA ORGANIZACIÓN AUTORREGULADORA; ACCIONES A TOMAR EN CUMPLIMIENTO DE LA DISPOSICIÓN ESTATUTARIA
+OBLIGACIONES.
+(a) El suscriptor reconoce que en los Estados Unidos: (i) Nasdaq está registrado en la SEC como un índice de valores nacional
+bolsas de valores de conformidad con la Sección 6 de la Ley, y FINRA está registrada en la SEC como una asociación nacional de valores de conformidad con el 15A de la Ley; (ii)
+FINRA y Nasdaq tienen la obligación legal de proteger a los inversores y el interés público, y de garantizar que la información de cotización proporcionada a los inversores y al
+público sea justa e informativa, y no discriminatoria, ficticia o engañosa; (iii) la Sección 19(g)(1) de la Ley exige que FINRA y Nasdaq cumplan con los Requisitos del Plan UTP; (iv)
+Nasdaq tiene jurisdicción para hacer cumplir el cumplimiento de ciertos Requisitos del Plan UTP; (v) FINRA tiene jurisdicción para hacer cumplir el cumplimiento de ciertos
+Requisitos del Plan UTP; y (vi) Nasdaq está obligado a ofrecer términos que no sean irrazonablemente
+
+discriminatoria entre Suscriptores, sujeta a los Requisitos del Plan UTP aplicables. En consecuencia, el Suscriptor acepta que Nasdaq, cuando así se lo requiera en cumplimiento
+de sus obligaciones legales, puede, temporal o permanentemente, condicionar, modificar unilateralmente
+o terminar el derecho de cualquiera o todas las personas o entidades a recibir o usar la Información. Nasdaq realizará esfuerzos razonables para notificar al Suscriptor sobre
+cualquier condición, modificación o terminación, y el Suscriptor deberá cumplir con prontitud con cualquier notificación dentro del período de tiempo que Nasdaq determine de buena
+fe que es necesario, de conformidad con sus obligaciones legales. Cualquier Persona que reciba dicha notificación tendrá a su disposición las protecciones procesales que le
+proporcione la Ley y las normas aplicables en virtud de ella.
+
+(b) Si el Suscriptor es miembro de un mercado Nasdaq, entonces el Suscriptor reconoce y acepta expresamente que (i) este
+El Acuerdo no limita ni reduce de ninguna manera las obligaciones y responsabilidades del Suscriptor como miembro de cualquier mercado Nasdaq aplicable; (ii) este Acuerdo no
+altera de ninguna manera los procedimientos o estándares generalmente aplicables a las acciones disciplinarias o de otro tipo adoptadas por Nasdaq para hacer cumplir el
+cumplimiento o imponer sanciones por violaciones de los Requisitos del Plan UTP; y (iii) la falta de pago de los montos adeudados según este Acuerdo podría resultar en la
+suspensión o cancelación de la membresía del Suscriptor en un mercado Nasdaq de acuerdo con los Requisitos del Plan UTP.
+
+14. LEYES APLICABLES; INTERPRETACIÓN. Este Acuerdo se interpretará y aplicará de conformidad con, y la validez de
+y el cumplimiento del presente se regirá por las leyes del Estado de Nueva York, sin referencia a los principios de conflicto.
+de sus leyes. Cualquier disputa que no pueda resolverse amistosamente y que surja de este Acuerdo se someterá a arbitraje.
+y se llevarán a cabo de conformidad con las reglas de la Asociación Americana de Arbitraje. Todos estos procedimientos se llevarán a cabo
+en la ciudad de Nueva York, NY, y se llevará a cabo en idioma inglés, que también será el idioma de los documentos.
+15. NOTIFICACIONES; NOTIFICACIÓN DE CAMBIOS. Todas las notificaciones y otras comunicaciones (excepto las facturas) que deban realizarse en
+Los escritos en virtud del presente Acuerdo deberán dirigirse a los firmantes o, alternativamente, a las personas identificadas en
+apartados (a) y (b) siguientes. Las notificaciones se considerarán debidamente entregadas: (i) en el momento de la recepción efectiva (o en la fecha de la primera negativa)
+por las partes, o (ii) tras la recepción constructiva (o fecha de primera negativa) si se envía por correo certificado, con acuse de recibo solicitado o cualquier
+otro método de entrega que realmente obtenga un recibo de entrega firmado, a las siguientes direcciones o a cualquier otra dirección que
+cualquiera de las partes del presente documento deberá especificar en lo sucesivo mediante notificación previa por escrito a la otra parte o partes a continuación, o (iii) al publicar el
+aviso u otra comunicación en el sitio web www.utpplan.com o en un sitio sucesor. Si se proporciona una dirección de correo electrónico, Nasdaq
+podrá, en lugar de lo anterior, notificar o comunicarse con el Suscriptor mediante correo electrónico dirigido a las personas identificadas en
+subsección (a) o a cualquier otra dirección de correo electrónico o personas que el Suscriptor especifique en lo sucesivo mediante notificación previa por escrito. Al proporcionar
+una dirección de correo electrónico, el Suscriptor acepta que cualquier recibo que Nasdaq reciba del proveedor de servicios o de la computadora de Internet del Suscriptor
+servidor que indique que se recibió el correo electrónico se considerará prueba de que el suscriptor recibió el mensaje. Si el suscriptor no puede
+ver o imprimir todo o parte del mensaje, el Suscriptor acepta que es su responsabilidad comunicarse con Nasdaq en
+(301) 978–8080.
+
+(a) Si es para el Suscriptor:
+
+(b) Si es para el Administrador del Plan UTP:
+
+Nombre:
+
+Administrador del Plan UTP
+
+Título:
+
+Bulevar King Farm, 805
+
+DIRECCIÓN:
+
+Rockville, Maryland 20850
+Teléfono: +1 301 978 8080
+
+admin@utpplan.com
+
+Teléfono #:
+
+En caso de notificaciones de incumplimiento o disputa, se deberá
+
+Número de fax:
+
+enviar una copia a:
+
+Correo electrónico:
+
+El mercado de valores Nasdaq, LLC
+Oficina del Asesor General
+
+Con, en caso de notificaciones de disputa o incumplimiento, una copia requerida
+para:
+
+Bulevar King Farm, 805
+Rockville, Maryland 20850
+
+16. DEFINICIONES.
+Por Ley se entenderá la Ley de Intercambio de Valores de 1934.
+Afiliado significará cualquier individuo, corporación, compañía, sociedad, sociedad limitada, compañía de responsabilidad limitada, fideicomiso, asociación u otra
+entidad que, directa o indirectamente a través de uno o más intermediarios, controle, sea controlada por o esté bajo control común con dicha parte.
+
+Reclamaciones o pérdidas : todas y cada una de las responsabilidades, obligaciones, pérdidas, daños, sanciones, reclamaciones, acciones, demandas, costos,
+juicios, acuerdos y gastos de cualquier naturaleza, ya sea incurridos por o emitidos contra una parte indemnizada o un tercero, incluidos, entre otros, (a) pérdidas o
+daños indirectos, especiales, punitivos, consecuentes o incidentales (incluidos, entre otros, pérdidas comerciales, pérdida de ganancias previstas, pérdida por cierre
+de operaciones o aumento de los gastos de operación u otra pérdida o daño indirecto) y (b) costos administrativos, costos de investigación, costos de litigio y
+honorarios y desembolsos de auditores y abogados (incluido el personal interno).
+
+Información significará ciertos datos de mercado y otros datos difundidos que han sido recopilados, validados, procesados y registrados por el Sistema u otras
+fuentes puestas a disposición para su transmisión a y recepción por parte de un Proveedor o de Nasdaq en relación con: a) valores elegibles u otros instrumentos
+financieros, mercados, productos, vehículos, indicadores o dispositivos; b) actividades de una Compañía Nasdaq; c) otra información y datos de una Compañía
+Nasdaq. Información también incluye cualquier elemento de Información que se utilice o procese de tal manera que la Información pueda ser identificada, recalculada
+o rediseñada a partir de la Información procesada o que la Información procesada pueda ser utilizada como un sustituto de la Información.
+
+Nasdaq significará colectivamente The Nasdaq Stock Market LLC, una compañía de responsabilidad limitada de Delaware y sus subsidiarias y afiliadas (colectivamente
+“Nasdaq”).
+Requisitos del Plan UTP — Todas (i) las normas, reglamentos, interpretaciones, decisiones, opiniones, órdenes y otros requisitos de la SEC; (ii) las normas y
+reglamentos, decisiones disciplinarias e interpretaciones de normas aplicables a UTP (iii) las decisiones, políticas, interpretaciones, procedimientos operativos,
+especificaciones, requisitos y otra documentación de Nasdaq, como Administrador del Plan UTP, que sea de naturaleza regulatoria o técnica (incluyendo, pero no
+limitado a, guías de usuario) publicadas en el sitio web del Plan UTP ubicado en www.utpplan.com u otro sitio web accesible y puesto en conocimiento del Proveedor;
+y (iv) todas las demás leyes, estatutos, normas, reglamentos, órdenes, decisiones, interpretaciones, opiniones y otros requisitos aplicables, ya sea promulgados por
+los Estados Unidos o cualquier otra jurisdicción aplicable (incluyendo en el área de propiedad intelectual); y (v) los sucesores, tal como puedan existir en el momento,
+de los componentes de los Requisitos del Plan UTP.
+
+O — Incluye la palabra “y”.
+Persona — Cualquier persona física, empresa, corporación, sociedad u otra entidad.
+
+
+Suscriptor : cuando aparece sola, la palabra “Suscriptor” abarca a todos los Suscriptores no profesionales y profesionales. Todos los Suscriptores se consideran
+profesionales a menos que se los califique como no profesionales.
+• Suscriptor no profesional : cualquier persona física que NO sea:
+a) registrado o calificado en cualquier capacidad ante la SEC, la Comisión de Comercio de Futuros de Productos Básicos, cualquier estado
+agencia de valores, cualquier bolsa o asociación de valores o cualquier mercado de materias primas o contratos de futuros o
+asociación;
+
+b) contratado como “asesor de inversiones” según se define ese término en la Sección 202(a)(11) de la Ley de Asesores de Inversiones
+de 1940 (ya sea que esté o no registrado o calificado bajo esa Ley); o
+c) empleado por un banco u otra organización exenta de registro bajo las leyes federales o estatales de valores para
+realizar funciones que requerirían registro o calificación si dichas funciones se desempeñaran para un
+organización no tan exenta.
+• Suscriptor Profesional : Todas las demás personas que no cumplen con la definición de Suscriptor No Profesional.
+Por sistema se entenderá cualquier sistema que Nasdaq haya desarrollado para la creación y/o difusión de Información.
+Por Proveedor se entenderá el Proveedor y sus Afiliados según se identifiquen por escrito a Nasdaq.
+Servicio del Proveedor : El servicio de un Proveedor, incluyendo el equipo de procesamiento de datos, el software y las instalaciones de comunicaciones
+relacionadas con el mismo, para recibir, procesar, transmitir, usar y difundir la Información al Suscriptor o por parte del Suscriptor.
+
+Acuerdo de suscripción global de NASDAQ
+Lea atentamente este acuerdo en su totalidad. Al aceptar este Acuerdo (como parte de una solicitud en línea o cualquier otro proceso de registro), usted acepta
+estar legalmente obligado por los términos de este Acuerdo. Usted comprende y acepta que este Acuerdo tiene la misma fuerza y efecto legal vinculante que un
+contrato firmado con tinta y entregado en persona. A menos que el contexto requiera lo contrario, los términos en mayúscula utilizados pero no definidos en otra
+parte de este Acuerdo tienen los significados respectivos que se les otorgan en la Sección 14 de este Acuerdo.
+
+Resumen
+Los suscriptores de la Información (consulte la definición en la Sección 14) deben firmar el Acuerdo de Suscriptor Global de NASDAQ, Inc. (“Acuerdo”) o su
+equivalente para recibir la Información. Si bien todos los términos son importantes, NASDAQ le solicita que preste especial atención a las siguientes condiciones.
+Para obtener información adicional, consulte las secciones a las que se hace referencia al final de cada
+condición.
+Restricciones de uso y transferencia: El suscriptor (“Suscriptor”) no podrá proporcionar acceso a la información descrita en este documento ni transferir este Acuerdo
+a terceros. La Información es solo para uso descrito por el Suscriptor no profesional o profesional.
+(para información de EE. UU.) las definiciones de suscriptor no profesional o profesional (para información canadiense) y comercial o privado (para información
+europea). [Sección 14]
+La mayoría de los tipos de daños están excluidos y los daños restantes están limitados: NASDAQ no es responsable de pérdidas comerciales, lucro cesante o daños
+incidentales, consecuentes u otros daños indirectos, incluso si la información es inoportuna o incorrecta. Otros daños (si los hubiera) están estrictamente limitados
+(por contrato, agravio o de otro modo) a un monto máximo. [Sección 7 y Sección 8]
+Sin garantías ni obligaciones implícitas o estatutarias: Se eliminan todas las garantías y obligaciones (si las hubiera). No existen garantías expresas, excepto una
+garantía limitada con respecto a los esfuerzos únicamente. Las cotizaciones de acciones pueden no estar actualizadas o no ser precisas. [Sección 9]
+El suscriptor ofrece una indemnización: el suscriptor indemniza a NASDAQ y lo exime de toda responsabilidad por cualquier reclamo o pérdida (como se describe
+en la Sección 11) que resulte del incumplimiento del Acuerdo por parte del suscriptor, de la infracción por parte del suscriptor de los derechos de propiedad intelectual
+de un tercero o de cualquier demanda de un tercero relacionada con el uso o la recepción de información por parte del suscriptor. [Sección 11]
+Avisos; Notificación de cambios. Todos los avisos y otras comunicaciones (excepto las facturas) que deban entregarse por escrito en virtud de este Acuerdo se
+dirigirán a los firmantes o, como alternativa, a las personas identificadas en los incisos (a) y (b) a continuación. Los avisos se considerarán debidamente entregados
+(i) al recibirlos efectivamente (o en la fecha de la primera negativa) por las partes, o (ii) al recibirlos implícitamente (o en la fecha de la primera negativa) si se envían
+por correo certificado, con acuse de recibo solicitado o cualquier otro método de entrega que realmente obtenga un acuse de recibo firmado, a las siguientes
+direcciones o a cualquier otra dirección que cualquiera de las partes del presente documento especifique en lo sucesivo mediante notificación previa por escrito a la
+otra parte o las otras partes a continuación, o (iii) al publicar el aviso u otra comunicación en el sitio web de NASDAQTrader o en un sitio sucesor. Si se proporciona
+una dirección de correo electrónico, NASDAQ puede, en lugar de lo anterior, notificar o comunicarse con el Suscriptor por correo electrónico dirigido a las personas
+identificadas en la subsección (a) o a cualquier otra dirección de correo electrónico o personas que el Suscriptor especifique en lo sucesivo mediante notificación
+previa por escrito. Al proporcionar una dirección de correo electrónico, el Suscriptor acepta que cualquier recibo recibido por NASDAQ de su proveedor de servicios
+o servidor de Internet que indique que se recibió el correo electrónico se considerará prueba de que recibió el mensaje. Si el Suscriptor no puede ver o imprimir todo
+o parte del mensaje, acepta que es su responsabilidad comunicarse con NASDAQ al (301) 978–5307.
+
+(c) Si es para el Suscriptor:
+
+(d) Si se trata del NASDAQ:
+
+Nombre:
+
+Productos de datos globales del NASDAQ
+
+Título:
+
+Bulevar King Farm, 805
+
+DIRECCIÓN:
+
+Rockville, Maryland 20850
+Teléfono: +1 301 978 5307 o +45 33 93 33 66
+DataOps@nasdaq.com
+En caso de notificaciones de incumplimiento o disputa, se deberá enviar
+una copia a:
+
+Teléfono #:
+Bolsa de valores de Nasdaq, Inc.
+Número de fax:
+
+Oficina del Asesor General, Attn: Contracts Group
+Correo electrónico:
+
+Bulevar King Farm, 805
+Con, en caso de notificaciones de disputa o incumplimiento, un requerido
+
+Rockville, Maryland 20850
+
+copiar a:
+
+Ley aplicable; interpretación: Todo lo relacionado con este Acuerdo se rige por las leyes que se detallan en el Apéndice 1. Para la información recibida, se considerará que este
+Acuerdo se ha celebrado en la jurisdicción del mercado NASDAQ correspondiente.
+detallado en el Apéndice 1. [Apéndice 1]
+No se permiten modificaciones orales y solo NASDAQ puede realizarlas: el Acuerdo no puede modificarse oralmente y solo NASDAQ puede modificarlo de conformidad con un
+procedimiento de acuerdo que incluye una notificación al Suscriptor o al Distribuidor. Si no se rescinde el Acuerdo antes de la fecha de finalización de la modificación o no se utiliza la
+Información después de la fecha de finalización, se considerará que el Suscriptor da su consentimiento (o confirmación de un consentimiento anterior) a la modificación. [Sección 13]
+
+Los distribuidores pueden afectar los derechos de los suscriptores, pero no los de NASDAQ: un distribuidor no tiene la autoridad para cambiar el Acuerdo. Los distribuidores están
+obligados a notificar los cambios de NASDAQ al suscriptor. Sin embargo, si no lo hacen, la notificación de NASDAQ al distribuidor sigue siendo efectiva, en lo que respecta al
+suscriptor, incluida la notificación de cancelación. [Resumen y Sección 13].
+Requisitos de la organización autorreguladora; medidas que deben adoptarse para cumplir con las obligaciones legales. El suscriptor reconoce que NASDAQ puede estar sujeto a
+ciertas restricciones al ofrecer la información, como se detalla en el Apéndice 1. [Sección 2]
+Por favor revise los siguientes términos y condiciones del Acuerdo de Suscriptor Global NASDAQ antes de completar la Sección de Firma: Usted debe tener 18 años de edad y debe
+designarse como No Profesional o Profesional y como Suscriptor Comercial o Privado en la siguiente sección, con base en las definiciones provistas en la Sección 12. Para calificar
+como No Profesional o Suscriptor Privado, debe cumplir con todos los términos establecidos en la Sección 12. Al completar esta sección, acepto los términos y condiciones
+establecidos en este Acuerdo de Suscriptor Global NASDAQ.
+
+Suscriptor individual : Complete la sección A.
+Estados Unidos o Canadá
+
+Empresa u organización suscriptora – Complete la sección B.
+Estados Unidos o Canadá
+
+Suscriptor europeo
+Estado:
+
+Estado del suscriptor:
+
+Suscriptor europeo
+Estado:
+
+Profesional
+
+Negocio
+
+Profesional
+
+Negocio
+
+No profesional
+
+Privado
+
+Estado del suscriptor:
+
+A. Información del suscriptor individual:
+
+B. Información de la empresa suscriptora
+
+( NOMBRE DEL SUSCRIPTOR INDIVIDUAL EN LETRA DE IMPRENTA )
+
+Fecha:
+
+( NOMBRE DE LA EMPRESA SUSCRIPTORA EN IMPRENTA)
+
+Fecha:
+
+Información del distribuidor (solo para uso del distribuidor o proveedor de datos)
+Distribuidor: TradeStation Technologies, Inc.
+( NOMBRE DE LA EMPRESA DISTRIBUIDORA EN IMPRENTA )
+
+Términos y condiciones
+El Distribuidor y sus agentes no podrán modificar ni renunciar a ningún término de este Acuerdo. Cualquier intento de modificar este Acuerdo, excepto
+por parte de NASDAQ, será nulo.
+1. USO DE LOS DATOS. El Suscriptor no podrá vender, arrendar, proporcionar o de otro modo permitir o proporcionar acceso a la Información a
+ninguna otra Persona ni a ninguna otra oficina o lugar. El Suscriptor no participará en la operación de ningún uso comercial ilegal ni permitirá que
+ninguna otra persona utilice la Información, o cualquier parte de ella, para ningún propósito ilegal o que viole ninguna Norma del NASDAQ o de la
+Comisión de Bolsa y Valores (“SEC”) o cualquier Norma de la Autoridad de Servicios Financieros (“FSA”) u otra ley, norma o reglamento aplicable.
+El Suscriptor no podrá presentar la Información proporcionada en ningún formato injusto, engañoso o discriminatorio. El Suscriptor deberá tomar
+precauciones de seguridad razonables para evitar que Personas no autorizadas obtengan acceso a la Información.
+a. Suscriptor no profesional o privado: para los suscriptores no profesionales o privados, la información se otorga únicamente bajo
+licencia para uso personal. Al manifestar al distribuidor que el suscriptor es un suscriptor no profesional o privado, o al continuar
+recibiendo la información a una tarifa de suscriptor no profesional o privado, el suscriptor afirma al distribuidor y al NASDAQ que el
+suscriptor cumple con la definición de suscriptor no profesional o comercial, tal como se establece en la Sección 14 de este
+Acuerdo. Un suscriptor no profesional o privado deberá cumplir de inmediato con cualquier solicitud razonable del NASDAQ para
+obtener información sobre la recepción, el procesamiento, la exhibición y la redistribución de la información por parte del suscriptor
+no profesional.
+b. Suscriptor profesional o comercial: para el Suscriptor profesional o comercial, la Información está autorizada para el uso comercial
+interno y/o el uso personal del Suscriptor profesional o comercial. Los Suscriptores profesionales o comerciales pueden, de manera
+no continua, proporcionar cantidades limitadas de la Información a los clientes en anuncios escritos, correspondencia u otra
+literatura o durante conversaciones telefónicas de voz que no impliquen voz computarizada, sistemas de consulta de información
+automatizada o tecnologías similares. A pedido, los Suscriptores profesionales o comerciales pondrán sus instalaciones a disposición
+de NASDAQ para la inspección física del Servicio del Distribuidor y del uso de la Información por parte del Suscriptor profesional o
+comercial (incluida la revisión de cualquier registro relacionado con el uso o acceso a la Información y la cantidad y ubicación de
+todos los dispositivos que reciben Información), todo ello en horarios razonables, con un aviso razonable, para garantizar el
+cumplimiento de este Acuerdo.
+2. DATOS PROPIETARIOS. NASDAQ otorga al Suscriptor una licencia no exclusiva e intransferible durante la vigencia del Acuerdo para recibir y
+utilizar la Información que le transmita el Distribuidor y, posteriormente, para utilizar dicha Información según lo permitido por los términos de este
+Acuerdo y/o los Requisitos de NASDAQ. El Suscriptor reconoce y acepta que NASDAQ tiene derechos de propiedad sobre la Información que se
+origina en o deriva de los mercados regulados u operados por NASDAQ, y derechos de compilación u otros derechos sobre la Información
+obtenida de otras fuentes. El Suscriptor reconoce y acepta además que los proveedores de información externos de NASDAQ tienen derechos de
+propiedad exclusivos sobre su respectiva Información. En caso de apropiación indebida o uso indebido por parte del Suscriptor o cualquier persona
+que acceda a la Información a través del Suscriptor, NASDAQ o sus proveedores de información externos tendrán derecho a obtener medidas
+cautelares para sus respectivos materiales. El Suscriptor atribuirá la fuente según corresponda en todas las circunstancias.
+
+3. PAGO. El Suscriptor asumirá la responsabilidad total y completa por el pago de cualquier impuesto, cargo o tasa que le imponga al Suscriptor o al
+NASDAQ (excepto los impuestos federales, estatales o locales sobre la renta, si los hubiera, impuestos al NASDAQ) cualquier organismo
+gubernamental nacional, estatal, provincial o local, extranjero o nacional, o sus subdivisiones, y cualquier penalidad o interés relacionado con el
+suministro de la Información al Suscriptor. Los intereses se deberán abonar desde la fecha de la factura hasta el momento en que se hayan
+pagado los montos adeudados. En la medida en que lo permita la ley aplicable, el Suscriptor reconoce y acepta que
+
+La terminación del Servicio del Distribuidor por falta de pago no se considerará una limitación indebida del acceso por parte de NASDAQ. En el caso de los Suscriptores
+Profesionales o Comerciales, si se debe realizar algún pago directamente a NASDAQ en virtud de este Acuerdo, el pago total se deberá realizar a NASDAQ en fondos
+inmediatamente disponibles, en la moneda especificada por NASDAQ mediante un cheque a nombre de NASDAQ, mediante transferencia electrónica de fondos a una
+institución elegida por NASDAQ o mediante cualquier otra forma de pago especificada por NASDAQ en el Apéndice 1, dentro de los quince (15) días a partir de la fecha
+de una factura, independientemente de si se hace uso o acceso a la Información.
+4. INFORMES. El Suscriptor deberá cumplir con todos los requisitos de informes establecidos en este Acuerdo. Salvo que se detalle lo contrario en este documento, el
+Suscriptor deberá hacer todo lo posible para proporcionar todos los informes dentro de los quince (15) días posteriores al final del período de informe correspondiente,
+pero a más tardar cuarenta y cinco (45) días posteriores al final del período de informe correspondiente. En caso de presentación de informes aplicables de conformidad
+con el Acuerdo, Nasdaq puede procesar datos personales como parte de los servicios o en apoyo de sus derechos (incluidos, entre otros, sus derechos de auditoría y
+revisión de uso) en virtud de este Acuerdo. El Suscriptor deberá proporcionar a Nasdaq los Datos personales que Nasdaq solicite razonablemente para realizar los
+Servicios y hacer cumplir sus derechos (incluidos, entre otros, sus derechos de auditoría y revisión de uso) en virtud de este Acuerdo. Las Partes acuerdan cumplir con
+las disposiciones del Anexo sobre Procesamiento de Datos (http://www.nasdaqtrader.com/content/AdministrationSupport/AgreementsData/GDA­DPA.pdf) con respecto a
+cualquier Dato Personal Procesado por Nasdaq, actuando cada una de ellas de manera razonable y de buena fe. Con respecto a las personas cuyos Datos Personales
+sean Procesados por Nasdaq, la Política de Privacidad actual publicada públicamente (http://nasdaqtrader.com/Trader.aspx?id=Privacy) se aplicará a dicho Procesamiento.
+El Suscriptor acuerda remitir a cualquier persona cuyos Datos Personales puedan ser procesados por Nasdaq a la Política de Privacidad con respecto a los derechos de
+la persona con respecto a dicho Procesamiento por parte de Nasdaq. Los términos que no se definan de otra manera en este Acuerdo se definirán en el Anexo sobre
+Procesamiento de Datos.
+
+5. AUDITORÍA.
+a. De vez en cuando, y no más de una vez en un período de doce (12) meses, a menos que sea necesario debido a la sospecha de un incumplimiento
+sustancial de este Acuerdo, NASDAQ, o su designado, puede revisar: (i) los registros del Suscriptor relacionados con la Información; (ii) los informes y
+pagos relacionados con la Información; y (iii) el Sistema y el Servicio (y todos los instrumentos y aparatos utilizados en relación con los mismos). Para
+evitar dudas, NASDAQ no accederá, examinará, observará, revisará ni de ninguna manera obtendrá divulgación de ninguna información del Suscriptor,
+que esté protegida por las normas de secreto bancario aplicables. NASDAQ hará esfuerzos razonables para proporcionar un aviso por escrito con al
+menos treinta (30) días de anticipación sobre la auditoría, a menos que la auditoría se programe debido a la sospecha de un incumplimiento sustancial.
+La auditoría se realizará durante el horario comercial normal del Mercado NASDAQ y se llevará a cabo en lugares donde, según corresponda, se
+mantengan los registros del Distribuidor, se encuentre el Sistema del Suscriptor y/o el Suscriptor utilice la Información. NASDAQ deberá cumplir con las
+políticas de seguridad del Suscriptor al realizar la auditoría, las cuales se proporcionan a NASDAQ con anticipación y por escrito.
+
+b. El Suscriptor deberá brindar una cooperación razonable al NASDAQ, lo que incluye: (i) proporcionar de inmediato información o materiales en respuesta a
+cualquier solicitud razonable; y (ii) poner a disposición para su examen todos los registros, informes, pagos y documentación de respaldo, y el Sistema
+del Suscriptor y el Servicio del Suscriptor necesarios para llegar a una conclusión en cuanto a la exactitud e integridad de: (a) los informes del Suscriptor
+al NASDAQ; (b) los pagos relacionados con los mismos; (c) la Descripción del Sistema aprobada; y (d) el cumplimiento de este Acuerdo.
+
+c. NASDAQ se esforzará por proporcionar al Suscriptor una respuesta preliminar de auditoría dentro de los noventa (90) días siguientes a la finalización de
+cualquier auditoría. NASDAQ discutirá el resultado de cualquier respuesta preliminar de auditoría de buena fe con el Suscriptor o, a elección del
+Suscriptor, con la persona designada por este.
+
+d. Después de recibir la respuesta preliminar de la auditoría, el Suscriptor podrá optar, a su exclusivo costo y cargo, por realizar una revisión posterior. Esta
+revisión posterior deberá completarse y enviarse al NASDAQ dentro de los noventa (90) días posteriores a la recepción de la respuesta preliminar de la
+auditoría por parte del Suscriptor.
+e. Si NASDAQ y el Suscriptor no pueden llegar a un acuerdo sobre la respuesta preliminar de auditoría ni sobre la revisión posterior dentro de: (i) sesenta (60)
+días de la presentación del Suscriptor o la revisión posterior; o (ii) ciento cincuenta (150) días de la recepción por parte del Suscriptor de la respuesta
+preliminar de auditoría, siempre que NASDAQ haya procedido a dicho examen y auditoría de buena fe de conformidad con las disposiciones del presente,
+entonces la determinación de NASDAQ (la “Auditoría Final”) se considerará concluyente.
+
+F.
+
+Si la Auditoría Final determina que no se ha informado lo suficiente, que no se ha pagado lo suficiente o que no se ha cumplido con otro tipo de
+incumplimiento financiero de este Acuerdo (y/o revela montos adicionales que no se han informado lo suficiente o que no se han pagado lo suficiente o que
+no se han cumplido con otro tipo de incumplimiento financiero), dichos montos se remitirán al NASDAQ, junto con los intereses correspondientes, dentro de
+los sesenta (60) días posteriores a la finalización de la Auditoría Final. Si el Suscriptor no remite dichos montos adicionales al NASDAQ antes de que finalice
+este período de subsanación de sesenta (60) días, el NASDAQ podrá, mediante notificación previa al Suscriptor, rescindir el Acuerdo según lo dispuesto en
+la Sección 12 del presente Acuerdo.
+
+g. En caso de cualquier declaración insuficiente, pago insuficiente u otro incumplimiento financiero que sea resultado de un error de buena fe por parte del
+Suscriptor, la responsabilidad del Suscriptor se limitará a las tarifas impagas, junto con los intereses, correspondientes a los tres (3) años anteriores a la
+fecha más temprana entre la fecha en que: (i) el Suscriptor; (ii) los auditores del Suscriptor; o (iii) NASDAQ supo o determinó por primera vez que se había
+producido dicha declaración insuficiente, pago insuficiente u otro incumplimiento financiero, más los costos y gastos establecidos en la Sección 5(h).
+
+h. Si se determina que cualquier falta de declaración, pago insuficiente u otro incumplimiento financiero del Suscriptor es igual o mayor al diez por ciento (10 %)
+del número informado de Unidades Reportables para cualquier período auditado o no auditado mencionado en el presente, el Suscriptor deberá, además
+de remitir los honorarios e intereses aplicables adeudados en relación con dicha falta de declaración, pago insuficiente u otro incumplimiento financiero,
+reembolsar a NASDAQ cualquier costo y gasto razonable de auditoría, legal o administrativo en el que haya incurrido.
+
+i.
+
+Si la auditoría final revela cualquier incumplimiento material no financiero de los requisitos del NASDAQ, el suscriptor deberá presentar todos los materiales
+correspondientes que demuestren el cumplimiento de los requisitos del NASDAQ, cuando sea razonablemente posible, dentro de los ciento cincuenta (150)
+días posteriores a la recepción de la respuesta preliminar de la auditoría. Si el suscriptor no demuestra el cumplimiento durante este período de subsanación,
+el NASDAQ podrá, a su discreción en cualquier momento, con previo aviso al suscriptor, rescindir el contrato según lo dispuesto en la Sección 12 de este
+Acuerdo.
+
+yo.
+
+Si la Auditoría Final revela un pago en exceso, entonces NASDAQ aplicará el pago en exceso correspondiente a los sesenta (60) días anteriores al final del
+período que se está revisando como un crédito contra los montos adeudados por el Suscriptor.
+
+k. Si el pago de tarifas por parte del Suscriptor por la Información es fijo y no fluctúa con el número de Unidades Reportables, NASDAQ, en lugar de una auditoría,
+solicitará información o documentación relevante relacionada con el uso de la Información por parte del Suscriptor; sin embargo, NASDAQ se reservará el
+derecho, con un Aviso razonable al Suscriptor, durante el horario laboral normal, de realizar una auditoría de manera confidencial de cualquier documentación
+relevante del Suscriptor para asegurar que el uso de la Información por parte del Suscriptor se ajusta a los Requisitos de NASDAQ. Dicha auditoría solo
+podrá realizarse una vez por año calendario y solo si NASDAQ la considera razonablemente necesaria debido a la sospecha de incumplimiento por parte
+del Suscriptor de las disposiciones materiales de este Acuerdo.
+
+6. SISTEMA. El Suscriptor reconoce que NASDAQ, a su exclusivo criterio, puede realizar modificaciones en su sistema o en la Información de vez en cuando. Dichas
+modificaciones pueden requerir que se realicen los cambios correspondientes en el Servicio del Distribuidor. Los cambios o la falta de realización de los cambios
+oportunos por parte del Distribuidor o del Suscriptor pueden interrumpir o afectar el acceso o el uso de la Información por parte del Suscriptor. NASDAQ no será
+responsable de dichos efectos. NASDAQ no respalda ni aprueba ningún equipo,
+Distribuidor o Servicio del Distribuidor.
+7. RECURSO EXCLUSIVO. NASDAQ se esforzará por ofrecer la Información con la mayor prontitud y precisión que sea razonablemente posible.
+En caso de que la Información no esté disponible como resultado de que NASDAQ no cumpla con sus obligaciones en virtud de este Acuerdo, NASDAQ se
+esforzará por corregir dicha falla. Si la Información no está disponible, se demora, se interrumpe, está incompleta, no es precisa o se ve afectada materialmente de
+otra manera durante un período continuo de cuatro (4) horas o más durante el tiempo en que NASDAQ transmite regularmente la Información debido a una falla de
+NASDAQ (excepto por una razón permitida en este Acuerdo o en el acuerdo de NASDAQ con el Distribuidor), el recurso exclusivo del Suscriptor o cualquier otra
+Persona contra NASDAQ será:
+a. Si el Suscriptor o cualquier otra Persona continúa recibiendo la Información o cualquier otro dato y/o información ofrecida
+por NASDAQ, un crédito mensual prorrateado de cualquier monto adeudado, si lo hubiera, por la Información afectada directamente a NASDAQ
+del Suscriptor o, si corresponde, de dicha otra Persona, por el período en cuestión; o
+b. Si el Suscriptor o cualquier otra Persona ya no recibe la Información ni ningún otro dato y/o información ofrecida por NASDAQ, un reembolso mensual
+prorrateado de cualquier monto adeudado por la Información afectada directamente a NASDAQ por parte del Suscriptor o, si corresponde, de dicha
+otra Persona, por el período en cuestión.
+Dicho crédito o reembolso, si corresponde, se solicitará por escrito al NASDAQ con todos los detalles pertinentes. Más allá de las garantías establecidas en esta
+sección, no existen otras garantías de ningún tipo: expresas, implícitas, estatutarias (incluidas, entre otras, las de puntualidad, veracidad, secuencia, integridad,
+precisión y ausencia de interrupciones), garantías implícitas que surjan del uso comercial, el curso de las transacciones, el curso del desempeño o las garantías
+implícitas de comerciabilidad o idoneidad para un uso o uso particular.
+objetivo.
+8. LIMITACIÓN DE RESPONSABILIDAD.
+a. Salvo que se establezca lo contrario en el presente, NASDAQ no será responsable ante el Suscriptor, su Distribuidor o cualquier otra Persona por
+pérdidas o daños indirectos, especiales, punitivos, consecuentes o incidentales (incluyendo, pero sin limitarse a, pérdidas comerciales, pérdida de
+ganancias previstas, pérdida por motivo de cierre de operaciones o aumento de gastos de operación, costo de cobertura u otra pérdida o daño
+indirecto) de cualquier naturaleza que surja de cualquier causa, incluso si NASDAQ ha sido informado de la posibilidad de tales daños.
+
+b. NASDAQ no será responsable ante el Suscriptor ni ante ninguna otra Persona por cualquier falta de disponibilidad, interrupción, demora, incompletitud
+o inexactitud de la Información que dure menos de cuatro (4) horas continuas durante el tiempo en que NASDAQ transmite regularmente la
+Información o si la Información se ve afectada materialmente durante menos de cuatro (4) horas continuas durante el tiempo en que NASDAQ
+transmite regularmente la Información.
+c. Si NASDAQ es responsable por cualquier motivo ante el Suscriptor o cualquier otra Persona, ya sea por agravio o por contrato, la responsabilidad de
+NASDAQ dentro de un año a partir de la fecha de vigencia del Acuerdo (un año a partir de la fecha de vigencia del Acuerdo) se limita a un monto
+de los daños del Suscriptor que este realmente haya sufrido con confianza razonable (combinado con el total de todos los reclamos o pérdidas del
+Distribuidor del Suscriptor y cualquier otra Persona que reclame a través, en nombre o como perjudicada por el Suscriptor) y cuyo monto no exceda
+el menor de los siguientes:
+
+
+i. Para el Suscriptor o cualquier otra persona que continúe recibiendo la Información o cualquier otro dato y/o Información ofrecida por
+NASDAQ, un crédito mensual prorrateado de cualquier dinero adeudado directamente a NASDAQ por el Suscriptor o, si corresponde,
+por cualquier otra Persona, por la Información en cuestión durante el período en cuestión, o si el Suscriptor o cualquier otra Persona
+ya no recibe la Información o cualquier otro dato y/o
+información ofrecida por NASDAQ, un reembolso de cualquier dinero adeudado directamente a NASDAQ por el Suscriptor o, si
+aplicable, de cualquier otra Persona, para la Información en cuestión durante el período en cuestión; o
+ii. $500.
+d. Esta sección no eximirá a NASDAQ, al Suscriptor ni a ninguna otra Persona de la responsabilidad por los daños que resulten de
+su propia negligencia grave o mala conducta dolosa o por reclamos por lesiones personales o muerte por negligencia.
+e. El suscriptor y NASDAQ comprenden y aceptan que los términos de esta sección reflejan una asignación razonable de riesgo.
+y limitación de responsabilidad.
+9. EXENCIÓN DE GARANTÍAS. NASDAQ y sus proveedores de información externos no otorgan garantías de ningún tipo, ya sean expresas, implícitas o estatutarias
+(incluidas, entre otras, las garantías de puntualidad, veracidad, secuencia, integridad, precisión y ausencia de interrupciones), garantías implícitas derivadas de
+los usos comerciales, el curso de las transacciones, el curso del desempeño o las garantías implícitas de comerciabilidad o idoneidad para un uso o propósito
+particular o de no infracción.
+10. LIMITACIÓN DE RESPONSABILIDAD DE LOS PROVEEDORES DE INFORMACIÓN DE TERCEROS. Los proveedores de información de terceros de NASDAQ
+no tendrán responsabilidad por daños y perjuicios por la exactitud o por demoras u omisiones en la Información proporcionada por ellos, ya sea directa o
+indirecta, lucro cesante, daños especiales o consecuentes del Suscriptor o cualquier otra Persona que busque reparación a través del Suscriptor, incluso si los
+proveedores de información de terceros han sido informados de la posibilidad de tales daños. En ningún caso la responsabilidad de los proveedores de
+información de terceros o sus afiliados ante el Suscriptor o cualquier otra Persona que busque reparación a través del Suscriptor de conformidad con cualquier
+causa de acción, ya sea por contrato, agravio o de otro tipo, excederá la tarifa pagada por el Suscriptor o cualquier otra Persona que busque reparación a través
+del Suscriptor, según corresponda.
+11. RECLAMOS Y PÉRDIDAS. El Suscriptor indemnizará a NASDAQ y mantendrá indemne a NASDAQ y sus empleados, funcionarios, directores y otros agentes de
+todos y cada uno de los Reclamos o Pérdidas impuestas, incurridas por o alegadas como resultado de o relacionadas con: (a) cualquier incumplimiento por
+parte del Suscriptor de los términos y condiciones del presente; (b) cualquier acción de terceros relacionada con la recepción y uso de la Información por parte
+del Suscriptor, ya sea autorizada o no autorizada según el Acuerdo. Cada parte garantiza y declara y mantendrá indemne y eximirá de responsabilidad (y en
+todos los casos, NASDAQ tendrá permitido defender y resolver únicamente) a otra parte (incluido NASDAQ) y sus funcionarios, directores, empleados y otros
+agentes, contra cualquier Reclamo o Pérdida que surja de, involucre o esté relacionado con un reclamo de infracción u otra violación de un derecho de
+propiedad intelectual por parte de la parte indemnizadora, sus acciones u omisiones, equipo u otra propiedad. Este derecho está condicionado a que la parte
+indemnizada dé aviso escrito inmediato a la parte indemnizadora (sin perjuicio de la defensa) de los Reclamos o Pérdidas y brinde cooperación en la defensa
+de los Reclamos o Pérdidas (sin renuncia al privilegio abogado­cliente, producto del trabajo u otro privilegio legal, o divulgación de información que legalmente
+se requiere que se mantenga confidencial).
+
+12. TERMINACIÓN. El Suscriptor reconoce que NASDAQ, cuando así lo requiera en cumplimiento de obligaciones legales, puede, mediante notificación al
+Distribuidor, limitar o terminar unilateralmente el derecho de cualquiera o todas las Personas a recibir o usar la Información y que el Distribuidor cumplirá
+inmediatamente con dicha notificación y terminará o limitará el suministro de la Información y confirmará dicho cumplimiento mediante notificación al NASDAQ.
+Cualquier Persona afectada tendrá a su disposición las protecciones procesales que se encuentren a su disposición.
+previsto por la Ley y las normas aplicables en virtud de ella.
+
+
+Además de las terminaciones permitidas bajo el acuerdo del Distribuidor, este Acuerdo puede ser terminado por el Suscriptor con treinta (30) días de aviso por
+escrito al Distribuidor y por NASDAQ con treinta (30) días de aviso por escrito ya sea al Distribuidor o al Suscriptor. NASDAQ también puede alterar cualquier
+término de este Acuerdo con noventa (90) días de aviso por escrito ya sea al Distribuidor o al Suscriptor, y cualquier uso después de esa fecha se considerará
+aceptación de los nuevos términos. En caso de incumplimiento del Suscriptor, descubrimiento de la falsedad de alguna declaración del Suscriptor, o cuando
+así lo ordene la SEC en su autoridad regulatoria, NASDAQ puede terminar este Acuerdo con no menos de tres (3) días de aviso por escrito al Suscriptor
+proporcionado por NASDAQ o
+Distribuidor.
+13. MODIFICACIONES/ACUERDO. Salvo que se establezca lo contrario en este Acuerdo, NASDAQ puede modificar cualquier término o condición de este Acuerdo
+de Suscriptor mediante un aviso con noventa (90) días de anticipación al Distribuidor, y cualquier uso de la Información después de dicha fecha se considerará
+una aceptación del nuevo término o condición. Los medios para notificar al Suscriptor sobre dicho nuevo término o condición pueden incluir, entre otros, enviar
+dicho término o condición por correo electrónico al Distribuidor correspondiente o publicar dicha modificación en el sitio web de NASDAQTrader o en un sitio
+sucesor, según se indica en el Resumen. El hecho de que NASDAQ, el Distribuidor o el Suscriptor no ejerzan, demoren en ejercerlo o realicen cualquier otra
+forma de negociación con respecto a cualquier derecho, poder o privilegio en virtud del Acuerdo no se considerará una renuncia al mismo, ni el ejercicio único
+o parcial de dicho derecho, poder o privilegio impedirá cualquier otro ejercicio posterior del mismo o el ejercicio de cualquier otro derecho, poder o privilegio en
+virtud de este Acuerdo.
+Salvo que se disponga lo contrario en el presente, ninguna disposición de este Acuerdo podrá ser enmendada, modificada o renunciada. Si alguna de las
+disposiciones de este Acuerdo o su aplicación a cualquier individuo, entidad o circunstancia se considera inválida o inaplicable, el resto de este Acuerdo, o la
+aplicación de dichos términos o disposiciones a individuos, entidades o circunstancias distintas de aquellas para las que se consideran inválidas o inaplicables,
+no se verán afectadas por ello y cada uno de dichos términos y disposiciones
+de este Acuerdo serán válidos y exigibles en la máxima medida permitida por la ley. En caso de conflicto entre los términos de este Acuerdo y los del acuerdo
+del Distribuidor, prevalecerán los términos de este Acuerdo entre NASDAQ y el Distribuidor.
+y Suscriptor.
+14. DEFINICIONES.
+Por Ley se entenderá la Ley de Intercambio de Valores de 1934, aplicable únicamente a la Información difundida desde un Mercado NASDAQ en el
+Estados Unidos.
+Afiliado significará cualquier individuo, corporación, compañía, sociedad, sociedad limitada, compañía de responsabilidad limitada, fideicomiso, asociación u
+otra entidad que, directa o indirectamente a través de uno o más intermediarios, controle, sea controlada por o esté bajo control común con dicha parte.
+
+Reclamaciones o pérdidas : todas y cada una de las responsabilidades, obligaciones, pérdidas, daños, sanciones, reclamaciones, acciones, demandas, costos,
+juicios, acuerdos y gastos de cualquier naturaleza, ya sea incurridos por o emitidos contra una parte indemnizada o un tercero, incluidos, entre otros, (a)
+pérdidas o daños indirectos, especiales, punitivos, consecuentes o incidentales (incluidos, entre otros, pérdidas comerciales, pérdida de ganancias previstas,
+pérdida por cierre de operaciones o aumento de los gastos de operación u otra pérdida o daño indirecto) y (b) costos administrativos, costos de investigación,
+costos de litigio y honorarios y desembolsos de auditores y abogados (incluido el personal interno).
+
+Distribuidor se referirá al Distribuidor y sus Afiliados según se identifiquen por escrito a NASDAQ.
+Servicio del distribuidor : El servicio de un distribuidor, incluido el equipo de procesamiento de datos, el software y las instalaciones de comunicaciones
+relacionadas con el mismo, para recibir, procesar, transmitir, usar y difundir la Información al Suscriptor o por parte de este.
+FSA significará una Autoridad de Servicios Financieros en Suecia, el Reino Unido u otra jurisdicción distinta de los Estados Unidos.
+
+
+Información significará ciertos datos de mercado y otros datos difundidos que han sido recopilados, validados, procesados y registrados por el Sistema u
+otras fuentes puestas a disposición para su transmisión a y recepción por parte de un Distribuidor o de NASDAQ en relación con: a) valores elegibles u
+otros instrumentos financieros, mercados, productos, vehículos, indicadores o dispositivos; b) actividades de una Compañía NASDAQ; c) otra información
+y datos de una Compañía NASDAQ. La información también incluye cualquier elemento de Información que se utilice o procese de tal manera que la
+Información pueda ser identificada, recalculada o rediseñada a partir de la Información procesada o que la Información procesada pueda ser utilizada
+como un sustituto de la Información.
+NASDAQ significará colectivamente NASDAQ, Inc., una compañía de responsabilidad limitada de Delaware y sus subsidiarias y afiliadas (colectivamente
+“NASDAQ”).
+Por Mercados NASDAQ se entenderán las subsidiarias reguladas de mercado de valores y opciones de NASDAQ y otras subsidiarias reguladas de
+mercado de NASDAQ, incluidas, entre otras, Exchange (“OMX”), NASDAQ
+
+, El mercado de valores NASDAQ (“NASDAQ”), el OMX Nordic
+
+BX (“BX”), NASDAQ PHLX (“PHLX”), Philadelphia Board of Trade (“PBOT”), NASDAQ CXC Limited (“NASDAQ Canada”) y NASDAQ Europe. Los
+Mercados NASDAQ son cada uno un “Mercado NASDAQ”.
+Requisitos del NASDAQ : todas (i) las normas, reglamentos, interpretaciones, decisiones, opiniones, órdenes y otros requisitos de la SEC o de una FSA,
+según corresponda en función del Mercado NASDAQ del que se recibe la Información; (ii) las normas y reglamentos, decisiones disciplinarias e
+interpretaciones de normas aplicables a los Mercados NASDAQ; (iii) las decisiones, políticas, interpretaciones, procedimientos operativos, especificaciones,
+requisitos y otra documentación de los Mercados NASDAQ que sea de naturaleza regulatoria o técnica (incluidas, entre otras, las guías de usuario)
+publicadas en el sitio web de NASDAQTrader ubicado en www.NASDAQTrader.com u otro sitio web accesible y puesto en conocimiento del Distribuidor;
+y (iv) todas las demás leyes, estatutos, normas, reglamentos, órdenes, decisiones, interpretaciones, opiniones y otros requisitos aplicables, ya sea
+promulgados por los Estados Unidos, Inglaterra, Suecia, Canadá o cualquier otra jurisdicción aplicable (incluso en el área de propiedad intelectual); y (v)
+los sucesores, según puedan existir en ese momento, de los componentes de los Requisitos del NASDAQ.
+
+NASDAQTrader se referirá al sitio web ubicado en www.NASDAQTrader.com o su(s) sitio(s) sucesor(es).
+O — Incluye la palabra “y”.
+
+Persona — Cualquier persona física, empresa, corporación, sociedad u otra entidad.
+Suscriptor : cuando aparece sola, la palabra “Suscriptor” abarca a todos los Suscriptores No Profesionales, Privados, Profesionales y Comerciales. Todos
+los suscriptores se consideran Profesionales o Comerciales a menos que se los califique como No Profesionales o Privados.
+Abonado.
+Información de EE.UU.
+
+No profesional
+Abonado
+
+Cualquier persona física que NO sea:
+(a) registrado o calificado en cualquier capacidad ante la SEC, la Comisión de Comercio de Futuros de Productos Básicos
+
+Comisión, cualquier agencia estatal de valores, cualquier bolsa o asociación de valores o cualquier
+mercado o asociación de contratos de materias primas o de futuros;
+
+(b) contratado como “asesor de inversiones” según se define ese término en la Sección 202(a)(11) de la
+Ley de Asesores de Inversiones de 1940 (ya sea que estén registrados o calificados bajo esa Ley);
+o
+(c) empleado por un banco u otra organización exenta de registro bajo las leyes federales o
+leyes estatales sobre valores para realizar funciones que requerirían registro o calificación
+si dichas funciones se desempeñaran para una organización no tan exenta.
+Profesional
+
+Todas las demás personas que no cumplan la definición de Suscriptor No Profesional.
+
+Abonado
+Información canadiense
+No profesional
+
+Se define como no profesional a una persona física que no es un profesional de valores y que actúa
+
+Abonado
+
+En su carácter personal y no como director, funcionario, socio, empleado o agente de ninguna empresa, ni en nombre de
+ningún individuo. Para mayor claridad, pero sin limitarse a ello, la definición excluye a los corredores, distribuidores,
+asesores de inversiones o personas empleadas de otro modo por organizaciones que realizan actividades profesionales
+que implican la compra y venta de instrumentos, como acciones, bonos, opciones, contratos de futuros y otros vehículos
+comerciales. Un no profesional
+No se puede registrar ni calificar con:
+a) Cualquier agencia de valores provincial, estatal o de otro gobierno u otra entidad que realice
+funciones equivalentes a las de dichas personas;
+b) Cualquier bolsa de valores o asociación u otra entidad que desempeñe funciones equivalentes a las de dichas personas;
+
+c) Cualquier bolsa de productos básicos o de futuros o asociación u otra entidad que desempeñe funciones que
+sean equivalentes a los de dichas personas; y
+d) Cualquier Sistema Alternativo de Comercio u otra entidad que realice funciones equivalentes a
+los de dichas personas.
+
+Profesional
+
+Un Usuario que no cumpla con la definición de No Profesional que aparece a continuación será considerado un
+
+Abonado
+
+Profesional y está sujeto a las tarifas especificadas para Profesionales.
+
+Información europea
+Privado
+
+Una persona física con el fin de gestionar las inversiones personales del Suscriptor y no con ningún fin comercial, ni con el
+
+Abonado
+
+fin de brindar ningún tipo de asesoramiento a ninguna otra persona. Un Suscriptor de Uso Privado no podrá:
+
+(a) contratar, recibir o utilizar Información con fines de Uso Privado en nombre de cualquier otro
+persona o cualquier corporación, sociedad, compañía de responsabilidad limitada, fideicomiso, asociación u otra forma de
+entidad,
+(b) contratar, recibir o utilizar Información con fines de Uso Privado en cualquier Servicio que sea pagado
+por otra persona o cualquier corporación, sociedad, compañía de responsabilidad limitada, fideicomiso, asociación u otra
+forma de entidad.
+Un Suscriptor de Uso Privado deberá, no obstante lo anterior:
+(c) se le permita contratar, recibir o usar Información en nombre de o pagada por otra persona física (persona B) siempre
+que (1) sea con el propósito de administrar la información personal de la persona B
+inversiones y no para ningún propósito comercial, y (2) la persona B ha presentado un poder notarial o
+documentación equivalente en consecuencia con el Licenciatario,
+
+(d) se le permita contratar, recibir o usar Información para Uso Privado en nombre y/o pagada por una entidad
+legal u otra forma de Persona no natural en la que el Suscriptor de Uso Privado tenga plena (100%) propiedad
+y ejerza pleno (100%) control,
+(e) Las secciones (c) y (d) no podrán combinarse.
+
+Negocio
+
+Todas las demás personas que no cumplan la definición de Suscriptor Privado.
+
+Abonado
+“Sistema” significará cualquier sistema que NASDAQ haya desarrollado para la creación y/o difusión de Información.
+
+Apéndice 1
+1. INFORMACIÓN. NASDAQ ofrece información que ha sido recopilada, validada, procesada y registrada por el Sistema.
+u otras fuentes. Para los datos ofrecidos desde otras fuentes, se aplicarán las leyes vigentes que se identifican a continuación.
+Entidad legal y principal
+
+Tipo de entidad
+
+Fondos
+
+Leyes que rigen
+
+Domicilio social
+Bolsa de valores de Nasdaq, Inc.
+
+Delaware
+
+Una plaza de la libertad
+
+Corporación
+
+Dólares estadounidenses
+
+Este Acuerdo se interpretará y ejecutará de conformidad con las
+leyes del Estado de Nueva York, y su validez y ejecución se regirán por ellas.
+
+165 Broadway
+Nueva York, NY 10006
+
+sin referencia a los principios de conflicto de leyes del mismo.
+
+EE.UU
+
+Cualquier disputa que no pueda resolverse amistosamente y que surja de
+este Acuerdo se someterá a arbitraje y
+se llevará a cabo de conformidad con las reglas de la
+Asociación Americana de Arbitraje. Todos esos procedimientos
+se llevará a cabo en la ciudad de Nueva York, NY, y se llevará a cabo en
+idioma inglés, que también será el idioma
+de los documentos.
+
+NASDAQ CXC Limitada
+
+canadiense
+
+CANALLA
+
+El Acuerdo se regirá por las leyes de la Provincia de Ontario y las
+
+Corporación
+
+Dólares
+
+leyes de Canadá aplicables allí, sin tener en cuenta sus disposiciones
+sobre elección de leyes.
+Es el deseo expreso de las partes que este Acuerdo y todos los
+documentos relacionados, incluidos los avisos y otras comunicaciones,
+se redacten únicamente en idioma inglés. Es la voluntad expresa de las
+partes que esta convención y todos los documentos se ratifiquen,
+incluyendo
+les avis et les autres Communications, soient rédigés et signés en anglais
+seulement.
+
+Información de NASDAQ OMX LLC
+
+Delaware
+
+Una plaza de la libertad
+
+Corporación
+
+Dólares estadounidenses
+
+Este Acuerdo se interpretará y ejecutará de conformidad con las
+leyes del Estado de Nueva York, y su validez y ejecución se regirán por
+dichas leyes, sin referencia a los principios de conflicto de leyes del mismo.
+
+165 Broadway
+Nueva York, NY 10006
+EE.UU
+
+Cualquier disputa que no pueda resolverse amistosamente y que surja de
+este Acuerdo se someterá a arbitraje y
+se llevará a cabo de conformidad con las reglas de la
+Asociación Americana de Arbitraje. Todos estos procedimientos se
+llevarán a cabo en la ciudad de Nueva York, NY, y se llevarán a cabo
+en el idioma inglés, que también será el idioma
+de los documentos.
+
+NASDAQ OMX Nordic Oy
+
+finlandés
+
+Calle Fabianinkatu 14, FI­00131
+
+compañía
+
+Helsinki FINLAND
+
+euros
+
+Este Acuerdo se regirá e interpretará de conformidad con las leyes de
+Finlandia. Cualquier disputa que no pueda resolverse de manera
+amistosa y que surja de este Acuerdo se someterá a arbitraje y
+se resolverá
+se realizará de conformidad con las normas para procedimientos acelerados
+
+Arbitrajes del Instituto de Arbitraje de Estocolmo
+Cámara de Comercio. Todos estos procedimientos se llevarán a cabo
+
+en Estocolmo, y se llevará a cabo en idioma inglés, que también
+será el idioma de la
+documentos.
+Bolsa de valores Nasdaq
+
+Delaware
+
+Una plaza de la libertad
+
+Corporación
+
+Dólares estadounidenses
+
+Este Acuerdo se interpretará y ejecutará de conformidad con las
+leyes del Estado de Nueva York, y su validez y ejecución se regirán por
+
+165 Broadway
+
+ellas.
+
+Nueva York, NY 10006
+
+sin referencia a los principios de conflicto de leyes del mismo.
+
+EE.UU
+
+Cualquier disputa que no pueda resolverse amistosamente y que surja
+de este Acuerdo se someterá a arbitraje y
+se llevará a cabo de conformidad con las reglas de la
+Asociación Americana de Arbitraje. Todos esos procedimientos
+se llevará a cabo en la ciudad de Nueva York, NY, y se llevará a cabo en
+idioma inglés, que también será el idioma
+de los documentos.
+
+Nasdaq PHLX
+
+Delaware
+
+Calle del mercado 1900
+
+Corporación
+
+Dólares estadounidenses
+
+Este Acuerdo se interpretará y ejecutará de conformidad con las
+leyes del Estado de Nueva York, y su validez y ejecución se regirán por
+
+Filadelfia, PA 19103
+
+ellas.
+
+EE.UU
+
+sin referencia a los principios de conflicto de leyes del mismo.
+Cualquier disputa que no pueda resolverse amistosamente y que surja
+de este Acuerdo se someterá a arbitraje y
+se llevará a cabo de conformidad con las reglas de la
+Asociación Americana de Arbitraje. Todos esos procedimientos
+se llevará a cabo en la ciudad de Nueva York, NY, y se llevará a cabo en
+idioma inglés, que también será el idioma
+de los documentos.
+
+Filial de eventos del NASDAQ
+
+Delaware
+
+Una plaza de la libertad
+
+Corporación
+
+Dólares estadounidenses
+
+Este Acuerdo se interpretará y ejecutará de conformidad con las
+leyes del Estado de Nueva York, y su validez y ejecución se regirán por
+
+165 Broadway
+
+ellas.
+
+Nueva York, NY 10006
+
+sin referencia a los principios de conflicto de leyes del mismo.
+
+EE.UU
+
+Cualquier disputa que no pueda resolverse amistosamente y que surja
+de este Acuerdo se someterá a arbitraje y
+se llevará a cabo de conformidad con las reglas de la
+Asociación Americana de Arbitraje. Todos esos procedimientos
+se llevará a cabo en la ciudad de Nueva York, NY, y se llevará a cabo en
+idioma inglés, que también será el idioma
+de los documentos.
+
+NASDAQ ISE, LLC
+
+Delaware
+
+Una plaza de la libertad
+
+Corporación
+
+Dólares estadounidenses
+
+Este Acuerdo se interpretará y ejecutará de conformidad con las
+leyes del Estado de Nueva York, y su validez y ejecución se regirán por
+
+165 Broadway
+
+ellas.
+
+Nueva York, NY 10006
+
+sin referencia a los principios de conflicto de leyes del mismo.
+
+EE.UU
+
+Cualquier disputa que no pueda resolverse amistosamente y que surja
+de este Acuerdo se someterá a arbitraje y
+se llevará a cabo de conformidad con las reglas de la
+Asociación Americana de Arbitraje. Todos esos procedimientos
+Se llevará a cabo en la ciudad de Nueva York, NY, y se llevará a cabo
+
+
+en el idioma inglés, que también será el idioma
+de los documentos.
+NASDAQ MRX, LLC
+
+Delaware
+
+Una plaza de la libertad
+
+Corporación
+
+Dólares estadounidenses
+
+Este Acuerdo se interpretará y ejecutará de conformidad con las
+leyes del Estado de Nueva York, y su validez y ejecución se regirán por
+
+165 Broadway
+
+dichas leyes, sin referencia a los principios de conflicto de leyes del
+
+Nueva York, NY 10006
+
+mismo.
+
+EE.UU
+
+Cualquier disputa que no pueda resolverse amistosamente y que surja
+de este Acuerdo se someterá a arbitraje y
+
+se llevará a cabo de conformidad con las reglas de la
+Asociación Americana de Arbitraje. Todos estos procedimientos se
+llevarán a cabo en la ciudad de Nueva York, NY, y se llevarán a cabo
+en el idioma inglés, que también será el idioma
+de los documentos.
+NASDAQ GEMX, LLC
+
+Delaware
+
+Una plaza de la libertad
+
+Corporación
+
+Dólares estadounidenses
+
+Este Acuerdo se interpretará y ejecutará de conformidad con las
+leyes del Estado de Nueva York, y su validez y ejecución se regirán por
+
+165 Broadway
+
+dichas leyes, sin referencia a los principios de conflicto de leyes del
+
+Nueva York, NY 10006
+
+mismo.
+
+EE.UU
+
+Cualquier disputa que no pueda resolverse amistosamente y que surja
+de este Acuerdo se someterá a arbitraje y
+
+se llevará a cabo de conformidad con las reglas de la
+Asociación Americana de Arbitraje. Todos estos procedimientos se
+llevarán a cabo en la ciudad de Nueva York, NY, y se llevarán a cabo
+en el idioma inglés, que también será el idioma
+de los documentos.
+Bolsa de futuros NASDAQ
+
+Delaware
+
+Calle del mercado 1900
+
+Corporación
+
+Dólares estadounidenses
+
+Este Acuerdo se interpretará y ejecutará de conformidad con las
+leyes del Estado de Nueva York, y su validez y ejecución se regirán por
+
+Filadelfia, PA 19103
+
+dichas leyes, sin referencia a los principios de conflicto de leyes del
+
+EE.UU
+
+mismo.
+Cualquier disputa que no pueda resolverse amistosamente y que surja
+de este Acuerdo se someterá a arbitraje y
+
+se llevará a cabo de conformidad con las reglas de la
+Asociación Americana de Arbitraje. Todos estos procedimientos se
+llevarán a cabo en la ciudad de Nueva York, NY, y se llevarán a cabo
+en el idioma inglés, que también será el idioma
+de los documentos.
+Materias primas NASDAQ AS
+
+noruego
+
+Calle principal 19
+
+Compañía
+
+euros
+
+Este Acuerdo se regirá e interpretará de conformidad con las leyes
+de Noruega. Cualquier disputa que no pueda resolverse de manera
+
+Apartado Postal 373
+
+amistosa y que surja de este Acuerdo se someterá a arbitraje
+
+NO­1326 Lisáker
+
+y se resolverá
+
+NORUEGA
+
+El procedimiento se llevará a cabo de conformidad con la Ley de Arbitraje
+de Noruega de 2004. A menos que las partes acuerden otra
+cosa, el procedimiento se llevará a cabo en Oslo y se llevará a cabo en
+idioma inglés, que también será el idioma de los documentos. El
+procedimiento, así como el veredicto,
+Será confidencial entre las partes, salvo que
+
+
+información que una parte está obligada a revelar en virtud de la ley o de
+una orden gubernamental.
+NASDAQ Europa Limitada
+
+británico
+
+británico
+
+Este Acuerdo se interpretará y ejecutará de conformidad con la
+
+131 Finsbury Pavement, Londres
+
+Compañía
+
+Libras
+
+legislación inglesa, y su validez y ejecución se regirán por ella, sin referencia
+
+EC2A 1NT
+
+a los principios de conflicto de leyes de la misma. Cualquier disputa
+
+REINO UNIDO
+
+que surja
+No se puede resolver amistosamente lo que surge de esto
+El acuerdo se someterá a arbitraje y se llevará a cabo de conformidad
+con las Reglas de Arbitraje de la
+Tribunal de Arbitraje Internacional de Londres de vez en cuando
+tiempo en vigor. Todos estos procedimientos se llevarán a cabo en Londres,
+y se llevará a cabo en idioma inglés, que será también el idioma de los
+documentos.
+
+NASDAQ NLX Limitada
+131 Finsbury Pavement, Londres
+
+británico
+
+británico
+
+Este Acuerdo se interpretará y ejecutará de conformidad con la
+
+Compañía
+
+Libras
+
+legislación inglesa, y su validez y ejecución se regirán por ella, sin referencia
+
+EC2A 1NT
+
+a los principios de conflicto de leyes de la misma. Cualquier disputa
+
+REINO UNIDO
+
+que surja
+No se puede resolver amistosamente lo que surge de esto
+El acuerdo se someterá a arbitraje y se llevará a cabo de conformidad
+con las Reglas de Arbitraje de la
+Tribunal de Arbitraje Internacional de Londres de vez en cuando
+tiempo en vigor. Todos estos procedimientos se llevarán a cabo en Londres,
+y se llevará a cabo en idioma inglés, que será también el idioma de los
+documentos.
+
+NASDAQ eSpeed/Kleos
+
+Delaware
+
+Una plaza de la libertad
+
+Corporación
+
+Dólares estadounidenses
+
+Este Acuerdo se interpretará y ejecutará de conformidad con las
+leyes del Estado de Nueva York, y su validez y ejecución se regirán por
+
+165 Broadway
+
+dichas leyes, sin referencia a los principios de conflicto de leyes del
+
+Nueva York, NY 10006
+
+mismo.
+
+EE.UU
+
+Cualquier disputa que no pueda resolverse amistosamente y que surja
+de este Acuerdo se someterá a arbitraje y
+se llevará a cabo de conformidad con las reglas de la
+Asociación Americana de Arbitraje. Todos estos procedimientos se
+llevarán a cabo en la ciudad de Nueva York, NY, y se llevarán a cabo
+en el idioma inglés, que también será el idioma
+de los documentos.
+
+2. REQUISITOS DE LA ORGANIZACIÓN AUTORREGULADORA; ACCIONES A TOMAR EN CUMPLIMIENTO DE LAS DISPOSICIONES ESTATUTARIAS
+OBLIGACIONES.
+(a) El suscriptor reconoce que en los Estados Unidos: (i) varios de los mercados NASDAQ están registrados en la SEC como bolsas de valores
+nacionales de conformidad con la Sección 6 de la Ley, y FINRA está registrada en la SEC como una asociación nacional de valores de conformidad con el
+15A de la Ley; (ii) FINRA y NASDAQ tienen la obligación legal de proteger a los inversores y el interés público, y de garantizar que la información de
+cotización proporcionada a los inversores y al público sea justa e informativa, y no discriminatoria, ficticia o engañosa; (iii) la Sección 19(g)(1) de la Ley
+exige que FINRA y NASDAQ cumplan con la
+Requisitos del NASDAQ; (iv) el NASDAQ tiene jurisdicción para hacer cumplir el cumplimiento de ciertos Requisitos del NASDAQ; (v)
+
+FINRA tiene jurisdicción para hacer cumplir el cumplimiento de ciertos Requisitos del NASDAQ; y (vi) el NASDAQ está obligado a ofrecer
+términos que no sean irrazonablemente discriminatorios entre Suscriptores, sujetos a los Requisitos del NASDAQ aplicables. En consecuencia,
+el Suscriptor acepta que el NASDAQ, cuando se le requiera hacerlo en cumplimiento de sus obligaciones legales, puede, temporal o
+permanentemente, condicionar, modificar o terminar unilateralmente el derecho de cualquiera o todas las personas o entidades a recibir o usar los
+Información. NASDAQ realizará esfuerzos razonables para notificar al Suscriptor sobre cualquier condición, modificación o terminación.
+y el Suscriptor deberá cumplir con prontitud con cualquier notificación de este tipo dentro del plazo que NASDAQ determine de buena fe que
+es necesario, de conformidad con sus obligaciones legales. Toda Persona que reciba dicha notificación tendrá a su disposición las
+protecciones procesales que le otorga la Ley y las normas aplicables en virtud de ella.
+(b) El suscriptor reconoce que, en Europa, NASDAQ está obligado a ofrecer condiciones que no sean irrazonablemente discriminatorias.
+entre Suscriptores, sujeto a los Requisitos aplicables de NASDAQ. NASDAQ, cuando se lo requiera para cumplir con sus obligaciones
+legales, puede, temporal o permanentemente, condicionar, modificar o terminar unilateralmente el derecho de cualquier persona o entidad a
+recibir o usar la Información. NASDAQ notificará al Suscriptor sobre cualquier condición, modificación o terminación, y el Suscriptor deberá
+cumplir con prontitud con cualquier notificación dentro del período de tiempo que NASDAQ determine de buena fe que sea necesario, de
+acuerdo con sus obligaciones legales. Si el Suscriptor recibe dicha notificación, tendrá a su disposición todas las protecciones procesales
+que le brindan la ley y cualquier regla regulatoria aplicable.
+(c) Si el Suscriptor es miembro de un mercado NASDAQ, entonces el Suscriptor reconoce y acepta expresamente que (i) este
+El Acuerdo no limita ni reduce de ninguna manera las obligaciones y responsabilidades del Suscriptor como miembro de cualquier Mercado
+NASDAQ aplicable; (ii) este Acuerdo no altera de ninguna manera los procedimientos o estándares generalmente aplicables a las acciones
+disciplinarias o de otro tipo adoptadas por NASDAQ para hacer cumplir el cumplimiento o imponer sanciones por violaciones de los Requisitos
+NASDAQ; y (iii) la falta de pago de los montos adeudados según este Acuerdo podría resultar en la suspensión o cancelación de la
+membresía del Suscriptor en un Mercado NASDAQ de acuerdo con los Requisitos NASDAQ.
+

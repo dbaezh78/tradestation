@@ -1,0 +1,939 @@
+Compañía: TradeStation Securities, Inc.
+Folleto de información sobre inversiones y
+operaciones: futuros y opciones sobre futuros
+Declaración conjunta de la FIA
+
+Declaración de divulgación sobre sistemas de enrutamiento de órdenes y comercio electrónico
+Divulgación de información sobre conflictos de intereses materiales de los comerciantes de comisiones de futuros
+
+Declaración de divulgación del cliente sobre transmisión de pedidos directos
+
+Política de ejercicio y asignación de opciones sobre futuros
+
+Declaración de divulgación del comerciante extranjero
+
+Aviso sobre el sistema de precios medios
+
+Divulgaciones requeridas por la regulación de CME que deben proporcionarse a Singapur
+Participantes del mercado
+
+Notificación uniforme sobre el acceso a los datos del mercado
+
+Aviso a los clientes de la CFTC: Comprenda los riesgos de operar con divisas virtuales
+
+Asesoramiento a inversores de la NFA: futuros sobre monedas virtuales, incluido el bitcoin
+
+Divulgación de requisitos contra el lavado de dinero
+
+Divulgación del plan de continuidad empresarial
+
+Folleto de información sobre inversiones y operaciones de
+TradeStation Securities, Inc.: futuros y opciones sobre futuros
+
+Declaración conjunta de la FIA
+El riesgo de pérdida en la negociación de contratos de futuros de materias primas puede ser considerable. Por lo
+tanto, debe considerar cuidadosamente si dicha negociación es adecuada para usted en función de sus circunstancias
+y recursos financieros. Debe tener en cuenta los siguientes puntos:
+FUTUROS
+(1) Usted puede sufrir una pérdida total de los fondos que deposite con su corredor para establecer o mantener una
+posición en el mercado de futuros de materias primas, y puede incurrir en pérdidas que superen estos montos. Si el
+mercado se mueve en contra de su posición, su corredor puede solicitarle que deposite una cantidad sustancial de
+fondos de margen adicionales, con poca antelación, para mantener su posición. Si no proporciona los fondos
+requeridos dentro del tiempo requerido por su corredor, su posición puede liquidarse con pérdidas y usted será
+responsable de cualquier déficit resultante en su cuenta.
+
+(2) Los fondos que usted deposita en un comerciante de comisión de futuros para negociar posiciones de futuros no
+están protegidos por seguro en caso de quiebra o insolvencia del comerciante de comisión de futuros, o en caso de
+que sus fondos sean malversados.
+(3) Los fondos que usted deposita en un comerciante de comisión de futuros para negociar posiciones de futuros no
+están protegidos por la Corporación de Protección del Inversor de Valores, incluso si el comerciante de comisión de
+futuros está registrado en la Comisión de Bolsa y Valores como corredor o distribuidor.
+
+(4) Los fondos que usted deposita en un corredor de futuros generalmente no están garantizados ni asegurados por
+una organización de compensación de derivados en caso de quiebra o insolvencia del corredor de futuros, o si el
+corredor de futuros no puede reembolsarle sus fondos por cualquier otro motivo. Sin embargo, ciertas organizaciones
+de compensación de derivados pueden tener programas que brindan un seguro limitado a los clientes. Debe
+consultar con su corredor de futuros si sus fondos estarán asegurados por una organización de compensación de
+derivados y debe comprender los beneficios y las limitaciones de dichos programas de seguro.
+
+(5) Los fondos que usted deposita en un corredor de futuros no son retenidos por el corredor de futuros en una
+cuenta separada para su beneficio individual. Los corredores de futuros combinan los fondos recibidos de los
+clientes en una o más cuentas y usted puede estar expuesto a pérdidas sufridas por otros clientes si el corredor de
+futuros no tiene suficiente capital para cubrir las pérdidas comerciales de dichos otros clientes.
+
+(6) Los fondos que usted deposite en un comerciante de comisión de futuros pueden ser invertidos por el comerciante de futuros.
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+El comerciante de comisión de futuros puede invertir en determinados tipos de instrumentos financieros que hayan sido
+aprobados por la Comisión para tales fines. Las inversiones permitidas se enumeran en el Reglamento 1.25 de la Comisión
+e incluyen: valores del gobierno de los EE. UU.; valores municipales; fondos mutuos del mercado monetario; y ciertos
+pagarés y bonos corporativos. El comerciante de comisión de futuros puede retener los intereses y otras ganancias
+obtenidas de su inversión de los fondos de los clientes. Debe estar familiarizado con los tipos de instrumentos financieros
+en los que un comerciante de comisión de futuros puede invertir los fondos de los clientes.
+
+(7) Los comerciantes de futuros a comisión pueden depositar fondos de clientes en entidades afiliadas, como bancos
+afiliados, corredores o intermediarios de valores o corredores extranjeros. Debe consultar si su comerciante de futuros a
+comisión deposita fondos en filiales y evaluar si dichos depósitos por parte del comerciante de futuros a comisión en sus
+filiales aumentan los riesgos para sus fondos.
+
+(8) Debe consultar con su agente de comisión de futuros sobre la naturaleza de las protecciones disponibles para
+salvaguardar los fondos o la propiedad depositados en su cuenta.
+(9) En determinadas condiciones de mercado, puede resultar difícil o imposible liquidar una posición. Esto puede ocurrir,
+por ejemplo, cuando el mercado alcanza un límite de fluctuación de precios diario (“límite de movimiento”).
+
+(10) Todas las posiciones de futuros implican riesgo, y una posición “spread” puede no ser menos riesgosa que una
+posición “larga” o “corta” absoluta.
+(11) El alto grado de apalancamiento que suele obtenerse en las operaciones de futuros debido a los pequeños requisitos
+de margen puede jugar en su contra o a su favor. El apalancamiento puede generar grandes pérdidas y ganancias.
+
+(12) Además de los riesgos mencionados en los párrafos enumerados anteriormente, debe conocer al comerciante de
+comisiones de futuros que seleccione para confiarle sus fondos para operar posiciones de futuros. La Comisión de
+Comercio de Futuros de Productos Básicos exige que cada comerciante de comisiones de futuros publique en su sitio web
+información financiera y divulgaciones específicas de la empresa para ayudarlo a evaluar y seleccionar un comerciante de
+comisiones de futuros. Puede obtener información sobre este comerciante de comisiones de futuros visitando nuestro sitio
+web, www.TradeStation.com.
+
+OPCIONES
+Grado variable de riesgo
+(13) Las transacciones con opciones conllevan un alto grado de riesgo. Los compradores y vendedores de opciones deben
+
+
+Folleto de información sobre inversiones y operaciones de
+TradeStation Securities, Inc.: futuros y opciones sobre futuros
+
+Familiarizarse con el tipo de opción (es decir, opción de venta o de compra) que se piensa negociar y los riesgos asociados.
+Se debe calcular en qué medida debe aumentar el valor de las opciones para que la posición se vuelva rentable, teniendo
+en cuenta la prima y todos los costos de transacción.
+
+(14) El comprador de opciones puede compensarlas o ejercerlas o dejar que expiren. El ejercicio de una opción da
+como resultado una liquidación en efectivo o la adquisición o entrega por parte del comprador del interés
+subyacente. Si la opción es sobre un futuro, el comprador adquirirá una posición de futuros con pasivos asociados
+por margen (consulte la sección sobre futuros anterior). Si las opciones compradas expiran sin valor, usted sufrirá
+una pérdida total de su inversión que consistirá en la prima de la opción más los costos de transacción. Si está
+considerando comprar opciones muy fuera del dinero, debe saber que la posibilidad de que dichas opciones
+resulten rentables es generalmente remota.
+
+(15) Vender (escribir o conceder) una opción generalmente implica un riesgo considerablemente mayor que
+comprar opciones. Aunque la prima que recibe el vendedor es fija, el vendedor puede sufrir una pérdida muy
+superior a esa cantidad. El vendedor será responsable de un margen adicional para mantener la posición si el
+mercado se mueve desfavorablemente. El vendedor también estará expuesto al riesgo de que el comprador ejerza
+la opción y el vendedor estará obligado a liquidar la opción en efectivo o a adquirir o entregar el interés subyacente.
+Si la opción es sobre un futuro, el vendedor adquirirá una posición en un futuro con pasivos asociados por el
+margen (consulte la sección sobre Futuros más arriba). Si la posición está "cubierta" por el vendedor que mantiene
+una posición correspondiente en el interés subyacente o un futuro u otra opción, el riesgo puede reducirse. Si la
+opción no está cubierta, el riesgo de pérdida puede ser ilimitado.
+
+(16) Algunas bolsas de valores de algunas jurisdicciones permiten el pago diferido de la prima de la opción, lo que
+expone al comprador a la responsabilidad de los pagos de margen que no excedan el monto de la prima. El
+comprador sigue estando sujeto al riesgo de perder la prima y los costos de transacción. Cuando se ejerce o
+vence la opción, el comprador es responsable de cualquier prima pendiente de pago en ese momento.
+
+RIESGOS ADICIONALES COMUNES A LOS FUTUROS Y OPCIONES
+Términos y condiciones de los contratos
+(17) Debe preguntar a la empresa con la que trabaja sobre los términos y condiciones de los futuros u opciones
+específicos que está negociando y las obligaciones asociadas (por ejemplo, las circunstancias en las que puede
+llegar a estar obligado a realizar o recibir la entrega del interés subyacente de un contrato de futuros y, con respecto
+a las opciones, las fechas de vencimiento y las restricciones sobre el tiempo para el ejercicio). En determinadas
+circunstancias, las especificaciones de los contratos pendientes (incluidas las
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+el precio de ejercicio de una opción) puede ser modificado por la bolsa o la cámara de compensación para reflejar cambios
+en el interés subyacente.
+Suspensión o restricción de las relaciones comerciales y de precios
+(18) Las condiciones del mercado (por ejemplo, la falta de liquidez) y/o el funcionamiento de las normas de ciertos mercados
+(por ejemplo, la suspensión de la negociación en cualquier contrato o mes de contrato debido a límites de precios o
+"disyuntores") pueden aumentar el riesgo de pérdida al dificultar o imposibilitar la realización de transacciones o la liquidación/
+compensación de posiciones. Si ha vendido opciones, esto puede aumentar el riesgo de pérdida.
+
+(19) Además, puede que no existan relaciones normales de precios entre el interés subyacente y el futuro, y entre el interés
+subyacente y la opción. Esto puede ocurrir cuando, por ejemplo, el contrato de futuros subyacente a la opción está sujeto a
+límites de precios mientras que la opción no lo está. La ausencia de un precio de referencia subyacente puede dificultar la
+determinación del valor "justo".
+
+Dinero en efectivo y propiedades depositadas
+
+(20) Debe familiarizarse con las protecciones que se otorgan al dinero u otros bienes que deposite para transacciones
+nacionales y extranjeras, en particular en caso de insolvencia o quiebra de una empresa. La medida en que pueda recuperar
+su dinero o sus bienes puede estar regida por la legislación específica o las normas locales. En algunas jurisdicciones, los
+bienes que se hayan identificado específicamente como suyos se prorratearán de la misma manera que el efectivo a los
+efectos de la distribución en caso de que haya un déficit.
+
+Comisión y otros cargos
+(21) Antes de comenzar a operar, debe obtener una explicación clara de todas las comisiones, tarifas y otros cargos que
+deberá pagar. Estos cargos afectarán su beneficio neto (si lo hubiera) o aumentarán sus pérdidas.
+
+Riesgos cambiarios
+(22) Las ganancias o pérdidas en transacciones en contratos denominados en moneda extranjera (ya sea que se negocien
+en su propia jurisdicción o en otra) se verán afectadas por las fluctuaciones en los tipos de cambio cuando sea necesario
+convertir la denominación monetaria del contrato a otra moneda.
+
+Instalaciones comerciales
+
+(23) La mayoría de los sistemas de negociación electrónica y a viva voz están respaldados por sistemas informáticos.
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+Sistemas de componentes para el enrutamiento de órdenes, ejecución, emparejamiento, registro o compensación de
+operaciones. Como sucede con todas las instalaciones y sistemas, son vulnerables a interrupciones o fallos temporales. Su
+capacidad para recuperar ciertas pérdidas puede estar sujeta a límites de responsabilidad impuestos por el proveedor del
+sistema, el mercado, la cámara de compensación y/o las empresas miembro. Dichos límites pueden variar; debe preguntar a
+la empresa con la que trabaja para obtener más detalles al respecto.
+Comercio electrónico
+
+(24) La negociación en un sistema de negociación electrónica puede diferir no sólo de la negociación en un
+mercado a viva voz, sino también de la negociación en otros sistemas de negociación electrónica. Si realiza
+transacciones en un sistema de negociación electrónica, estará expuesto a riesgos asociados con el sistema,
+incluidos fallos de hardware y software. El resultado de cualquier fallo del sistema puede ser que su orden no se
+ejecute según sus instrucciones o que no se ejecute en absoluto.
+
+Transacciones extrabursátiles
+(25) En algunas jurisdicciones, y sólo en circunstancias restringidas, las empresas pueden realizar transacciones
+extrabursátiles. La empresa con la que usted realiza transacciones puede actuar como su contraparte en la transacción.
+Puede resultar difícil o imposible liquidar una posición existente, evaluar el valor, determinar un precio justo o evaluar la
+exposición al riesgo. Por estos motivos, estas transacciones pueden implicar mayores riesgos. Las transacciones
+extrabursátiles pueden estar menos reguladas o sujetas a un régimen regulatorio independiente. Antes de realizar dichas
+transacciones, debe familiarizarse con las normas aplicables y los riesgos asociados.
+
+TODOS LOS PUNTOS MENCIONADOS ANTERIORMENTE SE APLICAN A TODAS LAS OPERACIONES DE FUTUROS, YA SEAN
+EXTRANJERAS O NACIONALES. ADEMÁS, SI ESTÁ CONSIDERANDO LA POSIBILIDAD DE OPERAR CONTRATOS DE FUTUROS
+O DE OPCIONES EXTRANJERAS, DEBE TENER EN CUENTA LOS SIGUIENTES RIESGOS ADICIONALES:
+
+(26) Las transacciones de futuros extranjeros implican la ejecución y compensación de transacciones en una bolsa extranjera.
+Esto es así incluso si el mercado de divisas está formalmente “vinculado” a un mercado de divisas nacional, por lo que una
+operación ejecutada en un mercado de divisas liquida o establece una posición en el otro mercado de divisas. Ninguna
+organización nacional regula las actividades de un mercado de divisas, incluida la ejecución, entrega y compensación de
+transacciones en dicho mercado, y ningún regulador nacional tiene el poder de obligar a la aplicación de las normas del
+mercado de divisas o de las leyes del país extranjero. Además, dichas leyes o regulaciones variarán según el país extranjero
+en el que se realice la transacción. Por estas razones, los clientes que operan en mercados de divisas pueden no disfrutar de
+ciertas protecciones que se aplican a las transacciones nacionales, incluido el derecho a utilizar procedimientos nacionales
+de resolución alternativa de disputas.
+
+
+Folleto de información sobre inversiones y operaciones de
+TradeStation Securities, Inc.: futuros y opciones sobre futuros
+
+En particular, los fondos recibidos de los clientes para operaciones de futuros en el extranjero pueden no contar con
+las mismas protecciones que los fondos recibidos para operaciones de futuros en el mercado de valores nacional.
+Antes de operar, debe familiarizarse con las normas extranjeras que se aplicarán a su transacción en particular.
+
+(27) Por último, debe tener en cuenta que el precio de cualquier contrato de futuros o de opciones extranjeras y, por
+lo tanto, las posibles ganancias y pérdidas resultantes del mismo pueden verse afectadas por cualquier fluctuación
+en el tipo de cambio entre el momento en que se realiza la orden y el momento en que se liquida el contrato de
+futuros extranjeros o se liquida o ejerce el contrato de opciones extranjeras.
+
+ESTA BREVE DECLARACIÓN NO PUEDE, POR SUPUESTO, REVELAR TODOS LOS RIESGOS Y OTROS ASPECTOS
+DE LOS MERCADOS DE MATERIAS PRIMAS.
+
+Folleto de información sobre inversiones y operaciones de
+TradeStation Securities, Inc.: futuros y opciones sobre futuros
+
+Declaración de divulgación de los sistemas de enrutamiento de órdenes y comercio electrónico1
+Los sistemas de negociación electrónica y enrutamiento de órdenes difieren de los métodos tradicionales de
+negociación a viva voz y enrutamiento de órdenes manual. Las transacciones que utilizan un sistema electrónico
+están sujetas a las normas y regulaciones de la bolsa o bolsas que ofrecen el sistema o que cotizan el contrato.
+Antes de realizar transacciones utilizando un sistema electrónico, debe revisar cuidadosamente las reglas y
+regulaciones de las bolsas que ofrecen el sistema y/o enumeran los contratos que desea negociar.
+
+Diferencias entre los sistemas de comercio electrónico
+Las órdenes de negociación o enrutamiento a través de sistemas electrónicos varían ampliamente entre los
+diferentes sistemas electrónicos. Debe consultar las reglas y regulaciones de la bolsa que ofrece el sistema
+electrónico y/o que incluye el contrato negociado o la orden enrutada para comprender, entre otras cosas, en el caso
+de los sistemas de negociación, el procedimiento de emparejamiento de órdenes del sistema, los procedimientos y
+precios de apertura y cierre, las políticas de negociación por error y las limitaciones o requisitos de negociación; y
+en el caso de todos los sistemas, las calificaciones para el acceso y los motivos de terminación y las limitaciones en
+los tipos de órdenes que se pueden ingresar al sistema. Cada uno de estos asuntos puede presentar diferentes
+factores de riesgo con respecto a la negociación o el uso de un sistema en particular. Cada sistema también puede
+presentar riesgos relacionados con el acceso al sistema, los tiempos de respuesta variables y la seguridad. En el
+caso de los sistemas basados en Internet, puede haber tipos adicionales de riesgos relacionados con el acceso al
+sistema, los tiempos de respuesta variables y la seguridad, así como los riesgos relacionados con los proveedores
+de servicios y la recepción y el monitoreo del correo electrónico.
+Riesgo asociado a la falla del sistema
+Operar a través de un sistema electrónico de operaciones o de enrutamiento de órdenes lo expone a riesgos
+asociados con fallas del sistema o de los componentes. En caso de falla del sistema o de los componentes, es
+posible que, durante un período de tiempo determinado, no pueda ingresar órdenes nuevas, ejecutar órdenes
+existentes o modificar o cancelar órdenes ingresadas previamente. Las fallas del sistema o de los componentes
+también pueden resultar en la pérdida de órdenes o de la prioridad de las órdenes.
+Operaciones simultáneas de foso abierto y negociación electrónica
+Algunos contratos ofrecidos en un sistema de negociación electrónica pueden negociarse electrónicamente y a viva
+voz durante el mismo horario de negociación. Debe revisar las normas y regulaciones de la bolsa que ofrece el
+sistema y/o cotiza el contrato para determinar cómo se ejecutarán las órdenes que no designen un proceso en
+particular.
+
+Las normas pertinentes de cada bolsa están disponibles a pedido del profesional del sector con el que tiene una
+cuenta. Las normas pertinentes de algunas bolsas también están disponibles en la página de inicio de Internet de la bolsa.
+
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+Limitación de responsabilidad
+Las bolsas que ofrecen un sistema electrónico de negociación o enrutamiento de órdenes y/o que incluyen el contrato
+pueden haber adoptado normas para limitar su responsabilidad, la responsabilidad de los Comerciantes de Comisiones de
+Futuros y los proveedores de software y sistemas de comunicación, y el monto de los daños que usted puede cobrar por
+fallas y demoras del sistema. Estas disposiciones de limitación de responsabilidad varían entre las bolsas. Debe consultar
+las normas y regulaciones de las bolsas pertinentes para comprender estas limitaciones de responsabilidad.
+
+
+Folleto de información sobre inversiones y operaciones de
+TradeStation Securities, Inc.: futuros y opciones sobre futuros
+
+Divulgación de información sobre los comerciantes de comisiones de futuros: conflictos de intereses materiales
+
+El propósito de este documento es brindarle información sobre algunos de los conflictos de intereses materiales
+que pueden surgir entre usted y TradeStation Securities, Inc.
+(“TradeStation”) en relación con la prestación de servicios por parte de TradeStation en relación con futuros,
+opciones sobre futuros, swaps (según se definen en la Ley de Intercambio de Productos Básicos), contratos a plazo
+u otros derivados de productos básicos (“Contratos”). Pueden surgir conflictos de intereses, en particular, cuando
+TradeStation tiene un incentivo económico o de otro tipo para actuar, o persuadirlo a usted para que actúe, de una
+manera que favorezca a TradeStation o sus afiliados.
+Según la legislación aplicable, incluidas las reglamentaciones de la Comisión de Comercio de Futuros de Productos
+Básicos (“CFTC”), no todos los swaps deben ejecutarse en una bolsa o en un centro de ejecución de swaps (cada
+uno, un “centro de negociación”), incluso si un centro de negociación incluye el swap para su negociación. En tales
+circunstancias, puede resultar financieramente ventajoso para TradeStation o su filial ejecutar un swap con usted
+de forma bilateral en el mercado extrabursátil en lugar de en un centro de negociación y, en la medida en que lo
+permita la legislación aplicable, podemos tener un incentivo para persuadirlo de que ejecute su swap de forma
+bilateral.
+La legislación aplicable puede permitirle elegir la organización de compensación de derivados registrada en la CFTC
+(“Cámara de compensación”) a la que envíe un swap para su compensación. Debe tener en cuenta que es posible
+que TradeStation no sea miembro de la Cámara de compensación de su elección o que no pueda enviar su swap a
+dicha Cámara. Por consiguiente, TradeStation tiene un incentivo para persuadirlo de que utilice una Cámara de
+compensación de la que TradeStation o su filial sea miembro.
+También debe tener en cuenta que TradeStation o sus filiales pueden poseer acciones o tener algún otro tipo de interés de
+propiedad en una o más Instalaciones Comerciales o Cámaras de Compensación de EE. UU. o del extranjero donde sus
+transacciones en Contratos pueden ejecutarse y/o compensarse. Como resultado, TradeStation o sus filiales pueden recibir
+beneficios financieros o de otro tipo relacionados con su interés de propiedad cuando los Contratos se ejecutan en una
+Instalación Comercial determinada o se compensan a través de una Cámara de Compensación determinada, y TradeStation,
+en tales circunstancias, tendría un incentivo para hacer que los Contratos se ejecuten en esa Instalación Comercial o se
+compensen por esa Cámara de Compensación. Además, los empleados y funcionarios de TradeStation o sus filiales
+también pueden formar parte de la junta directiva o de uno o más comités de una Instalación Comercial o Cámara de
+Compensación.
+
+Además, las Instalaciones Comerciales y las Cámaras de Compensación pueden, de vez en cuando, tener
+establecidos otros acuerdos que proporcionen a sus miembros o participantes descuentos o créditos por volumen,
+creación de mercado u otros, pueden exigir que los miembros o participantes paguen por adelantado tarifas basadas
+en umbrales de volumen, o pueden proporcionar otros incentivos o acuerdos que tengan como objetivo
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+alentar a los participantes del mercado a realizar operaciones en ese centro de operaciones o cámara de compensación o
+dirigir las operaciones hacia ellos. TradeStation o sus filiales pueden participar en dichos programas de incentivos y obtener
+beneficios financieros de ellos.
+Cuando le proporcionamos servicios de ejecución (ya sea en conjunto con servicios de compensación o en una capacidad de
+solo ejecución), podemos dirigir órdenes a creadores de mercado afiliados o no afiliados, otras firmas de ejecución, corredores
+individuales o grupos de corretaje para su ejecución. Cuando se utilizan dichas partes afiliadas o no afiliadas, pueden, cuando
+esté permitido, acordar concesiones de precios, descuentos por volumen o reembolsos, rebajas o pagos similares a cambio
+de recibir dicho negocio. Asimismo, cuando lo permita la ley y las reglas de la Instalación de negociación aplicable, podemos
+solicitar a una contraparte que opere en sentido opuesto a su orden o que celebre transacciones por su propia cuenta o por
+la cuenta de otras contrapartes que, en ocasiones, pueden ser adversas a sus intereses en un Contrato. En tales
+circunstancias, esa contraparte puede realizar pagos y/o pagar una comisión a TradeStation en relación con esa transacción.
+Los resultados de sus transacciones pueden diferir significativamente de los resultados obtenidos por nosotros por nuestra
+propia cuenta, nuestras afiliadas o para otros clientes.
+
+Además, cuando lo permita la ley aplicable (incluidas, cuando corresponda, las reglas de la Instalación Comercial
+correspondiente), TradeStation, sus directores, funcionarios, empleados y afiliados pueden actuar en el lado opuesto de su
+orden o transacción mediante la compra o venta de una cuenta, o la ejecución de una transacción con una contraparte, en la
+que TradeStation o una persona afiliada a TradeStation tenga un interés directo o indirecto, o puede afectar cualquier orden
+de ese tipo con una contraparte que proporcione a TradeStation o sus afiliados descuentos relacionados con las tarifas de
+Contratos u otros productos. En los casos en los que le hayamos ofrecido una comisión o tarifa de compensación con
+descuento para Contratos ejecutados a través de TradeStation como agente o con TradeStation o su afiliado actuando como
+contraparte, TradeStation o su afiliado pueden estar haciéndolo debido al potencial de ganancias mejorado que resulta de
+actuar como corredor o contraparte ejecutor.
+
+TradeStation o sus afiliados pueden actuar, entre otras cosas, como inversor, proveedor de investigación, agente de
+colocación, suscriptor, distribuidor, agente de recomercialización, estructurador, titularizador, prestamista, gestor de
+inversiones, asesor de inversiones, asesor de comercio de materias primas, asesor municipal, creador de mercado,
+comerciante, corredor principal o corredor de compensación. En esas y otras capacidades, TradeStation, sus directores,
+funcionarios, empleados y afiliados pueden tomar o mantener posiciones en, o asesorar a otros clientes y contrapartes sobre,
+o publicar investigaciones o expresar una opinión con respecto a, un Contrato o un instrumento financiero relacionado que
+pueda ser objeto de asesoramiento de nuestra parte para usted. Dichas posiciones y otros consejos pueden no ser coherentes
+con, o pueden ser contrarios a, sus intereses o a posiciones que sean objeto de asesoramiento previamente.
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+proporcionado por TradeStation o su afiliado a usted, y a menos que se divulgue lo contrario por escrito,
+No necesariamente actuamos en su mejor interés y no evaluamos la idoneidad para usted.
+usted de cualquier Contrato o instrumento financiero relacionado. Actuar en una o más de las capacidades
+lo mencionado anteriormente puede dar a TradeStation o a sus afiliados acceso a información relacionada con los mercados,
+inversiones y productos. Como resultado, TradeStation o su filial pueden estar en posesión de
+información que, de conocerse, podría hacer que usted intente disponer de ella, conservarla o aumentarla.
+su posición en uno o más Contratos u otros instrumentos financieros. TradeStation y sus
+El afiliado no tendrá ninguna obligación de poner a su disposición dicha información, excepto en la medida en que lo hayamos
+acordado por escrito o según lo requiera la ley aplicable.
+
+
+Folleto de información sobre inversiones y operaciones de
+TradeStation Securities, Inc.: futuros y opciones sobre futuros
+
+Declaración de divulgación del cliente sobre transmisión de pedidos directos2
+Esta declaración se aplica a la capacidad de los clientes autorizados de TradeStation Securities, Inc.
+(“TradeStation”) para realizar órdenes de transacciones de futuros y opciones extranjeras directamente con entidades
+no estadounidenses (cada una, una “Firma Ejecutora”) que ejecutan transacciones en nombre de las cuentas
+ómnibus de clientes de TradeStation.
+
+Tenga en cuenta lo siguiente si se le permite realizar el tipo de pedidos especificados anteriormente:
+
+• Las órdenes que usted realiza con una empresa ejecutora son para la cuenta ómnibus de clientes de
+TradeStation mantenida con una empresa de compensación extranjera. En consecuencia, TradeStation
+puede limitar o condicionar de otro modo las órdenes que usted realiza con la empresa ejecutora.
+• Debe conocer la relación entre la empresa ejecutora y TradeStation.
+TradeStation no puede ser responsable de los actos, omisiones o errores de la Empresa Ejecutora o de sus
+representantes a quienes usted realiza sus pedidos. Además, la Empresa Ejecutora puede no estar afiliada a
+TradeStation. Si usted elige realizar pedidos directamente con una Empresa Ejecutora, puede hacerlo bajo
+su propio riesgo.
+• Es su responsabilidad informarse sobre las leyes y regulaciones aplicables que rigen las bolsas extranjeras en
+las que se ejecutarán transacciones en su nombre. Cualquier orden que usted coloque para su ejecución en
+esa bolsa estará sujeta a dichas reglas y regulaciones, sus costumbres y usos, así como a cualquier ley local
+que pueda regir las transacciones en esa bolsa. Estas leyes, reglas, regulaciones, costumbres y usos pueden
+ofrecer una protección diferente o menor que las que rigen las transacciones en las bolsas estadounidenses.
+En particular, los fondos recibidos de clientes para operaciones de futuros en el extranjero pueden no recibir
+las mismas protecciones que los fondos recibidos para operaciones de futuros en bolsas nacionales. Antes
+de operar, debe familiarizarse con las reglas extranjeras que se aplicarán a su transacción en particular. Es
+posible que las autoridades regulatorias de los Estados Unidos no puedan obligar a la aplicación de las reglas
+de las autoridades regulatorias o de los mercados en jurisdicciones no estadounidenses donde se puedan
+efectuar transacciones.
+
+Esta declaración de divulgación es relevante solo si TradeStation le ha otorgado la autorización de transmisión directa de órdenes
+
+descrita anteriormente. De conformidad con la Regulación 30.12 de la CFTC, usted es elegible para recibir dicha autorización solo si
+(1) es un participante elegible en swaps, según se define en la antigua Regulación 35.1(b)(2) de la CFTC, o (2) sus decisiones de
+invertir en transacciones de futuros u opciones extranjeras las toma un asesor de operaciones de materias primas (“CTA”) que está
+sujeto a la regulación de conformidad con la Ley de Intercambio de Materias Primas o una persona extranjera que desempeña un
+papel o función similar sujeto como tal a la regulación extranjera, y se cumplen ciertas otras condiciones.
+
+Folleto de información sobre inversiones y operaciones de
+TradeStation Securities, Inc.: futuros y opciones sobre futuros
+
+• Es su responsabilidad determinar si la Firma Ejecutora ha dado su consentimiento a la jurisdicción de los
+tribunales de los Estados Unidos. En general, ni la Firma Ejecutora ni ninguna persona asociada con ella
+estarán registradas en ningún carácter ante la Comisión de Comercio de Futuros de Productos Básicos. De
+manera similar, sus contactos con la Firma Ejecutora pueden no ser suficientes para someter a la Firma
+Ejecutora a la jurisdicción de los tribunales de los Estados Unidos en ausencia del consentimiento de la Firma
+Ejecutora. En consecuencia, ni los tribunales de los Estados Unidos ni el programa de reparaciones de la
+Comisión estarán disponibles como foro para la resolución de cualquier desacuerdo que pueda tener con la
+Firma Ejecutora, y su recurso puede limitarse a acciones fuera de los Estados Unidos.
+
+A menos que usted se oponga dentro de los cinco (5) días mediante notificación según lo dispuesto en
+su acuerdo de cliente después de recibir esta divulgación, TradeStation asumirá su consentimiento a las
+condiciones antes mencionadas.
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+Política de ejercicio y asignación de opciones sobre futuros
+El ejercicio y la cesión es el procedimiento mediante el cual una posición de opción se convierte en una posición de futuros.
+El comprador de una opción sobre un contrato de futuros tiene el derecho (pero no la obligación) de asumir una posición
+de futuros específica a un precio predeterminado (el ejercicio o la cesión).
+precio de ejercicio) en cualquier momento antes del vencimiento de la opción. El vendedor de la opción debe
+asumir la posición de futuros opuesta si el comprador ejerce este derecho.
+Existen cuatro diferencias principales entre ejercer una opción sobre una posición de futuros y realizar o recibir la entrega
+de un contrato de futuros:
+(1) Una opción puede ejercerse cualquier día hábil entre su venta y ejecución.
+(2) Una opción es ejercida por el Miembro Compensador del comprador mientras que un Miembro Compensador vendedor
+es seleccionado aleatoriamente para satisfacer la obligación de la opción.
+(3) Un contrato de opción no tiene por qué ejercerse; se puede permitir que expire o que se liquide (compensación).
+
+(4) Cuando se ejerce una opción, la asignación de las posiciones cortas y largas de futuros se realiza por la Cámara de
+Compensación o la corporación mediante una anotación en el sistema de compensación de futuros. A los Miembros
+Compensadores del comprador y del vendedor se les asignan posiciones de futuros al precio de ejercicio y están
+sujetos a llamadas de margen de variación inmediata.
+Las bolsas de materias primas tienen diversas disposiciones para ejercer las opciones en el dinero en la fecha de
+vencimiento. Los clientes tienen la obligación de monitorear las opciones en el dinero a medida que se acercan las fechas
+de vencimiento. TradeStation Securities ejercerá automáticamente las opciones en el dinero. TradeStation Securities tiene
+procedimientos para asegurar que los avisos de ejercicio a los clientes se realicen de manera no preferencial por orden de
+llegada cuando reciba un aviso de la Cámara de Compensación o la corporación.
+
+Cuando a un cliente que tiene una posición corta se le asigna un aviso de ejercicio, el corredor debe intentar notificar a
+dicho cliente antes de operar el siguiente día hábil. Si las posiciones de futuros asignadas resultan en una
+posición de futuros abierta, en lugar de compensar una posición de futuros existente, el cliente debe pagar de
+inmediato cualquier margen adicional requerido.
+
+Folleto de información sobre inversiones y operaciones de
+TradeStation Securities, Inc.: futuros y opciones sobre futuros
+
+Declaración de divulgación del comerciante extranjero
+
+Estimado cliente:
+De conformidad con las Reglas 15.05 y 21.03 de la Comisión de Comercio de Futuros de Productos Básicos
+(“CFTC”), 17 CFR §§15.05 y 21.03, se nos considera su agente a los efectos de aceptar la entrega y el servicio de
+comunicaciones de o en nombre de la CFTC con respecto a cualquier contrato de futuros de productos básicos o
+contratos de opciones de productos básicos que se mantengan o hayan mantenido en su(s) cuenta(s) con nosotros.
+En el caso de que actúe como agente o corredor para cualquier otra persona, también se nos considera su agente,
+y el agente de cualquier persona(s) para la(s) que pueda(n) actuar como agente o corredor, a los efectos de aceptar
+la entrega y el servicio de dichas comunicaciones. El servicio o la entrega a nosotros de cualquier comunicación
+emitida por o en nombre de la CFTC (incluyendo cualquier citación, queja, orden, citación, llamada especial, solicitud
+de información, notificación, correspondencia u otro documento escrito) se considerará un servicio o entrega válidos
+y efectivos para usted o cualquier persona para la que pueda estar actuando, directa o indirectamente, como agente
+o corredor.
+
+Debe tener en cuenta que la Norma 15.05 también establece que puede designar un agente distinto de TradeStation.
+Cualquier designación alternativa de agencia debe estar evidenciada por un contrato de agencia escrito que usted
+debe proporcionarnos y que nosotros, a su vez, debemos enviar a la CFTC. Si desea designar un agente distinto
+de nosotros, comuníquese con nosotros por escrito. Debe consultar el Título 17 del CFR §15.05 para obtener una
+explicación más completa de lo anterior.
+Si la CFTC determina que la información relativa a su(s) cuenta(s) con nosotros puede ser relevante para permitirle
+determinar si existe una amenaza de manipulación del mercado, acorralamiento, compresión u otro desorden del
+mercado, la CFTC puede emitir una solicitud de información específica de nosotros o de usted. En el caso de que
+la CFTC nos dirija una solicitud de información, debemos proporcionar la información solicitada dentro del tiempo
+especificado por la CFTC. Si la CFTC le dirige una solicitud de información a través de nosotros como su agente,
+debemos transmitirle la solicitud de inmediato y usted debe proporcionar la información solicitada dentro del tiempo
+especificado por la CFTC. Si no se atiende una solicitud de información de la CFTC sobre su(s) cuenta(s) con
+nosotros, la CFTC tiene autoridad para restringir dicha(s) cuenta(s) a operaciones de liquidación únicamente. Usted
+tiene derecho a una audiencia ante la CFTC para impugnar cualquier solicitud de información sobre su(s) cuenta(s)
+con nosotros, pero su solicitud de audiencia no suspenderá la solicitud de información de la CFTC a menos que la
+CFTC modifique o retire la solicitud. Consulte 17 CFR §21.03 para obtener una descripción más completa de lo
+anterior (incluido el tipo de información que se le puede solicitar que proporcione).
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+Ciertas regulaciones adicionales pueden afectarlo. La Parte 17 de las Regulaciones de la CFTC, 17 CFR Parte 17, requiere que
+cada comerciante de comisiones de futuros y corredor extranjero envíe un informe a la CFTC con respecto a cada cuenta mantenida
+por dicho comerciante de comisiones de futuros o corredor extranjero que contenga una posición de futuros declarable. (Los niveles
+específicos de posición declarable para todos los contratos de futuros negociados en las bolsas de los EE. UU. se establecen en
+la Regla 15.03). Además, la Parte 18 de las Regulaciones de la CFTC, 17 CFR Parte 18, requiere que todos los operadores
+(incluidos los operadores extranjeros) que posean o controlen una posición de futuros u opciones declarable y que hayan recibido
+un llamado especial de la CFTC presenten un Formulario de Informe de Operador Grande (Formulario 103) ante la CFTC dentro
+del día siguiente al llamado especial que la CFTC le haya hecho a dicho operador. Consulte 17 CFR 17 y 18 para obtener
+información más completa con respecto a lo anterior.
+
+Muy atentamente suyo,
+Compañía: TradeStation Securities, Inc.
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+Aviso sobre el sistema de precios medios
+Debe tener en cuenta que ciertas bolsas de Estados Unidos y del extranjero, incluidas CME y
+CBOT, puede ahora o en el futuro permitir que un comerciante de comisiones de futuros como TradeStation
+Securities Inc. (“TradeStation”) para confirmar las transacciones ejecutadas en dichas bolsas a algunas o todas
+de sus clientes sobre una base de precio promedio, independientemente de si los intercambios tienen
+sistemas de precios promedio propios. Los precios promedio que no se calculan mediante un sistema de cambio serán
+calculados por su agente de comisión de futuros. En cualquier caso, las operaciones que se realizan
+Los precios confirmados a usted a precios promedio serán designados como tales en su diario y mensual.
+
+declaraciones.
+Un “sistema de precio promedio” permite que un comerciante de comisión de futuros de compensación confirme
+clientes un precio promedio cuando se reciben múltiples precios de ejecución en una orden o serie
+de pedidos para las mismas cuentas. Por ejemplo, si un pedido transmitido por un administrador de cuentas
+en nombre de varios clientes se ejecuta a más de un precio, dichos precios pueden ser
+promediado, y el promedio puede ser confirmado a cada cliente. Los clientes pueden elegir
+si se debe utilizar un sistema de precio promedio y puede solicitar que se utilice un sistema de precio promedio
+para cuentas discrecionales o no discrecionales.
+Un pedido sujeto a un sistema de precio medio debe ser para el mismo producto. Un precio medio
+La orden del sistema se puede utilizar para transacciones de futuros, opciones o combinaciones. Un precio promedio
+La orden del sistema para futuros debe ser para el mismo producto y mes y, para opciones, debe
+ser para el mismo producto, mes, tipo (es decir, put/call) y precio de ejercicio.
+En la confirmación y en el estado de cuenta mensual aparecerá un indicador del sistema de precio promedio.
+un cliente cuyas posiciones se han confirmado a un precio medio. Este indicador notificará
+Al cliente que el precio confirmado representa un precio medio o un precio medio redondeado.
+El precio medio no es el precio de ejecución real. Un sistema de precio medio calculará el mismo precio para todos los
+clientes que participan en la orden.
+Se puede utilizar un sistema de precio promedio cuando se ingresa una serie de órdenes para un grupo de
+cuentas. Por ejemplo, una orden de sistema de precio promedio agrupado (es decir, una orden que representa
+más de una cuenta de cliente) ejecutada a las 10:00 a.m. podría promediarse con una orden del sistema de precio promedio
+agrupado ejecutada a las 12:00 p.m., siempre que, sin embargo, cada una de las
+Las órdenes agrupadas son para las mismas cuentas. Además, las órdenes de mercado y las órdenes limitadas pueden ser
+promediado, ya que puede limitar los pedidos a diferentes precios, siempre que cada pedido sea por el
+
+mismas cuentas.
+El siguiente escenario ejemplifica lo que ocurre si una orden del sistema de precio promedio es solo parcialmente...
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+ejecutado. A las 10:00 am se emitió una orden de compra de 100 futuros del S&P 500 de diciembre a precio promedio
+El precio límite de los contratos es de 376,00, de los cuales 50 posiciones se ejecutan a 376,00 y el saldo no se completa.
+A las 12:00 horas se transmite una orden de sistema de precio medio para comprar 100 contratos de futuros del S&P
+500 de diciembre a un precio límite de 375,00, de las cuales 50 posiciones se ejecutan a 376,00 y el saldo no se completa.
+ejecutada a 375,00 y el saldo no se ha completado. Ambas órdenes forman parte de una serie para la misma
+grupo de cuentas. En este ejemplo, se promediarán los dos precios. Si el pedido se realizó para
+más de una cuenta, el controlador de la cuenta debe confiar en la asignación preexistente
+procedimientos para determinar las proporciones en que cada cuenta participará en el llenado parcial.
+Al recibir una ejecución a múltiples precios para una orden con un sistema de precio promedio
+indicador, se calculará un promedio multiplicando los precios de ejecución por las cantidades en
+esos precios divididos por las cantidades totales. El precio promedio de una serie de pedidos será
+calculado sobre la base de los precios promedio de cada pedido de esa serie. El precio promedio real o
+El precio promedio redondeado al siguiente incremento de precio puede ser confirmado a los clientes. Si un miembro de
+compensación confirma el precio promedio redondeado, el miembro de compensación debe redondear el precio promedio
+al siguiente incremento de precio para una orden de venta. El proceso de redondeo creará
+un residuo en efectivo de la diferencia entre el precio promedio real y el promedio redondeado
+precio que debe pagarse al cliente. Un sistema de precio medio puede producir precios que no
+no se ajustan a incrementos de centavos enteros. En tales casos, cualquier cantidad menor a un centavo puede ser
+retenido por el miembro compensador. Por ejemplo, si el total residual que se debe pagar a un cliente
+Un precio promedio redondeado para diez contratos es $83.333333, el miembro compensador puede pagar $83.33 al
+cliente.
+
+Si desea obtener más información sobre los pedidos del sistema de precio promedio, comuníquese con su
+Representante de servicios al cliente de TradeStation o su asesor comercial (según corresponda).
+
+Folleto de información sobre inversiones y operaciones de TradeStation Securities,
+Inc.: futuros y opciones sobre futuros
+
+Divulgaciones que la regulación de CME exige que se proporcionen a Singapur
+Participantes del mercado
+• Las operaciones de CME Clearing están sujetas a las leyes de los Estados Unidos y a las regulaciones promulgadas por la Comisión de
+Comercio de Futuros de Productos Básicos de los Estados Unidos (“CFTC”);
+• Los derechos y recursos disponibles para los participantes con sede en Singapur, tal como se estipulan en las normas, políticas y
+procedimientos de CME, pueden regirse por la legislación de los EE. UU. Dichos derechos y recursos conforme a la legislación de los EE.
+UU. pueden diferir de los disponibles para los participantes con sede en Singapur cuando acceden a las cámaras de compensación con
+sede en Singapur, que están reguladas principalmente por las leyes de Singapur;
+
+• Los fondos y garantías depositados en un intermediario de compensación registrado como un comerciante de comisión de futuros de EE. UU.
+(“FCM”) están sujetos a las disposiciones de protección al cliente de la ley de EE. UU.;
+
+• La legislación y la reglamentación de los Estados Unidos exigen la segregación de las posiciones y garantías de los clientes de las posiciones
+y garantías de los miembros de compensación de la FCM y prescriben el modelo de segregación de clientes para futuros y swaps,
+respectivamente, tanto a nivel de la FCM como de la cámara de compensación. La estructura y los impactos de la legislación sobre
+insolvencia del régimen de protección del cliente de los Estados Unidos pueden diferir de los de Singapur;
+
+• Las transacciones compensadas en CME estarán sujetas al horario comercial de EE. UU. y a los plazos de liquidación.
+establecido en las reglas de la Bolsa o de la Cámara de Compensación;
+
+• Las transacciones realizadas en CME pueden estar sujetas a la legislación fiscal de los EE. UU. y a las disposiciones
+aplicables del Código de Rentas Internas de los EE. UU., que pueden tener un impacto diferente al de la legislación fiscal
+de Singapur; y
+• Los costos asociados con la compensación deben discutirse con el miembro compensador que ofrece la oferta.
+servicios de compensación.
+Nada de lo incluido en este boletín debe considerarse asesoramiento legal. Se debe consultar a asesores fiscales, asesores legales y las normas de
+la Bolsa o de la Cámara de Compensación, según corresponda, en todos los casos en que un participante con sede en Singapur tenga preguntas
+sobre la conducción de su negocio o el impacto de la ley o la reglamentación de los EE. UU. sobre el mismo.
+
+Folleto de información sobre inversiones y operaciones de
+TradeStation Securities, Inc.: futuros y opciones sobre futuros
+
+Notificación uniforme sobre el acceso a los datos del mercado
+Como usuario del mercado, usted puede obtener acceso a los datos del mercado disponibles a través
+de un sistema, software o dispositivo de negociación electrónica que le proporcione o ponga a su
+disposición un corredor o una filial de dicho corredor. Estos datos del mercado pueden incluir, con
+respecto a los productos de una bolsa (la “Bolsa”) o los productos de bolsas participantes de terceros (la
+“Bolsa Participante”) que se comercializan en o a través de la plataforma de negociación electrónica de
+la Bolsa, pero no se limitan a, precios de mercado “en tiempo real” o diferidos, precios y rangos de
+apertura y cierre, precios altos y bajos, precios de liquidación, información de volumen estimado y real,
+ofertas y demandas y los tamaños y números aplicables de dichas ofertas y demandas.
+Se le notifica por la presente que estos datos de mercado constituyen información confidencial valiosa
+que es propiedad exclusiva de la Bolsa correspondiente y no se encuentra dentro del dominio público.
+Dichos datos de mercado solo se pueden utilizar para uso interno de su empresa. No puede, sin la
+autorización por escrito de la Bolsa correspondiente, redistribuir, vender, licenciar, retransmitir o
+proporcionar de otro modo los datos de mercado, interna o externamente y en cualquier formato, por
+medios electrónicos u otros, incluido, entre otros, Internet. Además, no puede, sin la autorización por
+escrito de la Bolsa correspondiente, utilizar los datos de mercado de una Bolsa (a) con el fin de
+determinar cualquier precio, incluido cualquier precio de liquidación, para cualquier producto de futuros,
+opciones sobre productos de futuros u otros instrumentos derivados comercializados en cualquier bolsa
+que no sea la Bolsa correspondiente o una Bolsa participante o (b) para construir o calcular el valor de
+cualquier índice o producto indexado. Además, usted acepta que no utilizará, ni permitirá que ninguna
+otra persona o entidad, (x) utilice datos de mercado de una Bolsa de ninguna manera para competir con
+dicha Bolsa o para ayudar o permitir que un tercero compita con dicha Bolsa o (y) utilice esa parte de
+los datos de mercado de una Bolsa que se relaciona con cualquier producto de una Bolsa participante
+de ninguna manera para competir con esa Bolsa participante o para ayudar o permitir que un tercero
+compita con esa Bolsa participante.
+Usted debe proporcionar, a pedido del corredor a través del cual su empresa ha obtenido acceso a los
+datos de mercado de una Bolsa, o a pedido de la Bolsa correspondiente, información que demuestre el
+uso que su empresa hace de los datos de mercado de dicha Bolsa de acuerdo con esta notificación.
+Cada Bolsa correspondiente se reserva el derecho de cancelar el acceso de cualquier usuario del
+mercado a dichos datos de mercado por cualquier motivo. Usted también acepta que cooperará con
+cada Bolsa con respecto a la cual tenga acceso a los datos de mercado de esa Bolsa y permitirá a cada
+una de esas Bolsas un acceso razonable a sus instalaciones en caso de que dicha Bolsa desee realizar
+una auditoría o revisión relacionada con la distribución de los datos de mercado de esa Bolsa.
+NI UNA BOLSA, NI CUALQUIER BOLSA PARTICIPANTE, NI EL CORREDOR,
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+NI SUS RESPECTIVOS MIEMBROS, ACCIONISTAS, DIRECTORES, FUNCIONARIOS,
+EMPLEADOS O AGENTES, GARANTIZAN LA OPORTUNIDAD, SECUENCIA, PRECISIÓN O
+INTEGRIDAD DE LOS DATOS DEL MERCADO DESIGNADO, LA INFORMACIÓN DEL MERCADO O
+OTRA INFORMACIÓN SUMINISTRADA NI QUE LOS DATOS DEL MERCADO HAN SIDO
+VERIFICADO. USTED ACEPTA QUE LOS DATOS DEL MERCADO Y OTRA INFORMACIÓN
+SE PROPORCIONA SÓLO CON FINES INFORMATIVOS Y NO PRETENDE SER UN
+OFERTA O SOLICITUD CON RESPECTO A LA COMPRA O VENTA DE CUALQUIER
+SEGURIDAD O MERCANCÍA.
+NI UNA BOLSA, NI CUALQUIER BOLSA PARTICIPANTE, NI EL CORREDOR NI
+SUS RESPECTIVOS MIEMBROS, ACCIONISTAS, DIRECTORES, FUNCIONARIOS, EMPLEADOS
+O AGENTES, SERÁN RESPONSABLES ANTE USTED O CUALQUIER OTRA PERSONA, FIRMA O
+CORPORACIÓN CUALQUIER OTRA RESPONSABILIDAD POR CUALQUIER PÉRDIDA, DAÑO, RECLAMO, SANCIONES,
+
+COSTOS O GASTOS (INCLUIDA LA PÉRDIDA DE BENEFICIOS) QUE SURJAN DE O ESTÉN RELACIONADOS CON
+LOS DATOS DEL MERCADO DE CUALQUIER FORMA, INCLUYENDO, ENTRE OTROS, CUALQUIER DEMORA,
+INEXACTITUDES, ERRORES U OMISIONES EN LOS DATOS DEL MERCADO O EN LOS
+TRANSMISIÓN DE LA MISMA O POR INCUMPLIMIENTO, DISCONTINUIDAD,
+TERMINACIÓN O INTERRUPCIÓN DEL SERVICIO O POR CUALQUIER DAÑO QUE SURJA
+DE ELLO O OCASIONADO POR ELLO, DEBIDO A CUALQUIER CAUSA QUE SEA,
+YA SEA QUE RESULTE O NO DE NEGLIGENCIA DE SU PARTE. SI EL
+LA EXENCIÓN DE RESPONSABILIDAD Y LA RENUNCIA DE RESPONSABILIDAD ANTERIORES DEBERÁN CONSIDERARSE INVÁLIDAS O
+
+INEFICAZ, NI UNA BOLSA, NI NINGUNA BOLSA PARTICIPANTE, NI EL CORREDOR, NI SUS RESPECTIVOS
+ACCIONISTAS, MIEMBROS, DIRECTORES, FUNCIONARIOS, EMPLEADOS O AGENTES, SERÁN RESPONSABLES
+EN NINGÚN CASO, INCLUYENDO SU PROPIA NEGLIGENCIA, MÁS ALLÁ DEL MONTO REAL DE LA PÉRDIDA O
+DAÑO O EL MONTO DE LA TARIFA MENSUAL PAGADA POR USTED A DICHO CORREDOR, LO QUE SEA MENOR.
+USTED ACEPTA QUE NI UNA BOLSA, NI NINGUNA BOLSA PARTICIPANTE, NI EL CORREDOR NI SUS RESPECTIVOS
+ACCIONISTAS, MIEMBROS,
+DIRECTORES, FUNCIONARIOS, EMPLEADOS O AGENTES SERÁN RESPONSABLES ANTE USTED O CUALQUIER
+OTRA PERSONA, FIRMA O CORPORACIÓN POR CUALQUIER DAÑO INDIRECTO, ESPECIAL
+O DAÑOS CONSECUENTES, INCLUYENDO, SIN LIMITACIÓN, PÉRDIDAS DE BENEFICIOS, COSTOS DE DEMORA O COSTOS
+DE DATOS PÉRDIDOS O DAÑADOS.
+
+Aviso al cliente: Comprenda los riesgos del trading con divisas virtuales
+
+La Comisión de Comercio de Futuros de Productos Básicos de Estados Unidos (CFTC) emite este aviso a sus clientes para informar al público
+sobre los posibles riesgos asociados con la inversión o especulación en monedas virtuales o futuros y opciones de Bitcoin lanzados
+recientemente.
+La moneda virtual es una representación digital de valor que funciona como
+medio de intercambio, unidad de cuenta o depósito de valor, pero no tiene curso
+
+Bitcoin es una mercancía
+
+legal.
+
+Bitcoin y otras monedas virtuales han sido
+
+Las monedas virtuales a veces se intercambian por dólares estadounidenses u
+
+consideradas materias primas bajo la Ley de Materias
+
+otras monedas en todo el mundo, pero actualmente no están respaldadas ni
+respaldadas por ningún gobierno o banco central. Su valor se deriva
+completamente de las fuerzas del mercado de oferta y demanda, y son más
+
+Primas (CEA).
+Ley de Intercambio La
+La Comisión regula principalmente los contratos de
+
+volátiles que las monedas fiduciarias tradicionales. Las ganancias y pérdidas
+
+derivados de materias primas que se basan en
+
+relacionadas con
+
+materias primas subyacentes.
+
+Esta volatilidad se amplifica en los contratos de futuros con margen.
+
+Si bien su autoridad de supervisión regulatoria sobre
+los mercados de efectivo de materias primas es
+
+Para los hedgers (aquellos que poseen Bitcoin u otras monedas virtuales y
+buscan protegerse contra posibles pérdidas o buscan comprar monedas
+
+limitada, la CFTC mantiene una autoridad general de
+aplicación de la ley contra el fraude y la manipulación
+
+virtuales en algún momento en el futuro), los contratos de futuros y las opciones
+
+sobre los mercados de efectivo de monedas virtuales
+
+están destinados a brindar protección contra esta volatilidad.
+
+como una materia prima en los mercados interestatales.
+comercio.
+
+Sin embargo, como todos los productos de futuros, especular en estos mercados
+debe considerarse una transacción de alto riesgo.
+¿Qué hace que la moneda virtual sea riesgosa?
+Comprar monedas virtuales en el mercado de efectivo (por ejemplo, gastar dólares para comprar Bitcoin para su billetera personal) conlleva
+una serie de riesgos, entre ellos:
+• la mayoría de los mercados de efectivo no están regulados ni supervisados por una agencia gubernamental;
+• Las plataformas en el mercado de efectivo pueden carecer de protecciones críticas del sistema, incluidas las protecciones al cliente;
+• oscilaciones volátiles de los precios del mercado al contado o caídas repentinas;
+
+• manipulación del mercado de efectivo;
+• riesgos cibernéticos, como el hackeo de las billeteras de los clientes; y/o
+• plataformas que venden desde sus propias cuentas y ponen a los clientes en una desventaja injusta.
+También es importante tener en cuenta que los cambios del mercado que afectan el precio del mercado en efectivo de una moneda virtual
+pueden, en última instancia, afectar el precio de los futuros y opciones de moneda virtual.
+Cuando los clientes compran un contrato de futuros basado en moneda virtual, es posible que no tengan derecho a recibir la moneda virtual
+real, según el contrato en particular. En la mayoría de los contratos de futuros que se ofrecen actualmente, los clientes compran el derecho a
+recibir o pagar el monto del valor de una materia prima subyacente en dólares en algún momento en el futuro. Se dice que estos contratos de
+futuros se "liquidan en efectivo". Los clientes pagarán o recibirán (según qué lado del contrato hayan tomado)
+
+(largo o corto) el equivalente en dólares de la moneda virtual en función de un índice o precio de subasta especificado en el contrato. Por lo
+tanto, los clientes deben informarse sobre cómo se determinan el índice o los precios de subasta utilizados para liquidar el contrato.
+
+La celebración de contratos de futuros a través de cuentas apalancadas puede aumentar los riesgos de operar con el producto. Normalmente,
+los participantes solo financian contratos de futuros a una fracción del precio del producto subyacente cuando utilizan una cuenta de margen.
+Esto crea “apalancamiento”, y el apalancamiento amplifica el riesgo subyacente, lo que hace que un cambio en el precio al contado sea aún
+más significativo. Cuando los precios se mueven a favor de los clientes, el apalancamiento les proporciona más beneficios por una inversión
+relativamente pequeña. Pero, cuando los mercados van en contra de las posiciones de los clientes, estos se verán obligados a rellenar sus
+cuentas de margen o cerrar sus posiciones, y al final pueden perder más que sus inversiones iniciales.
+
+Cuidado con los fraudes relacionados
+
+Las monedas virtuales suelen ser el blanco de piratas informáticos y delincuentes que cometen fraudes. No hay garantía de que se pueda
+recurrir a ellas si le roban su moneda virtual. Tenga cuidado con cómo y dónde almacena su moneda virtual. La CFTC ha recibido denuncias
+sobre estafas de cambio de moneda virtual, así como esquemas Ponzi y “piramidales”.
+
+Si decides comprar monedas virtuales o derivados basados en ellas, recuerda estos consejos:
+• Si alguien intenta venderle una inversión en opciones o futuros sobre monedas virtuales, incluido el bitcoin, verifique que esté
+registrado en la CFTC. Visite SmartCheck.gov para verificar los registros o conocer más sobre los fraudes de inversión más
+comunes.
+• Recuerde: gran parte del mercado de efectivo de moneda virtual opera a través de transacciones basadas en Internet.
+plataformas que pueden no estar reguladas ni supervisadas. • No
+invierta en productos o estrategias que no comprenda. • Asegúrese de comprender los
+riesgos y cómo el producto puede perder dinero, así como la probabilidad
+de pérdida. Especule únicamente con dinero que pueda permitirse perder.
+• No existe una estrategia de inversión o de negociación garantizada. Si alguien le dice que hay
+No hay riesgo de perder dinero, no inviertas.
+• Los inversores deben realizar una investigación exhaustiva sobre la legitimidad de las plataformas de moneda virtual y los monederos
+digitales antes de proporcionar información de tarjetas de crédito, transferir dinero u ofrecer información personal confidencial. •
+La SEC también ha
+advertido que algunas ventas de tokens u ofertas iniciales de monedas (ICO) pueden usarse para
+Atraer indebidamente a los inversores con promesas de altos rendimientos.1
+Si cree que puede haber sido víctima de fraude o para denunciar una actividad sospechosa, contáctenos al 866.366.2382 o visite CFTC.gov/
+TipOrComplaint.
+
+Consulte https://www.sec.gov/oiea/investor­alerts­and­bulletins/ib_coinofferings.
+
+La CFTC ha proporcionado esta información como un servicio a los inversores. No se trata de una interpretación legal ni de una declaración de política de la CFTC.
+Si tiene preguntas sobre el significado o la aplicación de una ley o norma particular, consulte con un abogado.
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+Asesor de inversores de la NFA: futuros sobre monedas virtuales, incluido el bitcoin
+El objetivo de este aviso para inversores es recordarles que, al igual que cualquier otra inversión especulativa, la negociación
+de futuros sobre monedas virtuales, incluido el bitcoin, tiene ciertos beneficios y diversos riesgos. Si bien los futuros sobre
+monedas virtuales deben negociarse en bolsas de futuros reguladas, la negociación de estos productos implica un alto nivel
+de riesgo y puede no ser adecuada para todos los inversores.
+
+Por lo tanto, es fundamental que los inversores que estén considerando operar con futuros de divisas virtuales se
+informen sobre estos productos, comprendan sus riesgos y realicen la debida diligencia antes de tomar decisiones de
+inversión. La protección de los inversores comienza con la educación de los mismos.
+• Realice la debida diligencia sobre cualquier persona o empresa que solicite una inversión en futuros de monedas
+virtuales, incluido Bitcoin, verificando su estado de registro en la Comisión de Comercio de Futuros de Productos
+Básicos (CFTC), su estado de membresía en la NFA y sus antecedentes utilizando
+Sistema BASIC de NFA o llamando al Centro de Información de NFA al 800­621­3570.
+• Las monedas virtuales, incluido el bitcoin, experimentan una volatilidad de precios significativa, y las fluctuaciones
+en el valor de la moneda virtual subyacente entre el momento en que realiza una operación de futuros de
+moneda virtual y el momento en que intenta liquidarla afectarán el valor de su contrato de futuros y las posibles
+ganancias y pérdidas relacionadas con él. Sea muy cauteloso y controle cualquier inversión que realice.
+
+• Tenga cuidado con los discursos de venta que ofrecen planes de inversión que prometen ganancias significativas
+con poco riesgo o que lo alientan a "actuar ahora". Si una inversión parece demasiado buena para ser verdad
+(por ejemplo, altas ganancias, garantía de rendimiento de cierta manera), entonces probablemente lo sea.
+• Los contratos de futuros de moneda virtual se compran y venden utilizando dinero de margen inicial que le permite
+mantener un contrato de futuros de moneda virtual con un valor superior al de su inversión inicial. Esto se
+conoce como apalancamiento. Si el precio del contrato de futuros se mueve en una dirección desfavorable, la
+naturaleza apalancada de la inversión en futuros puede producir grandes pérdidas en relación con su inversión
+inicial. De hecho, incluso un pequeño movimiento en contra de su posición puede resultar en una gran pérdida,
+incluida la pérdida de todo su depósito inicial, y usted puede ser responsable de pérdidas adicionales.
+
+• Tenga en cuenta el riesgo de que los operadores de esquemas Ponzi y los estafadores intenten sacar provecho de
+La atención actual se centra en las monedas virtuales, incluido Bitcoin.
+
+Folleto de información sobre inversiones y operaciones de
+TradeStation Securities, Inc.: futuros y opciones sobre futuros
+
+Los riesgos que se describen a continuación son solo algunos de los asociados con la negociación de futuros sobre
+monedas virtuales, incluido el bitcoin. Los inversores deben consultar las divulgaciones de riesgos proporcionadas
+por TradeStation Securities e informarse completamente sobre todos los riesgos asociados antes de operar.
+Bajo la supervisión de la CFTC, cada bolsa de futuros que incluya un contrato de futuros de moneda virtual es
+responsable de regular su mercado de futuros. La NFA realiza servicios de regulación del mercado en nombre de
+ciertas bolsas de futuros y centros de ejecución de swaps. Sin embargo, tenga en cuenta que el hecho de que los
+futuros de monedas virtuales, incluido el bitcoin, deban negociarse en bolsas de futuros reguladas no significa que
+los mercados de monedas virtuales subyacentes estén regulados de ninguna manera y, como se explicó
+anteriormente, lo que ocurre en el mercado subyacente de una moneda virtual afectará el precio del contrato de
+futuros de una moneda virtual.
+Los inversores con preguntas o inquietudes sobre el comercio de futuros en monedas virtuales, incluido Bitcoin,
+deben comunicarse con el Centro de información de la NFA (312­781­1410 o 800­621­3570 o
+información@nfa.futures.org).
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+Divulgación de requisitos contra el lavado de dinero
+La Ley Patriota de los Estados Unidos
+
+La Ley Patriota de los Estados Unidos tiene por objeto detectar, disuadir y castigar a los terroristas en los Estados Unidos
+y en el extranjero. La ley impone requisitos contra el blanqueo de dinero a las empresas de corretaje y las instituciones
+financieras.
+¿Qué es el lavado de dinero?
+Para ayudarlo a comprender estos esfuerzos, queremos brindarle información sobre el lavado de dinero y los pasos que
+seguimos para implementar la Ley Patriota de los Estados Unidos. El lavado de dinero es el proceso de disfrazar dinero
+obtenido ilegalmente para que parezca que proviene de fuentes o actividades legítimas. El lavado de dinero ocurre en
+relación con una amplia variedad de delitos, incluidas las ventas ilegales de armas, el tráfico de drogas, el robo, el fraude,
+el crimen organizado y el terrorismo.
+¿Qué tan grande es el problema y por qué es importante?
+El uso del sistema financiero estadounidense por parte de delincuentes para facilitar el terrorismo u otros delitos podría
+contaminar nuestros mercados financieros. Según el Departamento de Estado de Estados Unidos, una estimación reciente
+sitúa el volumen de la actividad de blanqueo de dinero en todo el mundo en un billón de dólares al año.
+¿Qué debemos hacer para eliminar el lavado de dinero?
+En virtud de la Ley USA PATRIOT y otras reglamentaciones aplicables a nosotros, TradeStation ha designado a uno o
+más funcionarios de cumplimiento de las normas contra el blanqueo de dinero para sus unidades comerciales financieras
+y ha establecido políticas y procedimientos para detectar e informar transacciones sospechosas y garantizar el cumplimiento
+de las leyes. También hemos establecido políticas y procedimientos adecuados para detectar e informar transacciones
+sospechosas y cumplir con las leyes aplicables, establecer y llevar a cabo capacitaciones para empleados y realizar
+auditorías independientes para probar la eficacia de nuestras políticas y procedimientos. Como parte de nuestros
+programas, políticas y procedimientos obligatorios, podemos solicitarle que proporcione varios documentos de identificación
+u otra información. Hasta que proporcione la información o los documentos que necesitamos, es posible que no podamos
+abrir una cuenta, realizar ninguna transacción para usted o brindarle otros productos o servicios.
+
+Le agradecemos su paciencia y esperamos que nos apoye en nuestros esfuerzos por negar a los grupos terroristas el
+acceso al sistema financiero de Estados Unidos, así como en nuestros esfuerzos por detectar y tratar de eliminar el uso de
+nuestros sistemas y servicios para el lavado de dinero relacionado con otros delitos y para otros usos ilegales como el
+fraude y la manipulación del mercado.
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+Divulgación del plan de continuidad empresarial
+En TradeStation, reconocemos que nuestros clientes confían en nuestros sistemas y servicios. De acuerdo con las regulaciones
+aplicables, TradeStation ha desarrollado un Plan de Continuidad Comercial para ayudar
+Las empresas de TradeStation operan en respuesta a una emergencia o una interrupción comercial significativa. Para mantener
+la seguridad y la eficacia de este plan, no proporcionamos detalles específicos en esta divulgación. Sin embargo, podemos
+informarle que el plan incluye:
+• Una descripción de la copia de seguridad diaria de datos y registros específicos y el mantenimiento de la copia de seguridad.
+medios de comunicación en un lugar seguro fuera del sitio.
+
+• Formas alternativas de comunicación entre nosotros y nuestros clientes, empleados y proveedores.
+y reguladores.
+• Una revisión de los riesgos financieros y operativos.
+• Ubicaciones físicas alternativas para los empleados y estrategias logísticas y de seguridad.
+• Identificación de sistemas críticos de misión.
+• Identificación de operaciones críticas y, cuando corresponda, cómo podrían restablecerse dichas operaciones en caso de
+una interrupción.
+• Identificación de cómo podemos asegurar el acceso rápido de nuestros clientes a sus fondos y activos en caso de que
+determinemos que ya no podemos continuar con el negocio.
+Respuesta a incidentes de diverso alcance:
+Una interrupción comercial incluye cualquier evento, externo o interno, que genere una situación extrema
+interrupción del sitio operativo como resultado de lo cual TradeStation debe alterar el funcionamiento normal diario
+El plan de continuidad comercial de TradeStation ha sido diseñado para responder a interrupciones tanto en edificios específicos
+como en toda la ciudad. En estas situaciones, el objetivo del plan es permitir que TradeStation continúe haciendo negocios, con
+una capacidad limitada, y cumpla razonablemente con las obligaciones de los clientes dentro del día hábil.
+
+Interrupciones que provocan la evacuación de un edificio determinado, pero no se producen daños y los sistemas siguen
+funcionando:
+• En caso de que necesitemos evacuar un edificio en particular, la empresa de mayor rango
+El funcionario disponible tomará la decisión de activar el plan de continuidad. Se notificará a todos los empleados que
+deben salir del edificio según los procedimientos de evacuación aprobados por la empresa.
+• Todos los números entrantes serán redirigidos a un centro de datos de respaldo donde serán
+
+Folleto de información sobre inversiones y operaciones de TradeStation
+Securities, Inc.: futuros y opciones sobre futuros
+
+Se le solicitará que envíe mensajes hasta que el personal de emergencia predeterminado inicie sesión en las colas
+telefónicas a través de agentes IP en nuestro sitio alternativo.
+En el caso de este tipo de interrupciones en el sitio, los clientes deberían experimentar un tiempo de inactividad mínimo en su
+capacidad para comunicarse con TradeStation.
+Interrupciones que provocan la evacuación inmediata de un edificio determinado, se producen daños y los sistemas no
+funcionan:
+• Todos los números entrantes serán redirigidos a un centro de datos de respaldo donde se les enviarán mensajes hasta que
+el personal de emergencia predeterminado inicie sesión en las colas telefónicas a través de agentes IP en nuestro sitio
+alternativo. Si el sitio alternativo local se ve afectado por la interrupción, todo el personal crítico será dirigido a otros sitios
+de recuperación ante desastres para reanudar el trabajo.
+operaciones.
+• Los procedimientos que detallan estas responsabilidades están incluidos en el Plan de Continuidad del Negocio.
+Los ejemplos comunes (probables) de cuándo se activarán los procedimientos del sitio de recuperación de desastres
+para este tipo de interrupción del sitio incluyen (pero no se limitan a): (1) actos de la naturaleza—
+huracanes, inundaciones, incendios, etc.; (2) problemas solares globales que afectan las redes de comunicación y
+energía nacionales y/o internacionales; y (3) actos de terrorismo.
+El plan de continuidad comercial de TradeStation está diseñado para que nuestros clientes tengan acceso completo y adecuado
+a nuestros sistemas y a sus fondos y activos de manera oportuna. Sin embargo, en el caso de una interrupción extremadamente
+significativa, el tiempo de recuperación real depende de la gravedad de la interrupción y de cuántas sucursales y personal de
+TradeStation se vean afectados, la condición de los sistemas financieros y bancarios y una gran cantidad de otros factores
+fuera de nuestro control. Incluso los planes bien diseñados pueden no funcionar como se esperaba en determinadas situaciones.

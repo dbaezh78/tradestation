@@ -1,0 +1,111 @@
+Acuerdo de suscripción de autoridad de informes de precios de opciones
+AVISO IMPORTANTE: ESTE ACUERDO DE SUSCRIPCIÓN (ESTE “ACUERDO”) ES UN ACUERDO ENTRE USTED Y TRADESTATION TECHNOLOGIES, INC.
+(“VENDEDOR”) PARA QUE USTED RECIBA INFORMACIÓN PUBLICADA POR OPTIONS PRICE REPORTING AUTHORITY, LLC (“OPRA”). POR FAVOR LEA ESTE
+ACUERDO CUIDADOSAMENTE. AL ACEPTAR ESTE ACUERDO (COMO PARTE DE UNA SOLICITUD EN LÍNEA O CUALQUIER OTRO PROCESO DE REGISTRO),
+USTED ACEPTA SER
+LEGALMENTE OBLIGADO POR LOS TÉRMINOS DE ESTE ACUERDO. USTED ENTIENDE Y ACEPTA QUE ESTE ACUERDO TIENE LA
+
+LA MISMA FUERZA Y EFECTO LEGAL VINCULANTE DE UN CONTRATO FIRMADO CON TINTA Y ENTREGADO EN PERSONA.
+Al completar y enviar este Acuerdo, usted está solicitando recibir de TradeStation Technologies, Inc., 8050 SW 10th St, Plantation, FL 33324 (“Proveedor”) un servicio de
+datos de mercado (el “Servicio”) que proporcione acceso a información actual sobre la última venta y cotización de opciones e información relacionada (“Datos OPRA”)
+publicados por OPRA de conformidad con un Plan declarado en vigencia por la Comisión de Bolsa y Valores. Las partes de este Plan (cada una, un “Participante OPRA”)
+son aquellas bolsas de valores nacionales que sean aprobadas de vez en cuando por la Comisión de Bolsa y Valores para la negociación de opciones sobre valores. Al
+revisar y aprobar este Acuerdo, el Proveedor está autorizado a actuar en nombre de OPRA. La persona que actúa de vez en cuando como procesador de datos en nombre
+de OPRA
+de OPRA se denomina en este documento "Procesador de OPRA".
+Al aceptar este Acuerdo, usted da su consentimiento para celebrar este Acuerdo en formato electrónico. Tiene derecho a retirar su consentimiento rescindiendo este
+Acuerdo y su recepción de los Datos de OPRA. Su derecho a rescindir este Acuerdo
+El acuerdo y la recepción de los datos de OPRA, así como el procedimiento que debe seguir para ello, se describen en el párrafo 6 a continuación. Si cambia alguna
+información necesaria para contactarlo electrónicamente, el procedimiento para notificar al Proveedor se describe en el párrafo 11.
+Si desea recibir una copia de este Acuerdo en formato papel y no puede imprimir una copia en su propio sistema informático, el Proveedor le proporcionará una copia en
+papel sin cargo una vez que reciba su solicitud transmitida como se describe en el párrafo 11.
+
+Este Acuerdo incluye un “Anexo para no profesionales”. El término “no profesional” se define en el Anexo. El propósito del Anexo es determinar si usted es un no profesional
+según esta definición. Si usted es un no profesional según esta definición, los cargos de OPRA al Proveedor por su uso de los Datos de OPRA están sujetos a un límite, y
+usted puede tener derecho a pagar tarifas más bajas al Proveedor. No necesita completar el Anexo, pero si no lo hace, o si no puede estar de acuerdo con todas las
+declaraciones del Anexo, OPRA no lo considerará un no profesional.
+
+Por la presente, usted declara y acepta lo siguiente:
+1. Su nombre completo y dirección de residencia son:
+
+2. Recibirá el Servicio y los Datos OPRA incluidos en el mismo únicamente para su propio uso comercial o personal, y deberá
+no retransmitir ni proporcionar de otro modo los Datos OPRA a ninguna persona, excepto a sus propios empleados en dispositivos que estén sujetos
+bajo el control del Proveedor. Si usted no es un profesional y ha completado el Anexo para no profesionales, solo está
+
+permitido bajo este Acuerdo utilizar los Datos OPRA para las actividades de inversión descritas en el Anexo para No Profesionales.
+
+3. Usted reconoce que los Datos de OPRA son y seguirán siendo propiedad del Participante de OPRA en el que se realizó una transacción informada.
+tuvo lugar o se introdujo una cotización informada.
+4. EXENCIÓN DE RESPONSABILIDAD: NI EL VENDEDOR, OPRA, EL PROCESADOR DE OPRA NI NINGÚN PARTICIPANTE DE OPRA GARANTIZAN LA
+OPORTUNIDAD, SECUENCIA, PRECISIÓN O INTEGRIDAD DE CUALQUIERA DE LOS DATOS DE OPRA QUE SE LE SUMINISTREN EN VIRTUD DEL PRESENTE Y
+NI EL VENDEDOR, OPRA, EL PROCESADOR DE OPRA NI NINGÚN PARTICIPANTE DE OPRA SERÁN RESPONSABLES DE NINGUNA MANERA ANTE USTED O CUALQUIER OTRO
+
+OTRA PERSONA, POR CUALQUIER PÉRDIDA, DAÑO, COSTO O GASTO QUE PUEDA SURGIR DE CUALQUIER INCUMPLIMIENTO DE
+VENDEDOR, OPRA, PROCESADOR DE OPRA O CUALQUIER PARTICIPANTE DE OPRA, O DE CUALQUIER DEMORA, INEXACTITUD, ERROR O
+OMISIONES DE CUALQUIERA DE LOS DATOS DE OPRA O EN LA TRANSMISIÓN O ENTREGA DE LOS MISMOS, YA SEA DEBIDO O NO A CUALQUIER
+ACTO NEGLIGENTE U OMISIÓN POR PARTE DEL VENDEDOR, OPRA, EL PROCESADOR DE OPRA O CUALQUIER PARTICIPANTE DE OPRA. EN NINGÚN CASO
+¿EL VENDEDOR, OPRA, EL PROCESADOR DE OPRA O CUALQUIER PARTICIPANTE SERÁN RESPONSABLES POR CUALQUIER DAÑO INCIDENTAL, ESPECIAL, INDIRECTO O
+
+DAÑOS CONSECUENTES, INCLUYENDO, ENTRE OTROS, PÉRDIDAS DE BENEFICIOS, PÉRDIDAS COMERCIALES O DAÑOS RESULTANTES
+POR MOLESTIAS O PÉRDIDA DE USO DEL SERVICIO.
+5. Los términos de este Acuerdo pueden modificarse en cualquier momento mediante notificación a usted. Si no acepta este Acuerdo modificado en el momento en que intente
+acceder al Servicio o antes, este Acuerdo se rescindirá automáticamente. Este Acuerdo modificado se aplicará a su uso del Servicio a partir de la fecha de la modificación.
+
+6. Usted o el Proveedor pueden rescindir su recepción de los Datos de OPRA en virtud del presente Acuerdo en cualquier momento mediante un aviso de 30 días de la parte
+rescindiente a la otra parte, y pueden rescindirse inmediatamente si el Proveedor u OPRA determinan que usted no cumple con este Acuerdo.
+
+7. Nada de lo aquí dispuesto podrá interpretarse como un impedimento o restricción para que OPRA, el Procesador de OPRA o cualquier Participante de OPRA dejen de
+proporcionar Datos de OPRA para su difusión o realicen los cambios en la velocidad de transmisión, las características de las señales eléctricas que representan los
+Datos de OPRA o la forma de difundirlos que OPRA determine oportunamente que sean apropiados, con o sin previo aviso. Usted no responsabilizará a OPRA, al
+Procesador de OPRA ni a ningún Participante de OPRA por ninguna responsabilidad, pérdida o daño resultante que pueda surgir de ello.
+
+8. Usted acepta notificar al Proveedor de inmediato sobre cualquier cambio en la información proporcionada en este documento y proporcionar al Proveedor cualquier información adicional.
+
+información solicitada por éste en relación con su recepción de los Datos OPRA.
+9. Las partes reconocen y acuerdan que este Acuerdo es para el beneficio expreso de OPRA, el Procesador de OPRA y cada OPRA
+Partícipe.
+10. Las disposiciones de las Secciones 3, 4 y 9 sobrevivirán a cualquier terminación de este Acuerdo y permanecerán en pleno vigor y efecto.
+11. Todas las notificaciones en virtud de este Acuerdo pueden ser enviadas por escrito o electrónicamente. Todas las notificaciones escritas al Proveedor se enviarán a la
+dirección postal del Proveedor indicada anteriormente y todas las notificaciones dirigidas a usted se enviarán a la dirección postal que usted proporcione en el párrafo 1.
+Todas las notificaciones electrónicas al Proveedor se enviarán a la dirección de correo electrónico del Proveedor en ClientExperience@TradeStation.com y todas las
+notificaciones dirigidas a usted se le proporcionarán cuando acceda a los Datos OPRA electrónicamente.
+AL ACEPTAR ESTE ACUERDO, usted acepta que:
+(i) ha leído y comprende todos los términos y condiciones establecidos anteriormente; y
+(ii) tiene la intención de celebrar un contrato legalmente vinculante y válido en virtud del cual quedará obligado por todos los términos y condiciones
+establecido anteriormente.
+
+Anexo para no profesionales
+El propósito de este Anexo es determinar si usted es un “No profesional” a los efectos de OPRA. OPRA define a un “No profesional” como una persona jurídica
+para la cual las declaraciones establecidas en la Sección 1 de este Anexo son verdaderas.
+1. Usted declara y acepta que las siguientes declaraciones son y seguirán siendo verdaderas mientras reciba Datos de OPRA
+Como no profesional:
+(a) Usted es una “persona natural” (un ser humano individual) o un “fideicomiso calificado”.* Usted no es una corporación, sociedad,
+sociedad de responsabilidad limitada u otra forma de entidad (incluida cualquier forma de fideicomiso que no califique como fideicomiso calificado).
+(b) Si usted es una persona física, deberá utilizar los Datos de OPRA únicamente en relación con sus actividades de inversión personal y
+las actividades de inversión personal de sus familiares directos** y los fideicomisos calificados de los cuales usted es fiduciario
+o custodio. Si usted es un fideicomiso calificado, deberá utilizar los Datos de OPRA únicamente en relación con su inversión personal.
+actividades. En cualquier caso, no deberá utilizar los Datos de OPRA en relación con ninguna actividad comercial, empresarial, profesional o de otro tipo.
+actividades comerciales.
+(c) Usted no es un “Profesional”. Para una persona física que trabaja en los Estados Unidos, un “Profesional” es una persona física que
+está: (i) registrado o calificado ante la Comisión de Bolsa y Valores, la Comisión de Comercio de Futuros de Productos Básicos,
+cualquier agencia estatal de valores, cualquier bolsa/asociación de valores o cualquier mercado/asociación de contratos de futuros/materias primas,
+(ii) contratado como “asesor de inversiones”, según se define ese término en la Ley de Asesores de Inversiones de 1940 (ya sea o no
+registrado o calificado bajo esa Ley); o (iii) empleado por un banco u otra organización exenta de registro bajo
+Leyes federales y/o estatales sobre valores para realizar funciones que requerirían que usted esté registrado o calificado si fuera
+para realizar dichas funciones para una organización que no esté exenta. Para una persona física que trabaja fuera de los Estados Unidos,
+Un “Profesional” es una persona física que realiza las mismas funciones que alguien que sería considerado un “Profesional”
+En los Estados Unidos.
+2. Usted acepta notificar al Proveedor de inmediato si sus circunstancias cambian de manera que cualquiera de las declaraciones en la Sección 1 de este
+La adenda ya no sería válida para usted.
+
+*El término “fideicomiso calificado” significa (a) cualquier fideicomiso irrevocable o revocable (1) que tenga un solo fideicomisario, que sea una persona natural y no
+reciba ninguna compensación por actuar como fideicomisario y (2) cuyos únicos beneficiarios actuales sean uno o más del fideicomisario y los miembros de la familia
+inmediata del fideicomisario, y (b) cualquier cuenta de custodia establecida bajo una Ley Uniforme de Transferencias a Menores o un estatuto estatal similar (1) que tenga
+un solo custodio, que es una persona física y no recibe ninguna compensación por actuar como custodio, y (2) cuyo beneficiario es un
+descendiente directo (un hijo, nieto, etc.) del custodio. Un “beneficiario actual” es un beneficiario a quien se le transfieren los ingresos actuales o el capital de
+El fideicomiso puede o debe entonces distribuirse, ignorando el posible ejercicio de cualquier poder de designación no ejercido en ese momento. El término “inmediato
+“miembros de la familia” se define en la nota al pie del párrafo 1(b) de este Anexo.
+**El término “familiares inmediatos” significa, con referencia a una persona física en particular, el cónyuge de esa persona, los antepasados directos de esa persona
+(es decir, padres, abuelos, etc.) y los descendientes directos (es decir, hijos, nietos, etc.) y los cónyuges (incluidos los supervivientes)
+cónyuges) de los ascendientes y descendientes directos de esa persona. El término incluye relaciones de padrastros y adoptivos.
+
