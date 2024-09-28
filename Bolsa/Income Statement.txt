@@ -1,28 +1,5 @@
-Aquí está la transcripción de los elementos de la imagen, seguida de una explicación para cada uno:
+Lectura de Income Statement
 
-Transcripción:
-Revenue
-Cost Of Goods Sold
-Gross Profit
-Research And Development Expenses
-SG&A Expenses
-Other Operating Income Or Expenses
-Operating Expenses
-Operating Income
-Total Non-Operating Income/Expense
-Pre-Tax Income
-Income Taxes
-Income After Taxes
-Other Income
-Income From Continuous Operations
-Income From Discontinued Operations
-Net Income
-EBITDA
-EBIT
-Basic Shares Outstanding
-Shares Outstanding
-Basic EPS
-EPS - Earnings Per Share
 Explicación de cada uno:
 Revenue (Ingresos):
 
