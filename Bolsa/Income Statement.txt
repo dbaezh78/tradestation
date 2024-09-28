@@ -1,0 +1,162 @@
+Aquí está la transcripción de los elementos de la imagen, seguida de una explicación para cada uno:
+
+Transcripción:
+Revenue
+Cost Of Goods Sold
+Gross Profit
+Research And Development Expenses
+SG&A Expenses
+Other Operating Income Or Expenses
+Operating Expenses
+Operating Income
+Total Non-Operating Income/Expense
+Pre-Tax Income
+Income Taxes
+Income After Taxes
+Other Income
+Income From Continuous Operations
+Income From Discontinued Operations
+Net Income
+EBITDA
+EBIT
+Basic Shares Outstanding
+Shares Outstanding
+Basic EPS
+EPS - Earnings Per Share
+Explicación de cada uno:
+Revenue (Ingresos):
+
+Qué significa: Es el dinero total que la empresa genera por la venta de productos o servicios antes de deducir cualquier costo o gasto.
+Cómo se obtiene: Sumando todas las ventas de bienes o servicios durante un período. Ejemplo: si una empresa vende 100 productos a $10 cada uno, los ingresos serían $1,000.
+Cost Of Goods Sold (Costo de los bienes vendidos):
+
+Qué significa: Son los costos directos asociados con la producción de los bienes o servicios vendidos, como materias primas, mano de obra y otros gastos de fabricación.
+Cómo se obtiene: Sumando todos los costos directamente involucrados en la producción de los bienes vendidos.
+Gross Profit (Beneficio bruto):
+
+Qué significa: Es la diferencia entre los ingresos y el costo de los bienes vendidos. Refleja la ganancia que genera la empresa antes de deducir otros gastos operativos.
+Cómo se obtiene: Restando el costo de los bienes vendidos del total de ingresos. Fórmula:
+Gross Profit
+=
+Revenue
+−
+Cost of Goods Sold
+Gross Profit=Revenue−Cost of Goods Sold
+Research And Development Expenses (Gastos de Investigación y Desarrollo):
+
+Qué significa: Son los gastos que una empresa incurre en la investigación y desarrollo de nuevos productos o servicios.
+Cómo se obtiene: Sumando todos los costos asociados con las actividades de innovación y desarrollo.
+SG&A Expenses (Gastos de Venta, Generales y Administrativos):
+
+Qué significa: Incluyen todos los gastos operativos que no están directamente relacionados con la producción, como salarios administrativos, publicidad y otros costos generales.
+Cómo se obtiene: Sumando los gastos de ventas, administración y otros gastos generales.
+Other Operating Income Or Expenses (Otros ingresos o gastos operativos):
+
+Qué significa: Representa ingresos o gastos relacionados con las operaciones principales, pero que no están directamente vinculados a la producción o ventas.
+Cómo se obtiene: Puede incluir ingresos por rentas, o costos adicionales como ajustes o multas.
+Operating Expenses (Gastos Operativos):
+
+Qué significa: Son los costos asociados con la operación diaria del negocio que no están directamente ligados a la producción, como salarios, alquileres y servicios públicos.
+Cómo se obtiene: Sumando todos los gastos generales y administrativos, así como otros gastos indirectos.
+Operating Income (Ingreso Operativo):
+
+Qué significa: Es la ganancia que queda después de deducir los gastos operativos del beneficio bruto. Mide la eficiencia de las operaciones principales del negocio.
+Cómo se obtiene: Restando los gastos operativos del beneficio bruto. Fórmula:
+Operating Income
+=
+Gross Profit
+−
+Operating Expenses
+Operating Income=Gross Profit−Operating Expenses
+Total Non-Operating Income/Expense (Ingresos/Gastos no operativos):
+
+Qué significa: Refleja ingresos o gastos que no están relacionados con la actividad principal del negocio, como intereses, dividendos o ganancias/pérdidas de inversiones.
+Cómo se obtiene: Sumando todos los ingresos y gastos no operativos.
+Pre-Tax Income (Ingreso antes de impuestos):
+
+Qué significa: Es la ganancia que queda después de deducir los gastos operativos y no operativos, pero antes de los impuestos.
+Cómo se obtiene: Restando los gastos no operativos del ingreso operativo. Fórmula:
+Pre-Tax Income
+=
+Operating Income
+−
+Non-Operating Expenses
+Pre-Tax Income=Operating Income−Non-Operating Expenses
+Income Taxes (Impuestos sobre la renta):
+Qué significa: Es el monto que la empresa paga en impuestos sobre la renta, según la normativa fiscal.
+Cómo se obtiene: Depende de las tasas de impuestos aplicables y de los ingresos gravables.
+Income After Taxes (Ingreso después de impuestos):
+Qué significa: Es el ingreso que le queda a la empresa después de pagar los impuestos.
+Cómo se obtiene: Restando los impuestos sobre la renta del ingreso antes de impuestos. Fórmula:
+Income After Taxes
+=
+Pre-Tax Income
+−
+Income Taxes
+Income After Taxes=Pre-Tax Income−Income Taxes
+Other Income (Otros ingresos):
+Qué significa: Ingresos adicionales que no provienen de las operaciones principales, como dividendos, intereses ganados o ventas de activos.
+Cómo se obtiene: Sumando todos los ingresos que no están relacionados con la actividad principal del negocio.
+Income From Continuous Operations (Ingreso de operaciones continuas):
+Qué significa: Refleja el ingreso de las actividades que forman parte del negocio principal y que se espera que continúen en el futuro.
+Cómo se obtiene: Sumando los ingresos después de impuestos de las operaciones que seguirán funcionando.
+Income From Discontinued Operations (Ingreso de operaciones discontinuas):
+Qué significa: Es el ingreso (o pérdida) derivado de operaciones que la empresa ha decidido vender o cerrar y que ya no forman parte del negocio principal.
+Cómo se obtiene: Se registran como un rubro separado en los estados financieros cuando una operación está siendo eliminada o vendida.
+Net Income (Ingreso neto):
+Qué significa: Es la ganancia final de la empresa después de deducir todos los costos, gastos e impuestos. Representa el beneficio que queda para los accionistas.
+Cómo se obtiene: Restando todos los costos, gastos, e impuestos de los ingresos totales. Fórmula:
+Net Income
+=
+Income After Taxes
++
+Other Income
+Net Income=Income After Taxes+Other Income
+EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization):
+Qué significa: Es el ingreso antes de intereses, impuestos, depreciación y amortización. Se utiliza para medir la rentabilidad operativa.
+Cómo se obtiene: Sumando la depreciación y amortización al EBIT. Fórmula:
+EBITDA
+=
+Net Income
++
+Interest
++
+Taxes
++
+Depreciation
++
+Amortization
+EBITDA=Net Income+Interest+Taxes+Depreciation+Amortization
+EBIT (Earnings Before Interest and Taxes):
+Qué significa: Es la ganancia antes de intereses e impuestos. Mide la capacidad de la empresa para generar ingresos operativos sin tener en cuenta las decisiones de financiamiento o políticas fiscales.
+Cómo se obtiene: Restando los gastos operativos de los ingresos totales. Fórmula:
+EBIT
+=
+Net Income
++
+Interest
++
+Taxes
+EBIT=Net Income+Interest+Taxes
+Basic Shares Outstanding (Acciones Básicas en Circulación):
+Qué significa: Es el número promedio de acciones comunes en circulación durante el período. Se utiliza para calcular los beneficios por acción (EPS).
+Cómo se obtiene: Suma total de las acciones emitidas y en circulación durante el período.
+Shares Outstanding (Acciones en circulación):
+Qué significa: Refleja el número total de acciones en circulación en el mercado.
+Cómo se obtiene: Número total de acciones emitidas menos las acciones que ha recomprado la empresa.
+Basic EPS (Beneficio básico por acción):
+Qué significa: Es el beneficio que corresponde a cada acción en circulación de la empresa.
+Cómo se obtiene: Dividiendo el ingreso neto por el número de acciones en circulación. Fórmula:
+Basic EPS
+=
+Net Income
+Shares Outstanding
+Basic EPS= 
+Shares Outstanding
+Net Income
+​
+ 
+EPS - Earnings Per Share (Beneficio por acción):
+Qué significa: Similar al Basic EPS, pero puede incluir ajustes para acciones preferentes o convertibles.
+Cómo se obtiene: Dividiendo el ingreso disponible para los accionistas por el número total de acciones diluidas.
+Estos conceptos te brindan una visión general del desempeño financiero de una empresa.
