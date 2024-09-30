@@ -1,0 +1,9 @@
+Revenue.
+Ventas (Sales): Se refiere al total de productos o servicios vendidos por una empresa en un período determinado, sin considerar aún los costos. Representa la cantidad total de transacciones o unidades vendidas.
+• Ejemplo:
+• Si una empresa vende 100 productos a $50 cada uno, sus ventas serían de $5,000 (100 por $50). Esto es el volumen de ventas antes de deducir los costos o impuestos.
+Ingresos (Revenue): Se refiere a la cantidad total de dinero que una empresa genera a partir de sus ventas. Puede incluir ventas de productos, servicios, y otras fuentes de ingreso como comisiones o intereses. Representa el dinero que entra a la empresa antes de restar los gastos.
+• Ejemplo:
+• Una tienda vende ropa y también obtiene ingresos por comisiones de tarjetas de crédito. Si sus ventas de ropa generaron $10,000 y las comisiones $500, el ingreso total de la tienda sería $10,500.
+En resumen, las ventas se refieren a la cantidad de bienes o servicios vendidos, mientras que los ingresos son el total de dinero generado, lo que puede incluir otras fuentes adicionales además de las ventas directas.
+

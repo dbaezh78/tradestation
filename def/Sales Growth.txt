@@ -1,0 +1,17 @@
+Crecimiento de Ventas (Sales Growth)
+El crecimiento de ventas es un indicador financiero que mide el aumento (o disminución) en las ventas de una empresa en un período determinado, en comparación con un período anterior. Este indicador permite evaluar qué tan bien está creciendo una empresa o si está enfrentando una disminución en su capacidad de vender productos o servicios.
+Fórmula:
+Crecimiento de Ventas (%) = Ventas del Período Actual menos Ventas del Período Anterior entre Ventas del Período Anterior por 100
+
+Ejemplo:
+
+Ventas del año anterior: $50,000
+Ventas del año actual: $60,000
+
+Cálculo del crecimiento:
+
+$60,000 menos $50,000 entre $50,000 todo eso por 100 = 20%
+
+Esto significa que la empresa tuvo un crecimiento del 20% en sus ventas en comparación con el año anterior.
+
+El crecimiento de ventas es un indicador clave para evaluar la salud financiera de una empresa y su capacidad para expandirse en el mercado.

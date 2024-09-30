@@ -1,0 +1,31 @@
+Cost of Goods Sold (COGS), o Costo de los Bienes Vendidos
+COGS: Es el costo directo asociado con la producción de los bienes que una empresa vende durante un período específico. Este costo incluye los gastos en materias primas, mano de obra directa y otros costos directamente relacionados con la producción de los bienes. No incluye los costos indirectos, como los gastos de distribución o ventas.
+Fórmula del COGS:
+La fórmula general para calcular el COGS es:
+COGS=Inventario Inicial+Compras Durante el Período−Inventario Final\text{COGS} = \text{Inventario Inicial} + \text{Compras Durante el Período} - \text{Inventario Final}COGS=Inventario Inicial+Compras Durante el Período−Inventario Final
+Elementos que componen el COGS:
+Materias primas: El costo de los materiales necesarios para crear el producto.
+Mano de obra directa: El costo de los trabajadores que participan directamente en la producción.
+Costos indirectos aplicables: Gastos directamente vinculados a la producción, como el uso de maquinaria o electricidad.
+Ejemplos:
+Ejemplo 1: Fabricación de Muebles
+Una empresa que fabrica muebles tiene los siguientes datos para un período:
+Inventario inicial: $10,000
+Compras de materiales (madera, tornillos, pintura): $5,000
+Mano de obra directa: $3,000
+Inventario final: $8,000
+Entonces, el cálculo del COGS sería:
+
+COGS = $10,000 + ($5,000 + $3,000) − $8,000 = $10,000 
+
+El COGS para este período es $10,000.
+Ejemplo 2: Venta de Ropa
+Una tienda de ropa compró $20,000 en productos para la venta (camisas, pantalones, etc.) durante el año. Al inicio del año tenía un inventario valorado en $5,000 y al final del año el inventario restante es de $7,000.
+El COGS sería:
+
+COGS = $5,000 + $20,000 − $7,000 = $18,000
+
+El COGS es de $18,000 para ese año.
+
+Importancia del COGS:
+El COGS es una métrica clave en el cálculo del margen bruto de una empresa, ya que al restarlo de los ingresos obtenidos por las ventas, se obtiene la utilidad bruta, lo que permite medir la eficiencia de la producción y la rentabilidad.

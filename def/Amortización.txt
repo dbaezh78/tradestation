@@ -1,0 +1,10 @@
+Amortización es un término financiero que se refiere al proceso de distribuir el costo de un activo intangible o un préstamo a lo largo del tiempo. Hay dos contextos principales en los que se utiliza:
+1. Amortización de Activos Intangibles
+En este contexto, la amortización se refiere a la disminución gradual del valor de un activo intangible (como una patente, derechos de autor, o software) a lo largo de su vida útil. Al igual que la depreciación para los activos tangibles, la amortización permite a las empresas reflejar el costo de estos activos en sus estados financieros de manera escalonada durante varios años, en lugar de reconocer todo el costo en el momento de la adquisición.
+Ejemplo: Si una empresa compra una patente por $100,000 y la vida útil estimada de la patente es de 10 años, se puede amortizar ese costo a lo largo de esos 10 años, asignando $10,000 de amortización anual al estado de resultados.
+2. Amortización de Préstamos
+En este contexto, la amortización se refiere al proceso de pagar gradualmente un préstamo a través de pagos periódicos (normalmente mensuales). Cada pago incluye una parte del principal (el monto original del préstamo) y una parte de intereses. A medida que avanza el tiempo, la proporción del pago destinada al principal aumenta y la destinada a los intereses disminuye.
+Ejemplo: Si se tiene un préstamo hipotecario, los primeros pagos serán mayormente intereses, pero con el tiempo se irá amortizando más del capital del préstamo, lo que reduce la deuda.
+En resumen:
+En el caso de activos intangibles, la amortización distribuye el costo a lo largo de su vida útil.
+En el caso de préstamos, se refiere al proceso de reducir la deuda a través de pagos periódicos.
